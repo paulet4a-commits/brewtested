@@ -1,0 +1,68 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  pubDate?: Date;
+  updatedDate?: Date;
+  affiliateDisclosure?: boolean;
+}
+
+const {
+  title,
+  description,
+  pubDate,
+  updatedDate,
+  affiliateDisclosure = false,
+} = Astro.props;
+
+const siteTitle = 'BrewTested';
+const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="sitemap" href="/brewtested/sitemap-index.xml" />
+    <!-- Open Graph -->
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:type" content={pubDate ? 'article' : 'website'} />
+    {pubDate && <meta property="article:published_time" content={pubDate.toISOString()} />}
+    {updatedDate && <meta property="article:modified_time" content={updatedDate.toISOString()} />}
+  </head>
+  <body class="min-h-screen bg-white text-gray-900 font-sans">
+    <header class="border-b border-gray-200 py-4 px-6 flex items-center justify-between">
+      <a href="/brewtested/" class="text-xl font-bold text-amber-700">☕ BrewTested</a>
+      <nav class="flex gap-6 text-sm">
+        <a href="/brewtested/coffee/" class="hover:text-amber-700">Coffee</a>
+        <a href="/brewtested/kitchen/" class="hover:text-amber-700">Kitchen</a>
+        <a href="/brewtested/about/" class="hover:text-amber-700">About</a>
+      </nav>
+    </header>
+
+    {affiliateDisclosure && (
+      <div class="bg-amber-50 border-b border-amber-200 px-6 py-2 text-sm text-amber-800">
+        <strong>Disclosure:</strong> This page contains affiliate links. If you purchase through them, I earn a small commission at no extra cost to you.
+      </div>
+    )}
+
+    <main class="max-w-3xl mx-auto px-6 py-10">
+      <slot />
+    </main>
+
+    <footer class="border-t border-gray-200 py-8 px-6 text-center text-sm text-gray-500">
+      <p>© {new Date().getFullYear()} BrewTested. Content researched with AI assistance and reviewed by a human editor.</p>
+      <p class="mt-1">
+        <a href="/brewtested/privacy/" class="hover:underline">Privacy Policy</a> ·
+        <a href="/brewtested/about/" class="hover:underline">About</a>
+      </p>
+    </footer>
+  </body>
+</html>
