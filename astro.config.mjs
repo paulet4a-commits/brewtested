@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
-  site: 'https://paulet4a.github.io',
+  site: 'https://paulet4a-commits.github.io',
   base: '/brewtested',
   integrations: [
     mdx(),
