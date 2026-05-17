@@ -53,7 +53,7 @@ The OXO Brew sits right at the $100 mark and is frequently discounted. It uses 4
 
 **Who it's for:** Someone making pour over or drip coffee daily who wants to stop using a blade grinder.
 
-[Check current price on Amazon →](https://www.amazon.com/s?k=OXO+Brew+Conical+Burr+Grinder&tag=YOURTAG-20)
+[Check current price on Amazon →](https://www.amazon.com/s?k=OXO+Brew+Conical+Burr+Grinder&tag=brewtested07-20)
 
 ---
 
@@ -74,7 +74,7 @@ Manual grinders produce better grind quality per dollar because there's no motor
 
 **Who it's for:** AeroPress and pour over enthusiasts who don't mind the ritual. Travelers.
 
-[Check current price on Amazon →](https://www.amazon.com/s?k=Timemore+Chestnut+C2&tag=YOURTAG-20)
+[Check current price on Amazon →](https://www.amazon.com/s?k=Timemore+Chestnut+C2&tag=brewtested07-20)
 
 ---
 
@@ -95,7 +95,7 @@ At ~$25, the Cuisinart DBM-8 is the entry point. It's a flat burr grinder (unusu
 
 **Who it's for:** Someone trying burr grinding for the first time without committing $100.
 
-[Check current price on Amazon →](https://www.amazon.com/s?k=Cuisinart+DBM-8&tag=YOURTAG-20)
+[Check current price on Amazon →](https://www.amazon.com/s?k=Cuisinart+DBM-8&tag=brewtested07-20)
 
 ---
 
