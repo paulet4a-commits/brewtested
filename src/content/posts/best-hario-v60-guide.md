@@ -1,16 +1,16 @@
----
+﻿---
 title: "Hario V60 Beginner Guide: Everything You Need to Brew Perfect Pour Over"
-description: "Complete Hario V60 guide for beginners — what it is, why it makes excellent coffee, gear checklist, step-by-step recipe, common mistakes, and size comparison (01 vs 02 vs 03)."
-pubDate: 2026-05-19
+description: "Complete Hario V60 guide for beginners â€” what it is, why it makes excellent coffee, gear checklist, step-by-step recipe, common mistakes, and size comparison (01 vs 02 vs 03)."
+pubDate: 2026-05-18
 category: "pour-over"
 tags: ["pour-over", "hario-v60", "coffee-brewing", "manual-brewing", "beginner-guide"]
 draft: false
 affiliateDisclosure: true
 ---
 
-The Hario V60 is the simplest way to brew a single perfect cup of coffee. A ceramic or plastic cone, a paper filter, ground coffee, and hot water—nothing else. No electricity, no timers, no complicated variables. Just you and the process.
+The Hario V60 is the simplest way to brew a single perfect cup of coffee. A ceramic or plastic cone, a paper filter, ground coffee, and hot waterâ€”nothing else. No electricity, no timers, no complicated variables. Just you and the process.
 
-And yet, when done right, the V60 produces some of the clearest, brightest coffee you can make. User feedback shows beginners who nail the basic technique produce café-quality pour overs within a few tries.
+And yet, when done right, the V60 produces some of the clearest, brightest coffee you can make. User feedback shows beginners who nail the basic technique produce cafÃ©-quality pour overs within a few tries.
 
 This guide walks you through everything: what the V60 is, why it works, the exact gear you need, the step-by-step recipe, and how to avoid the mistakes that derail beginners.
 
@@ -20,7 +20,7 @@ This guide walks you through everything: what the V60 is, why it works, the exac
 
 The V60 is a pour-over cone made in Japan by Hario. It's named for its 60-degree cone angle. You place it on top of a mug or carafe, insert a paper filter, add ground coffee and hot water, and pour.
 
-The cone shape and spiral ridges inside slow down water flow, giving grounds time to extract evenly. The steep cone angle and single hole at the bottom make pour technique important—water doesn't just fall through like other drippers.
+The cone shape and spiral ridges inside slow down water flow, giving grounds time to extract evenly. The steep cone angle and single hole at the bottom make pour technique importantâ€”water doesn't just fall through like other drippers.
 
 **Why beginners choose it:**
 - Affordable ($4-20 depending on material)
@@ -28,7 +28,7 @@ The cone shape and spiral ridges inside slow down water flow, giving grounds tim
 - Produces exceptionally clean, clear coffee
 - Leaves room for technique mastery
 
-**Why café owners choose it:**
+**Why cafÃ© owners choose it:**
 - Consistent extraction with practice
 - Beautiful to demonstrate (visual appeal)
 - Easily scales from 1 cup to 5+ cups
@@ -61,19 +61,19 @@ No electricity or variables outside your control. The process is repeatable and 
 **1. Hario V60 Dripper**
 The cone itself. Choose plastic (01, 02, or 03) or ceramic (02 or 03). Plastic is lighter and more portable; ceramic looks nicer and conducts heat slightly better.
 
-**Beginner pick:** [Hario V60 Plastic 02 Size](https://www.amazon.com/dp/B001RPMRPW?tag=brewtested07-20) — affordable (~$6), durable, and the most common size.
+**Beginner pick:** [Hario V60 Plastic 02 Size](https://www.amazon.com/dp/B001RPMRPW?tag=brewtested07-20) â€” affordable (~$6), durable, and the most common size.
 
 **2. Paper Filters**
 Hario makes tabbed paper filters that fit the cone. They're thin, bright white (go-to for most brewers), and inexpensive.
 
-[Hario V60 Paper Filters 02 Size (100 pack)](https://www.amazon.com/dp/B001O0R46I?tag=brewtested07-20) — ~$5 for 100 filters. Rinse before use to remove papery taste.
+[Hario V60 Paper Filters 02 Size (100 pack)](https://www.amazon.com/dp/B001O0R46I?tag=brewtested07-20) â€” ~$5 for 100 filters. Rinse before use to remove papery taste.
 
 **3. Burr Grinder**
 Non-negotiable. A burr grinder produces uniform grounds; a blade grinder creates dust and chunks, leading to under- and over-extraction.
 
 Research shows that upgrading your grinder improves V60 coffee more than upgrading your V60 or source beans. A $40 grinder transforms the experience.
 
-**Beginner pick:** [Baratza Encore Burr Grinder](https://www.amazon.com/dp/B00LW8I37G?tag=brewtested07-20) — ~$40, excellent consistency, widely recommended for pour-over.
+**Beginner pick:** [Baratza Encore Burr Grinder](https://www.amazon.com/dp/B00LW8I37G?tag=brewtested07-20) â€” ~$40, excellent consistency, widely recommended for pour-over.
 
 **4. Gooseneck Kettle**
 A thin spout lets you pour water precisely and slowly. Not required, but it eliminates the #1 beginner mistake: pouring too fast.
@@ -83,15 +83,15 @@ A thin spout lets you pour water precisely and slowly. Not required, but it elim
 For options, see our [best electric gooseneck kettle](/posts/best-electric-gooseneck-kettle/) guide.
 
 **5. Coffee Scale**
-Weighing coffee and water removes guesswork. The standard ratio is **1:16 (coffee:water)** — 20g coffee makes 320g brew, for example. Estimating by eye leads to inconsistent cups.
+Weighing coffee and water removes guesswork. The standard ratio is **1:16 (coffee:water)** â€” 20g coffee makes 320g brew, for example. Estimating by eye leads to inconsistent cups.
 
 ### Optional but Helpful
 
-**Coffee thermometer** — ensures water is 195-205°F. A regular kettle reaches this naturally; you don't need a thermometer, but it removes doubt.
+**Coffee thermometer** â€” ensures water is 195-205Â°F. A regular kettle reaches this naturally; you don't need a thermometer, but it removes doubt.
 
-**Timer** — a phone timer works fine. You're aiming for ~3:30 total brew time.
+**Timer** â€” a phone timer works fine. You're aiming for ~3:30 total brew time.
 
-**Coffee bean selection** — any fresh, whole-bean coffee works. Start with medium roasts from a local roaster or specialty online source.
+**Coffee bean selection** â€” any fresh, whole-bean coffee works. Start with medium roasts from a local roaster or specialty online source.
 
 ---
 
@@ -104,7 +104,7 @@ This is the beginner-friendly "blooming" method used by hundreds of thousands of
 - **Coffee:** 20g (a bit less than 3 tablespoons)
 - **Water:** 320g (a bit more than 1 cup or 10oz)
 - **Grind:** Medium-fine (slightly finer than sand, coarser than table salt)
-- **Water temp:** 195-205°F (just off boil; let it cool 30 seconds if boiling)
+- **Water temp:** 195-205Â°F (just off boil; let it cool 30 seconds if boiling)
 - **Total brew time:** 3 minutes 30 seconds
 - **Equipment:** V60, paper filter, grinder, scale, kettle, mug or carafe
 
@@ -124,13 +124,13 @@ Shake gently to level the grounds.
 
 ### Step 3: Bloom (0:00 - 0:45)
 
-Pour just enough hot water to saturate the grounds — about 40g (a small pour, roughly 2-3 tablespoons).
+Pour just enough hot water to saturate the grounds â€” about 40g (a small pour, roughly 2-3 tablespoons).
 
-You'll see the grounds swell as CO₂ escapes. This is the "bloom."
+You'll see the grounds swell as COâ‚‚ escapes. This is the "bloom."
 
 Wait 45 seconds without pouring.
 
-**Why bloom?** Fresh coffee releases trapped CO₂. If you immediately pour more water, the gas escapes unevenly, leading to under-extracted areas. Blooming releases CO₂ first, so the second pour extracts evenly.
+**Why bloom?** Fresh coffee releases trapped COâ‚‚. If you immediately pour more water, the gas escapes unevenly, leading to under-extracted areas. Blooming releases COâ‚‚ first, so the second pour extracts evenly.
 
 ### Step 4: First Pour (0:45 - 1:45)
 
@@ -195,7 +195,7 @@ Remove the V60 cone. Your coffee is ready.
 
 **What happens:** Boiling water over-extracts (bitter). Lukewarm water under-extracts (weak).
 
-**Fix:** Water should be 195-205°F. If using a kettle, let boiling water cool 20-30 seconds. If using an electric kettle, set it to 200°F.
+**Fix:** Water should be 195-205Â°F. If using a kettle, let boiling water cool 20-30 seconds. If using an electric kettle, set it to 200Â°F.
 
 ### Mistake 6: Uneven Pouring
 
@@ -224,7 +224,7 @@ Hario makes three sizes. Which one should you buy?
 
 **Cons:**
 - Easy to overflow if pouring too fast
-- Small brewing window—timing matters more
+- Small brewing windowâ€”timing matters more
 - Not ideal if you want to share or brew seconds
 
 **Buy if:** You always drink one cup, travel frequently, or want minimal counter space.
@@ -237,7 +237,7 @@ Hario makes three sizes. Which one should you buy?
 **Best for:** Most home brewers, daily coffee, flexible scaling
 
 **Pros:**
-- Standard size—most recipes and guides use 02
+- Standard sizeâ€”most recipes and guides use 02
 - Works for 1 cup (tight) or 2 cups (comfortable)
 - More forgiving pouring window
 - Most widely available
@@ -294,7 +294,7 @@ Hario makes three sizes. Which one should you buy?
 - **Maintenance:** Hand wash. Can chip if mishandled.
 - **Aesthetic:** Beautiful. Looks like professional equipment. Popular for showcasing.
 
-**Best for:** Home brewers who prioritize looks, café use, no travel.
+**Best for:** Home brewers who prioritize looks, cafÃ© use, no travel.
 
 Research shows the actual coffee difference between plastic and ceramic is minimal if both are properly preheated. Ceramic's advantage is psychological (it feels premium) and practical (slightly better heat retention). For beginners learning technique, plastic is perfectly fine.
 
@@ -310,7 +310,7 @@ Research shows the actual coffee difference between plastic and ceramic is minim
 - Pouring too fast
 - Not enough coffee
 
-**Fix:** Fine-tune grind to medium-fine, ensure water is 195-205°F, pour slower (take 20-30 seconds per pour phase), weigh coffee at 20g.
+**Fix:** Fine-tune grind to medium-fine, ensure water is 195-205Â°F, pour slower (take 20-30 seconds per pour phase), weigh coffee at 20g.
 
 ### Coffee is bitter/harsh (over-extracted)
 
@@ -320,7 +320,7 @@ Research shows the actual coffee difference between plastic and ceramic is minim
 - Pouring too slowly
 - Too much coffee
 
-**Fix:** Coarsen grind slightly, cool water to 195-205°F, pour in a more controlled but faster pace (45-50 seconds total pour time), use 20g coffee benchmark.
+**Fix:** Coarsen grind slightly, cool water to 195-205Â°F, pour in a more controlled but faster pace (45-50 seconds total pour time), use 20g coffee benchmark.
 
 ### Coffee is uneven (tastes different as you drink)
 
@@ -351,16 +351,16 @@ Research shows the actual coffee difference between plastic and ceramic is minim
 
 Owner feedback shows:
 
-- **Light roasts:** Slightly finer grind (longer contact), cooler water (195°F). Bring out bright acidity and floral notes.
-- **Medium roasts:** Standard grind and temperature (medium-fine, 200°F). Balanced acidity and sweetness.
-- **Dark roasts:** Slightly coarser grind (shorter contact), hotter water (205°F). Emphasize body and chocolate notes.
+- **Light roasts:** Slightly finer grind (longer contact), cooler water (195Â°F). Bring out bright acidity and floral notes.
+- **Medium roasts:** Standard grind and temperature (medium-fine, 200Â°F). Balanced acidity and sweetness.
+- **Dark roasts:** Slightly coarser grind (shorter contact), hotter water (205Â°F). Emphasize body and chocolate notes.
 
 ### Experiment with Pour Ratios
 
 Standard is 40g bloom, then two equal 130g and 150g pours. Try:
 
 - **Three pours:** 40g bloom, then 90g, 90g, 90g for more control
-- **Longer bloom:** 60 seconds for fresher beans that release more CO₂
+- **Longer bloom:** 60 seconds for fresher beans that release more COâ‚‚
 - **Shorter bloom:** 20 seconds for older beans
 
 ### Use Specialty Beans
@@ -382,7 +382,7 @@ How does the V60 compare?
 | Learning curve | Short | Moderate | Short | Moderate |
 | Technique sensitivity | Medium | High | Low | Low |
 
-**V60 wins for:** Beginners who want café-quality coffee with minimal investment and learning curve.
+**V60 wins for:** Beginners who want cafÃ©-quality coffee with minimal investment and learning curve.
 
 **Chemex wins for:** Those who prioritize aesthetics and slower, more meditative brewing.
 
@@ -394,10 +394,10 @@ How does the V60 compare?
 Technically yes, but they lose effectiveness after 1-2 reuses. Paper filters are inexpensive (~$0.05 per filter). Replace them.
 
 **Do I have to rinse the filter?**
-Yes. Rinsing removes the papery taste and preheats the dripper. 10-second rinse with hot water—takes 2 seconds extra.
+Yes. Rinsing removes the papery taste and preheats the dripper. 10-second rinse with hot waterâ€”takes 2 seconds extra.
 
 **What if I don't have a scale?**
-Not ideal, but you can approximate. One level tablespoon of whole beans ≈ 5g. One tablespoon of ground coffee ≈ 5g. So 4 tablespoons of grounds + 10oz water is close to the 20g:320g ratio.
+Not ideal, but you can approximate. One level tablespoon of whole beans â‰ˆ 5g. One tablespoon of ground coffee â‰ˆ 5g. So 4 tablespoons of grounds + 10oz water is close to the 20g:320g ratio.
 
 Better: Buy a cheap kitchen scale ($15-20). It transforms your brewing consistency.
 
@@ -422,13 +422,13 @@ Medium-fine. Slightly finer than table salt, coarser than powdered sugar. If usi
 
 Here's what you need to buy:
 
-1. [Hario V60 Plastic 02 Dripper](https://www.amazon.com/dp/B001RPMRPW?tag=brewtested07-20) — ~$6
-2. [Hario V60 Paper Filters 02 Size](https://www.amazon.com/dp/B001O0R46I?tag=brewtested07-20) — ~$5
-3. [Baratza Encore Grinder](https://www.amazon.com/dp/B00LW8I37G?tag=brewtested07-20) — ~$40
-4. Fresh whole-bean coffee (local roaster or online specialty source) — ~$10-15/bag
-5. [Fellow Stagg EKG Gooseneck Kettle](https://www.amazon.com/dp/B077JBQZPX?tag=brewtested07-20) (optional but helpful) — ~$200 (or a regular kettle + careful pouring)
+1. [Hario V60 Plastic 02 Dripper](https://www.amazon.com/dp/B001RPMRPW?tag=brewtested07-20) â€” ~$6
+2. [Hario V60 Paper Filters 02 Size](https://www.amazon.com/dp/B001O0R46I?tag=brewtested07-20) â€” ~$5
+3. [Baratza Encore Grinder](https://www.amazon.com/dp/B00LW8I37G?tag=brewtested07-20) â€” ~$40
+4. Fresh whole-bean coffee (local roaster or online specialty source) â€” ~$10-15/bag
+5. [Fellow Stagg EKG Gooseneck Kettle](https://www.amazon.com/dp/B077JBQZPX?tag=brewtested07-20) (optional but helpful) â€” ~$200 (or a regular kettle + careful pouring)
 
-**Total minimum:** $60-70 (without kettle). You'll brew café-quality coffee for under $0.50/cup.
+**Total minimum:** $60-70 (without kettle). You'll brew cafÃ©-quality coffee for under $0.50/cup.
 
 ---
 
