@@ -142,6 +142,14 @@ export const products: Record<string, Product> = {
   'takeya-cold-brew': { asin: 'B00DYOYFHI', name: 'Takeya Patented Deluxe Cold Brew Coffee Maker', category: 'coffee-makers', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
   'county-line-cold-brew': { asin: 'B07CQSLQZT', name: 'County Line Kitchen Cold Brew Mason Jar', category: 'coffee-makers', priceRange: '$18-25', lastVerified: '2026-05-18', status: 'active' },
 
+  // Mid-Range Espresso & Drip
+  'breville-infuser': { asin: 'B0084RVALO', name: 'Breville BES840XL The Infuser Espresso Machine', category: 'espresso', priceRange: '$250-320', lastVerified: '2026-05-18', status: 'active' },
+  'bonavita-8cup': { asin: 'B00LNLTML4', name: 'Bonavita 8-Cup One-Touch Coffee Maker', category: 'coffee-makers', priceRange: '$60-80', lastVerified: '2026-05-18', status: 'active' },
+  'black-decker-cm0700b': { asin: 'B07BJFBLVR', name: 'BLACK+DECKER 5-Cup Coffee Maker CM0700B', category: 'coffee-makers', priceRange: '$20-28', lastVerified: '2026-05-18', status: 'active' },
+  'cuisinart-dcc-1100': { asin: 'B01AHXBX78', name: 'Cuisinart DCC-1100BK 12-Cup Programmable', category: 'coffee-makers', priceRange: '$45-60', lastVerified: '2026-05-18', status: 'active' },
+  'capresso-infinity-plus': { asin: 'B085H1RPYQ', name: 'Capresso Infinity Plus Conical Burr Grinder', category: 'grinders', priceRange: '$90-120', lastVerified: '2026-05-18', status: 'active' },
+  'fellow-ode-gen2': { asin: 'B09TGRFNR6', name: 'Fellow Ode Brew Grinder Gen 2', category: 'grinders', priceRange: '$145-175', lastVerified: '2026-05-18', status: 'active' },
+
   // Coffee Scales
   'hario-v60-scale': { asin: 'B009GPJMOU', name: 'Hario V60 Drip Coffee Scale and Timer', category: 'kitchen', priceRange: '$45-60', lastVerified: '2026-05-18', status: 'active' },
   'jennings-cj4000': { asin: 'B005UGBG20', name: 'Jennings CJ4000 Compact Digital Scale', category: 'kitchen', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
