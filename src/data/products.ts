@@ -202,4 +202,25 @@ export const products: Record<string, Product> = {
   'bodum-bistro-grinder': { asin: 'B00KNTFWTS', name: 'Bodum BISTRO Burr Coffee Grinder', category: 'grinders', priceRange: '$70-100', lastVerified: '2026-05-18', status: 'active' },
   'capresso-infinity': { asin: 'B0000AR7SY', name: 'Capresso Infinity Conical Burr Grinder', category: 'grinders', priceRange: '$70-100', lastVerified: '2026-05-18', status: 'active' },
   'mr-coffee-burr-grinder': { asin: 'B075Z83F6Y', name: 'Mr. Coffee Automatic Burr Grinder', category: 'grinders', priceRange: '$35-50', lastVerified: '2026-05-18', status: 'active' },
+
+  // Espresso Grinders Under $200
+  'wilfa-svart-uniform': { asin: 'B08JCK2RCK', name: 'Wilfa Svart Uniform Grinder', category: 'grinders', priceRange: '$150-175', lastVerified: '2026-05-18', status: 'active' },
+  'eureka-mignon-specialita': { asin: 'B07GG9V5VK', name: 'Eureka Mignon Specialita Grinder', category: 'grinders', priceRange: '$165-195', lastVerified: '2026-05-18', status: 'active' },
+  'df64-gen2': { asin: 'B09G9TPYVJ', name: 'DF64 Gen 2 Single Dose Grinder', category: 'grinders', priceRange: '$115-140', lastVerified: '2026-05-18', status: 'active' },
+  'eureka-mignon-notte': { asin: 'B081YDVMKB', name: 'Eureka Mignon Notte Grinder', category: 'grinders', priceRange: '$95-125', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Makers with Grinder
+  'breville-grind-control': { asin: 'B00VGGVQCI', name: 'Breville Grind Control BDC650BSS', category: 'coffee-makers', priceRange: '$220-280', lastVerified: '2026-05-18', status: 'active' },
+  'cuisinart-dgb-700': { asin: 'B001A3K7QO', name: 'Cuisinart DGB-700BC Grind & Brew Coffee Maker', category: 'coffee-makers', priceRange: '$60-85', lastVerified: '2026-05-18', status: 'active' },
+  'mr-coffee-grinder-combo': { asin: 'B01LXM37DX', name: 'Mr. Coffee 12-Cup Grind and Brew Coffee Maker', category: 'coffee-makers', priceRange: '$50-70', lastVerified: '2026-05-18', status: 'active' },
+  'delonghi-magnifica-classic': { asin: 'B000IMB9AW', name: "De'Longhi ESAM3300 Magnifica Super-Automatic", category: 'espresso', priceRange: '$200-280', lastVerified: '2026-05-18', status: 'active' },
+  'hamilton-beach-2way-scoop': { asin: 'B0177E4NUW', name: 'Hamilton Beach 2-Way The Scoop Brewer', category: 'coffee-makers', priceRange: '$40-60', lastVerified: '2026-05-18', status: 'active' },
+
+  // Nespresso Latte Machines
+  'nespresso-vertuo-creatista': { asin: 'B0BQRJCGRD', name: 'Nespresso Vertuo Creatista', category: 'espresso', priceRange: '$450-550', lastVerified: '2026-05-18', status: 'active' },
+  'nespresso-gran-lattissima': { asin: 'B073HWCQKB', name: 'Nespresso Gran Lattissima', category: 'espresso', priceRange: '$320-400', lastVerified: '2026-05-18', status: 'active' },
+
+  // Drip Coffee Makers (additional)
+  'bonavita-connoisseur': { asin: 'B008TBRFV0', name: 'Bonavita BV1901TS Connoisseur 8-Cup', category: 'coffee-makers', priceRange: '$80-100', lastVerified: '2026-05-18', status: 'active' },
+  'melitta-pour-over-maker': { asin: 'B005FWW0R2', name: 'Melitta Pour Over Coffee Maker', category: 'coffee-makers', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
 };
