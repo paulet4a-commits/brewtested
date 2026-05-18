@@ -1,5 +1,5 @@
 ---
-import { products, affiliateUrl } from '../data/products';
+import { products, getPreferredUrl, getPreferredMerchant } from '../data/products';
 
 interface Props {
   productKey: string;
@@ -14,8 +14,10 @@ if (!product) {
   throw new Error(`AffiliateButton: unknown product key "${productKey}". Add it to src/data/products.ts.`);
 }
 
-const url = affiliateUrl(product.asin);
-const btnLabel = label ?? `Check Current Price on Amazon`;
+const url = getPreferredUrl(product);
+const merchant = getPreferredMerchant(product);
+const defaultLabel = merchant === 'amazon' ? 'Check Current Price on Amazon' : 'View Current Price';
+const btnLabel = label ?? defaultLabel;
 const pageSlug = Astro.url.pathname;
 const cls = variant === 'primary'
   ? 'inline-block bg-amber-600 hover:bg-amber-700 text-white font-semibold px-5 py-2.5 rounded-lg text-sm transition-colors plausible-affiliate-click'
@@ -30,6 +32,7 @@ const cls = variant === 'primary'
   data-product={productKey}
   data-asin={product.asin}
   data-category={product.category}
+  data-merchant={merchant}
   data-placement="AffiliateButton"
   data-page={pageSlug}
 >
