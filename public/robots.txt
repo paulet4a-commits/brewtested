@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paulet4a-commits.github.io/brewtested/sitemap-index.xml
