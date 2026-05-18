@@ -25,8 +25,8 @@ function rehypeAffiliateLinks() {
 }
 
 export default defineConfig({
-  site: 'https://paulet4a-commits.github.io',
-  base: '/brewtested',
+  site: 'https://brewtested.pulsedash-app.com',
+  base: '',
   integrations: [
     mdx(),
     sitemap(),
