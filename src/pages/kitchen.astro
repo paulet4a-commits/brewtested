@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts', ({ data }) => !data.draft && data.category === 'kitchen'))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const featured = [
+  { title: 'Best Kitchen Scale for Cooking', url: '/brewtested/posts/best-kitchen-scale-for-cooking/', desc: 'Precise measurements for better cooking results.' },
+  { title: 'Best Tea Kettle Under $50', url: '/brewtested/posts/best-tea-kettle-under-50/', desc: 'Fast-boiling kettles for tea and pour over.' },
+  { title: 'Best Milk Frother', url: '/brewtested/posts/best-milk-frother/', desc: 'Café-quality foam at home for under $30.' },
+];
+---
+
+<BaseLayout title="Kitchen Gear Reviews" description="Honest reviews of kitchen scales, kettles, and countertop appliances. Find the best kitchen gear for your home.">
+  <div class="mb-10">
+    <h1 class="text-3xl font-bold text-gray-900 mb-3">Kitchen Gear Reviews</h1>
+    <p class="text-gray-600">Kitchen scales, tea kettles, frothers, and countertop appliances — researched and compared for every budget.</p>
+  </div>
+
+  {featured.length > 0 && (
+    <section class="mb-12">
+      <h2 class="text-xl font-bold text-gray-800 mb-4 border-b border-gray-200 pb-2">Featured Picks</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        {featured.map((pick) => (
+          <a href={pick.url} class="block border border-amber-200 rounded-lg p-4 hover:border-amber-400 hover:bg-amber-50 transition-colors">
+            <div class="font-semibold text-amber-800 text-sm mb-1">{pick.title}</div>
+            <div class="text-gray-600 text-xs">{pick.desc}</div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section>
+    <h2 class="text-xl font-bold text-gray-800 mb-4 border-b border-gray-200 pb-2">
+      {posts.length > 0 ? `All Kitchen Reviews (${posts.length})` : 'Kitchen Reviews Coming Soon'}
+    </h2>
+    {posts.length > 0 ? (
+      <div class="grid gap-4">
+        {posts.map((post) => (
+          <article class="border border-gray-200 rounded-lg p-5 hover:border-amber-300 transition-colors">
+            <span class="text-xs uppercase tracking-wide text-amber-700 font-semibold">Kitchen</span>
+            <h3 class="text-lg font-bold mt-1 mb-1">
+              <a href={`/brewtested/posts/${post.slug}/`} class="hover:text-amber-700">{post.data.title}</a>
+            </h3>
+            <p class="text-gray-600 text-sm">{post.data.description}</p>
+          </article>
+        ))}
+      </div>
+    ) : (
+      <p class="text-gray-500">Kitchen reviews are being added. Check back soon — or browse our <a href="/brewtested/coffee/" class="text-amber-700 hover:underline">coffee reviews</a> in the meantime.</p>
+    )}
+  </section>
+</BaseLayout>
