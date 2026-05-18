@@ -4,6 +4,7 @@
  * Used as a build gate or weekly cron check.
  */
 
+// @ts-check
 import { products } from '../src/data/products.ts';
 
 const DEFAULT_STALE_DAYS = 45;

@@ -36,21 +36,3 @@ const cls = variant === 'primary'
   {btnLabel}
 </a>
 
-<script>
-  document.querySelectorAll<HTMLAnchorElement>('.plausible-affiliate-click').forEach((el) => {
-    el.addEventListener('click', () => {
-      if (typeof window.plausible === 'function') {
-        window.plausible('Affiliate Click', {
-          props: {
-            productKey: el.dataset.product ?? '',
-            asin: el.dataset.asin ?? '',
-            category: el.dataset.category ?? '',
-            placement: el.dataset.placement ?? '',
-            pageSlug: el.dataset.page ?? '',
-            merchant: 'amazon',
-          },
-        });
-      }
-    });
-  });
-</script>

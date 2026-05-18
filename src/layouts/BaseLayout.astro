@@ -71,6 +71,23 @@ const articleSchema = pubDate ? {
     {articleSchema && <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />}
     <!-- Plausible Analytics (free, privacy-first) -->
     <script defer data-domain="brewtested.pulsedash-app.com" src="https://plausible.io/js/script.outbound-links.js"></script>
+    <!-- Affiliate click tracking: single delegated listener, no duplicate events -->
+    <script>
+      document.addEventListener('click', (event) => {
+        const el = (event.target as Element).closest('.plausible-affiliate-click') as HTMLAnchorElement | null;
+        if (!el || typeof (window as any).plausible !== 'function') return;
+        (window as any).plausible('Affiliate Click', {
+          props: {
+            productKey: el.dataset.product ?? '',
+            asin: el.dataset.asin ?? '',
+            category: el.dataset.category ?? '',
+            placement: el.dataset.placement ?? '',
+            pageSlug: el.dataset.page ?? '',
+            merchant: el.dataset.merchant ?? 'amazon',
+          },
+        });
+      });
+    </script>
   </head>
   <body class="min-h-screen bg-white text-gray-900 font-sans">
     <header class="border-b border-gray-200 py-4 px-6 flex items-center justify-between">
