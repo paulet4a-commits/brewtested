@@ -9,6 +9,31 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await post.render();
+
+const categoryLabels: Record<string, string> = {
+  'coffee-makers': 'Coffee Makers',
+  'espresso': 'Espresso',
+  'pour-over': 'Pour Over',
+  'french-press': 'French Press',
+  'grinders': 'Grinders',
+  'coffee': 'Coffee',
+  'kitchen': 'Kitchen',
+  'comparison': 'Comparisons',
+  'guide': 'Guides',
+};
+const categoryLabel = categoryLabels[post.data.category] ?? post.data.category;
+const categoryHub = ['coffee', 'coffee-makers', 'espresso', 'pour-over', 'french-press', 'grinders', 'comparison', 'guide'].includes(post.data.category)
+  ? '/brewtested/coffee/' : '/brewtested/kitchen/';
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://paulet4a-commits.github.io/brewtested/' },
+    { '@type': 'ListItem', position: 2, name: categoryLabel, item: `https://paulet4a-commits.github.io${categoryHub}` },
+    { '@type': 'ListItem', position: 3, name: post.data.title },
+  ],
+};
 ---
 
 <BaseLayout
@@ -18,12 +43,22 @@ const { Content } = await post.render();
   updatedDate={post.data.updatedDate}
   affiliateDisclosure={post.data.affiliateDisclosure}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <article>
+    <!-- Breadcrumb -->
+    <nav class="text-xs text-gray-400 mb-6 flex gap-1 items-center flex-wrap">
+      <a href="/brewtested/" class="hover:text-amber-700">Home</a>
+      <span>›</span>
+      <a href={categoryHub} class="hover:text-amber-700">{categoryLabel}</a>
+      <span>›</span>
+      <span class="text-gray-600 truncate max-w-xs">{post.data.title}</span>
+    </nav>
+
     <header class="mb-8">
-      <span class="text-xs uppercase tracking-wide text-amber-700 font-semibold">{post.data.category}</span>
+      <span class="text-xs uppercase tracking-wide text-amber-700 font-semibold">{categoryLabel}</span>
       <h1 class="text-3xl font-bold mt-2 mb-4">{post.data.title}</h1>
       <p class="text-gray-600">{post.data.description}</p>
-      <div class="flex gap-4 mt-4 text-sm text-gray-400">
+      <div class="flex gap-4 mt-4 text-sm text-gray-400 flex-wrap">
         <time datetime={post.data.pubDate.toISOString()}>
           Published {post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
         </time>
@@ -34,8 +69,16 @@ const { Content } = await post.render();
         )}
       </div>
     </header>
+
     <div class="prose prose-amber max-w-none">
       <Content />
     </div>
+
+    <!-- Research methodology footer -->
+    <footer class="mt-12 pt-6 border-t border-gray-200 text-sm text-gray-500 space-y-2">
+      <p><strong class="text-gray-700">How we research:</strong> We analyze product specs, dig through owner reviews on Amazon and Reddit, cross-reference common failure points, and compare manufacturer claims against real-world feedback. We do not physically test every product.</p>
+      <p><strong class="text-gray-700">Prices:</strong> All prices are approximate and change frequently. Check Amazon for the current price before purchasing.</p>
+      <p><a href="/brewtested/about/" class="text-amber-700 hover:underline">Learn more about our methodology →</a></p>
+    </footer>
   </article>
 </BaseLayout>
