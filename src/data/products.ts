@@ -113,4 +113,14 @@ export const products: Record<string, Product> = {
   // Gift Sets
   'coffee-gift-set-pour-over': { asin: 'B07FQTCRLN', name: 'Pour Over Coffee Gift Set with Filters', category: 'pour-over', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
   'chemex-gift-set': { asin: 'B001FVJZ4A', name: 'Chemex Classic Pour-Over Set', category: 'pour-over', priceRange: '$45-65', lastVerified: '2026-05-18', status: 'active' },
+
+  // Moka Pots
+  'bialetti-moka-3cup': { asin: 'B000CNY6UK', name: 'Bialetti Moka Express 3-Cup', category: 'espresso', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+  'grosche-milano': { asin: 'B00JVSVM30', name: 'GROSCHE Milano Stovetop Espresso Maker', category: 'espresso', priceRange: '$20-28', lastVerified: '2026-05-18', status: 'active' },
+  'cuisinox-roma': { asin: 'B000I607I6', name: 'Cuisinox Roma 6-Cup Stovetop Espresso Maker', category: 'espresso', priceRange: '$40-55', lastVerified: '2026-05-18', status: 'active' },
+
+  // Pour Over Drippers
+  'hario-v60-ceramic': { asin: 'B00QSGNFAE', name: 'Hario V60 Ceramic Coffee Dripper (02)', category: 'pour-over', priceRange: '$20-35', lastVerified: '2026-05-18', status: 'active' },
+  'oxo-brew-pourover': { asin: 'B01K7YNG8S', name: 'OXO Brew Pour-Over Coffee Dripper with Water Tank', category: 'pour-over', priceRange: '$25-40', lastVerified: '2026-05-18', status: 'active' },
+  'kalita-wave': { asin: 'B00KUOT72A', name: 'Kalita Wave Dripper 185', category: 'pour-over', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
 };
