@@ -4,10 +4,11 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "tsx scripts/audit-stale-products.mjs && astro build",
+    "build": "tsx scripts/audit-product-keys.mjs && tsx scripts/audit-stale-products.mjs && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "audit:products": "tsx scripts/audit-stale-products.mjs"
+    "audit:products": "tsx scripts/audit-stale-products.mjs",
+    "audit:keys": "tsx scripts/audit-product-keys.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.2.0",
