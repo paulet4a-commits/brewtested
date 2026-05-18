@@ -16,6 +16,8 @@ if (!product) {
 }
 
 const url = affiliateUrl(product.asin);
+const pageSlug = Astro.url.pathname;
+const lastReviewed = product.lastReviewed ?? product.lastVerified;
 ---
 
 <div class="border border-gray-200 rounded-xl p-5 my-6 not-prose">
@@ -28,18 +30,21 @@ const url = affiliateUrl(product.asin);
       )}
       <h3 class="text-lg font-bold text-gray-900">{product.name}</h3>
       <p class="text-sm text-gray-500 mt-0.5">
-        Approx. {product.priceRange} · <span class="text-gray-400 text-xs">Price verified {product.lastVerified}</span>
+        Typical range: {product.priceRange} · <span class="text-gray-400 text-xs">Last reviewed {lastReviewed}</span>
       </p>
     </div>
     <a
       href={url}
       rel="sponsored nofollow noopener"
       target="_blank"
-      class="shrink-0 bg-amber-600 hover:bg-amber-700 text-white font-semibold px-4 py-2 rounded-lg text-sm transition-colors"
+      class="shrink-0 bg-amber-600 hover:bg-amber-700 text-white font-semibold px-4 py-2 rounded-lg text-sm transition-colors plausible-affiliate-click"
       data-product={productKey}
       data-asin={product.asin}
+      data-category={product.category}
+      data-placement="ProductCard"
+      data-page={pageSlug}
     >
-      Check Price →
+      Check Current Price →
     </a>
   </div>
 
@@ -64,3 +69,22 @@ const url = affiliateUrl(product.asin);
     </div>
   )}
 </div>
+
+<script>
+  document.querySelectorAll<HTMLAnchorElement>('.plausible-affiliate-click').forEach((el) => {
+    el.addEventListener('click', () => {
+      if (typeof window.plausible === 'function') {
+        window.plausible('Affiliate Click', {
+          props: {
+            productKey: el.dataset.product ?? '',
+            asin: el.dataset.asin ?? '',
+            category: el.dataset.category ?? '',
+            placement: el.dataset.placement ?? '',
+            pageSlug: el.dataset.page ?? '',
+            merchant: 'amazon',
+          },
+        });
+      }
+    });
+  });
+</script>

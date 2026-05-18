@@ -15,10 +15,11 @@ if (!product) {
 }
 
 const url = affiliateUrl(product.asin);
-const btnLabel = label ?? `Check Price on Amazon`;
+const btnLabel = label ?? `Check Current Price on Amazon`;
+const pageSlug = Astro.url.pathname;
 const cls = variant === 'primary'
-  ? 'inline-block bg-amber-600 hover:bg-amber-700 text-white font-semibold px-5 py-2.5 rounded-lg text-sm transition-colors'
-  : 'inline-block border border-amber-600 text-amber-700 hover:bg-amber-50 font-semibold px-5 py-2.5 rounded-lg text-sm transition-colors';
+  ? 'inline-block bg-amber-600 hover:bg-amber-700 text-white font-semibold px-5 py-2.5 rounded-lg text-sm transition-colors plausible-affiliate-click'
+  : 'inline-block border border-amber-600 text-amber-700 hover:bg-amber-50 font-semibold px-5 py-2.5 rounded-lg text-sm transition-colors plausible-affiliate-click';
 ---
 
 <a
@@ -28,6 +29,28 @@ const cls = variant === 'primary'
   class={cls}
   data-product={productKey}
   data-asin={product.asin}
+  data-category={product.category}
+  data-placement="AffiliateButton"
+  data-page={pageSlug}
 >
   {btnLabel}
 </a>
+
+<script>
+  document.querySelectorAll<HTMLAnchorElement>('.plausible-affiliate-click').forEach((el) => {
+    el.addEventListener('click', () => {
+      if (typeof window.plausible === 'function') {
+        window.plausible('Affiliate Click', {
+          props: {
+            productKey: el.dataset.product ?? '',
+            asin: el.dataset.asin ?? '',
+            category: el.dataset.category ?? '',
+            placement: el.dataset.placement ?? '',
+            pageSlug: el.dataset.page ?? '',
+            merchant: 'amazon',
+          },
+        });
+      }
+    });
+  });
+</script>

@@ -1,3 +1,9 @@
+export interface MerchantLink {
+  name: string;
+  url: string;
+  priority: number; // 1 = preferred, 2 = fallback
+}
+
 export interface Product {
   asin: string;
   name: string;
@@ -5,6 +11,12 @@ export interface Product {
   priceRange: string;
   lastVerified: string;
   status: 'active' | 'discontinued' | 'unverified';
+  // Phase 5: revenue ops fields (optional — backfill on money pages first)
+  lastReviewed?: string;
+  aovTier?: 'low' | 'mid' | 'high';
+  commissionTier?: 'low' | 'mid' | 'high';
+  staleAfterDays?: number;
+  merchants?: MerchantLink[];
 }
 
 export const AFFILIATE_TAG = 'brewtested07-20';
