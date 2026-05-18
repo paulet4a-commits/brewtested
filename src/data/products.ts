@@ -123,4 +123,28 @@ export const products: Record<string, Product> = {
   'hario-v60-ceramic': { asin: 'B00QSGNFAE', name: 'Hario V60 Ceramic Coffee Dripper (02)', category: 'pour-over', priceRange: '$20-35', lastVerified: '2026-05-18', status: 'active' },
   'oxo-brew-pourover': { asin: 'B01K7YNG8S', name: 'OXO Brew Pour-Over Coffee Dripper with Water Tank', category: 'pour-over', priceRange: '$25-40', lastVerified: '2026-05-18', status: 'active' },
   'kalita-wave': { asin: 'B00KUOT72A', name: 'Kalita Wave Dripper 185', category: 'pour-over', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
+
+  // Budget Espresso Machines
+  'delonghi-ec155m': { asin: 'B00IXGYEY2', name: "De'Longhi EC155M Manual Espresso Machine", category: 'espresso', priceRange: '$90-130', lastVerified: '2026-05-18', status: 'active' },
+  'mr-coffee-ecmp50': { asin: 'B00IXBXRM2', name: 'Mr. Coffee Espresso & Cappuccino Maker ECMP50', category: 'espresso', priceRange: '$75-100', lastVerified: '2026-05-18', status: 'active' },
+  'sowtech-espresso': { asin: 'B083BQNTDS', name: 'Sowtech Espresso Machine 3.5 Bar', category: 'espresso', priceRange: '$80-100', lastVerified: '2026-05-18', status: 'active' },
+  'gevi-espresso': { asin: 'B07CKY9JGN', name: 'Gevi 20-Bar Espresso Machine', category: 'espresso', priceRange: '$90-130', lastVerified: '2026-05-18', status: 'active' },
+  'mr-coffee-cafe-barista': { asin: 'B00KCBT1EK', name: 'Mr. Coffee Café Barista Espresso & Cappuccino Maker', category: 'espresso', priceRange: '$160-210', lastVerified: '2026-05-18', status: 'active' },
+  'nespresso-vertuo-plus': { asin: 'B07CTTBT4W', name: 'Nespresso Vertuo Plus Coffee & Espresso Machine', category: 'espresso', priceRange: '$140-180', lastVerified: '2026-05-18', status: 'active' },
+
+  // Drip Coffee Makers (mid-range)
+  'cuisinart-dcc-3200': { asin: 'B00MVWGQX0', name: 'Cuisinart DCC-3200 14-Cup Programmable', category: 'coffee-makers', priceRange: '$60-80', lastVerified: '2026-05-18', status: 'active' },
+  'hamilton-beach-drip-12cup': { asin: 'B001NXL53W', name: 'Hamilton Beach 12-Cup Programmable Coffee Maker', category: 'coffee-makers', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
+  'mr-coffee-12cup': { asin: 'B000T9SCT2', name: 'Mr. Coffee 12-Cup Programmable Coffee Maker', category: 'coffee-makers', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+
+  // Cold Brew Makers
+  'oxo-cold-brew': { asin: 'B011670XUQ', name: 'OXO Good Grips Cold Brew Coffee Maker', category: 'coffee-makers', priceRange: '$45-55', lastVerified: '2026-05-18', status: 'active' },
+  'takeya-cold-brew': { asin: 'B00DYOYFHI', name: 'Takeya Patented Deluxe Cold Brew Coffee Maker', category: 'coffee-makers', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+  'county-line-cold-brew': { asin: 'B07CQSLQZT', name: 'County Line Kitchen Cold Brew Mason Jar', category: 'coffee-makers', priceRange: '$18-25', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Scales
+  'hario-v60-scale': { asin: 'B009GPJMOU', name: 'Hario V60 Drip Coffee Scale and Timer', category: 'kitchen', priceRange: '$45-60', lastVerified: '2026-05-18', status: 'active' },
+  'jennings-cj4000': { asin: 'B005UGBG20', name: 'Jennings CJ4000 Compact Digital Scale', category: 'kitchen', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+  'oxo-good-grips-scale': { asin: 'B079D8LN4T', name: 'OXO Good Grips 11lb Food Scale', category: 'kitchen', priceRange: '$40-55', lastVerified: '2026-05-18', status: 'active' },
+  'acaia-pearl': { asin: 'B07BQNQ5SM', name: 'Acaia Pearl Coffee Scale', category: 'kitchen', priceRange: '$130-160', lastVerified: '2026-05-18', status: 'active' },
 };
