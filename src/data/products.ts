@@ -166,4 +166,23 @@ export const products: Record<string, Product> = {
   'jennings-cj4000': { asin: 'B005UGBG20', name: 'Jennings CJ4000 Compact Digital Scale', category: 'kitchen', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
   'oxo-good-grips-scale': { asin: 'B079D8LN4T', name: 'OXO Good Grips 11lb Food Scale', category: 'kitchen', priceRange: '$40-55', lastVerified: '2026-05-18', status: 'active' },
   'acaia-pearl': { asin: 'B07BQNQ5SM', name: 'Acaia Pearl Coffee Scale', category: 'kitchen', priceRange: '$130-160', lastVerified: '2026-05-18', status: 'active' },
+
+  // Milk Frothers
+  'powerlix-milk-frother': { asin: 'B01LDG3NZU', name: 'PowerLix Milk Frother Handheld', category: 'kitchen', priceRange: '$10-18', lastVerified: '2026-05-18', status: 'active' },
+  'bonsenkitchen-milk-frother': { asin: 'B07TS46TLM', name: 'Bonsenkitchen Milk Frother Handheld', category: 'kitchen', priceRange: '$12-20', lastVerified: '2026-05-18', status: 'active' },
+
+  // French Press
+  'frieling-french-press': { asin: 'B0000CFEF0', name: 'Frieling Double-Wall Stainless Steel French Press', category: 'french-press', priceRange: '$60-80', lastVerified: '2026-05-18', status: 'active' },
+  'secura-french-press': { asin: 'B01LWYUQNP', name: 'Secura Stainless Steel French Press', category: 'french-press', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+  'espro-p6': { asin: 'B012NPZM84', name: 'Espro P6 French Press', category: 'french-press', priceRange: '$70-90', lastVerified: '2026-05-18', status: 'active' },
+
+  // Nespresso Machines
+  'nespresso-pixie': { asin: 'B00GPRS9XY', name: 'Nespresso Pixie Original Espresso Machine', category: 'espresso', priceRange: '$140-180', lastVerified: '2026-05-18', status: 'active' },
+  'nespresso-lattissima-one': { asin: 'B07WNZFL8B', name: 'Nespresso Lattissima One Espresso Machine', category: 'espresso', priceRange: '$220-270', lastVerified: '2026-05-18', status: 'active' },
+  'nespresso-creatista-plus': { asin: 'B072KSMBL9', name: 'Nespresso Creatista Plus Espresso Machine', category: 'espresso', priceRange: '$450-550', lastVerified: '2026-05-18', status: 'active' },
+
+  // Gooseneck Kettles
+  'breville-bke820xl': { asin: 'B00KYCKDUK', name: 'Breville BKE820XL Variable Temperature Kettle', category: 'pour-over', priceRange: '$90-120', lastVerified: '2026-05-18', status: 'active' },
+  'oxo-brew-kettle': { asin: 'B07WGTF7W4', name: 'OXO Brew Adjustable Temperature Gooseneck Kettle', category: 'pour-over', priceRange: '$90-120', lastVerified: '2026-05-18', status: 'active' },
+  'cosori-gooseneck-kettle': { asin: 'B08GJCYRJB', name: 'Cosori Electric Gooseneck Kettle', category: 'pour-over', priceRange: '$35-50', lastVerified: '2026-05-18', status: 'active' },
 };
