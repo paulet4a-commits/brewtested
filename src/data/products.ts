@@ -25,6 +25,20 @@ export function affiliateUrl(asin: string): string {
   return `https://www.amazon.com/dp/${asin}?tag=${AFFILIATE_TAG}`;
 }
 
+export function getPreferredUrl(product: Product): string {
+  if (!product.merchants || product.merchants.length === 0) {
+    return affiliateUrl(product.asin);
+  }
+  const preferred = product.merchants.slice().sort((a, b) => a.priority - b.priority)[0];
+  return preferred.url;
+}
+
+export function getPreferredMerchant(product: Product): string {
+  if (!product.merchants || product.merchants.length === 0) return 'amazon';
+  const preferred = product.merchants.slice().sort((a, b) => a.priority - b.priority)[0];
+  return preferred.name;
+}
+
 export const products: Record<string, Product> = {
   // Espresso Machines
   'gaggia-classic-pro': { asin: 'B07RQ3NL76', name: 'Gaggia Classic Pro', category: 'espresso', priceRange: '$400-500', lastVerified: '2026-05-19', status: 'active' },

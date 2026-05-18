@@ -1,5 +1,5 @@
 ---
-import { products, affiliateUrl } from '../data/products';
+import { products, getPreferredUrl, getPreferredMerchant } from '../data/products';
 
 interface Props {
   productKey: string;
@@ -15,7 +15,8 @@ if (!product) {
   throw new Error(`ProductCard: unknown product key "${productKey}". Add it to src/data/products.ts.`);
 }
 
-const url = affiliateUrl(product.asin);
+const url = getPreferredUrl(product);
+const merchant = getPreferredMerchant(product);
 const pageSlug = Astro.url.pathname;
 const lastReviewed = product.lastReviewed ?? product.lastVerified;
 ---
@@ -42,6 +43,7 @@ const lastReviewed = product.lastReviewed ?? product.lastVerified;
       data-asin={product.asin}
       data-category={product.category}
       data-placement="ProductCard"
+      data-merchant={merchant}
       data-page={pageSlug}
     >
       Check Current Price →
