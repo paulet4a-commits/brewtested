@@ -349,6 +349,22 @@ export const products: Record<string, Product> = {
   'dripkit-medium-roast': { asin: 'B08XYZQ1PT', name: 'Dripkit Specialty Medium Roast Coffee', category: 'coffee-beans', priceRange: '$13-16', lastVerified: '2026-05-18', status: 'active' },
   'counter-culture-oak-street': { asin: 'B09PFZC1FX', name: 'Counter Culture Coffee Oak Street Blend', category: 'coffee-beans', priceRange: '$14-17', lastVerified: '2026-05-18', status: 'active' },
 
+  // Coffee Beans — Cold Brew
+  'stone-street-cold-brew': { asin: 'B00MW7BT5Y', name: 'Stone Street Coffee Cold Brew Reserve Coarse Ground Coffee', category: 'coffee-beans', priceRange: '$14-18', lastVerified: '2026-05-18', status: 'active' },
+  'bizzy-organic-cold-brew': { asin: 'B01I6E9OE6', name: 'Bizzy Organic Cold Brew Coffee Coarse Ground', category: 'coffee-beans', priceRange: '$12-16', lastVerified: '2026-05-18', status: 'active' },
+  'chameleon-cold-brew': { asin: 'B01N6K9UUG', name: 'Chameleon Organic Cold Brew Coffee Concentrate', category: 'coffee-beans', priceRange: '$8-12', lastVerified: '2026-05-18', status: 'active' },
+  'peets-french-roast': { asin: 'B00008I8UH', name: "Peet's Coffee French Roast Dark Roast Whole Bean", category: 'coffee-beans', priceRange: '$10-14', lastVerified: '2026-05-18', status: 'active' },
+
+  // Grinders — Flat Burr / Pour-Over
+  'fellow-ode': { asin: 'B086WG4PQY', name: 'Fellow Ode Brew Grinder', category: 'grinders', priceRange: '$140-170', lastVerified: '2026-05-18', status: 'active' },
+
+  // Grinder Accessories — Dosing Rings
+  'normcore-dosing-ring': { asin: 'B08PQZMJYV', name: 'Normcore Coffee Dosing Ring', category: 'espresso', priceRange: '$12-18', lastVerified: '2026-05-18', status: 'active' },
+  'weigh-fold-dosing-funnel': { asin: 'B09BJGKDRK', name: 'Weigh-and-Fold Coffee Dosing Funnel', category: 'espresso', priceRange: '$8-12', lastVerified: '2026-05-18', status: 'active' },
+  'fellow-opus-dosing-cap': { asin: 'B00ARBTV5M', name: 'Fellow Opus Dosing Cap', category: 'espresso', priceRange: '$15-20', lastVerified: '2026-05-18', status: 'active' },
+  'eureka-mignon-dosing-collar': { asin: 'B07XRHDVHP', name: 'Eureka Mignon Dosing Collar', category: 'espresso', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+  '1zpresso-dosing-ring': { asin: 'B08Q1K5V5M', name: '1Zpresso Dosing Ring Kit', category: 'grinders', priceRange: '$10-14', lastVerified: '2026-05-18', status: 'active' },
+
   // Coffee Beans — Single Origin
   'blue-bottle-bella-donovan': { asin: 'B00PZ34FZU', name: 'Blue Bottle Coffee Bella Donovan Blend', category: 'coffee-beans', priceRange: '$16-20', lastVerified: '2026-05-18', status: 'active' },
 
