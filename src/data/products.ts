@@ -236,4 +236,20 @@ export const products: Record<string, Product> = {
   'bunn-nhs': { asin: 'B001A05FV2', name: 'BUNN NHS Velocity Brew 10-Cup Coffee Brewer', category: 'coffee-makers', priceRange: '$70-90', lastVerified: '2026-05-18', status: 'active' },
   'melitta-manual-pourover': { asin: 'B00019OQZK', name: 'Melitta Ready Set Joe Single Cup Pour Over', category: 'coffee-makers', priceRange: '$5-10', lastVerified: '2026-05-18', status: 'active' },
   'kitchenaid-cold-brew': { asin: 'B073X7LNXH', name: 'KitchenAid Cold Brew Coffee Maker', category: 'coffee-makers', priceRange: '$70-90', lastVerified: '2026-05-18', status: 'active' },
+
+  // Insulated French Press
+  'stanley-french-press': { asin: 'B004TFXI9I', name: 'Stanley Classic Vacuum French Press', category: 'french-press', priceRange: '$35-50', lastVerified: '2026-05-18', status: 'active' },
+  'espro-p7': { asin: 'B00JNHNGHK', name: 'Espro P7 Micro-Filter French Press', category: 'french-press', priceRange: '$80-110', lastVerified: '2026-05-18', status: 'active' },
+  'bodum-columbia': { asin: 'B000LVCS7O', name: 'Bodum Columbia Double-Wall Stainless French Press', category: 'french-press', priceRange: '$40-60', lastVerified: '2026-05-18', status: 'active' },
+  'fellow-clara-french-press': { asin: 'B09GY3S5L1', name: 'Fellow Clara Insulated French Press', category: 'french-press', priceRange: '$55-70', lastVerified: '2026-05-18', status: 'active' },
+  'planetary-design-french-press': { asin: 'B07KQVWK4H', name: 'Planetary Design Dual-Screen French Press', category: 'french-press', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
+
+  // Chemex & Pour Over
+  'chemex-8cup': { asin: 'B000BR14VO', name: 'Chemex Classic 8-Cup Pour-Over Coffee Maker', category: 'pour-over', priceRange: '$45-65', lastVerified: '2026-05-18', status: 'active' },
+  'chemex-handblown': { asin: 'B000BR15H0', name: 'Chemex Handblown Series Coffee Maker', category: 'pour-over', priceRange: '$55-80', lastVerified: '2026-05-18', status: 'active' },
+  'able-kone-filter': { asin: 'B003ZXJZHU', name: 'Able Kone Coffee Filter for Chemex', category: 'pour-over', priceRange: '$35-50', lastVerified: '2026-05-18', status: 'active' },
+
+  // Stovetop Espresso / Moka Pot (additional)
+  'bialetti-venus': { asin: 'B00006IUW4', name: 'Bialetti Venus 6-Cup Stainless Moka Pot', category: 'espresso', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
+  'bialetti-moka-induction': { asin: 'B07FKSPWM9', name: 'Bialetti Moka Induction 6-Cup', category: 'espresso', priceRange: '$40-55', lastVerified: '2026-05-18', status: 'active' },
 };
