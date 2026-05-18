@@ -1,0 +1,358 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Home Espresso Setup Guide — Find the Right Machine & Grinder"
+  description="Not sure where to start with home espresso? This decision engine routes you to the right machine and grinder for your budget, skill level, and drink style."
+  affiliateDisclosure={true}
+>
+
+  <!-- Hero -->
+  <div class="mb-10">
+    <p class="text-xs uppercase tracking-widest text-amber-600 font-semibold mb-2">Espresso Setup Guide</p>
+    <h1 class="text-3xl font-bold text-gray-900 mb-3">Home Espresso: Start Here</h1>
+    <p class="text-gray-600 text-lg leading-relaxed">
+      Most people buy the wrong machine first. This guide routes you to the right setup for your actual budget,
+      skill level, and drink style — before you spend $300 on something you'll resell in six months.
+    </p>
+  </div>
+
+  <!-- Decision paths -->
+  <section class="mb-12">
+    <h2 class="text-xl font-bold text-gray-800 mb-4 border-b border-gray-200 pb-2">What kind of espresso drinker are you?</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <a href="#pod" class="block border border-gray-200 rounded-xl p-5 hover:border-amber-400 hover:bg-amber-50 transition-colors">
+        <div class="text-2xl mb-2">☕</div>
+        <div class="font-bold text-gray-900 mb-1">Convenience first</div>
+        <p class="text-sm text-gray-600">You want espresso drinks without the ritual. Pods or super-automatics are right for you.</p>
+        <span class="inline-block mt-3 text-xs font-semibold text-amber-700">→ Pod &amp; Auto section</span>
+      </a>
+      <a href="#manual" class="block border border-amber-300 rounded-xl p-5 hover:border-amber-500 hover:bg-amber-50 transition-colors bg-amber-50/50">
+        <div class="text-2xl mb-2">🎯</div>
+        <div class="font-bold text-gray-900 mb-1">I want real espresso</div>
+        <p class="text-sm text-gray-600">You're willing to learn technique and spend $400–800 for genuine espresso. Start here.</p>
+        <span class="inline-block mt-3 text-xs font-semibold text-amber-700 font-bold">→ Main decision engine ↓</span>
+      </a>
+      <a href="#super-auto" class="block border border-gray-200 rounded-xl p-5 hover:border-amber-400 hover:bg-amber-50 transition-colors">
+        <div class="text-2xl mb-2">🤖</div>
+        <div class="font-bold text-gray-900 mb-1">Push a button, get espresso</div>
+        <p class="text-sm text-gray-600">You have $600–$2k and want hands-off quality. Super-automatics handle beans-to-cup.</p>
+        <span class="inline-block mt-3 text-xs font-semibold text-amber-700">→ Super-auto section</span>
+      </a>
+    </div>
+  </section>
+
+  <!-- Budget setups — main decision engine -->
+  <section id="manual" class="mb-12">
+    <h2 class="text-xl font-bold text-gray-800 mb-1 border-b border-gray-200 pb-2">Real Espresso by Budget</h2>
+    <p class="text-sm text-gray-500 mb-6">Every setup below includes a machine AND grinder — espresso without a burr grinder is not real espresso.</p>
+
+    <div class="space-y-6">
+
+      <!-- Under $300 -->
+      <div class="border border-gray-200 rounded-xl p-6">
+        <div class="flex items-center justify-between flex-wrap gap-2 mb-3">
+          <h3 class="text-lg font-bold text-gray-900">Under $300 — Learning Setup</h3>
+          <span class="text-xs font-bold uppercase tracking-wide text-gray-500 bg-gray-100 px-2 py-1 rounded">Entry</span>
+        </div>
+        <p class="text-sm text-gray-600 mb-4">
+          The DeLonghi Stilosa + Baratza Encore pairing pulls surprisingly good shots once you dial in your grind.
+          Expect to spend 2–4 weeks learning. This setup teaches you whether you actually want to invest more.
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm mb-4">
+          <div>
+            <p class="font-semibold text-green-700 mb-1">Choose this if</p>
+            <ul class="space-y-0.5 text-gray-700">
+              <li>✓ New to espresso, unsure how deep you'll go</li>
+              <li>✓ Making mostly Americanos or milk drinks</li>
+              <li>✓ Budget is a hard constraint</li>
+            </ul>
+          </div>
+          <div>
+            <p class="font-semibold text-red-600 mb-1">Skip this if</p>
+            <ul class="space-y-0.5 text-gray-700">
+              <li>✗ You want to pull competition-grade shots</li>
+              <li>✗ You drink straight espresso regularly</li>
+              <li>✗ You've already tried entry machines and want more</li>
+            </ul>
+          </div>
+        </div>
+        <div class="flex gap-3 flex-wrap">
+          <a href="/posts/best-espresso-machine-under-200/" class="text-sm font-semibold text-amber-700 hover:underline">Machines under $200 →</a>
+          <a href="/posts/best-espresso-grinder-under-100/" class="text-sm font-semibold text-amber-700 hover:underline">Grinders under $100 →</a>
+        </div>
+      </div>
+
+      <!-- $400–500 -->
+      <div class="border-2 border-amber-400 rounded-xl p-6 relative">
+        <span class="absolute -top-3 left-5 bg-amber-500 text-white text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">Most recommended</span>
+        <div class="flex items-center justify-between flex-wrap gap-2 mb-3 mt-1">
+          <h3 class="text-lg font-bold text-gray-900">$400–500 — First Real Setup</h3>
+          <span class="text-xs font-bold uppercase tracking-wide text-amber-700 bg-amber-100 px-2 py-1 rounded">Sweet spot</span>
+        </div>
+        <p class="text-sm text-gray-600 mb-4">
+          Gaggia Classic Pro + Baratza Encore ESP is the most recommended beginner-intermediate setup in the espresso community.
+          The Gaggia is repairable, moddable, and pulls genuine 9-bar espresso. The Encore ESP is purpose-built for espresso range.
+          This setup will not limit you for years.
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm mb-4">
+          <div>
+            <p class="font-semibold text-green-700 mb-1">Choose this if</p>
+            <ul class="space-y-0.5 text-gray-700">
+              <li>✓ You're committed to learning real espresso</li>
+              <li>✓ You want a machine that lasts 10+ years</li>
+              <li>✓ You'll drink straight espresso or milk drinks</li>
+              <li>✓ You like the idea of modding/upgrading later</li>
+            </ul>
+          </div>
+          <div>
+            <p class="font-semibold text-red-600 mb-1">Skip this if</p>
+            <ul class="space-y-0.5 text-gray-700">
+              <li>✗ You want steam wand to heat milk automatically</li>
+              <li>✗ You need a machine with a warming drawer</li>
+              <li>✗ You want integrated grinder (buy separate instead)</li>
+            </ul>
+          </div>
+        </div>
+        <div class="flex gap-3 flex-wrap">
+          <a href="/posts/best-espresso-machine-for-beginners/" class="text-sm font-semibold text-amber-700 hover:underline">Gaggia vs alternatives →</a>
+          <a href="/posts/best-espresso-grinder-under-200/" class="text-sm font-semibold text-amber-700 hover:underline">Grinders $100–200 →</a>
+          <a href="/posts/best-home-espresso-setup-beginners/" class="text-sm font-semibold text-amber-700 hover:underline">Full setup walkthrough →</a>
+        </div>
+      </div>
+
+      <!-- $600–800 -->
+      <div class="border border-gray-200 rounded-xl p-6">
+        <div class="flex items-center justify-between flex-wrap gap-2 mb-3">
+          <h3 class="text-lg font-bold text-gray-900">$600–800 — Serious Home Bar</h3>
+          <span class="text-xs font-bold uppercase tracking-wide text-gray-500 bg-gray-100 px-2 py-1 rounded">Enthusiast</span>
+        </div>
+        <p class="text-sm text-gray-600 mb-4">
+          At this budget you can get the Breville Barista Express (integrated grinder, convenience)
+          or split it between a Breville Bambino Plus and a standalone grinder like the Eureka Mignon Specialità.
+          The split setup gives better espresso; the Barista Express gives convenience.
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm mb-4">
+          <div>
+            <p class="font-semibold text-green-700 mb-1">Barista Express if</p>
+            <ul class="space-y-0.5 text-gray-700">
+              <li>✓ Counter space is limited</li>
+              <li>✓ You want one machine to do everything</li>
+              <li>✓ Convenience beats marginal quality gains</li>
+            </ul>
+          </div>
+          <div>
+            <p class="font-semibold text-green-700 mb-1">Bambino Plus + grinder if</p>
+            <ul class="space-y-0.5 text-gray-700">
+              <li>✓ You want best shot quality in this range</li>
+              <li>✓ You can upgrade grinder or machine separately later</li>
+              <li>✓ You have two power outlets side-by-side</li>
+            </ul>
+          </div>
+        </div>
+        <div class="flex gap-3 flex-wrap">
+          <a href="/posts/best-automatic-espresso-machine/" class="text-sm font-semibold text-amber-700 hover:underline">Breville lineup compared →</a>
+          <a href="/posts/best-coffee-grinder-for-espresso/" class="text-sm font-semibold text-amber-700 hover:underline">Best espresso grinders →</a>
+        </div>
+      </div>
+
+      <!-- $1k+ -->
+      <div class="border border-gray-200 rounded-xl p-6">
+        <div class="flex items-center justify-between flex-wrap gap-2 mb-3">
+          <h3 class="text-lg font-bold text-gray-900">$1,000+ — No Compromises</h3>
+          <span class="text-xs font-bold uppercase tracking-wide text-gray-500 bg-gray-100 px-2 py-1 rounded">Prosumer</span>
+        </div>
+        <p class="text-sm text-gray-600 mb-4">
+          Breville Oracle Touch (fully automatic), Breville Dual Boiler (manual control, serious quality),
+          or a Jura E8 (bean-to-cup automation). At this level, grinder quality matters as much as machine.
+          Pair with a Eureka Mignon Specialità, DF64 Gen 2, or Baratza Sette 270.
+        </p>
+        <div class="flex gap-3 flex-wrap">
+          <a href="/posts/best-super-automatic-espresso-machine/" class="text-sm font-semibold text-amber-700 hover:underline">Super-automatics reviewed →</a>
+          <a href="/posts/best-espresso-machine-2026/" class="text-sm font-semibold text-amber-700 hover:underline">Top machines 2026 →</a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Machine vs Grinder priority -->
+  <section class="mb-12 bg-amber-50 border border-amber-200 rounded-xl p-6">
+    <h2 class="text-xl font-bold text-gray-800 mb-3">The Rule Nobody Tells You</h2>
+    <p class="text-gray-700 mb-3 font-medium">
+      Spend more on the grinder than you think you should.
+    </p>
+    <p class="text-sm text-gray-600 mb-3">
+      A $400 machine with a $200 grinder pulls better espresso than a $600 machine with a $50 blade grinder.
+      Grind consistency is the single biggest variable in espresso quality. If you're on a tight budget,
+      buy a slightly cheaper machine and a better grinder.
+    </p>
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 text-sm">
+      <div class="bg-white border border-amber-100 rounded-lg p-3">
+        <p class="font-semibold text-gray-800 mb-1">Under $300 budget?</p>
+        <p class="text-gray-600">Spend $120 on machine, $100+ on grinder. Skip blade grinders entirely.</p>
+      </div>
+      <div class="bg-white border border-amber-100 rounded-lg p-3">
+        <p class="font-semibold text-gray-800 mb-1">$400–600 budget?</p>
+        <p class="text-gray-600">50/50 split is fine. Don't go below $150 on grinder for this machine tier.</p>
+      </div>
+      <div class="bg-white border border-amber-100 rounded-lg p-3">
+        <p class="font-semibold text-gray-800 mb-1">$600+ budget?</p>
+        <p class="text-gray-600">40% machine, 35% grinder, 25% accessories. Grinder upgrade pays dividends.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pod / Nespresso section -->
+  <section id="pod" class="mb-12">
+    <h2 class="text-xl font-bold text-gray-800 mb-4 border-b border-gray-200 pb-2">Convenience Path: Pods &amp; Nespresso</h2>
+    <p class="text-sm text-gray-600 mb-4">
+      Not interested in grinding, tamping, or dialing in? Nespresso Original machines pull
+      genuine pressure-extracted espresso from pods. No skill required. The catch: you're locked into their pod ecosystem.
+    </p>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
+      <div class="border border-gray-200 rounded-lg p-4">
+        <p class="font-semibold text-gray-800 mb-2">Nespresso Original Line</p>
+        <p class="text-gray-600 mb-2">Real 19-bar pressure. Better espresso flavor. Smaller pod selection but excellent quality.</p>
+        <a href="/posts/best-espresso-machine-under-100/" class="text-amber-700 font-semibold hover:underline text-xs">Essenza Mini &amp; Pixie reviewed →</a>
+      </div>
+      <div class="border border-gray-200 rounded-lg p-4">
+        <p class="font-semibold text-gray-800 mb-2">Nespresso Vertuo Line</p>
+        <p class="text-gray-600 mb-2">Centrifusion brewing, not pressure. Bigger cups. Not true espresso but excellent coffee drinks.</p>
+        <a href="/posts/best-nespresso-machine/" class="text-amber-700 font-semibold hover:underline text-xs">Vertuo vs Original →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Super-auto section -->
+  <section id="super-auto" class="mb-12">
+    <h2 class="text-xl font-bold text-gray-800 mb-4 border-b border-gray-200 pb-2">Bean-to-Cup: Super-Automatics</h2>
+    <p class="text-sm text-gray-600 mb-4">
+      Load beans, press a button, get espresso. No technique required. Super-automatics include
+      a built-in grinder, brew unit, and often a milk system. Maintenance is higher than manual machines.
+    </p>
+    <div class="flex gap-3 flex-wrap">
+      <a href="/posts/best-super-automatic-espresso-machine/" class="text-sm font-semibold text-amber-700 hover:underline">Best super-automatics reviewed →</a>
+      <a href="/posts/best-automatic-espresso-machine/" class="text-sm font-semibold text-amber-700 hover:underline">DeLonghi Magnifica vs Jura →</a>
+    </div>
+  </section>
+
+  <!-- Beginner mistakes -->
+  <section class="mb-12">
+    <h2 class="text-xl font-bold text-gray-800 mb-4 border-b border-gray-200 pb-2">5 Mistakes First-Time Buyers Make</h2>
+    <ol class="space-y-4 text-sm">
+      <li class="flex gap-3">
+        <span class="font-bold text-amber-600 shrink-0">1.</span>
+        <div>
+          <p class="font-semibold text-gray-900">Skipping the grinder</p>
+          <p class="text-gray-600">Pre-ground coffee goes stale in hours. A blade grinder produces inconsistent particles that make espresso taste sour and bitter simultaneously. A burr grinder is not optional.</p>
+        </div>
+      </li>
+      <li class="flex gap-3">
+        <span class="font-bold text-amber-600 shrink-0">2.</span>
+        <div>
+          <p class="font-semibold text-gray-900">Buying a fully-automatic because "it's easier"</p>
+          <p class="text-gray-600">Super-automatics are easy but hard to maintain and fix. A simple manual machine with a good grinder is more reliable long-term and produces better espresso.</p>
+        </div>
+      </li>
+      <li class="flex gap-3">
+        <span class="font-bold text-amber-600 shrink-0">3.</span>
+        <div>
+          <p class="font-semibold text-gray-900">Using supermarket espresso beans</p>
+          <p class="text-gray-600">Most supermarket espresso beans are over-roasted and weeks old. Freshly roasted beans from a specialty roaster change the taste more than any equipment upgrade.</p>
+        </div>
+      </li>
+      <li class="flex gap-3">
+        <span class="font-bold text-amber-600 shrink-0">4.</span>
+        <div>
+          <p class="font-semibold text-gray-900">Not tamping consistently</p>
+          <p class="text-gray-600">Uneven tamp = channeling = bad extraction. A calibrated tamper (30 lbs pressure) and flat surface make this repeatable. Takes a week to build the habit.</p>
+        </div>
+      </li>
+      <li class="flex gap-3">
+        <span class="font-bold text-amber-600 shrink-0">5.</span>
+        <div>
+          <p class="font-semibold text-gray-900">Expecting good espresso immediately</p>
+          <p class="text-gray-600">Dialing in grind size, dose, and yield takes 5–15 sessions. The first week often tastes bad. This is normal and part of learning the machine.</p>
+        </div>
+      </li>
+    </ol>
+  </section>
+
+  <!-- Accessories checklist -->
+  <section class="mb-12">
+    <h2 class="text-xl font-bold text-gray-800 mb-4 border-b border-gray-200 pb-2">Accessories That Actually Matter</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
+      <div class="space-y-2">
+        <p class="font-semibold text-gray-800">Must-have (buy at the same time)</p>
+        <ul class="space-y-1 text-gray-700">
+          <li>✓ <strong>Tamper</strong> — calibrated, 58mm for most machines</li>
+          <li>✓ <strong>Scale</strong> — 0.1g precision for dose/yield</li>
+          <li>✓ <strong>Milk thermometer</strong> — if you steam milk</li>
+          <li>✓ <strong>Dosing funnel</strong> — reduces grind mess</li>
+        </ul>
+      </div>
+      <div class="space-y-2">
+        <p class="font-semibold text-gray-800">Add after month 1</p>
+        <ul class="space-y-1 text-gray-700">
+          <li>✓ <strong>WDT tool</strong> — breaks up clumps before tamping</li>
+          <li>✓ <strong>Puck screen</strong> — cleaner, easier cleanup</li>
+          <li>✓ <strong>Bottomless portafilter</strong> — shows channeling visually</li>
+          <li>✓ <strong>Descaler</strong> — every 2–3 months minimum</li>
+        </ul>
+      </div>
+    </div>
+    <div class="mt-4">
+      <a href="/posts/best-espresso-accessories-starter-kit/" class="text-sm font-semibold text-amber-700 hover:underline">Full accessories guide →</a>
+    </div>
+  </section>
+
+  <!-- All espresso articles -->
+  <section class="mb-4">
+    <h2 class="text-xl font-bold text-gray-800 mb-4 border-b border-gray-200 pb-2">All Espresso Guides</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
+      <div>
+        <p class="font-semibold text-gray-700 mb-2 text-xs uppercase tracking-wide">Machines by budget</p>
+        <ul class="space-y-1">
+          <li><a href="/posts/best-espresso-machine-under-100/" class="text-amber-700 hover:underline">Under $100</a></li>
+          <li><a href="/posts/best-espresso-machine-under-200/" class="text-amber-700 hover:underline">Under $200</a></li>
+          <li><a href="/posts/best-espresso-machine-under-300/" class="text-amber-700 hover:underline">Under $300</a></li>
+          <li><a href="/posts/best-espresso-machine-under-400/" class="text-amber-700 hover:underline">Under $400</a></li>
+          <li><a href="/posts/best-espresso-machine-under-500/" class="text-amber-700 hover:underline">Under $500</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="font-semibold text-gray-700 mb-2 text-xs uppercase tracking-wide">Grinders by budget</p>
+        <ul class="space-y-1">
+          <li><a href="/posts/best-espresso-grinder-under-100/" class="text-amber-700 hover:underline">Under $100</a></li>
+          <li><a href="/posts/best-espresso-grinder-under-200/" class="text-amber-700 hover:underline">Under $200</a></li>
+          <li><a href="/posts/best-espresso-grinder-under-300/" class="text-amber-700 hover:underline">Under $300</a></li>
+          <li><a href="/posts/best-coffee-grinder-for-espresso/" class="text-amber-700 hover:underline">Best overall espresso grinders</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="font-semibold text-gray-700 mb-2 text-xs uppercase tracking-wide">By machine type</p>
+        <ul class="space-y-1">
+          <li><a href="/posts/best-espresso-machine-for-beginners/" class="text-amber-700 hover:underline">Best for beginners</a></li>
+          <li><a href="/posts/best-automatic-espresso-machine/" class="text-amber-700 hover:underline">Semi-automatic machines</a></li>
+          <li><a href="/posts/best-super-automatic-espresso-machine/" class="text-amber-700 hover:underline">Super-automatic machines</a></li>
+          <li><a href="/posts/best-stovetop-espresso-maker/" class="text-amber-700 hover:underline">Stovetop / Moka pot</a></li>
+          <li><a href="/posts/best-nespresso-machine/" class="text-amber-700 hover:underline">Nespresso machines</a></li>
+          <li><a href="/posts/best-nespresso-machine-for-lattes/" class="text-amber-700 hover:underline">Nespresso for lattes</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="font-semibold text-gray-700 mb-2 text-xs uppercase tracking-wide">Setups &amp; guides</p>
+        <ul class="space-y-1">
+          <li><a href="/posts/best-home-espresso-setup-beginners/" class="text-amber-700 hover:underline">Complete beginner setup</a></li>
+          <li><a href="/posts/best-home-espresso-setup-under-500/" class="text-amber-700 hover:underline">Setup under $500</a></li>
+          <li><a href="/posts/best-espresso-accessories-starter-kit/" class="text-amber-700 hover:underline">Accessories checklist</a></li>
+          <li><a href="/posts/best-espresso-at-home-beginners-guide/" class="text-amber-700 hover:underline">At-home espresso guide</a></li>
+          <li><a href="/posts/best-espresso-machine-2026/" class="text-amber-700 hover:underline">Top machines 2026</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>
