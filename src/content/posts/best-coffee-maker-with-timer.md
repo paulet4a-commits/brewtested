@@ -6,6 +6,7 @@ category: "coffee-makers"
 tags: ["coffee-makers", "programmable", "timer", "tested"]
 draft: false
 affiliateDisclosure: true
+noindex: true
 ---
 
 A programmable coffee maker with a timer transforms your morning routine—you can wake up to freshly brewed coffee waiting for you. We researched and compared five models to find the best programmable brewers that balance convenience, brew quality, and value.

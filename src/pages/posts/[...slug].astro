@@ -45,6 +45,7 @@ const breadcrumbSchema = {
   pubDate={post.data.pubDate}
   updatedDate={post.data.updatedDate}
   affiliateDisclosure={post.data.affiliateDisclosure}
+  noindex={post.data.noindex}
 >
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <article>

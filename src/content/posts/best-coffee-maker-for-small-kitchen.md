@@ -6,6 +6,7 @@ category: "coffee-makers"
 tags: ["coffee maker for small kitchen", "compact coffee maker", "small coffee maker", "space saving coffee maker", "apartment coffee maker"]
 draft: false
 affiliateDisclosure: true
+noindex: true
 ---
 
 Limited counter space shouldn't mean compromising on your morning coffee ritual. Whether you're living in a studio apartment, dorm room, or tiny house, finding a compact coffee maker that delivers quality brew without consuming your entire kitchen is a real challenge. We researched and compared five of the best compact brewers on the market to find solutions that fit small kitchens without sacrificing taste or features.

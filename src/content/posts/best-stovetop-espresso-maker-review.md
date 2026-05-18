@@ -6,6 +6,7 @@ category: "espresso"
 tags: ["moka-pot", "stovetop", "espresso", "budget-friendly"]
 draft: false
 affiliateDisclosure: true
+noindex: true
 ---
 
 Stovetop espresso makers—or Moka pots—deliver rich, concentrated coffee without electricity or expensive machines. For under $60, you can brew Italian-style espresso at home. We've researched and compared five standout Moka pots from budget legends to premium designs, comparing flavor, durability, and ease of use.

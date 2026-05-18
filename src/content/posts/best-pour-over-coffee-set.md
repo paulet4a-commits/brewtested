@@ -6,6 +6,7 @@ category: "pour-over"
 tags: ["pour over coffee set", "pour over kit", "pour over coffee starter kit", "best pour over", "manual coffee brewing"]
 draft: false
 affiliateDisclosure: true
+noindex: true
 ---
 
 A pour over coffee set takes the guesswork out of manual brewing by bundling everything you need in one package. Whether you're buying your first dripper or upgrading to a precision setup, We've researched and compared five complete pour over kits that deliver consistent, delicious coffee from day one.

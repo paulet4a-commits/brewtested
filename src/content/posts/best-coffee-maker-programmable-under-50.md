@@ -5,6 +5,7 @@ category: coffee-makers
 draft: false
 pubDate: 2026-05-18
 affiliateDisclosure: true
+noindex: true
 ---
 
 A programmable coffee maker transforms your morning routine by delivering fresh coffee exactly when you need it. Modern budget-friendly models now include features like brew-strength selection, 12-hour programmable delays, and thermal carafes that keep coffee hot without burning it. We've researched and compared five of the best programmable coffee makers under $50 to help you find the perfect match for your kitchen.

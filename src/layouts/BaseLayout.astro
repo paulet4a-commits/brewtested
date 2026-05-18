@@ -5,6 +5,7 @@ interface Props {
   pubDate?: Date;
   updatedDate?: Date;
   affiliateDisclosure?: boolean;
+  noindex?: boolean;
 }
 
 const {
@@ -13,6 +14,7 @@ const {
   pubDate,
   updatedDate,
   affiliateDisclosure = false,
+  noindex = false,
 } = Astro.props;
 
 const siteTitle = 'BrewTested';
@@ -52,6 +54,7 @@ const articleSchema = pubDate ? {
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
+    {noindex && <meta name="robots" content="noindex,follow" />}
     <meta name="google-site-verification" content="sATNOe6XpoOMvTSDUnXANJ-Y0TceU4_FdRINdWt0oJE" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <!-- Open Graph -->

@@ -4,6 +4,7 @@ description: "Top 5 programmable coffee makers for large families and offices. B
 category: coffee-makers
 draft: false
 affiliateDisclosure: true
+noindex: true
 pubDate: 2026-05-18
 ---
 

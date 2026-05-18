@@ -6,6 +6,7 @@ category: "coffee"
 tags: ["coffee subscription", "fresh beans", "coffee delivery", "coffee boxes"]
 draft: false
 affiliateDisclosure: true
+noindex: true
 ---
 
 A coffee subscription box brings the joy of discovery to your kitchen each month. Instead of standing in a coffee shop deciding what to buy, fresh, high-quality beans arrive at your door—curated by experts, roasted to order, and ready to brew.

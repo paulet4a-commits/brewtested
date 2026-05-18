@@ -5,6 +5,7 @@ category: kitchen
 pubDate: 2026-05-19
 draft: false
 affiliateDisclosure: true
+noindex: true
 ---
 
 Coffee getting cold while you work? A quality mug warmer keeps your brew at the perfect temperature—no more nuking it in the microwave. We've researched the top desktop warmers based on owner reviews, temperature specifications, and real-world performance data to help you stay caffeinated.

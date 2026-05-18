@@ -6,6 +6,7 @@ category: "coffee-makers"
 tags: ["coffee subscription", "coffee delivery", "fresh roasted coffee", "coffee subscription box", "specialty coffee subscription"]
 draft: false
 affiliateDisclosure: true
+noindex: true
 ---
 
 Coffee subscriptions solve the freshness problem: beans from the grocery store are often weeks or months old. A subscription sends you roasted-to-order beans at predictable intervals, often from roasters you'd never find locally. Here are the five worth subscribing to.

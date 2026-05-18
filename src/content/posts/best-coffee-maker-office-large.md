@@ -5,6 +5,7 @@ category: "coffee-makers"
 pubDate: 2026-05-18
 draft: false
 affiliateDisclosure: true
+noindex: true
 author: "BrewTested"
 image: "/images/office-coffee-makers.jpg"
 ---

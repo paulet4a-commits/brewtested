@@ -5,6 +5,7 @@ category: coffee-makers
 pubDate: 2026-05-18
 draft: false
 affiliateDisclosure: true
+noindex: true
 ---
 
 Single-cup coffee makers without pods offer the perfect balance of convenience and control. Skip the expensive capsules and plastic waste—brew fresh coffee exactly how you want it in under five minutes.
