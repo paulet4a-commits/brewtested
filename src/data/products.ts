@@ -73,4 +73,31 @@ export const products: Record<string, Product> = {
   'keurig-k-supreme-plus': { asin: 'B08D35DKMD', name: 'Keurig K-Supreme Plus', category: 'coffee-makers', priceRange: '$140-190', lastVerified: '2026-05-19', status: 'active' },
   'timemore-c3-pro': { asin: 'B09MTXYD7B', name: 'Timemore Chestnut C3 Pro', category: 'grinders', priceRange: '$100-140', lastVerified: '2026-05-19', status: 'active' },
   'hario-skerton-pro': { asin: 'B06XRHQDVD', name: 'Hario Skerton Pro Manual Grinder', category: 'grinders', priceRange: '$40-60', lastVerified: '2026-05-19', status: 'active' },
+
+  // Coffee Warmers
+  'cosori-mug-warmer': { asin: 'B07NJTR7TF', name: 'Cosori Coffee Mug Warmer', category: 'kitchen', priceRange: '$20-28', lastVerified: '2026-05-18', status: 'active' },
+  'ember-mug-2': { asin: 'B09B2N8LYN', name: 'Ember Mug 2 (10 oz)', category: 'kitchen', priceRange: '$130-150', lastVerified: '2026-05-18', status: 'active' },
+  'mr-coffee-mug-warmer': { asin: 'B00004SULH', name: 'Mr. Coffee Mug Warmer', category: 'kitchen', priceRange: '$10-15', lastVerified: '2026-05-18', status: 'active' },
+  'bestinnkits-mug-warmer': { asin: 'B07VVCJFHZ', name: 'Bestinnkits Smart Cup Warmer', category: 'kitchen', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+  'vobaga-mug-warmer': { asin: 'B07XSVVQQQ', name: 'VOBAGA Coffee Mug Warmer', category: 'kitchen', priceRange: '$18-26', lastVerified: '2026-05-18', status: 'active' },
+
+  // Turkish Coffee Makers
+  'bialetti-brikka': { asin: 'B0000CF3Q7', name: 'Bialetti Brikka 2-Cup', category: 'espresso', priceRange: '$40-55', lastVerified: '2026-05-18', status: 'active' },
+  'cezve-copper': { asin: 'B07B9NJWMJ', name: 'Bosphorus Copper Cezve/Ibrik', category: 'kitchen', priceRange: '$25-40', lastVerified: '2026-05-18', status: 'active' },
+  'vahine-turkish-coffee': { asin: 'B09C6FBRGP', name: 'Arzum Okka Turkish Coffee Machine', category: 'kitchen', priceRange: '$70-90', lastVerified: '2026-05-18', status: 'active' },
+
+  // Pod Coffee Makers
+  'keurig-k-duo': { asin: 'B07L6XT34K', name: 'Keurig K-Duo Coffee Maker', category: 'coffee-makers', priceRange: '$130-160', lastVerified: '2026-05-18', status: 'active' },
+  'nespresso-vertuo-pop': { asin: 'B0BMS1CRFK', name: 'Nespresso Vertuo Pop', category: 'espresso', priceRange: '$75-100', lastVerified: '2026-05-18', status: 'active' },
+  'nespresso-original-essenza': { asin: 'B01M9DXUZ0', name: 'Nespresso Essenza Mini Original', category: 'espresso', priceRange: '$100-130', lastVerified: '2026-05-18', status: 'active' },
+
+  // Ultra-Budget Coffee Makers
+  'black-decker-5cup': { asin: 'B004HKUEP0', name: 'BLACK+DECKER 5-Cup Coffee Maker', category: 'coffee-makers', priceRange: '$17-24', lastVerified: '2026-05-18', status: 'active' },
+  'hamilton-beach-12cup-basic': { asin: 'B001NXD3YC', name: 'Hamilton Beach 12-Cup Coffee Maker', category: 'coffee-makers', priceRange: '$20-28', lastVerified: '2026-05-18', status: 'active' },
+  'chulux-single-serve': { asin: 'B07F4K5NWR', name: 'CHULUX Single Serve Coffee Maker', category: 'coffee-makers', priceRange: '$20-28', lastVerified: '2026-05-18', status: 'active' },
+  'mr-coffee-5cup': { asin: 'B000G00VH4', name: 'Mr. Coffee 5-Cup Mini Brew', category: 'coffee-makers', priceRange: '$18-25', lastVerified: '2026-05-18', status: 'active' },
+
+  // Gift Sets
+  'coffee-gift-set-pour-over': { asin: 'B07FQTCRLN', name: 'Pour Over Coffee Gift Set with Filters', category: 'pour-over', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
+  'chemex-gift-set': { asin: 'B001FVJZ4A', name: 'Chemex Classic Pour-Over Set', category: 'pour-over', priceRange: '$45-65', lastVerified: '2026-05-18', status: 'active' },
 };
