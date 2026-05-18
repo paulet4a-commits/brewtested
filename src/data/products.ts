@@ -252,4 +252,26 @@ export const products: Record<string, Product> = {
   // Stovetop Espresso / Moka Pot (additional)
   'bialetti-venus': { asin: 'B00006IUW4', name: 'Bialetti Venus 6-Cup Stainless Moka Pot', category: 'espresso', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
   'bialetti-moka-induction': { asin: 'B07FKSPWM9', name: 'Bialetti Moka Induction 6-Cup', category: 'espresso', priceRange: '$40-55', lastVerified: '2026-05-18', status: 'active' },
+
+  // Automatic Drip Coffee Makers
+  'breville-precision-brewer': { asin: 'B07DKYYDWH', name: 'Breville Precision Brewer 12-Cup', category: 'coffee-makers', priceRange: '$180-220', lastVerified: '2026-05-18', status: 'active' },
+
+  // Camping Coffee Makers
+  'gsi-java-drip': { asin: 'B00BRNZ7GO', name: 'GSI Outdoors JavaDrip Ultralight Pour-Over', category: 'coffee-makers', priceRange: '$12-20', lastVerified: '2026-05-18', status: 'active' },
+  'wacaco-nanopresso': { asin: 'B07B3LVZCC', name: 'Wacaco Nanopresso Portable Espresso Maker', category: 'espresso', priceRange: '$65-85', lastVerified: '2026-05-18', status: 'active' },
+  'stanley-pour-over': { asin: 'B08KGLZPK1', name: 'Stanley Camp Pour Over Coffee Set', category: 'pour-over', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
+  'jetboil-coffee-press': { asin: 'B00D8CGMCE', name: 'Jetboil Coffee Press Kit', category: 'coffee-makers', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Canisters
+  'airscape-canister': { asin: 'B000TCZLAK', name: 'Airscape Coffee Canister Stainless Steel', category: 'kitchen', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+  'fellow-atmos-canister': { asin: 'B07GVMLPNR', name: 'Fellow Atmos Vacuum Coffee Canister', category: 'kitchen', priceRange: '$30-40', lastVerified: '2026-05-18', status: 'active' },
+  'oxo-pop-canister': { asin: 'B003KKXFKA', name: 'OXO Good Grips POP Coffee Container', category: 'kitchen', priceRange: '$12-20', lastVerified: '2026-05-18', status: 'active' },
+  'airscape-kilo': { asin: 'B00HT0CSMW', name: 'Airscape Kilo Coffee Canister (1kg)', category: 'kitchen', priceRange: '$35-50', lastVerified: '2026-05-18', status: 'active' },
+  'vssl-java-container': { asin: 'B07K6GXFT8', name: 'VSSL Java Ground Coffee Container', category: 'kitchen', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
+
+  // Pour-Over Drippers
+  'chemex-3cup': { asin: 'B000P4D5HG', name: 'Chemex Classic 3-Cup Pour-Over Coffee Maker', category: 'pour-over', priceRange: '$35-50', lastVerified: '2026-05-18', status: 'active' },
+  'melitta-cone-dripper': { asin: 'B00005LMH6', name: 'Melitta Cone Coffee Filter Holder', category: 'pour-over', priceRange: '$5-12', lastVerified: '2026-05-18', status: 'active' },
+  'kalita-wave': { asin: 'B00FLYWNYQ', name: 'Kalita Wave Stainless Steel Coffee Dripper', category: 'pour-over', priceRange: '$25-40', lastVerified: '2026-05-18', status: 'active' },
+  'oxo-pour-over': { asin: 'B00OXNP914', name: 'OXO Good Grips Pour-Over Coffee Maker', category: 'pour-over', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
 };
