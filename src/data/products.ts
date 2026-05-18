@@ -142,6 +142,17 @@ export const products: Record<string, Product> = {
   'takeya-cold-brew': { asin: 'B00DYOYFHI', name: 'Takeya Patented Deluxe Cold Brew Coffee Maker', category: 'coffee-makers', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
   'county-line-cold-brew': { asin: 'B07CQSLQZT', name: 'County Line Kitchen Cold Brew Mason Jar', category: 'coffee-makers', priceRange: '$18-25', lastVerified: '2026-05-18', status: 'active' },
 
+  // Single Serve & Travel
+  'black-decker-brew-n-go': { asin: 'B00005IBX6', name: "BLACK+DECKER Brew 'N Go Personal Coffee Maker", category: 'coffee-makers', priceRange: '$20-28', lastVerified: '2026-05-18', status: 'active' },
+
+  // Ultra-Budget Drip
+  'proctor-silex-43501': { asin: 'B000QX4UYY', name: 'Proctor Silex 43501 12-Cup Coffee Maker', category: 'coffee-makers', priceRange: '$15-22', lastVerified: '2026-05-18', status: 'active' },
+  'mr-coffee-simple-brew': { asin: 'B000JM6ZFQ', name: 'Mr. Coffee 5-Cup Simple Brew Coffee Maker', category: 'coffee-makers', priceRange: '$18-25', lastVerified: '2026-05-18', status: 'active' },
+
+  // Budget Grinders (blade)
+  'mr-coffee-blade-grinder': { asin: 'B003O2WBDC', name: 'Mr. Coffee Electric Blade Coffee Grinder', category: 'grinders', priceRange: '$12-18', lastVerified: '2026-05-18', status: 'active' },
+  'hamilton-beach-blade-80393': { asin: 'B005OUXNTO', name: 'Hamilton Beach 80393 Electric Blade Grinder', category: 'grinders', priceRange: '$18-25', lastVerified: '2026-05-18', status: 'active' },
+
   // Mid-Range Espresso & Drip
   'breville-infuser': { asin: 'B0084RVALO', name: 'Breville BES840XL The Infuser Espresso Machine', category: 'espresso', priceRange: '$250-320', lastVerified: '2026-05-18', status: 'active' },
   'bonavita-8cup': { asin: 'B00LNLTML4', name: 'Bonavita 8-Cup One-Touch Coffee Maker', category: 'coffee-makers', priceRange: '$60-80', lastVerified: '2026-05-18', status: 'active' },
