@@ -1,0 +1,72 @@
+---
+interface Props {
+  heading?: string;
+  subheading?: string;
+  buttonText?: string;
+  variant?: 'inline' | 'box';
+  // Wire this to Buttondown: https://buttondown.com/api/emails/embed-subscribe/{username}
+  formAction?: string;
+}
+
+const {
+  heading = 'Free Home Espresso Setup Checklist',
+  subheading = 'The 12-item checklist serious beginners use before buying anything. Machine, grinder, accessories — in priority order.',
+  buttonText = 'Send Me the Checklist',
+  variant = 'box',
+  formAction = 'https://buttondown.com/api/emails/embed-subscribe/brewtested',
+} = Astro.props;
+---
+
+{variant === 'box' ? (
+  <div class="my-8 bg-amber-50 border border-amber-200 rounded-xl p-6 not-prose">
+    <p class="text-xs uppercase tracking-widest text-amber-600 font-semibold mb-1">Free resource</p>
+    <h3 class="text-lg font-bold text-gray-900 mb-2">{heading}</h3>
+    <p class="text-sm text-gray-600 mb-4">{subheading}</p>
+    <form
+      action={formAction}
+      method="post"
+      class="flex flex-col sm:flex-row gap-2"
+      target="_blank"
+    >
+      <input
+        type="email"
+        name="email"
+        required
+        placeholder="your@email.com"
+        class="flex-1 px-4 py-2.5 rounded-lg border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400 focus:border-transparent"
+      />
+      <button
+        type="submit"
+        class="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-semibold text-sm rounded-lg transition-colors whitespace-nowrap"
+      >
+        {buttonText}
+      </button>
+    </form>
+    <p class="text-xs text-gray-400 mt-2">No spam. Unsubscribe any time.</p>
+  </div>
+) : (
+  <div class="my-6 border-t border-b border-amber-100 py-5 not-prose">
+    <p class="text-sm font-semibold text-gray-800 mb-1">{heading}</p>
+    <p class="text-xs text-gray-500 mb-3">{subheading}</p>
+    <form
+      action={formAction}
+      method="post"
+      class="flex flex-col sm:flex-row gap-2"
+      target="_blank"
+    >
+      <input
+        type="email"
+        name="email"
+        required
+        placeholder="your@email.com"
+        class="flex-1 px-3 py-2 rounded border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
+      />
+      <button
+        type="submit"
+        class="px-4 py-2 bg-amber-600 hover:bg-amber-700 text-white font-semibold text-sm rounded transition-colors"
+      >
+        {buttonText}
+      </button>
+    </form>
+  </div>
+)}
