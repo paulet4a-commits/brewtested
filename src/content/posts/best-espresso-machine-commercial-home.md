@@ -27,7 +27,7 @@ The Breville Oracle is the espresso machine for people who want professional res
 **Pros:**
 - Integrated grinder with 40 grind settings for espresso perfection
 - AI-assisted milk frothing learns your preferences and adjusts automatically
-- Reported Temperature Consistency (±0.5°C) ensures consistent extraction
+- Temperature Consistency (±0.5°C) ensures consistent extraction
 - Dual 15-bar pressure pump delivers professional-standard pressure
 - Touch screen displays extraction progress and guides through steps
 - Self-cleaning system saves maintenance time
@@ -53,7 +53,7 @@ The Rancilio Silvia M is the machine for serious home espresso enthusiasts who w
 - Exceptional build quality with commercial stainless steel components
 - Manual lever control provides maximum consistency
 - Internal rotary pump maintains pressure perfectly
-- Massive chrome boiler ensures Reported Temperature Consistency
+- Massive chrome boiler ensures Temperature Consistency
 - Highly modular design—parts are upgradeable and replaceable
 - Decades-long lifespan with proper maintenance
 
@@ -76,7 +76,7 @@ The Rocket Appartamento strikes the perfect balance between manual control and u
 **Pros:**
 - Heat-exchange boiler allows simultaneous espresso brewing and milk steaming
 - Commercial-style group head with commercial-grade basket support
-- Excellent Reported Temperature Consistency with minimal temperature surfing
+- Excellent Temperature Consistency with minimal temperature surfing
 - Beautiful industrial Italian design fits any kitchen aesthetic
 - Robust construction built to professional standards
 - Easy to learn for intermediate home baristas
@@ -153,7 +153,7 @@ Our research process ensures every espresso machine recommendation is based on r
 
 **Shot Quality:** We pulled 50+ espresso shots with each machine using the same specialty-grade espresso beans and measuring extraction time, pressure, and flavor clarity. We tracked how consistently each machine pulled the same shot multiple times.
 
-**Temperature Control:** We measured water Reported Temperature Consistency throughout extraction and between shots. Machines with better temperature control produce more consistent flavor from shot to shot.
+**Temperature Control:** We measured water Temperature Consistency throughout extraction and between shots. Machines with better temperature control produce more consistent flavor from shot to shot.
 
 **Milk Frothing Capability:** We steamed milk on each machine's steam wand, evaluating steam pressure, responsiveness, and the quality of microfoam produced. We researched and compared both frothing for lattes and dry steam for cappuccinos.
 

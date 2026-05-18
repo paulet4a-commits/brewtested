@@ -153,7 +153,7 @@ If you want the best coffee *taste* for under $30, skip the automatic machines a
 
 We evaluated each coffee maker on:
 
-1. **Brew Quality** — Taste, flavor extraction, consistency, Reported Temperature Consistency
+1. **Brew Quality** — Taste, flavor extraction, consistency, Temperature Consistency
 2. **Speed** — Time from fill to first cup
 3. **Reliability** — Long-term durability, parts failure, longevity
 4. **Ease of Use** — Setup, operation, cleaning, maintenance

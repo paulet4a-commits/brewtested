@@ -128,7 +128,7 @@ Peet's Major Dickason's light roast is a classic for everyday drinking. This ble
 
 ## How We Researched
 
-We brewed each coffee using three methods to evaluate versatility: pour-over, French press, and automatic drip. We assessed acidity, body, aroma, flavor complexity, and consistency across multiple bags purchased over two months. Each tasting was conducted blind by three evaluators using the Specialty Coffee Association cupping protocols. We also considered value—calculating the cost-per-ounce and comparing Reported Flavor Quality relative to price.
+We brewed each coffee using three methods to evaluate versatility: pour-over, French press, and automatic drip. We assessed acidity, body, aroma, flavor complexity, and consistency across multiple bags purchased over two months. Each tasting was conducted blind by three evaluators using the Specialty Coffee Association cupping protocols. We also considered value—calculating the cost-per-ounce and comparing Flavor Quality relative to price.
 
 ## FAQ
 

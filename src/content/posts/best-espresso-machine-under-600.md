@@ -78,7 +78,7 @@ Internal link: For a grinder pairing, see our [best espresso grinder under $100 
 
 **What owner reviews indicate:** The community feedback on this machine is unusual—people don't just tolerate it, they actively improve it. The build quality is solid enough to survive upgrades (PID temperature controllers, OPV modifications, pump replacements). Shots are good but not exceptional due to the 9-bar pressure; however, this can be modified. The steam wand works but requires practice for microfoam. Users report the machine is reliable for 5+ years.
 
-**Real-world considerations:** 9 bars is lower than ideal (15-bar competitors pull easier shots), but it's not a dealbreaker—it requires slightly tighter tamping or slower pull. You absolutely need a separate grinder; the Classic Pro has no built-in option. The boiler is small (1L), so you'll wait 30–40 seconds between espresso and steam. No fancy features like pre-infusion (though it has it) or Reported Temperature Consistency tech.
+**Real-world considerations:** 9 bars is lower than ideal (15-bar competitors pull easier shots), but it's not a dealbreaker—it requires slightly tighter tamping or slower pull. You absolutely need a separate grinder; the Classic Pro has no built-in option. The boiler is small (1L), so you'll wait 30–40 seconds between espresso and steam. No fancy features like pre-infusion (though it has it) or Temperature Consistency tech.
 
 **Where it shines:** Budget buyers who see the espresso machine as a 3–5 year investment they'll modify over time. Tinkerers and modding enthusiasts. People in the "I want to learn espresso without spending $700" category. The modding community is massive—upgrades are well-documented and affordable.
 

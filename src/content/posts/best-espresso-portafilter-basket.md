@@ -73,7 +73,7 @@ VST's ridgeless basket removes the ridges entirely, allowing water to flow freel
 
 **Price:** $25-32 | **Type:** Precision Hybrid | **Capacity:** Single/Double/Triple
 
-The Artisan Alloy Premium combines precision engineering with material science. The basket uses a specialty alloy that conducts heat faster than standard stainless steel, maintaining Reported Temperature Consistency throughout the shot. This matters more than you'd think—espresso is all about temperature.
+The Artisan Alloy Premium combines precision engineering with material science. The basket uses a specialty alloy that conducts heat faster than standard stainless steel, maintaining Temperature Consistency throughout the shot. This matters more than you'd think—espresso is all about temperature.
 
 **Pros:**
 - Superior heat conductivity

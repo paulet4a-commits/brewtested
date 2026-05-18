@@ -144,7 +144,7 @@ Our research protocol evaluated each stainless steel coffee maker across five cr
 
 **Ease of Use:** Real household users (not coffee experts) operated each machine following only the manual, noting pain points and intuitive features.
 
-**Value Assessment:** We calculated cost-per-cup based on machine price, lifespan expectations, and water efficiency against Reported Flavor Quality delivered.
+**Value Assessment:** We calculated cost-per-cup based on machine price, lifespan expectations, and water efficiency against Flavor Quality delivered.
 
 ## Frequently Asked Questions
 

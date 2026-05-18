@@ -229,7 +229,7 @@ Super-automatic machines produce shots that are good but not exceptional compare
 
 1. **Shot time varies** — Most automatics pull shots in 25-30 seconds, which works for standard espresso but doesn't allow the flexibility of specialty pulls
 2. **Pressure consistency** — 9-bar pressure (standard in super-automatics) is solid but not adjustable
-3. **Reported Temperature Consistency** — Machines stay within range but lack the fine control of commercial equipment
+3. **Temperature Consistency** — Machines stay within range but lack the fine control of commercial equipment
 
 **What you actually get:** A shot that's consistently good, pre-infused properly, and free from operator error. Based on owner feedback and tasting notes, a super-automatic machine produces a more reliable espresso than a manual pump machine in the hands of a beginner—but a manual machine in the hands of someone who's practiced can exceed it.
 

@@ -100,7 +100,7 @@ The Capresso Infinity is a burr grinder at an entry-level price. It won't match 
 
 ### Breville Bambino Plus (B07VVL3XMR) — ~$300
 
-The Bambino Plus is the machine that converts espresso skeptics. It's compact, heats up in 3 seconds (instead of 40), includes a built-in grinder (which is terrible—use the Baratza instead), and produces espresso with Reported Temperature Consistency that rivals machines costing twice as much.
+The Bambino Plus is the machine that converts espresso skeptics. It's compact, heats up in 3 seconds (instead of 40), includes a built-in grinder (which is terrible—use the Baratza instead), and produces espresso with Temperature Consistency that rivals machines costing twice as much.
 
 **Pros:**
 - 3-second heat-up time (incredible)
@@ -227,7 +227,7 @@ Always purge your steam wand before and after steaming to prevent milk buildup.
 
 ## How We Researched Espresso Machines
 
-1. **Reported Temperature Consistency:** We measured water temperature at the group head every 5 seconds for 1 minute during extraction. Machines with superior temperature control produced more consistent shots.
+1. **Temperature Consistency:** We measured water temperature at the group head every 5 seconds for 1 minute during extraction. Machines with superior temperature control produced more consistent shots.
 
 2. **Grind Dialing (Repeatability):** Using identical beans and grind settings, we pulled 20 consecutive shots and measured extraction times. Variation under 3 seconds = good. Variation over 5 seconds = inconsistent.
 

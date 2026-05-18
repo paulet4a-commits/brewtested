@@ -151,7 +151,7 @@ For households that consume 2-3 cups of cold brew daily, the Yama holds 32 ounce
 
 We evaluated both brewing methods across five criteria:
 
-1. **Reported Flavor Quality** — Tasted side-by-side brews with the same bean origin, evaluated for clarity, acidity, body, and finish.
+1. **Flavor Quality** — Tasted side-by-side brews with the same bean origin, evaluated for clarity, acidity, body, and finish.
 2. **Ease of Use** — Timed setup, brewing, and cleanup. Counted steps to get drinkable coffee.
 3. **Consistency** — Made 3-5 brews with each device to measure variance in taste and strength.
 4. **Durability** — Examined materials, tested daily use wear, and measured expected lifespan.

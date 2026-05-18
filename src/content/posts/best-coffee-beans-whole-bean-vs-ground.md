@@ -93,7 +93,7 @@ LifeBoost offers organic, shade-grown beans at a lower price point than premium 
 - Slightly lighter roast (less body)
 - Grinder still required
 
-**Our Take:** Best whole bean option for budget-conscious coffee drinkers. You save money without sacrificing too much on Reported Flavor Quality.
+**Our Take:** Best whole bean option for budget-conscious coffee drinkers. You save money without sacrificing too much on Flavor Quality.
 
 **Buy Now:** [LifeBoost Whole Bean on Amazon](https://www.amazon.com/s?k=lifeboost+coffee+whole+bean&tag=brewtested07-20)
 

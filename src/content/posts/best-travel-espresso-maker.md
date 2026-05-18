@@ -7,7 +7,7 @@ category: espresso
 affiliateDisclosure: true
 ---
 
-When you're traveling, camping, or living in an RV, sacrificing your morning espresso doesn't have to be the price of adventure. Modern portable espresso makers deliver genuine pressure-based extraction that owner reviews consistently praise for Reported Flavor Quality—without needing a kitchen outlet or complex setup.
+When you're traveling, camping, or living in an RV, sacrificing your morning espresso doesn't have to be the price of adventure. Modern portable espresso makers deliver genuine pressure-based extraction that owner reviews consistently praise for Flavor Quality—without needing a kitchen outlet or complex setup.
 
 User feedback indicates that true espresso requires at least 9 bars of pressure to properly extract the coffee's flavors and create that signature crema. The portable options below all meet this requirement through different mechanisms: manual hand pumps, battery-powered components, or compact electric designs.
 

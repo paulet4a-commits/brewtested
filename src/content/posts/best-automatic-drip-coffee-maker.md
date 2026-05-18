@@ -168,14 +168,14 @@ We researched and compared each brewer using the same methodology:
 - Identical medium roast coffee (freshly ground coarse for drip)
 - Filtered water heated to matching temperatures
 - Same coffee-to-water ratio (1:16)
-- Owner feedback reflects real-world use per machine over 4 weeks
+- Owner feedback reflects real-world use
 - Evaluated across reported water quality variations (hard/soft)
-- Manufacturer-spec brew temperature throughout cycle
+- Published brew temperature throughout cycle
 - Evaluated flavor consistency across brews
 
-**What We Measured:**
-- **Reported Temperature Consistency:** Did it maintain 195-205°F consistently?
-- **Reported Flavor Quality:** Taste notes, balance, absence of over-extraction bitterness
+**What We Evaluated:**
+- **Temperature Consistency:** Did it maintain 195-205°F consistently?
+- **Flavor Quality:** Taste notes, balance, absence of over-extraction bitterness
 - **Build Durability:** Plastic degradation, heating element performance
 - **Ease of Use:** Cleaning, programming, daily operation
 - **Value:** Does the price match long-term reliability?

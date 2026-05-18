@@ -9,7 +9,7 @@ affiliateDisclosure: true
 
 A gooseneck kettle does one thing better than anything else: precise water pouring. The thin spout gives you control that regular kettles can't match. Add electric heating with temperature precision, and you've got a tool that transforms pour-over coffee and espresso.
 
-But do you need variable temperature, or is fixed 195°F enough? And which kettle justifies its price? This guide compares five models based on owner feedback, focusing on Reported Temperature Consistency, pour control, and whether premium features actually matter for daily brewing.
+But do you need variable temperature, or is fixed 195°F enough? And which kettle justifies its price? This guide compares five models based on owner feedback, focusing on Temperature Consistency, pour control, and whether premium features actually matter for daily brewing.
 
 ## Quick Comparison Table
 

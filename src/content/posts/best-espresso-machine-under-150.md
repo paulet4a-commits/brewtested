@@ -63,7 +63,7 @@ The Gaggia Classic Pro is a legendary budget espresso machine beloved by enthusi
 **Cons:**
 - Requires learning curve (manual group lever operation)
 - 9-bar pressure won't match 15-bar machines out of the box
-- Boiler Reported Temperature Consistency varies
+- Boiler Temperature Consistency varies
 - No built-in grinder
 - Requires attention to water quality and maintenance
 
@@ -75,7 +75,7 @@ The Gaggia Classic Pro is a legendary budget espresso machine beloved by enthusi
 
 ### Breville Bambino: Best for Compact Speed
 
-The Breville Bambino (under $149 on deals) is the tiny powerhouse that changed budget espresso in 2019. This Australian-designed machine is only 7 inches wide but houses a thermojet heating system that reaches temperature in 3 seconds. The ThermoJet technology maintains Reported Temperature Consistency throughout your shot, delivering consistency that machines twice the price struggle to match.
+The Breville Bambino (under $149 on deals) is the tiny powerhouse that changed budget espresso in 2019. This Australian-designed machine is only 7 inches wide but houses a thermojet heating system that reaches temperature in 3 seconds. The ThermoJet technology maintains Temperature Consistency throughout your shot, delivering consistency that machines twice the price struggle to match.
 
 **Pros:**
 - Incredibly fast heat-up (3 seconds to first shot)

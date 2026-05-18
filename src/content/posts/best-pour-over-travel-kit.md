@@ -163,7 +163,7 @@ The Nanopresso is ideal for adventurers who want to explore a completely differe
 
 We evaluated each pour over travel kit based on:
 - **Portability:** Weight, packed size, and ease of fitting into backpacks
-- **Brew Quality:** Flavor clarity, Reported Temperature Consistency, extraction consistency
+- **Brew Quality:** Flavor clarity, Temperature Consistency, extraction consistency
 - **Durability:** How well each kit handles the abuse of travel and camping
 - **Ease of Use:** Setup time, learning curve, number of steps required
 - **Water Efficiency:** How much water is needed per cup

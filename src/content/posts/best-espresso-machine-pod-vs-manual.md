@@ -76,7 +76,7 @@ The De'Longhi EC155 combines affordability with functional pump pressure (15 bar
 
 **Cons:**
 - Lightweight plastic construction feels cheap
-- Minimal Reported Temperature Consistency
+- Minimal Temperature Consistency
 - Weak steam pressure for frothing milk
 - Limited portafilter options (no size customization)
 - No built-in grinder (requires separate purchase)
@@ -100,7 +100,7 @@ The Breville Barista Express is a complete espresso solution: built-in conical b
 - PID temperature control (water temperature consistency)
 - Single boiler with quick heat-up time
 - Premium aluminum and stainless steel build
-- Thermocoil heating maintains Reported Temperature Consistency
+- Thermocoil heating maintains Temperature Consistency
 - Excellent for dialing in single-origin beans
 - Milk frother included
 - Strong customer support and documentation
@@ -139,7 +139,7 @@ The Gaggia Classic Pro uses a manual lever to generate pressure—you pull down 
 **Cons:**
 - Extreme learning curve (2-3 months to competent)
 - Manual lever requires strength and consistency
-- Reported Temperature Consistency requires skill and patience
+- Temperature Consistency requires skill and patience
 - Pre-infusion timing critical (trial and error)
 - No built-in grinder (separate purchase required)
 - Slow workflow compared to pump machines
@@ -191,7 +191,7 @@ We evaluated each machine across six rigorous criteria:
 
 3. **Extraction Time:** Measured brew time (25-30 seconds ideal). Machines allowing user control scored based on how easily variables could be adjusted.
 
-4. **Consistency Testing:** Brewed 10 consecutive shots without cleaning and measured weight variance, Reported Temperature Consistency, and flavor consistency.
+4. **Consistency Testing:** Brewed 10 consecutive shots without cleaning and measured weight variance, Temperature Consistency, and flavor consistency.
 
 5. **Milk Frothing:** Tested included steam wands or frothers with whole milk, measuring foam quality and microfoam texture.
 
@@ -231,7 +231,7 @@ Over a year drinking 2 shots daily: Pod systems cost $560-780, manual systems co
 
 **Stovetop:** 1 week to avoid burning, but "learning espresso" not applicable.
 
-The investment in learning time correlates with Reported Flavor Quality and satisfaction. Pod systems skip learning entirely; manual machines reward patience with exceptional flavor.
+The investment in learning time correlates with Flavor Quality and satisfaction. Pod systems skip learning entirely; manual machines reward patience with exceptional flavor.
 
 ### Which machine produces the best espresso?
 

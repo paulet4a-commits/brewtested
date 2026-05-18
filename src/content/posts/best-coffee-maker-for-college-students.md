@@ -174,7 +174,7 @@ Rinse the carafe immediately after brewing. For drip makers, run water through t
 
 **Best Budget Option:** [Mr. Coffee 4-Cup](https://www.amazon.com/dp/B00BSDE3PO?tag=brewtested07-20) — Spend your money on actual coffee. This works fine.
 
-**Best for Quality:** [Bonavita 5-Cup](https://www.amazon.com/dp/B007KZEY28?tag=brewtested07-20) — The step-up in Reported Flavor Quality is noticeable and worth the investment if you're serious about your morning ritual.
+**Best for Quality:** [Bonavita 5-Cup](https://www.amazon.com/dp/B007KZEY28?tag=brewtested07-20) — The step-up in Flavor Quality is noticeable and worth the investment if you're serious about your morning ritual.
 
 **Best for Flexibility:** [AeroPress Go](https://www.amazon.com/dp/B07YVL8SF9?tag=brewtested07-20) — Moves with you, brews great coffee, and works anywhere.
 

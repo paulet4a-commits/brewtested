@@ -129,7 +129,7 @@ We purchased all five canisters and filled each with the same batch of medium ro
 
 1. **Seal Test** - Used digital scales to check for any weight loss indicating air infiltration
 2. **Freshness Evaluation** - Brewed identical cups weekly using beans from each container, rating aroma and flavor
-3. **Reported Temperature Consistency** - Measured internal temperatures with thermal imaging to assess insulation
+3. **Temperature Consistency** - Measured internal temperatures with thermal imaging to assess insulation
 4. **Long-term Durability** - Inspected lids and seals weekly for wear and degradation
 5. **User Experience** - Tracked ease of daily use with a scoring rubric
 

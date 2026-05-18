@@ -26,6 +26,11 @@ export const products: Record<string, Product> = {
   'nespresso-vertuo-next': { asin: 'B0819X2PXB', name: 'Nespresso Vertuo Next', category: 'espresso', priceRange: '$130-180', lastVerified: '2026-05-19', status: 'active' },
   'rancilio-silvia': { asin: 'B000HHL7BK', name: 'Rancilio Silvia', category: 'espresso', priceRange: '$500-600', lastVerified: '2026-05-19', status: 'active' },
 
+  // Budget Grinders
+  'cuisinart-dbm-8': { asin: 'B000A38XB8', name: 'Cuisinart DBM-8 Supreme Grind', category: 'grinders', priceRange: '$22-32', lastVerified: '2026-05-18', status: 'active' },
+  'javapresse-manual': { asin: 'B00LNFOVKI', name: 'JavaPresse Manual Coffee Grinder', category: 'grinders', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
+  'timemore-chestnut-c2': { asin: 'B09QVDV7FP', name: 'Timemore Chestnut C2 Manual Grinder', category: 'grinders', priceRange: '$55-70', lastVerified: '2026-05-18', status: 'active' },
+
   // Grinders
   'baratza-encore': { asin: 'B00LW8I37G', name: 'Baratza Encore', category: 'grinders', priceRange: '$150-200', lastVerified: '2026-05-19', status: 'active' },
   'baratza-virtuoso-plus': { asin: 'B07DKGKX64', name: 'Baratza Virtuoso+', category: 'grinders', priceRange: '$180-230', lastVerified: '2026-05-19', status: 'active' },
@@ -49,6 +54,10 @@ export const products: Record<string, Product> = {
 
   // French Press
   'bodum-chambord': { asin: 'B00008MBQ7', name: 'Bodum Chambord French Press', category: 'french-press', priceRange: '$30-50', lastVerified: '2026-05-19', status: 'active' },
+  'bodum-chambord-34oz': { asin: 'B00008XE8Q', name: 'Bodum Chambord 34oz French Press', category: 'french-press', priceRange: '$22-30', lastVerified: '2026-05-18', status: 'active' },
+  'sterlingpro-double-wall': { asin: 'B01MTTMG7Y', name: 'SterlingPro Double Wall French Press', category: 'french-press', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+  'coffee-gator-french-press': { asin: 'B00SNME7T4', name: 'Coffee Gator French Press', category: 'french-press', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+  'kona-french-press': { asin: 'B00GXAGN0M', name: 'KONA French Press', category: 'french-press', priceRange: '$18-25', lastVerified: '2026-05-18', status: 'active' },
   'bialetti-moka-express-6cup': { asin: 'B0000CF3Q6', name: 'Bialetti Moka Express 6-Cup', category: 'espresso', priceRange: '$35-50', lastVerified: '2026-05-19', status: 'active' },
 
   // Portable
@@ -66,7 +75,6 @@ export const products: Record<string, Product> = {
   'breville-dual-boiler': { asin: 'B00BWKDHZS', name: 'Breville Dual Boiler BES920XL', category: 'espresso', priceRange: '$900-1100', lastVerified: '2026-05-19', status: 'active' },
   'philips-3200': { asin: 'B08FQZMQYL', name: 'Philips 3200 LatteGo', category: 'espresso', priceRange: '$450-600', lastVerified: '2026-05-19', status: 'active' },
   'moccamaster-kbt-thermal': { asin: 'B000VHKP44', name: 'Moccamaster KBT Thermal', category: 'coffee-makers', priceRange: '$330-380', lastVerified: '2026-05-19', status: 'active' },
-  'oxo-brew-9cup': { asin: 'B079SF3FTB', name: 'OXO Brew 9-Cup Coffee Maker', category: 'coffee-makers', priceRange: '$170-230', lastVerified: '2026-05-19', status: 'active' },
   'wacaco-minipresso': { asin: 'B00ZHUKQKO', name: 'Wacaco Minipresso GR', category: 'espresso', priceRange: '$45-65', lastVerified: '2026-05-19', status: 'active' },
   'nespresso-aeroccino3': { asin: 'B01AHEBBY2', name: 'Nespresso Aeroccino3 Milk Frother', category: 'kitchen', priceRange: '$55-80', lastVerified: '2026-05-19', status: 'active' },
   'zulay-milk-frother': { asin: 'B078RJNSLZ', name: 'Zulay Kitchen Milk Boss Frother', category: 'kitchen', priceRange: '$10-15', lastVerified: '2026-05-19', status: 'active' },
@@ -90,6 +98,11 @@ export const products: Record<string, Product> = {
   'keurig-k-duo': { asin: 'B07L6XT34K', name: 'Keurig K-Duo Coffee Maker', category: 'coffee-makers', priceRange: '$130-160', lastVerified: '2026-05-18', status: 'active' },
   'nespresso-vertuo-pop': { asin: 'B0BMS1CRFK', name: 'Nespresso Vertuo Pop', category: 'espresso', priceRange: '$75-100', lastVerified: '2026-05-18', status: 'active' },
   'nespresso-original-essenza': { asin: 'B01M9DXUZ0', name: 'Nespresso Essenza Mini Original', category: 'espresso', priceRange: '$100-130', lastVerified: '2026-05-18', status: 'active' },
+
+  // Budget Coffee Makers (under $50)
+  'black-decker-cm0912b': { asin: 'B07CNJL9HT', name: 'BLACK+DECKER 12-Cup CM0912B', category: 'coffee-makers', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+  'hamilton-beach-49350': { asin: 'B001YQ0M14', name: 'Hamilton Beach 49350 12-Cup', category: 'coffee-makers', priceRange: '$30-40', lastVerified: '2026-05-18', status: 'active' },
+  'cuisinart-dcc-450': { asin: 'B00B0BSQCE', name: 'Cuisinart DCC-450BK 4-Cup', category: 'coffee-makers', priceRange: '$35-45', lastVerified: '2026-05-18', status: 'active' },
 
   // Ultra-Budget Coffee Makers
   'black-decker-5cup': { asin: 'B004HKUEP0', name: 'BLACK+DECKER 5-Cup Coffee Maker', category: 'coffee-makers', priceRange: '$17-24', lastVerified: '2026-05-18', status: 'active' },

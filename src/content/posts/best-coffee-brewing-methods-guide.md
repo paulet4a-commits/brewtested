@@ -370,7 +370,7 @@ Why: Insert pod, press button, done. Consistency at cost of flavor depth.
 **Best:** French Press or Moka Pot  
 **Why:** $20-30 investment, zero recurring costs (no filters, pods, subscriptions).
 
-### "Reported Flavor Quality is non-negotiable"
+### "Flavor Quality is non-negotiable"
 **Best:** Pour Over  
 **Why:** Highest ceiling for complexity. Technique is rewarded.
 
@@ -426,7 +426,7 @@ A: Critical. Coarse = underextraction (weak). Fine = overextraction (bitter). Ma
 A: Avoid if possible. Grounds oxidize rapidly—whole beans ground fresh produce dramatically better flavor. Invest in a burr grinder. See [best coffee grinder under $200](/posts/best-coffee-grinder-under-200/).
 
 **Q: Is a grinder necessary?**  
-A: For Reported Flavor Quality, yes (except with pre-portioned pods). A $50 burr grinder outperforms pre-ground from premium roasters.
+A: For Flavor Quality, yes (except with pre-portioned pods). A $50 burr grinder outperforms pre-ground from premium roasters.
 
 **Q: Can I cold brew with espresso machines?**  
 A: No, espresso requires pressure and heat. Cold brew is inherently different extraction method.

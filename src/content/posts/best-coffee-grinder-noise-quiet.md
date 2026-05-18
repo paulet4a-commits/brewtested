@@ -67,7 +67,7 @@ Find the Baratza Encore B007F183LK on Amazon: https://www.amazon.com/dp/B007F183
 
 ### 3. OXO Brew Conical Burr Grinder (Best User-Friendly Quiet Option)
 
-The OXO Brew conical burr grinder combines quiet operation with user-friendly design. It's a single-button grinder that handles both coarse and fine grounds, and the intuitive interface means no learning curve. The conical burrs keep noise down while maintaining Reported Flavor Quality.
+The OXO Brew conical burr grinder combines quiet operation with user-friendly design. It's a single-button grinder that handles both coarse and fine grounds, and the intuitive interface means no learning curve. The conical burrs keep noise down while maintaining Flavor Quality.
 
 **Pros:**
 - Simple one-touch operation

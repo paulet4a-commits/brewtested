@@ -38,7 +38,7 @@ The Moccamaster is our quietest automatic coffee maker with genuinely excellent 
 
 **Pros:**
 - Genuinely quiet for an automatic coffee maker (68 dB = normal conversation)
-- Excellent Reported Temperature Consistency (195-205°F optimal extraction)
+- Excellent Temperature Consistency (195-205°F optimal extraction)
 - Brews 10 cups in 4-5 minutes
 - Beautiful design (fits modern kitchens)
 - 5-year warranty (quality investment)

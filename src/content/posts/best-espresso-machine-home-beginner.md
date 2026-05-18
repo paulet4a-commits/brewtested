@@ -139,7 +139,7 @@ The Breville Bambino is expensive for a beginner machine ($250–300), but if yo
 - Rapid heat-up (3 seconds on standby)
 - Compact size (7" × 8", smaller than Gaggia)
 - Exceptional crema and extraction quality
-- PID thermostat for Reported Temperature Consistency
+- PID thermostat for Temperature Consistency
 
 **Cons:**
 - Price: $250–300 (higher than Breville Barista Express)
