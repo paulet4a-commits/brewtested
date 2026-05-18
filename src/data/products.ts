@@ -349,6 +349,13 @@ export const products: Record<string, Product> = {
   'dripkit-medium-roast': { asin: 'B08XYZQ1PT', name: 'Dripkit Specialty Medium Roast Coffee', category: 'coffee-beans', priceRange: '$13-16', lastVerified: '2026-05-18', status: 'active' },
   'counter-culture-oak-street': { asin: 'B09PFZC1FX', name: 'Counter Culture Coffee Oak Street Blend', category: 'coffee-beans', priceRange: '$14-17', lastVerified: '2026-05-18', status: 'active' },
 
+  // Coffee Beans — Single Origin
+  'blue-bottle-bella-donovan': { asin: 'B00PZ34FZU', name: 'Blue Bottle Coffee Bella Donovan Blend', category: 'coffee-beans', priceRange: '$16-20', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Beans — Subscription
+  'trade-coffee': { asin: 'B08T9FBJVY', name: 'Trade Coffee Subscription', category: 'coffee-beans', priceRange: '$11-14', lastVerified: '2026-05-18', status: 'active' },
+  'atlas-coffee-club': { asin: 'B08GYRX5LN', name: 'Atlas Coffee Club Subscription', category: 'coffee-beans', priceRange: '$10-13', lastVerified: '2026-05-18', status: 'active' },
+
   // Coffee Beans — Organic
   'lifeboost-medium-roast': { asin: 'B07X7Q4XWF', name: 'Lifeboost Coffee Medium Roast Whole Bean', category: 'coffee-beans', priceRange: '$35-45', lastVerified: '2026-05-18', status: 'active' },
   'death-wish-organic': { asin: 'B08YQMZ1JM', name: 'Death Wish Coffee Organic Dark Roast', category: 'coffee-beans', priceRange: '$30-38', lastVerified: '2026-05-18', status: 'active' },
