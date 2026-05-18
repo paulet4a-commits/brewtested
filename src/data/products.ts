@@ -2,6 +2,7 @@ export interface MerchantLink {
   name: string;
   url: string;
   priority: number; // 1 = preferred, 2 = fallback
+  approved: boolean; // false = affiliate application pending, not yet active
 }
 
 export interface Product {
@@ -26,25 +27,55 @@ export function affiliateUrl(asin: string): string {
 }
 
 export function getPreferredUrl(product: Product): string {
-  if (!product.merchants || product.merchants.length === 0) {
-    return affiliateUrl(product.asin);
-  }
-  const preferred = product.merchants.slice().sort((a, b) => a.priority - b.priority)[0];
-  return preferred.url;
+  const active = (product.merchants ?? [])
+    .filter((m) => m.approved)
+    .sort((a, b) => a.priority - b.priority)[0];
+  return active ? active.url : affiliateUrl(product.asin);
 }
 
 export function getPreferredMerchant(product: Product): string {
-  if (!product.merchants || product.merchants.length === 0) return 'amazon';
-  const preferred = product.merchants.slice().sort((a, b) => a.priority - b.priority)[0];
-  return preferred.name;
+  const active = (product.merchants ?? [])
+    .filter((m) => m.approved)
+    .sort((a, b) => a.priority - b.priority)[0];
+  return active ? active.name : 'amazon';
 }
 
 export const products: Record<string, Product> = {
   // Espresso Machines
-  'gaggia-classic-pro': { asin: 'B07RQ3NL76', name: 'Gaggia Classic Pro', category: 'espresso', priceRange: '$400-500', lastVerified: '2026-05-19', status: 'active' },
-  'breville-bambino-plus': { asin: 'B07FBT5VRQ', name: 'Breville Bambino Plus', category: 'espresso', priceRange: '$450-550', lastVerified: '2026-05-19', status: 'active' },
-  'breville-barista-express': { asin: 'B006LBWB3C', name: 'Breville Barista Express', category: 'espresso', priceRange: '$550-700', lastVerified: '2026-05-19', status: 'active' },
-  'breville-barista-pro': { asin: 'B07J5DMQJH', name: 'Breville Barista Pro', category: 'espresso', priceRange: '$650-800', lastVerified: '2026-05-19', status: 'active' },
+  'gaggia-classic-pro': {
+    asin: 'B07RQ3NL76', name: 'Gaggia Classic Pro', category: 'espresso', priceRange: '$400-500',
+    lastVerified: '2026-05-19', lastReviewed: '2026-05-19', status: 'active',
+    aovTier: 'high', commissionTier: 'low', staleAfterDays: 30,
+    merchants: [
+      { name: 'wholelattelove', url: 'https://www.wholelattelove.com/products/gaggia-classic-pro-espresso-machine', priority: 1, approved: false },
+      { name: 'seattlecoffeegear', url: 'https://www.seattlecoffeegear.com/gaggia-classic-pro-espresso-machine', priority: 2, approved: false },
+    ],
+  },
+  'breville-bambino-plus': {
+    asin: 'B07FBT5VRQ', name: 'Breville Bambino Plus', category: 'espresso', priceRange: '$450-550',
+    lastVerified: '2026-05-19', lastReviewed: '2026-05-19', status: 'active',
+    aovTier: 'high', commissionTier: 'low', staleAfterDays: 30,
+    merchants: [
+      { name: 'wholelattelove', url: 'https://www.wholelattelove.com/products/breville-bambino-plus', priority: 1, approved: false },
+    ],
+  },
+  'breville-barista-express': {
+    asin: 'B006LBWB3C', name: 'Breville Barista Express', category: 'espresso', priceRange: '$550-700',
+    lastVerified: '2026-05-19', lastReviewed: '2026-05-19', status: 'active',
+    aovTier: 'high', commissionTier: 'low', staleAfterDays: 30,
+    merchants: [
+      { name: 'wholelattelove', url: 'https://www.wholelattelove.com/products/breville-barista-express-espresso-machine', priority: 1, approved: false },
+      { name: 'seattlecoffeegear', url: 'https://www.seattlecoffeegear.com/breville-barista-express-espresso-machine', priority: 2, approved: false },
+    ],
+  },
+  'breville-barista-pro': {
+    asin: 'B07J5DMQJH', name: 'Breville Barista Pro', category: 'espresso', priceRange: '$650-800',
+    lastVerified: '2026-05-19', lastReviewed: '2026-05-19', status: 'active',
+    aovTier: 'high', commissionTier: 'low', staleAfterDays: 30,
+    merchants: [
+      { name: 'wholelattelove', url: 'https://www.wholelattelove.com/products/breville-barista-pro', priority: 1, approved: false },
+    ],
+  },
   'delonghi-dedica': { asin: 'B01LXMS83T', name: "De'Longhi Dedica EC685M", category: 'espresso', priceRange: '$180-230', lastVerified: '2026-05-19', status: 'active' },
   'delonghi-stilosa': { asin: 'B08CZBKQF5', name: "De'Longhi Stilosa EC260BK", category: 'espresso', priceRange: '$80-130', lastVerified: '2026-05-19', status: 'active' },
   'delonghi-magnifica-evo': { asin: 'B09WZGQVQJ', name: "De'Longhi Magnifica Evo", category: 'espresso', priceRange: '$550-700', lastVerified: '2026-05-19', status: 'active' },
@@ -60,7 +91,14 @@ export const products: Record<string, Product> = {
   // Grinders
   'baratza-encore': { asin: 'B00LW8I37G', name: 'Baratza Encore', category: 'grinders', priceRange: '$150-200', lastVerified: '2026-05-19', status: 'active' },
   'baratza-virtuoso-plus': { asin: 'B07DKGKX64', name: 'Baratza Virtuoso+', category: 'grinders', priceRange: '$180-230', lastVerified: '2026-05-19', status: 'active' },
-  'baratza-sette-270': { asin: 'B01LZPOZRR', name: 'Baratza Sette 270', category: 'grinders', priceRange: '$280-340', lastVerified: '2026-05-19', status: 'active' },
+  'baratza-sette-270': {
+    asin: 'B01LZPOZRR', name: 'Baratza Sette 270', category: 'grinders', priceRange: '$280-340',
+    lastVerified: '2026-05-19', lastReviewed: '2026-05-19', status: 'active',
+    aovTier: 'high', commissionTier: 'low', staleAfterDays: 30,
+    merchants: [
+      { name: 'wholelattelove', url: 'https://www.wholelattelove.com/products/baratza-sette-270', priority: 1, approved: false },
+    ],
+  },
   'fellow-opus': { asin: 'B09ZMLTZWY', name: 'Fellow Opus Conical Burr', category: 'grinders', priceRange: '$180-220', lastVerified: '2026-05-19', status: 'active' },
   'oxo-brew-conical': { asin: 'B07CKHQS9X', name: 'OXO Brew Conical Burr', category: 'grinders', priceRange: '$45-65', lastVerified: '2026-05-19', status: 'active' },
   'breville-smart-grinder-pro': { asin: 'B00OXGXW8O', name: 'Breville Smart Grinder Pro', category: 'grinders', priceRange: '$150-200', lastVerified: '2026-05-19', status: 'active' },
@@ -244,7 +282,14 @@ export const products: Record<string, Product> = {
 
   // Espresso Grinders Under $200
   'wilfa-svart-uniform': { asin: 'B08JCK2RCK', name: 'Wilfa Svart Uniform Grinder', category: 'grinders', priceRange: '$150-175', lastVerified: '2026-05-18', status: 'active' },
-  'eureka-mignon-specialita': { asin: 'B07GG9V5VK', name: 'Eureka Mignon Specialita Grinder', category: 'grinders', priceRange: '$165-195', lastVerified: '2026-05-18', status: 'active' },
+  'eureka-mignon-specialita': {
+    asin: 'B07GG9V5VK', name: 'Eureka Mignon Specialita Grinder', category: 'grinders', priceRange: '$165-195',
+    lastVerified: '2026-05-18', lastReviewed: '2026-05-19', status: 'active',
+    aovTier: 'high', commissionTier: 'low', staleAfterDays: 30,
+    merchants: [
+      { name: 'wholelattelove', url: 'https://www.wholelattelove.com/products/eureka-mignon-specialita', priority: 1, approved: false },
+    ],
+  },
   'df64-gen2': { asin: 'B09G9TPYVJ', name: 'DF64 Gen 2 Single Dose Grinder', category: 'grinders', priceRange: '$115-140', lastVerified: '2026-05-18', status: 'active' },
   'eureka-mignon-notte': { asin: 'B081YDVMKB', name: 'Eureka Mignon Notte Grinder', category: 'grinders', priceRange: '$95-125', lastVerified: '2026-05-18', status: 'active' },
 
@@ -343,7 +388,14 @@ export const products: Record<string, Product> = {
   'wilfa-svart': { asin: 'B01L5JLKQ4', name: 'Wilfa Svart Coffee Grinder', category: 'grinders', priceRange: '$200-220', lastVerified: '2026-05-18', status: 'active' },
   'wilfa-sven': { asin: 'B01MSSQ1YS', name: 'Wilfa Sven Flat Burr Grinder', category: 'grinders', priceRange: '$180-210', lastVerified: '2026-05-18', status: 'active' },
   'wilfa-svart-nymane': { asin: 'B09FTBVLH8', name: 'Wilfa Svart Nymane Flat Burr Grinder', category: 'grinders', priceRange: '$220-250', lastVerified: '2026-05-18', status: 'active' },
-  'baratza-encore-esp': { asin: 'B09LW5X8K6', name: 'Baratza Encore ESP Conical Burr Grinder', category: 'grinders', priceRange: '$150-180', lastVerified: '2026-05-18', status: 'active' },
+  'baratza-encore-esp': {
+    asin: 'B09LW5X8K6', name: 'Baratza Encore ESP Conical Burr Grinder', category: 'grinders', priceRange: '$150-180',
+    lastVerified: '2026-05-18', lastReviewed: '2026-05-19', status: 'active',
+    aovTier: 'mid', commissionTier: 'low', staleAfterDays: 30,
+    merchants: [
+      { name: 'wholelattelove', url: 'https://www.wholelattelove.com/products/baratza-encore-esp', priority: 1, approved: false },
+    ],
+  },
   'gaggia-md58n': { asin: 'B01M329P5P', name: 'Gaggia MD58N Flat Burr Grinder', category: 'grinders', priceRange: '$120-140', lastVerified: '2026-05-18', status: 'active' },
   'rancilio-rocky': { asin: 'B00004S9FX', name: 'Rancilio Rocky Espresso Coffee Grinder', category: 'grinders', priceRange: '$280-320', lastVerified: '2026-05-18', status: 'active' },
   'eureka-mignon-filtro': { asin: 'B07KHZRBKB', name: 'Eureka Mignon Filtro Coffee Grinder', category: 'grinders', priceRange: '$200-240', lastVerified: '2026-05-18', status: 'active' },
