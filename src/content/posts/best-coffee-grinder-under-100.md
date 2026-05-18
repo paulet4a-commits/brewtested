@@ -174,9 +174,9 @@ The burr quality and fine-grind precision guarantee better espresso shots. If es
 
 ## Next Steps
 
-Ready to upgrade? Start with [**Best Coffee Grinder Under $50**](/posts/best-burr-grinder-under-50/) if you want maximum budget savings, or explore [**Best Burr Grinder Under $100**](/posts/best-burr-grinder-under-100/) for deeper comparisons.
+Ready to upgrade? Start with [**Best Coffee Grinder Under $50**](/posts/best-coffee-grinder-under-50/) if you want maximum budget savings, or explore [**Best Burr Grinder Under $100**](/posts/best-burr-grinder-under-100/) for deeper comparisons.
 
-Once you've locked in your grinder, pair it with our [**Best Pour-Over Coffee Makers**](/posts/best-pour-over-coffee-makers/) guide to complete your setup.
+Once you've locked in your grinder, pair it with our [**Best Pour-Over Coffee Makers**](/posts/best-pour-over-coffee-maker/) guide to complete your setup.
 
 ---
 

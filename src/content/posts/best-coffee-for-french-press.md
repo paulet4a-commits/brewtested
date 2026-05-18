@@ -25,7 +25,7 @@ Before we talk beans, let's talk grind. French press demands **coarse grind**—
 The ratio is simple: **1 gram coffee to 15 grams water**. For a standard 34oz (1000ml) French press, use about 65g coarse coffee and 1000g water.
 
 **Whole bean vs pre-ground:**
-- **Whole bean:** Always better. Grind right before brewing. Use a burr grinder set to coarse. See our [grinder recommendations](/posts/best-burr-grinder-under-50/) for budget options.
+- **Whole bean:** Always better. Grind right before brewing. Use a burr grinder set to coarse. See our [grinder recommendations](/posts/best-coffee-grinder-under-50/) for budget options.
 - **Pre-ground:** Works, but loses flavor after 30 minutes of oxidation. Only buy pre-ground if convenience trumps quality for your morning.
 
 ## Dark vs Medium Roast: When to Use Each
