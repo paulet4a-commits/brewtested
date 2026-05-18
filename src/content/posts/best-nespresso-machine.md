@@ -96,7 +96,7 @@ We evaluated each machine across five criteria:
 4. **Ease of Cleaning** — Capsule disposal, descaling process, milk system maintenance
 5. **Value for Money** — Price-to-performance ratio, capsule cost, feature set at each tier
 
-All machines were tested with both original and lungo capsules over a two-week period. We measured water temperature stabilization, shot extraction times, and user comfort in kitchen environments ranging from tight apartments to spacious counters.
+All machines were Evaluated with both original and lungo capsules over a two-week period. We measured water temperature stabilization, shot extraction times, and user comfort in kitchen environments ranging from tight apartments to spacious counters.
 
 ---
 

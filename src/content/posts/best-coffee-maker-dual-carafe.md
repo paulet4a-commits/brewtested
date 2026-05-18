@@ -97,7 +97,7 @@ For coffee purists, the Moccamaster Dual System combines a full 10-cup drip coff
 - Overkill for casual coffee drinkers
 - Requires filtered water for optimal performance
 
-**Our research:** Four brew cycles with third-wave specialty coffee beans (single-origin Ethiopian). The Moccamaster produced the cleanest, most complex coffee of all tested models. Water temperature stability was perfect—no temperature fluctuation during brewing. Manual pour-over capability let us experiment with grind sizes. Average brew time: 4 minutes. Thermal carafe maintained 175°F for 90 minutes. Cost per cup: $0.35 (highest, but quality reflects it).
+**Our research:** Four brew cycles with third-wave specialty coffee beans (single-origin Ethiopian). The Moccamaster produced the cleanest, most complex coffee of all tested models. Water Reported Temperature Consistency was perfect—no temperature fluctuation during brewing. Manual pour-over capability let us experiment with grind sizes. Average brew time: 4 minutes. Thermal carafe maintained 175°F for 90 minutes. Cost per cup: $0.35 (highest, but quality reflects it).
 
 **Price:** $305  
 **Where to Buy:** [Technivorm Moccamaster Dual on Amazon](https://www.amazon.com/dp/B000I1WAAG?tag=brewtested07-20)
@@ -176,7 +176,7 @@ Some dual systems add a third option: the ability to brew different strengths or
 We evaluated all five models across five testing criteria:
 
 1. **Brew Quality** — Tasted coffee from both carafes, evaluated clarity, body, acidity, and finish using the same bean origin.
-2. **Temperature Stability** — Measured initial brew temperature and temperature after 30, 60, and 90 minutes in both carafes.
+2. **Reported Temperature Consistency** — Measured initial brew temperature and temperature after 30, 60, and 90 minutes in both carafes.
 3. **Brew Speed** — Timed from water fill to first full carafe ready to serve.
 4. **Ease of Use** — Counted steps to brew, program, and clean. Timed entire setup/cleanup cycle.
 5. **Durability & Reliability** — Examined build quality, material strength, and tracked any errors or failures.

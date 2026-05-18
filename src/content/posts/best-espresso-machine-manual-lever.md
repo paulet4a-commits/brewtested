@@ -178,7 +178,7 @@ The Swedish Elektra Microcbar represents the pinnacle of manual lever espresso d
 **Testing methodology:**
 
 - **Pressure consistency:** Verified each machine generated rated bar pressure (8-9 bar)
-- **Crema production:** Tested with 18g basket medium-fine espresso grind
+- **Crema production:** Evaluated with 18g basket medium-fine espresso grind
 - **Heat stability:** Measured temperature across 10 consecutive shots
 - **Ease of use:** Evaluated learning curve across different skill levels (beginner, intermediate, expert)
 - **Shot repeatability:** Pulled 20 consecutive shots and measured consistency

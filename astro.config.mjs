@@ -3,11 +3,18 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 
+const AFFILIATE_DOMAINS = [
+  'amazon.com', 'www.amazon.com', 'amzn.to',
+  'amazon.co.uk', 'amazon.ca', 'amazon.com.au',
+  'lifeboostcoffee.com', 'koacoffee.com', '1stincoffee.com',
+  'drinktrade.com', 'volcanicacoffee.com',
+];
+
 function rehypeAffiliateLinks() {
   function walk(node) {
     if (node.type === 'element' && node.tagName === 'a') {
       const href = node.properties?.href ?? '';
-      if (href.includes('amazon.com')) {
+      if (AFFILIATE_DOMAINS.some((d) => href.includes(d))) {
         node.properties.rel = ['sponsored', 'nofollow', 'noopener'];
         node.properties.target = '_blank';
       }

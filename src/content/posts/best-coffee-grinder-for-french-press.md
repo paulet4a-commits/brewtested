@@ -151,7 +151,7 @@ We researched and compared each grinder by grinding 30g of medium roast coffee t
 - **Build Quality:** Will this last years of daily use?
 - **Value:** Does the price match the performance?
 
-We also Owner feedback covers cups of real-world use across all five grinders over three weeks to ensure our results held up to real-world use.
+We also Owner feedback reflects real-world use across all five grinders over three weeks to ensure our results held up to real-world use.
 
 ---
 

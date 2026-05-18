@@ -61,7 +61,7 @@ The Chambord is the French press for owners who refuse plastic. Bodum engineered
 
 User feedback emphasizes the durability. One reviewer has owned the same Chambord for 7 years and replaced only the glass (after an accidental drop). Another compared it to plastic-heavy competitors and appreciated the weight and solidity—stainless steel outlasts aluminum.
 
-The immersion method creates naturally bold coffee. People switching from drip machines often perceive French press as "stronger"—it's not; it's fuller because the oils remain. Some owners pre-warm the glass by swirling hot water before brewing, improving temperature stability.
+The immersion method creates naturally bold coffee. People switching from drip machines often perceive French press as "stronger"—it's not; it's fuller because the oils remain. Some owners pre-warm the glass by swirling hot water before brewing, improving Reported Temperature Consistency.
 
 **Pros:** Stainless steel construction, excellent build quality, produces bold coffee, 7+ year lifespan common  
 **Cons:** Sediment at the bottom of cup (unavoidable with immersion), requires medium-coarse grind

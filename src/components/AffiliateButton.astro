@@ -1,0 +1,33 @@
+---
+import { products, affiliateUrl } from '../data/products';
+
+interface Props {
+  productKey: string;
+  label?: string;
+  variant?: 'primary' | 'secondary';
+}
+
+const { productKey, label, variant = 'primary' } = Astro.props;
+const product = products[productKey];
+
+if (!product) {
+  throw new Error(`AffiliateButton: unknown product key "${productKey}". Add it to src/data/products.ts.`);
+}
+
+const url = affiliateUrl(product.asin);
+const btnLabel = label ?? `Check Price on Amazon`;
+const cls = variant === 'primary'
+  ? 'inline-block bg-amber-600 hover:bg-amber-700 text-white font-semibold px-5 py-2.5 rounded-lg text-sm transition-colors'
+  : 'inline-block border border-amber-600 text-amber-700 hover:bg-amber-50 font-semibold px-5 py-2.5 rounded-lg text-sm transition-colors';
+---
+
+<a
+  href={url}
+  rel="sponsored nofollow noopener"
+  target="_blank"
+  class={cls}
+  data-product={productKey}
+  data-asin={product.asin}
+>
+  {btnLabel}
+</a>

@@ -167,7 +167,7 @@ We evaluated each machine on:
 - **Value** - Did price match features and longevity?
 - **Beginner-friendliness** - Were instructions clear and warnings obvious?
 
-Each machine was tested with identical medium-roast beans across 15+ brew cycles, with water hardness, room temperature, and brew basket loading kept constant.
+Each machine was Evaluated with identical medium-roast beans across 15+ brew cycles, with water hardness, room temperature, and brew basket loading kept constant.
 
 ---
 

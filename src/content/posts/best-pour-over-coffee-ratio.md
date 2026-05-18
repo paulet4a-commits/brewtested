@@ -102,7 +102,7 @@ Different brewers have ideal sweet spots due to design:
 
 ## How We Researched These Ratios
 
-Owner reviews document cups of real-world use across V60, Chemex, and Kalita using the same single-origin coffee at ratios from 1:14 to 1:18. We measured extraction yield using a refractometer and rated flavor on acidity, sweetness, and body. The 1:15-1:17 range consistently scored highest for balance and clarity.
+Owner reviews reflect real-world use across V60, Chemex, and Kalita using the same single-origin coffee at ratios from 1:14 to 1:18. We measured extraction yield using a refractometer and rated flavor on acidity, sweetness, and body. The 1:15-1:17 range consistently scored highest for balance and clarity.
 
 ## FAQ
 

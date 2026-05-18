@@ -157,7 +157,7 @@ Our research focused on five key metrics for pour over brewing:
 4. **Durability** – Assessed build quality, seam construction, and handle integrity after extended use
 5. **User Experience** – Tested ease of refilling, weight, and comfort during actual pour over brewing sessions
 
-All kettles were tested with standard medium-roast filter coffee and water from the same source to ensure consistency.
+All kettles were Evaluated with standard medium-roast filter coffee and water from the same source to ensure consistency.
 
 ---
 

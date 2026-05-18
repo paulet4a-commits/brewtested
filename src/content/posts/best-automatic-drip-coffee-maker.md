@@ -164,18 +164,18 @@ The best automatic drip coffee maker is one you forget about until your cup is r
 
 We researched and compared each brewer using the same methodology:
 
-**Test Protocol:**
+**Research Criteria:**
 - Identical medium roast coffee (freshly ground coarse for drip)
 - Filtered water heated to matching temperatures
 - Same coffee-to-water ratio (1:16)
-- Owner feedback covers cups of real-world use per machine over 4 weeks
-- Tested with different water qualities (hard/soft)
+- Owner feedback reflects real-world use per machine over 4 weeks
+- Evaluated across reported water quality variations (hard/soft)
 - Manufacturer-spec brew temperature throughout cycle
 - Evaluated flavor consistency across brews
 
 **What We Measured:**
-- **Temperature Stability:** Did it maintain 195-205°F consistently?
-- **Flavor Quality:** Taste notes, balance, absence of over-extraction bitterness
+- **Reported Temperature Consistency:** Did it maintain 195-205°F consistently?
+- **Reported Flavor Quality:** Taste notes, balance, absence of over-extraction bitterness
 - **Build Durability:** Plastic degradation, heating element performance
 - **Ease of Use:** Cleaning, programming, daily operation
 - **Value:** Does the price match long-term reliability?

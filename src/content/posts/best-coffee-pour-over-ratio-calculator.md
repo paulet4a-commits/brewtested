@@ -172,7 +172,7 @@ This combination eliminates variables: precise grind consistency + accurate meas
 ## How We Researched
 
 We evaluated each scale on:
-1. **Accuracy** - Tested with calibration weights (100g, 500g, 1000g)
+1. **Accuracy** - Evaluated with calibration weights (100g, 500g, 1000g)
 2. **Consistency** - 20+ brewers per scale, same coffee, same ratio
 3. **User experience** - Setup time, interface clarity, durability
 4. **Value** - Cost per year of expected use

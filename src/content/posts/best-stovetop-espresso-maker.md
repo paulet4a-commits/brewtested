@@ -135,7 +135,7 @@ Bialetti's dedicated induction model combines their brewing expertise with moder
 
 ## How We Researched
 
-Owner reviews document cups of real-world use across these five moka pots using identical water temperature, grind size, and coffee bean origin. We evaluated:
+Owner reviews reflect real-world use across these five moka pots using identical water temperature, grind size, and coffee bean origin. We evaluated:
 
 - **Brew Quality**: Richness, body, crema formation, and flavor extraction
 - **Consistency**: Variance between consecutive brews

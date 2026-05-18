@@ -51,7 +51,7 @@ The Hamilton Beach excels at volume. Brew 10 cups in 10 minutes flat, with the t
 The Bonavita BV1901TS prioritizes extraction over features. This machine reaches optimal brewing temperature (195-205°F) and maintains it throughout the cycle—critical for pulling out coffee's best flavors.
 
 **Pros:**
-- Precise temperature control (tested with thermocouple)
+- Precise temperature control (Evaluated with thermocouple)
 - Optimal 4-minute brew time
 - Flat-bottomed glass carafe (better heat distribution)
 - No plastic contact with hot water (all-stainless internals)

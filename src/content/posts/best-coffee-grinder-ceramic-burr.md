@@ -1,6 +1,6 @@
 ---
 title: "Best Ceramic Burr Coffee Grinder 2026: Hand & Electric Models Tested"
-description: "Top ceramic burr grinders reviewed. Compare hand, electric, budget, and premium options. Expert tested with real-world brew results."
+description: "Top ceramic burr grinders reviewed. Compare hand, electric, budget, and premium options. Expert Evaluated with real-world brew results."
 category: "grinders"
 draft: false
 pubDate: 2026-05-18

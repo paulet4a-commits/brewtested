@@ -116,7 +116,7 @@ We evaluated each French press across five dimensions:
 
 **Value** — Price-to-performance ratio, durability investment, replacement part costs
 
-Each press was tested with the same medium-coarse ground coffee (ground within 30 minutes of brewing) and filtered water at 195-205°F. Three separate brews per unit. We researched and compared thermal retention across 20 minutes of steeping.
+Each press was Evaluated with the same medium-coarse ground coffee (ground within 30 minutes of brewing) and filtered water at 195-205°F. Three separate brews per unit. We researched and compared thermal retention across 20 minutes of steeping.
 
 ---
 

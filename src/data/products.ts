@@ -57,4 +57,20 @@ export const products: Record<string, Product> = {
 
   // Cold Brew
   'toddy-cold-brew': { asin: 'B0000YOH5E', name: 'Toddy Cold Brew System', category: 'coffee-makers', priceRange: '$40-55', lastVerified: '2026-05-19', status: 'active' },
+
+  // High-frequency ASINs from markdown audit (top missing from registry)
+  'bonavita-kettle': { asin: 'B005YR0F40', name: 'Bonavita 1.0L Variable Temp Kettle', category: 'pour-over', priceRange: '$45-65', lastVerified: '2026-05-19', status: 'active' },
+  'proctor-silex-12cup': { asin: 'B003KYSLMW', name: 'Proctor Silex 12-Cup Coffee Maker', category: 'coffee-makers', priceRange: '$20-30', lastVerified: '2026-05-19', status: 'active' },
+  'hario-v60-filters': { asin: 'B001O0R46I', name: 'Hario V60 Paper Filters (100ct)', category: 'pour-over', priceRange: '$8-12', lastVerified: '2026-05-19', status: 'active' },
+  'delonghi-la-specialista': { asin: 'B09HJX1XM4', name: "De'Longhi La Specialista Arte", category: 'espresso', priceRange: '$450-550', lastVerified: '2026-05-19', status: 'active' },
+  'breville-dual-boiler': { asin: 'B00BWKDHZS', name: 'Breville Dual Boiler BES920XL', category: 'espresso', priceRange: '$900-1100', lastVerified: '2026-05-19', status: 'active' },
+  'philips-3200': { asin: 'B08FQZMQYL', name: 'Philips 3200 LatteGo', category: 'espresso', priceRange: '$450-600', lastVerified: '2026-05-19', status: 'active' },
+  'moccamaster-kbt-thermal': { asin: 'B000VHKP44', name: 'Moccamaster KBT Thermal', category: 'coffee-makers', priceRange: '$330-380', lastVerified: '2026-05-19', status: 'active' },
+  'oxo-brew-9cup': { asin: 'B079SF3FTB', name: 'OXO Brew 9-Cup Coffee Maker', category: 'coffee-makers', priceRange: '$170-230', lastVerified: '2026-05-19', status: 'active' },
+  'wacaco-minipresso': { asin: 'B00ZHUKQKO', name: 'Wacaco Minipresso GR', category: 'espresso', priceRange: '$45-65', lastVerified: '2026-05-19', status: 'active' },
+  'nespresso-aeroccino3': { asin: 'B01AHEBBY2', name: 'Nespresso Aeroccino3 Milk Frother', category: 'kitchen', priceRange: '$55-80', lastVerified: '2026-05-19', status: 'active' },
+  'zulay-milk-frother': { asin: 'B078RJNSLZ', name: 'Zulay Kitchen Milk Boss Frother', category: 'kitchen', priceRange: '$10-15', lastVerified: '2026-05-19', status: 'active' },
+  'keurig-k-supreme-plus': { asin: 'B08D35DKMD', name: 'Keurig K-Supreme Plus', category: 'coffee-makers', priceRange: '$140-190', lastVerified: '2026-05-19', status: 'active' },
+  'timemore-c3-pro': { asin: 'B09MTXYD7B', name: 'Timemore Chestnut C3 Pro', category: 'grinders', priceRange: '$100-140', lastVerified: '2026-05-19', status: 'active' },
+  'hario-skerton-pro': { asin: 'B06XRHQDVD', name: 'Hario Skerton Pro Manual Grinder', category: 'grinders', priceRange: '$40-60', lastVerified: '2026-05-19', status: 'active' },
 };

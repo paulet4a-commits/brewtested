@@ -104,7 +104,7 @@ Rancilio Silvia ($379.99) is the enthusiast's choice under $400. While more expe
 
 **Pros:**
 - Commercial-grade portafilter and group head
-- Excellent temperature stability
+- Excellent Reported Temperature Consistency
 - Beautiful stainless steel construction
 - Manual operation = complete control
 - Highly customizable and upgradeable
@@ -155,7 +155,7 @@ Our espresso machine testing followed cafe industry standards:
 1. **Pressure Testing:** Verified 9-bar pressure at group head using professional gauge
 2. **Shot Quality:** Pulled 20+ shots from each machine, measuring extraction time (25-30 seconds ideal)
 3. **Crema Evaluation:** Assessed crema color, thickness, and consistency
-4. **Temperature Stability:** Measured temperature during shot pull with thermal probe
+4. **Reported Temperature Consistency:** Measured temperature during shot pull with thermal probe
 5. **Steaming Consistency:** Steamed whole milk, checking for microfoam quality and temperature accuracy
 6. **Durability Test:** 30-day continuous use assessment (1-2 shots daily)
 7. **Comparison Baseline:** All tests run against professional cafe espresso for reference

@@ -149,7 +149,7 @@ We evaluated each brewer across six key dimensions:
 
 1. **Timer Accuracy** – Set brewers to start at specific times and verified timing precision
 2. **Brew Quality** – Evaluated flavor extraction and consistency across multiple cycles
-3. **Temperature Stability** – Measured hot plate performance from start to 2-hour mark
+3. **Reported Temperature Consistency** – Measured hot plate performance from start to 2-hour mark
 4. **Carafe Performance** – Assessed whether coffee remained hot and unscoched over time
 5. **Ease of Programming** – Tested timer interface intuitiveness for first-time users
 6. **Durability** – Examined construction quality and long-term reliability

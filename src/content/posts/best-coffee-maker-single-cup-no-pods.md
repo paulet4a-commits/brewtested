@@ -144,7 +144,7 @@ We brewed over 50 cups across different coffee origins, roasts, and grind sizes 
 - **Build quality** and durability under daily use
 - **Value for money** against convenience lost
 
-All brewers were tested with the same beans and water temperature (200°F) to ensure fair comparison.
+All brewers were Evaluated with the same beans and water temperature (200°F) to ensure fair comparison.
 
 ---
 

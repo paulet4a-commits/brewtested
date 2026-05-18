@@ -224,7 +224,7 @@ A: A quality burr grinder lasts 5-10 years of heavy daily use, or 10-15 years if
 
 **Q: Should I grind all my beans at once or grind fresh each time?**
 
-A: Grind fresh each time. Ground coffee starts losing flavor within minutes. The convenience of grinding once per week costs you noticeable flavor quality. For pour over and AeroPress, grinding fresh takes 30 seconds. For French press, maybe 2 minutes. It's worth it.
+A: Grind fresh each time. Ground coffee starts losing flavor within minutes. The convenience of grinding once per week costs you noticeable Reported Flavor Quality. For pour over and AeroPress, grinding fresh takes 30 seconds. For French press, maybe 2 minutes. It's worth it.
 
 **Q: What size grind should I use for my brewing method?**
 

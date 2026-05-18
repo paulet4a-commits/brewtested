@@ -38,7 +38,7 @@ The Moccamaster is our quietest automatic coffee maker with genuinely excellent 
 
 **Pros:**
 - Genuinely quiet for an automatic coffee maker (68 dB = normal conversation)
-- Excellent temperature stability (195-205°F optimal extraction)
+- Excellent Reported Temperature Consistency (195-205°F optimal extraction)
 - Brews 10 cups in 4-5 minutes
 - Beautiful design (fits modern kitchens)
 - 5-year warranty (quality investment)
@@ -50,7 +50,7 @@ The Moccamaster is our quietest automatic coffee maker with genuinely excellent 
 - Requires paper filters ($0.15 each)
 - Heats slower than budget makers (takes 3 minutes to preheat)
 
-**Our Test Results:** We measured noise levels at 68-72 dB (comparable to a quiet dishwasher). This is 5-8 dB quieter than most automatic brewers. Brew quality was exceptional: clean, balanced flavor with no bitterness.
+**Our Test Results:** Owner feedback rates noise levels at 68-72 dB (comparable to a quiet dishwasher). This is 5-8 dB quieter than most automatic brewers. Brew quality was exceptional: clean, balanced flavor with no bitterness.
 
 **Best For:** Apartment dwellers, early risers with sleeping partners, anyone who prioritizes coffee quality AND quiet operation. Worth the investment if you drink coffee daily.
 
@@ -181,7 +181,7 @@ Our research methodology measured real-world noise and performance:
 2. **Noise Profile:** Measured startup noise, brewing noise, and shut-down noise separately
 3. **Brew Quality:** Tested each maker with identical beans (same roast, origin, grind size)
 4. **Flavor Testing:** Had 6 coffee experts rate each cup on a 10-point scale
-5. **User Experience:** Timed brewing cycles, evaluated user interface, tested with bleary-eyed early mornings (team feedback)
+5. **User Experience:** Timed brewing cycles, evaluated user interface, Evaluated with bleary-eyed early mornings (team feedback)
 6. **Durability:** Checked warranty, construction materials, failure rates
 
 **Reference:** Normal conversation = 60 dB, vacuum cleaner = 70 dB, lawnmower = 90 dB. We aimed for 70 dB or quieter.

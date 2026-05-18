@@ -94,7 +94,7 @@ We evaluated each bean on: clarity (how distinct the flavor notes are), body (th
 French press uses immersion brewing—beans sit in hot water for four minutes rather than having water flow through them. This longer contact time means coarser grinds are essential (fine grounds over-extract and taste bitter). Beans need enough body and flavor complexity to stand up to this extended steeping without becoming muddy or thin-tasting.
 
 **Should I buy pre-ground coffee for French press?**
-No. Pre-ground coffee loses flavor compounds within days and degrades rapidly in the French press method where extended steeping extracts whatever sits in the water. Always buy whole beans and grind fresh. A basic [burr grinder under $50](/posts/best-coffee-grinder-under-50/) pays for itself in flavor quality within weeks.
+No. Pre-ground coffee loses flavor compounds within days and degrades rapidly in the French press method where extended steeping extracts whatever sits in the water. Always buy whole beans and grind fresh. A basic [burr grinder under $50](/posts/best-coffee-grinder-under-50/) pays for itself in Reported Flavor Quality within weeks.
 
 **Are dark roasts always better for French press?**
 Not always—it depends on your taste preference. Dark roasts deliver fuller body and less acidity, which many French press drinkers prefer. Medium-dark roasts (like Lavazza) preserve some origin characteristics while still providing body. Lighter roasts work in French press but require precision with grind size and brewing time, so they're tougher for beginners.

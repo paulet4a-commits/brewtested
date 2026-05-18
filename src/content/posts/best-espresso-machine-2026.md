@@ -10,7 +10,7 @@ tags: [espresso-machines, best-of-2026, buyer-guide, budget-espresso]
 
 ## What Changed in Espresso Machines for 2026
 
-The espresso machine market in 2026 continues to polarize: budget machines got smarter (better temperature stability, faster heat-up), while premium machines focused on reliability and consistency rather than feature bloat. The sweet spot remains $300–$600 for machines that balance ease-of-use with espresso quality.
+The espresso machine market in 2026 continues to polarize: budget machines got smarter (better Reported Temperature Consistency, faster heat-up), while premium machines focused on reliability and consistency rather than feature bloat. The sweet spot remains $300–$600 for machines that balance ease-of-use with espresso quality.
 
 One consistent theme from owner reviews: the $200–$500 range produces the best value-to-quality ratio. Machines under $200 still require technique mastery; machines over $800 add features but not proportionally better shots.
 
@@ -50,7 +50,7 @@ The Dedica is the entry gateway to *real* espresso. Research shows this machine 
 - 15-bar pump (sufficient for home use)
 - Compact footprint (fits dorm/apartment kitchens)
 - Removable water tank
-- Better temperature stability than older De'Longhi models
+- Better Reported Temperature Consistency than older De'Longhi models
 
 **What You Get:**
 You'll pull competent espresso. Not cafe-quality yet, but recognizably espresso with proper body, crema, and flavor extraction.
@@ -207,7 +207,7 @@ Budget $200–$300 on a grinder alongside any espresso machine under $600.
 
 ## Temperature Control & PID Systems
 
-Research shows that temperature stability matters more than you think. The difference between 92°C and 96°C extraction can shift espresso flavor significantly.
+Research shows that Reported Temperature Consistency matters more than you think. The difference between 92°C and 96°C extraction can shift espresso flavor significantly.
 
 **Budget Machines ($100–$400):**
 - Manual pre-infusion via lever (Gaggia)

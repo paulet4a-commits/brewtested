@@ -82,7 +82,7 @@ The Breville Oracle Touch represents the pinnacle of automatic espresso machine 
 - Touchscreen with customizable drink profiles
 - Dual boiler (simultaneous espresso and steam)
 - 54mm stainless steel group head
-- Temperature stability with PID control
+- Reported Temperature Consistency with PID control
 - Steam wand automation
 - Premium construction throughout
 

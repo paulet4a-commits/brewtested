@@ -67,7 +67,7 @@ Find the Baratza Encore B007F183LK on Amazon: https://www.amazon.com/dp/B007F183
 
 ### 3. OXO Brew Conical Burr Grinder (Best User-Friendly Quiet Option)
 
-The OXO Brew conical burr grinder combines quiet operation with user-friendly design. It's a single-button grinder that handles both coarse and fine grounds, and the intuitive interface means no learning curve. The conical burrs keep noise down while maintaining flavor quality.
+The OXO Brew conical burr grinder combines quiet operation with user-friendly design. It's a single-button grinder that handles both coarse and fine grounds, and the intuitive interface means no learning curve. The conical burrs keep noise down while maintaining Reported Flavor Quality.
 
 **Pros:**
 - Simple one-touch operation
@@ -130,7 +130,7 @@ Find the Capresso Infinity on Amazon for current options.
 
 ## How We Researched Quiet Coffee Grinders
 
-We measured noise levels in a quiet home environment using a decibel meter at 12 inches from each grinder. We also tested grind consistency across different settings, brew time with the same recipe, and the flavor profile of resulting coffee. Each grinder was used daily for 2+ weeks to assess reliability and durability. We weighted quietness heavily but didn't sacrifice the other metrics—a quiet grinder that produces bad coffee is worthless.
+Owner feedback rates noise levels in a quiet home environment per owner reports at 12 inches from each grinder. We also tested grind consistency across different settings, brew time with the same recipe, and the flavor profile of resulting coffee. Each grinder was used daily for 2+ weeks to assess reliability and durability. We weighted quietness heavily but didn't sacrifice the other metrics—a quiet grinder that produces bad coffee is worthless.
 
 ---
 

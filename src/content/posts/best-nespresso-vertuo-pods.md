@@ -166,7 +166,7 @@ Our research methodology ensured fair comparison across all varieties:
 - **Milk Compatibility:** Testing each pod with oat, almond, and dairy milk for integration
 - **Batch Stability:** Sampling from multiple production batches to identify variation
 - **Cost Analysis:** Per-cup pricing across different package sizes and retailers
-- **Temperature Stability:** Measuring extraction temperature across brewing cycle
+- **Reported Temperature Consistency:** Measuring extraction temperature across brewing cycle
 
 We stored all pods in sealed containers at room temperature (72°F) to eliminate humidity variables. Testing occurred within 2 weeks of opening each box.
 

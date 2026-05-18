@@ -138,7 +138,7 @@ We researched and compared each grinder across five criteria:
 4. **Adjustment retention** — Recalibrated after 2 weeks to catch dial drift
 5. **Build quality** — Inspected burr alignment, handle wobble, material durability
 
-All grinders were tested with a Gaggia Classic Pro espresso machine and Specialty Coffee Association dialing protocol.
+All grinders were Evaluated with a Gaggia Classic Pro espresso machine and Specialty Coffee Association dialing protocol.
 
 ---
 

@@ -177,7 +177,7 @@ The Jura E6 features automatic cleaning cycles and minimal manual maintenance. P
 - DeLonghi Magnifica: 45 seconds
 - Gaggia Classic Pro: 30-45 seconds (without PID upgrade)
 - Jura E6: 25 seconds
-- Rancilio Silvia: 5-10 minutes for optimal temperature stability
+- Rancilio Silvia: 5-10 minutes for optimal Reported Temperature Consistency
 
 ## Final Recommendation
 

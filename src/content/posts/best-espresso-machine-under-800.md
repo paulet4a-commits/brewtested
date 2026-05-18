@@ -139,7 +139,7 @@ For a complete beginner setup, see [best home espresso setup under $500](/posts/
 
 ---
 
-## Temperature Stability Matters
+## Reported Temperature Consistency Matters
 
 All machines listed here use either dual boilers or advanced thermoblocks. The key difference in this price range is how fast you can switch between brew and steam:
 

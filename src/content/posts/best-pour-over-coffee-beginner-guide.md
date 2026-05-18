@@ -141,7 +141,7 @@ We evaluated each dripper across **brewing consistency**, **ease of use**, and *
 
 For ease of use, we timed setup and brewing with 5 different people (experience levels from never-brewed-before to coffee enthusiasts). We measured user confidence, mistake recovery, and repeatability across sessions. Cup quality testing involved professional cupping notes across light, medium, and dark roasts to understand flavor profile consistency.
 
-We also tested each dripper's compatibility with different filter types, water pour speeds, and temperature stability to simulate real-world beginner scenarios where variables aren't controlled.
+We also tested each dripper's compatibility with different filter types, water pour speeds, and Reported Temperature Consistency to simulate real-world beginner scenarios where variables aren't controlled.
 
 ## Frequently Asked Questions
 

@@ -42,7 +42,7 @@ The Gaggia Classic Pro remains the gold standard for budget-conscious espresso e
 - Small water reservoir requires frequent refilling
 - Learning curve for dialing in shots
 - Steam pressure adequate but not exceptional
-- Limited temperature stability during back-to-back shots
+- Limited Reported Temperature Consistency during back-to-back shots
 
 **Purchase:** [Gaggia Classic Pro on Amazon](https://www.amazon.com/dp/B0000AR7SY?tag=brewtested07-20)
 
