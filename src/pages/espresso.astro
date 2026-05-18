@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import EmailCapture from '../components/EmailCapture.astro';
+import ProductCard from '../components/ProductCard.astro';
 ---
 
 <BaseLayout
@@ -79,7 +80,15 @@ import EmailCapture from '../components/EmailCapture.astro';
             </ul>
           </div>
         </div>
-        <div class="flex gap-3 flex-wrap">
+        <div class="mt-4">
+          <ProductCard
+            productKey="delonghi-stilosa"
+            badge="Under $300: Machine"
+            pros={["Pulls real espresso at 15-bar pressure", "Steam wand for milk drinks", "Small footprint — entry risk is low"]}
+            cons={["Upgrade path: you will outgrow it", "Temperature control is basic"]}
+          />
+        </div>
+        <div class="flex gap-3 flex-wrap mt-2">
           <a href="/posts/best-espresso-machine-under-200/" class="text-sm font-semibold text-amber-700 hover:underline">Machines under $200 →</a>
           <a href="/posts/best-espresso-grinder-under-100/" class="text-sm font-semibold text-amber-700 hover:underline">Grinders under $100 →</a>
         </div>
@@ -116,7 +125,21 @@ import EmailCapture from '../components/EmailCapture.astro';
             </ul>
           </div>
         </div>
-        <div class="flex gap-3 flex-wrap">
+        <div class="mt-4 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <ProductCard
+            productKey="gaggia-classic-pro"
+            badge="$400–500: Machine"
+            pros={["58mm commercial portafilter — real espresso hardware", "10–15 year lifespan with maintenance", "Large mod community — PID, OPV, bottomless portafilter"]}
+            cons={["Steeper learning curve than Breville", "Temperature surfing until PID mod added (~$50)"]}
+          />
+          <ProductCard
+            productKey="baratza-encore-esp"
+            badge="$400–500: Grinder"
+            pros={["Espresso-specific range — not a filter grinder adapted", "Stepless macro + stepped micro", "Reliable Baratza build, good repair support"]}
+            cons={["Conical burrs — not flat-burr clarity", "Will eventually want upgrade when palate develops"]}
+          />
+        </div>
+        <div class="flex gap-3 flex-wrap mt-2">
           <a href="/posts/best-espresso-machine-for-beginners/" class="text-sm font-semibold text-amber-700 hover:underline">Gaggia vs alternatives →</a>
           <a href="/posts/best-espresso-grinder-under-200/" class="text-sm font-semibold text-amber-700 hover:underline">Grinders $100–200 →</a>
           <a href="/posts/best-home-espresso-setup-beginners/" class="text-sm font-semibold text-amber-700 hover:underline">Full setup walkthrough →</a>
@@ -152,7 +175,24 @@ import EmailCapture from '../components/EmailCapture.astro';
             </ul>
           </div>
         </div>
-        <div class="flex gap-3 flex-wrap">
+        <div class="mt-4 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <ProductCard
+            productKey="breville-bambino-plus"
+            badge="$600–800: Machine (split path)"
+            pros={["3-second heat-up — fastest in class", "Auto-steam wand — no milk technique needed", "Upgrade machine or grinder independently later"]}
+            cons={["Requires separate grinder (+$150–300)", "54mm portafilter — fewer third-party accessories"]}
+          />
+          <ProductCard
+            productKey="eureka-mignon-specialita"
+            badge="$600–800: Grinder (split path)"
+            pros={["55mm flat burrs — cleaner, brighter espresso", "Stepless micrometric — infinite fine-tuning", "Near-silent motor, <0.2g retention"]}
+            cons={["~$185 — hopper not ideal for single-dosing without mod", "Flat burrs take ~1kg to season"]}
+          />
+        </div>
+        <div class="mt-3 p-3 bg-gray-50 border border-gray-200 rounded-lg text-xs text-gray-600">
+          <strong>OR:</strong> <a href="/posts/breville-barista-express-vs-bambino-plus/" class="text-amber-700 font-semibold hover:underline">Breville Barista Express</a> (~$650) — integrated grinder, one device, simpler workflow. Better for those who want minimal setup.
+        </div>
+        <div class="flex gap-3 flex-wrap mt-3">
           <a href="/posts/best-automatic-espresso-machine/" class="text-sm font-semibold text-amber-700 hover:underline">Breville lineup compared →</a>
           <a href="/posts/best-coffee-grinder-for-espresso/" class="text-sm font-semibold text-amber-700 hover:underline">Best espresso grinders →</a>
         </div>
@@ -351,6 +391,8 @@ import EmailCapture from '../components/EmailCapture.astro';
         <ul class="space-y-1">
           <li><a href="/posts/gaggia-classic-pro-vs-breville-bambino-plus/" class="text-amber-700 hover:underline font-semibold">Gaggia Classic Pro vs Bambino Plus →</a></li>
           <li><a href="/posts/breville-barista-express-vs-bambino-plus/" class="text-amber-700 hover:underline font-semibold">Barista Express vs Bambino Plus →</a></li>
+          <li><a href="/posts/baratza-encore-esp-vs-sette-270/" class="text-amber-700 hover:underline font-semibold">Encore ESP vs Sette 270 →</a></li>
+          <li><a href="/posts/best-grinder-for-gaggia-classic-pro/" class="text-amber-700 hover:underline font-semibold">Best grinder for Gaggia Classic Pro →</a></li>
         </ul>
       </div>
       <div>
