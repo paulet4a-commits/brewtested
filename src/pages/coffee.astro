@@ -4,7 +4,8 @@ import { getCollection } from 'astro:content';
 
 const coffeeCategories = ['coffee', 'coffee-makers', 'espresso', 'pour-over', 'french-press', 'grinders', 'comparison', 'guide'];
 
-const posts = (await getCollection('posts', ({ data }) => !data.draft && coffeeCategories.includes(data.category)))
+const now = new Date();
+const posts = (await getCollection('posts', ({ data }) => !data.draft && data.pubDate <= now && coffeeCategories.includes(data.category)))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const categoryLabels: Record<string, string> = {

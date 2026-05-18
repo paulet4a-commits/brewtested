@@ -2,7 +2,8 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
-const posts = (await getCollection('posts', ({ data }) => !data.draft && data.category === 'kitchen'))
+const now = new Date();
+const posts = (await getCollection('posts', ({ data }) => !data.draft && data.pubDate <= now && data.category === 'kitchen'))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const featured = [
