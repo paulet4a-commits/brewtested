@@ -18,11 +18,32 @@ const {
 const siteTitle = 'BrewTested';
 const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const siteURL = 'https://paulet4a-commits.github.io/brewtested';
 
 // Generate OG image via Pollinations.ai from page title
 const ogImagePrompt = encodeURIComponent(title.toLowerCase().replace(/[^a-z0-9 ]/g, '').slice(0, 60) + ' coffee kitchen product photography');
 const seed = Array.from(title).reduce((acc, c) => acc + c.charCodeAt(0), 0) % 1000;
 const ogImage = `https://image.pollinations.ai/prompt/${ogImagePrompt}?width=1000&height=1500&nologo=true&model=turbo&seed=${seed}`;
+
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'BrewTested',
+  url: siteURL,
+  description: 'Independent research-based reviews of coffee makers, grinders, espresso machines, and kitchen gear.',
+};
+
+const articleSchema = pubDate ? {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  url: canonicalURL.toString(),
+  datePublished: pubDate.toISOString(),
+  dateModified: (updatedDate ?? pubDate).toISOString(),
+  publisher: { '@type': 'Organization', name: 'BrewTested', url: siteURL },
+  image: ogImage,
+} : null;
 ---
 
 <!doctype html>
@@ -47,6 +68,9 @@ const ogImage = `https://image.pollinations.ai/prompt/${ogImagePrompt}?width=100
     <meta name="twitter:image" content={ogImage} />
     {pubDate && <meta property="article:published_time" content={pubDate.toISOString()} />}
     {updatedDate && <meta property="article:modified_time" content={updatedDate.toISOString()} />}
+    <!-- JSON-LD Schema -->
+    <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+    {articleSchema && <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />}
   </head>
   <body class="min-h-screen bg-white text-gray-900 font-sans">
     <header class="border-b border-gray-200 py-4 px-6 flex items-center justify-between">
