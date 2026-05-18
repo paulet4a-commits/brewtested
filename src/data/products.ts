@@ -302,7 +302,10 @@ export const products: Record<string, Product> = {
 
   // Flat Burr Grinders
   'wilfa-svart': { asin: 'B01L5JLKQ4', name: 'Wilfa Svart Coffee Grinder', category: 'grinders', priceRange: '$200-220', lastVerified: '2026-05-18', status: 'active' },
+  'wilfa-sven': { asin: 'B01MSSQ1YS', name: 'Wilfa Sven Flat Burr Grinder', category: 'grinders', priceRange: '$180-210', lastVerified: '2026-05-18', status: 'active' },
   'gaggia-md58n': { asin: 'B01M329P5P', name: 'Gaggia MD58N Flat Burr Grinder', category: 'grinders', priceRange: '$120-140', lastVerified: '2026-05-18', status: 'active' },
+  'rancilio-rocky': { asin: 'B00004S9FX', name: 'Rancilio Rocky Espresso Coffee Grinder', category: 'grinders', priceRange: '$280-320', lastVerified: '2026-05-18', status: 'active' },
+  'eureka-mignon-filtro': { asin: 'B07KHZRBKB', name: 'Eureka Mignon Filtro Coffee Grinder', category: 'grinders', priceRange: '$200-240', lastVerified: '2026-05-18', status: 'active' },
 
   // Hand & Ceramic Burr Grinders
   'hario-skerton-pro': { asin: 'B07BRXJ78D', name: 'Hario Skerton Pro Hand Coffee Grinder', category: 'grinders', priceRange: '$25-40', lastVerified: '2026-05-18', status: 'active' },
