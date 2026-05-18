@@ -185,4 +185,21 @@ export const products: Record<string, Product> = {
   'breville-bke820xl': { asin: 'B00KYCKDUK', name: 'Breville BKE820XL Variable Temperature Kettle', category: 'pour-over', priceRange: '$90-120', lastVerified: '2026-05-18', status: 'active' },
   'oxo-brew-kettle': { asin: 'B07WGTF7W4', name: 'OXO Brew Adjustable Temperature Gooseneck Kettle', category: 'pour-over', priceRange: '$90-120', lastVerified: '2026-05-18', status: 'active' },
   'cosori-gooseneck-kettle': { asin: 'B08GJCYRJB', name: 'Cosori Electric Gooseneck Kettle', category: 'pour-over', priceRange: '$35-50', lastVerified: '2026-05-18', status: 'active' },
+
+  // Electric Milk Frothers
+  'breville-milk-cafe': { asin: 'B00LKY7JOM', name: 'Breville Milk Café Electric Frother', category: 'kitchen', priceRange: '$80-110', lastVerified: '2026-05-18', status: 'active' },
+  'nespresso-aeroccino4': { asin: 'B07QT4HLJ9', name: 'Nespresso Aeroccino 4 Milk Frother', category: 'kitchen', priceRange: '$65-90', lastVerified: '2026-05-18', status: 'active' },
+  'instant-pot-milk-frother': { asin: 'B0B4B1KTBJ', name: 'Instant Pot 10oz Electric Milk Frother', category: 'kitchen', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
+  'bodum-bistro-frother': { asin: 'B00DKGKBZA', name: 'Bodum Bistro Electric Milk Frother', category: 'kitchen', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+
+  // Keurig
+  'keurig-k-classic': { asin: 'B018UQ5EKG', name: 'Keurig K-Classic Coffee Maker', category: 'coffee-makers', priceRange: '$80-110', lastVerified: '2026-05-18', status: 'active' },
+
+  // French Press (additional)
+  'mueller-french-press': { asin: 'B07MVTD2MM', name: 'Mueller French Press Double Insulated', category: 'french-press', priceRange: '$18-28', lastVerified: '2026-05-18', status: 'active' },
+
+  // Espresso Grinders
+  'bodum-bistro-grinder': { asin: 'B00KNTFWTS', name: 'Bodum BISTRO Burr Coffee Grinder', category: 'grinders', priceRange: '$70-100', lastVerified: '2026-05-18', status: 'active' },
+  'capresso-infinity': { asin: 'B0000AR7SY', name: 'Capresso Infinity Conical Burr Grinder', category: 'grinders', priceRange: '$70-100', lastVerified: '2026-05-18', status: 'active' },
+  'mr-coffee-burr-grinder': { asin: 'B075Z83F6Y', name: 'Mr. Coffee Automatic Burr Grinder', category: 'grinders', priceRange: '$35-50', lastVerified: '2026-05-18', status: 'active' },
 };
