@@ -308,4 +308,26 @@ export const products: Record<string, Product> = {
   'hario-skerton-pro': { asin: 'B07BRXJ78D', name: 'Hario Skerton Pro Hand Coffee Grinder', category: 'grinders', priceRange: '$25-40', lastVerified: '2026-05-18', status: 'active' },
   'porlex-mini': { asin: 'B009LVIV3A', name: 'Porlex Mini Stainless Steel Coffee Grinder', category: 'grinders', priceRange: '$20-35', lastVerified: '2026-05-18', status: 'active' },
   'zassenhaus-santiago': { asin: 'B00AW2AU0Q', name: 'Zassenhaus Santiago Manual Coffee Grinder', category: 'grinders', priceRange: '$40-55', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Beans — Dark Roast
+  'death-wish-dark-roast': { asin: 'B00MVFKZB4', name: 'Death Wish Coffee Dark Roast Whole Bean', category: 'coffee-beans', priceRange: '$18-22', lastVerified: '2026-05-18', status: 'active' },
+  'lavazza-super-crema': { asin: 'B00475UVR0', name: 'Lavazza Super Crema Whole Bean Coffee', category: 'coffee-beans', priceRange: '$14-18', lastVerified: '2026-05-18', status: 'active' },
+  'peets-major-dickasons': { asin: 'B000EVOSE0', name: "Peet's Coffee Major Dickason's Blend", category: 'coffee-beans', priceRange: '$13-17', lastVerified: '2026-05-18', status: 'active' },
+  'illy-classico': { asin: 'B003XFBZ26', name: 'illy Classico Medium Roast Ground Coffee', category: 'coffee-beans', priceRange: '$12-16', lastVerified: '2026-05-18', status: 'active' },
+  'green-mountain-bold': { asin: 'B000BPR1IA', name: 'Green Mountain Coffee Dark Magic Dark Roast', category: 'coffee-beans', priceRange: '$10-14', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Beans — Single Origin (Ethiopian & Kenyan)
+  'volcanica-ethiopian-yirgacheffe': { asin: 'B00BPV5ZO0', name: 'Volcanica Ethiopian Yirgacheffe Coffee', category: 'coffee-beans', priceRange: '$14-18', lastVerified: '2026-05-18', status: 'active' },
+  'peets-ethiopia-fancy': { asin: 'B00H35VJKU', name: "Peet's Coffee Ethiopia Fancy", category: 'coffee-beans', priceRange: '$15-18', lastVerified: '2026-05-18', status: 'active' },
+  'counter-culture-halo-nairobi': { asin: 'B07K8V4Z9Y', name: 'Counter Culture Coffee Halo Nairobi Kenya', category: 'coffee-beans', priceRange: '$18-22', lastVerified: '2026-05-18', status: 'active' },
+  'cbtl-kenya-aa': { asin: 'B08FH2WQXL', name: 'Coffee Bean & Tea Leaf Kenya AA Reserve', category: 'coffee-beans', priceRange: '$16-20', lastVerified: '2026-05-18', status: 'active' },
+  'green-mountain-ethiopian': { asin: 'B0043D4PJY', name: 'Green Mountain Coffee Ethiopian Yirgacheffe K-Cup', category: 'coffee-beans', priceRange: '$10-14', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Beans — Beginner & Accessible
+  'starbucks-pike-place': { asin: 'B000GA69B4', name: 'Starbucks Pike Place Medium Roast Whole Bean Coffee', category: 'coffee-beans', priceRange: '$10-14', lastVerified: '2026-05-18', status: 'active' },
+  'green-mountain-breakfast': { asin: 'B002R3HGQM', name: 'Green Mountain Coffee Breakfast Blend', category: 'coffee-beans', priceRange: '$10-13', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Beans — French Press
+  'kicking-horse-cliff-hanger': { asin: 'B0041JDKXI', name: 'Kicking Horse Coffee Cliff Hanger Espresso Dark Roast', category: 'coffee-beans', priceRange: '$14-18', lastVerified: '2026-05-18', status: 'active' },
+  'caribou-coffee-blend': { asin: 'B000EVLZWG', name: 'Caribou Coffee Caribou Blend Medium Roast', category: 'coffee-beans', priceRange: '$12-16', lastVerified: '2026-05-18', status: 'active' },
 };
