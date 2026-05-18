@@ -289,4 +289,23 @@ export const products: Record<string, Product> = {
   'oxo-coffee-scale': { asin: 'B00KPVPTG4', name: 'OXO Good Grips Coffee Scale', category: 'kitchen', priceRange: '$30-40', lastVerified: '2026-05-18', status: 'active' },
   'hario-v60-kettle-stovetop': { asin: 'B06W2NWZWJ', name: 'Hario V60 Drip Coffee Kettle (Stovetop)', category: 'pour-over', priceRange: '$25-40', lastVerified: '2026-05-18', status: 'active' },
   'contigo-autoseal': { asin: 'B07YLZL5VV', name: 'Contigo Autoseal Travel Mug', category: 'kitchen', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
+
+  // Espresso Accessories — Portafilters
+  'ims-portafilter': { asin: 'B07DCPKBN8', name: 'IMS Competition Bottomless Portafilter 58mm', category: 'espresso', priceRange: '$60-80', lastVerified: '2026-05-18', status: 'active' },
+  'normcore-portafilter-58mm': { asin: 'B09CMHQY2P', name: 'Normcore Bottomless Portafilter 58mm', category: 'espresso', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
+  'gaggia-portafilter-bottomless': { asin: 'B07Q2RZ3K8', name: 'Gaggia Classic Pro 58mm Bottomless Portafilter', category: 'espresso', priceRange: '$40-55', lastVerified: '2026-05-18', status: 'active' },
+  'breville-portafilter-54mm': { asin: 'B07BKQCGNM', name: 'Breville 54mm Bottomless Portafilter', category: 'espresso', priceRange: '$35-50', lastVerified: '2026-05-18', status: 'active' },
+  'matow-portafilter-54mm': { asin: 'B08GFCWJQQ', name: 'Matow 54mm Bottomless Portafilter', category: 'espresso', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
+
+  // Espresso Machines (additional)
+  'delonghi-la-specialista': { asin: 'B07SWJYJ2M', name: "De'Longhi La Specialista Espresso Machine", category: 'espresso', priceRange: '$600-750', lastVerified: '2026-05-18', status: 'active' },
+
+  // Flat Burr Grinders
+  'wilfa-svart': { asin: 'B01L5JLKQ4', name: 'Wilfa Svart Coffee Grinder', category: 'grinders', priceRange: '$200-220', lastVerified: '2026-05-18', status: 'active' },
+  'gaggia-md58n': { asin: 'B01M329P5P', name: 'Gaggia MD58N Flat Burr Grinder', category: 'grinders', priceRange: '$120-140', lastVerified: '2026-05-18', status: 'active' },
+
+  // Hand & Ceramic Burr Grinders
+  'hario-skerton-pro': { asin: 'B07BRXJ78D', name: 'Hario Skerton Pro Hand Coffee Grinder', category: 'grinders', priceRange: '$25-40', lastVerified: '2026-05-18', status: 'active' },
+  'porlex-mini': { asin: 'B009LVIV3A', name: 'Porlex Mini Stainless Steel Coffee Grinder', category: 'grinders', priceRange: '$20-35', lastVerified: '2026-05-18', status: 'active' },
+  'zassenhaus-santiago': { asin: 'B00AW2AU0Q', name: 'Zassenhaus Santiago Manual Coffee Grinder', category: 'grinders', priceRange: '$40-55', lastVerified: '2026-05-18', status: 'active' },
 };
