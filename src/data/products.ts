@@ -223,4 +223,11 @@ export const products: Record<string, Product> = {
   // Drip Coffee Makers (additional)
   'bonavita-connoisseur': { asin: 'B008TBRFV0', name: 'Bonavita BV1901TS Connoisseur 8-Cup', category: 'coffee-makers', priceRange: '$80-100', lastVerified: '2026-05-18', status: 'active' },
   'melitta-pour-over-maker': { asin: 'B005FWW0R2', name: 'Melitta Pour Over Coffee Maker', category: 'coffee-makers', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
+  'hamilton-beach-brewstation': { asin: 'B07WLYTH41', name: 'Hamilton Beach BrewStation 12-Cup Coffee Maker', category: 'coffee-makers', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
+  'ninja-ce251': { asin: 'B08FBH19HD', name: 'Ninja CE251 Programmable Coffee Maker', category: 'coffee-makers', priceRange: '$50-70', lastVerified: '2026-05-18', status: 'active' },
+
+  // Super-Automatic Espresso Machines
+  'jura-e8': { asin: 'B076H4BQJB', name: 'Jura E8 Automatic Coffee Machine', category: 'espresso', priceRange: '$900-1100', lastVerified: '2026-05-18', status: 'active' },
+  'delonghi-dinamica-plus': { asin: 'B09MQQY5LF', name: "De'Longhi Dinamica Plus ECAM37095T", category: 'espresso', priceRange: '$750-950', lastVerified: '2026-05-18', status: 'active' },
+  'breville-oracle-touch': { asin: 'B07BKLQCCB', name: 'Breville Oracle Touch Espresso Machine', category: 'espresso', priceRange: '$1400-1700', lastVerified: '2026-05-18', status: 'active' },
 };
