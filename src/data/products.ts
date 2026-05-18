@@ -230,4 +230,10 @@ export const products: Record<string, Product> = {
   'jura-e8': { asin: 'B076H4BQJB', name: 'Jura E8 Automatic Coffee Machine', category: 'espresso', priceRange: '$900-1100', lastVerified: '2026-05-18', status: 'active' },
   'delonghi-dinamica-plus': { asin: 'B09MQQY5LF', name: "De'Longhi Dinamica Plus ECAM37095T", category: 'espresso', priceRange: '$750-950', lastVerified: '2026-05-18', status: 'active' },
   'breville-oracle-touch': { asin: 'B07BKLQCCB', name: 'Breville Oracle Touch Espresso Machine', category: 'espresso', priceRange: '$1400-1700', lastVerified: '2026-05-18', status: 'active' },
+
+  // Office & Additional Coffee Makers
+  'hamilton-beach-46310': { asin: 'B009ION2XY', name: 'Hamilton Beach 46310 12-Cup Coffee Maker', category: 'coffee-makers', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
+  'bunn-nhs': { asin: 'B001A05FV2', name: 'BUNN NHS Velocity Brew 10-Cup Coffee Brewer', category: 'coffee-makers', priceRange: '$70-90', lastVerified: '2026-05-18', status: 'active' },
+  'melitta-manual-pourover': { asin: 'B00019OQZK', name: 'Melitta Ready Set Joe Single Cup Pour Over', category: 'coffee-makers', priceRange: '$5-10', lastVerified: '2026-05-18', status: 'active' },
+  'kitchenaid-cold-brew': { asin: 'B073X7LNXH', name: 'KitchenAid Cold Brew Coffee Maker', category: 'coffee-makers', priceRange: '$70-90', lastVerified: '2026-05-18', status: 'active' },
 };
