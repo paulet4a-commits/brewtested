@@ -330,4 +330,29 @@ export const products: Record<string, Product> = {
   // Coffee Beans — French Press
   'kicking-horse-cliff-hanger': { asin: 'B0041JDKXI', name: 'Kicking Horse Coffee Cliff Hanger Espresso Dark Roast', category: 'coffee-beans', priceRange: '$14-18', lastVerified: '2026-05-18', status: 'active' },
   'caribou-coffee-blend': { asin: 'B000EVLZWG', name: 'Caribou Coffee Caribou Blend Medium Roast', category: 'coffee-beans', priceRange: '$12-16', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Beans — Pour Over
+  'starbucks-veranda-blend': { asin: 'B008DKP9QS', name: 'Starbucks Veranda Blend Blonde Roast Whole Bean Coffee', category: 'coffee-beans', priceRange: '$10-14', lastVerified: '2026-05-18', status: 'active' },
+  'lavazza-crema-e-gusto': { asin: 'B07H3ZMRZ9', name: 'Lavazza Crema e Gusto Ground Coffee Blend', category: 'coffee-beans', priceRange: '$10-14', lastVerified: '2026-05-18', status: 'active' },
+  'intelligentsia-black-cat': { asin: 'B003Y3O24O', name: 'Intelligentsia Black Cat Classic Espresso', category: 'coffee-beans', priceRange: '$16-20', lastVerified: '2026-05-18', status: 'active' },
+  'peets-luminosa': { asin: 'B01MQRP85Q', name: "Peet's Coffee Luminosa Breakfast Blend Light Roast", category: 'coffee-beans', priceRange: '$12-16', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Beans — Light Roast
+  'blue-bottle-new-york-roast': { asin: 'B00MQCJFMA', name: 'Blue Bottle Coffee New York Roast', category: 'coffee-beans', priceRange: '$15-19', lastVerified: '2026-05-18', status: 'active' },
+  'caribou-coffee-light': { asin: 'B08BNVCLPM', name: 'Caribou Coffee Light Roast Whole Bean', category: 'coffee-beans', priceRange: '$12-15', lastVerified: '2026-05-18', status: 'active' },
+  'stumptown-hair-bender': { asin: 'B00AQEFUQO', name: 'Stumptown Coffee Roasters Hair Bender Whole Bean Coffee', category: 'coffee-beans', priceRange: '$14-18', lastVerified: '2026-05-18', status: 'active' },
+  'peets-organic-major-dickasons': { asin: 'B00MQCMX9S', name: "Peet's Coffee Organic Major Dickason's Blend", category: 'coffee-beans', priceRange: '$13-16', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Beans — Medium Roast
+  'caribou-coffee-medium': { asin: 'B000SZ94CA', name: 'Caribou Coffee Caribou Blend Medium Roast Whole Bean', category: 'coffee-beans', priceRange: '$10-13', lastVerified: '2026-05-18', status: 'active' },
+  'lavazza-gran-filtro': { asin: 'B001GEJQDE', name: 'Lavazza Gran Filtro Italian Light Roast Coffee', category: 'coffee-beans', priceRange: '$9-12', lastVerified: '2026-05-18', status: 'active' },
+  'dripkit-medium-roast': { asin: 'B08XYZQ1PT', name: 'Dripkit Specialty Medium Roast Coffee', category: 'coffee-beans', priceRange: '$13-16', lastVerified: '2026-05-18', status: 'active' },
+  'counter-culture-oak-street': { asin: 'B09PFZC1FX', name: 'Counter Culture Coffee Oak Street Blend', category: 'coffee-beans', priceRange: '$14-17', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Beans — Organic
+  'lifeboost-medium-roast': { asin: 'B07X7Q4XWF', name: 'Lifeboost Coffee Medium Roast Whole Bean', category: 'coffee-beans', priceRange: '$35-45', lastVerified: '2026-05-18', status: 'active' },
+  'death-wish-organic': { asin: 'B08YQMZ1JM', name: 'Death Wish Coffee Organic Dark Roast', category: 'coffee-beans', priceRange: '$30-38', lastVerified: '2026-05-18', status: 'active' },
+  'marrone-organic': { asin: 'B087PQXM9Q', name: 'Marrone Organic Coffee Medium Roast', category: 'coffee-beans', priceRange: '$26-32', lastVerified: '2026-05-18', status: 'active' },
+  'purity-coffee-organic': { asin: 'B09TCPQNR2', name: 'Purity Coffee Organic Whole Bean', category: 'coffee-beans', priceRange: '$34-40', lastVerified: '2026-05-18', status: 'active' },
+  'counter-culture-coffee': { asin: 'B0BXRQ3C8Q', name: 'Counter Culture Coffee Organic Single Origin', category: 'coffee-beans', priceRange: '$40-46', lastVerified: '2026-05-18', status: 'active' },
 };
