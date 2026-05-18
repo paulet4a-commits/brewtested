@@ -41,6 +41,19 @@ export const products: Record<string, Product> = {
   'eureka-mignon-silenzio': { asin: 'B07G14RKTT', name: 'Eureka Mignon Silenzio', category: 'grinders', priceRange: '$230-280', lastVerified: '2026-05-19', status: 'active' },
 
   // Coffee Makers
+  'technivorm-moccamaster': { asin: 'B008RNI1BS', name: 'Technivorm Moccamaster KBT741 Thermal Coffee Maker', category: 'coffee-makers', priceRange: '$290-330', lastVerified: '2026-05-18', status: 'active' },
+  'zojirushi-ec-ytc100xb': { asin: 'B07GYVMWVL', name: 'Zojirushi EC-YTC100XB Thermal Coffee Maker', category: 'coffee-makers', priceRange: '$140-170', lastVerified: '2026-05-18', status: 'active' },
+  'cuisinart-dcc-3400': { asin: 'B003NLWSBE', name: 'Cuisinart DCC-3400 12-Cup Thermal Coffee Maker', category: 'coffee-makers', priceRange: '$75-100', lastVerified: '2026-05-18', status: 'active' },
+  'melitta-optibrew': { asin: 'B07QV8FVX4', name: 'Melitta OptiBrew Thermal Coffee Maker', category: 'coffee-makers', priceRange: '$65-90', lastVerified: '2026-05-18', status: 'active' },
+  'hamilton-beach-46203': { asin: 'B003U1AHZE', name: 'Hamilton Beach 46203 12-Cup Thermal Coffee Maker', category: 'coffee-makers', priceRange: '$55-75', lastVerified: '2026-05-18', status: 'active' },
+  'bunn-speed-brew': { asin: 'B000E69O9M', name: 'Bunn Speed Brew 10-Cup Coffee Maker', category: 'coffee-makers', priceRange: '$65-85', lastVerified: '2026-05-18', status: 'active' },
+  'hamilton-beach-carafe-12cup': { asin: 'B000BQRTBY', name: 'Hamilton Beach 12-Cup Coffee Maker with Carafe', category: 'coffee-makers', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
+  // Descalers & Cleaning
+  'impresa-descaler': { asin: 'B01CGYROBQ', name: 'Impresa Coffee Machine Descaling Solution 2-Pack', category: 'kitchen', priceRange: '$10-15', lastVerified: '2026-05-18', status: 'active' },
+  'durgol-descaler': { asin: 'B001418KNS', name: 'Durgol Swiss Espresso Machine Descaler', category: 'kitchen', priceRange: '$12-18', lastVerified: '2026-05-18', status: 'active' },
+  'urnex-dezcal': { asin: 'B00LN4Q2NK', name: 'Urnex Dezcal Activated Descaler', category: 'kitchen', priceRange: '$8-12', lastVerified: '2026-05-18', status: 'active' },
+  'oxo-good-grips-descaler': { asin: 'B07FDJMC9Q', name: 'OXO Good Grips Coffee Machine Descaler', category: 'kitchen', priceRange: '$8-12', lastVerified: '2026-05-18', status: 'active' },
+  'keurig-descaling-solution': { asin: 'B01MUGZ3MK', name: 'Keurig Descaling Solution', category: 'kitchen', priceRange: '$8-12', lastVerified: '2026-05-18', status: 'active' },
   'moccamaster-kbg': { asin: 'B000NGNEOM', name: 'Moccamaster KBG 10-Cup', category: 'coffee-makers', priceRange: '$300-360', lastVerified: '2026-05-19', status: 'active' },
   'breville-precision-brewer': { asin: 'B01MXHDPWQ', name: 'Breville Precision Brewer', category: 'coffee-makers', priceRange: '$180-230', lastVerified: '2026-05-19', status: 'active' },
   'oxo-brew-9cup': { asin: 'B079SF3FTB', name: 'OXO Brew 9-Cup', category: 'coffee-makers', priceRange: '$170-230', lastVerified: '2026-05-19', status: 'active' },
