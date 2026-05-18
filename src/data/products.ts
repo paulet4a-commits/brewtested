@@ -303,6 +303,8 @@ export const products: Record<string, Product> = {
   // Flat Burr Grinders
   'wilfa-svart': { asin: 'B01L5JLKQ4', name: 'Wilfa Svart Coffee Grinder', category: 'grinders', priceRange: '$200-220', lastVerified: '2026-05-18', status: 'active' },
   'wilfa-sven': { asin: 'B01MSSQ1YS', name: 'Wilfa Sven Flat Burr Grinder', category: 'grinders', priceRange: '$180-210', lastVerified: '2026-05-18', status: 'active' },
+  'wilfa-svart-nymane': { asin: 'B09FTBVLH8', name: 'Wilfa Svart Nymane Flat Burr Grinder', category: 'grinders', priceRange: '$220-250', lastVerified: '2026-05-18', status: 'active' },
+  'baratza-encore-esp': { asin: 'B09LW5X8K6', name: 'Baratza Encore ESP Conical Burr Grinder', category: 'grinders', priceRange: '$150-180', lastVerified: '2026-05-18', status: 'active' },
   'gaggia-md58n': { asin: 'B01M329P5P', name: 'Gaggia MD58N Flat Burr Grinder', category: 'grinders', priceRange: '$120-140', lastVerified: '2026-05-18', status: 'active' },
   'rancilio-rocky': { asin: 'B00004S9FX', name: 'Rancilio Rocky Espresso Coffee Grinder', category: 'grinders', priceRange: '$280-320', lastVerified: '2026-05-18', status: 'active' },
   'eureka-mignon-filtro': { asin: 'B07KHZRBKB', name: 'Eureka Mignon Filtro Coffee Grinder', category: 'grinders', priceRange: '$200-240', lastVerified: '2026-05-18', status: 'active' },
@@ -367,6 +369,9 @@ export const products: Record<string, Product> = {
   'fellow-opus-dosing-cap': { asin: 'B00ARBTV5M', name: 'Fellow Opus Dosing Cap', category: 'espresso', priceRange: '$15-20', lastVerified: '2026-05-18', status: 'active' },
   'eureka-mignon-dosing-collar': { asin: 'B07XRHDVHP', name: 'Eureka Mignon Dosing Collar', category: 'espresso', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
   '1zpresso-dosing-ring': { asin: 'B08Q1K5V5M', name: '1Zpresso Dosing Ring Kit', category: 'grinders', priceRange: '$10-14', lastVerified: '2026-05-18', status: 'active' },
+  '1zpresso-jx': { asin: 'B07DXZMYZQ', name: '1Zpresso JX Manual Coffee Grinder', category: 'grinders', priceRange: '$55-75', lastVerified: '2026-05-18', status: 'active' },
+  '1zpresso-jx-pro': { asin: 'B085J4GBSF', name: '1Zpresso JX-Pro Manual Coffee Grinder', category: 'grinders', priceRange: '$100-120', lastVerified: '2026-05-18', status: 'active' },
+  'comandante-c40': { asin: 'B07K1X7KKV', name: 'Comandante C40 MK4 Nitro Blade Hand Grinder', category: 'grinders', priceRange: '$220-260', lastVerified: '2026-05-18', status: 'active' },
 
   // Coffee Beans — Single Origin
   'blue-bottle-bella-donovan': { asin: 'B00PZ34FZU', name: 'Blue Bottle Coffee Bella Donovan Blend', category: 'coffee-beans', priceRange: '$16-20', lastVerified: '2026-05-18', status: 'active' },
