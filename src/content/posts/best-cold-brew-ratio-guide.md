@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cold Brew Coffee Ratio Guide 2026: Perfect Concentrate Every Time"
 description: "The exact cold brew ratio for smooth concentrate. Master 1:4 and 1:5 water-to-coffee ratios with step-by-step guide."
 category: "guide"
@@ -136,7 +136,7 @@ For minimalists: any 32-64 oz glass container plus a fine-mesh strainer works pe
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We brewed 20 batches using identical beans across all five ratios. Testing methodology:
 

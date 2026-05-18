@@ -1,5 +1,5 @@
-﻿---
-title: "Best Coffee Maker with Grinder Under $100: 5 Combo Brewers Tested"
+---
+title: "Best Coffee Maker with Grinder Under $100: 5 Combo Brewers Reviewed"
 description: "Find the best coffee maker with built-in grinder under $100. We researched and compared 5 grind-and-brew combos for grind quality, brew consistency, and ease of use."
 pubDate: 2026-05-18
 category: "coffee-makers"
@@ -178,7 +178,7 @@ Coffee lovers willing to buy two machines for better control. Best paired with a
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 **Grind Quality:** We measured particle size distribution under a microscope (burr vs. blade results are visually obvious).
 

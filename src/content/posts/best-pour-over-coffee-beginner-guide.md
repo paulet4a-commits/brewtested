@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Pour Over Coffee for Beginners: Complete Guide to Brewing Excellence"
 description: "Start your pour-over journey with our beginner's guide. Compare top pour-over coffee makers, learn brewing technique, and master the basics."
 category: pour-over
@@ -135,7 +135,7 @@ Blue Bottle's minimalist dripper combines the best elements of conical designs w
 
 ---
 
-## How We researched and compared These Pour-Over Makers
+## How We Researched These Pour-Over Makers
 
 We evaluated each dripper across **brewing consistency**, **ease of use**, and **cup quality**. For consistency, we brewed 20 cups of the same bean with identical water temperature (200°F), grind size, and coffee-to-water ratio, then cupped them blind to identify flavor patterns and variability.
 

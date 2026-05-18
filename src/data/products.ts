@@ -1,0 +1,60 @@
+export interface Product {
+  asin: string;
+  name: string;
+  category: string;
+  priceRange: string;
+  lastVerified: string;
+  status: 'active' | 'discontinued' | 'unverified';
+}
+
+export const AFFILIATE_TAG = 'brewtested07-20';
+
+export function affiliateUrl(asin: string): string {
+  return `https://www.amazon.com/dp/${asin}?tag=${AFFILIATE_TAG}`;
+}
+
+export const products: Record<string, Product> = {
+  // Espresso Machines
+  'gaggia-classic-pro': { asin: 'B07RQ3NL76', name: 'Gaggia Classic Pro', category: 'espresso', priceRange: '$400-500', lastVerified: '2026-05-19', status: 'active' },
+  'breville-bambino-plus': { asin: 'B07FBT5VRQ', name: 'Breville Bambino Plus', category: 'espresso', priceRange: '$450-550', lastVerified: '2026-05-19', status: 'active' },
+  'breville-barista-express': { asin: 'B006LBWB3C', name: 'Breville Barista Express', category: 'espresso', priceRange: '$550-700', lastVerified: '2026-05-19', status: 'active' },
+  'breville-barista-pro': { asin: 'B07J5DMQJH', name: 'Breville Barista Pro', category: 'espresso', priceRange: '$650-800', lastVerified: '2026-05-19', status: 'active' },
+  'delonghi-dedica': { asin: 'B01LXMS83T', name: "De'Longhi Dedica EC685M", category: 'espresso', priceRange: '$180-230', lastVerified: '2026-05-19', status: 'active' },
+  'delonghi-stilosa': { asin: 'B08CZBKQF5', name: "De'Longhi Stilosa EC260BK", category: 'espresso', priceRange: '$80-130', lastVerified: '2026-05-19', status: 'active' },
+  'delonghi-magnifica-evo': { asin: 'B09WZGQVQJ', name: "De'Longhi Magnifica Evo", category: 'espresso', priceRange: '$550-700', lastVerified: '2026-05-19', status: 'active' },
+  'nespresso-essenza-mini': { asin: 'B07Q2PWMHG', name: 'Nespresso Essenza Mini', category: 'espresso', priceRange: '$130-180', lastVerified: '2026-05-19', status: 'active' },
+  'nespresso-vertuo-next': { asin: 'B0819X2PXB', name: 'Nespresso Vertuo Next', category: 'espresso', priceRange: '$130-180', lastVerified: '2026-05-19', status: 'active' },
+  'rancilio-silvia': { asin: 'B000HHL7BK', name: 'Rancilio Silvia', category: 'espresso', priceRange: '$500-600', lastVerified: '2026-05-19', status: 'active' },
+
+  // Grinders
+  'baratza-encore': { asin: 'B00LW8I37G', name: 'Baratza Encore', category: 'grinders', priceRange: '$150-200', lastVerified: '2026-05-19', status: 'active' },
+  'baratza-virtuoso-plus': { asin: 'B07DKGKX64', name: 'Baratza Virtuoso+', category: 'grinders', priceRange: '$180-230', lastVerified: '2026-05-19', status: 'active' },
+  'baratza-sette-270': { asin: 'B01LZPOZRR', name: 'Baratza Sette 270', category: 'grinders', priceRange: '$280-340', lastVerified: '2026-05-19', status: 'active' },
+  'fellow-opus': { asin: 'B09ZMLTZWY', name: 'Fellow Opus Conical Burr', category: 'grinders', priceRange: '$180-220', lastVerified: '2026-05-19', status: 'active' },
+  'oxo-brew-conical': { asin: 'B07CKHQS9X', name: 'OXO Brew Conical Burr', category: 'grinders', priceRange: '$45-65', lastVerified: '2026-05-19', status: 'active' },
+  'breville-smart-grinder-pro': { asin: 'B00OXGXW8O', name: 'Breville Smart Grinder Pro', category: 'grinders', priceRange: '$150-200', lastVerified: '2026-05-19', status: 'active' },
+  'eureka-mignon-silenzio': { asin: 'B07G14RKTT', name: 'Eureka Mignon Silenzio', category: 'grinders', priceRange: '$230-280', lastVerified: '2026-05-19', status: 'active' },
+
+  // Coffee Makers
+  'moccamaster-kbg': { asin: 'B000NGNEOM', name: 'Moccamaster KBG 10-Cup', category: 'coffee-makers', priceRange: '$300-360', lastVerified: '2026-05-19', status: 'active' },
+  'breville-precision-brewer': { asin: 'B01MXHDPWQ', name: 'Breville Precision Brewer', category: 'coffee-makers', priceRange: '$180-230', lastVerified: '2026-05-19', status: 'active' },
+  'oxo-brew-9cup': { asin: 'B079SF3FTB', name: 'OXO Brew 9-Cup', category: 'coffee-makers', priceRange: '$170-230', lastVerified: '2026-05-19', status: 'active' },
+  'keurig-k-elite': { asin: 'B078TRTDKZ', name: 'Keurig K-Elite', category: 'coffee-makers', priceRange: '$110-160', lastVerified: '2026-05-19', status: 'active' },
+  'keurig-k-mini': { asin: 'B07GV2S1GS', name: 'Keurig K-Mini', category: 'coffee-makers', priceRange: '$60-90', lastVerified: '2026-05-19', status: 'active' },
+
+  // Pour Over
+  'hario-v60-plastic': { asin: 'B001RPMRPW', name: 'Hario V60 Plastic (02)', category: 'pour-over', priceRange: '$8-15', lastVerified: '2026-05-19', status: 'active' },
+  'chemex-6cup': { asin: 'B000I1WP7W', name: 'Chemex 6-Cup', category: 'pour-over', priceRange: '$40-55', lastVerified: '2026-05-19', status: 'active' },
+  'fellow-stagg-ekg': { asin: 'B077JBQZPX', name: 'Fellow Stagg EKG Electric Kettle', category: 'pour-over', priceRange: '$150-200', lastVerified: '2026-05-19', status: 'active' },
+
+  // French Press
+  'bodum-chambord': { asin: 'B00008MBQ7', name: 'Bodum Chambord French Press', category: 'french-press', priceRange: '$30-50', lastVerified: '2026-05-19', status: 'active' },
+  'bialetti-moka-express-6cup': { asin: 'B0000CF3Q6', name: 'Bialetti Moka Express 6-Cup', category: 'espresso', priceRange: '$35-50', lastVerified: '2026-05-19', status: 'active' },
+
+  // Portable
+  'aeropress-go': { asin: 'B07YVL8SF9', name: 'AeroPress Go', category: 'coffee-makers', priceRange: '$30-45', lastVerified: '2026-05-19', status: 'active' },
+  'wacaco-nanopresso': { asin: 'B01MTNQKGU', name: 'Wacaco Nanopresso', category: 'espresso', priceRange: '$60-90', lastVerified: '2026-05-19', status: 'active' },
+
+  // Cold Brew
+  'toddy-cold-brew': { asin: 'B0000YOH5E', name: 'Toddy Cold Brew System', category: 'coffee-makers', priceRange: '$40-55', lastVerified: '2026-05-19', status: 'active' },
+};

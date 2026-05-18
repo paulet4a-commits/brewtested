@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Grinder Dosing Ring: Precision Dosing for Espresso & Manual Grinders"
 description: "Master precision dosing with the best grinder dosing rings. Compare top options for consistent espresso shots and manual grinding control."
 category: grinders
@@ -125,7 +125,7 @@ The 1Zpresso kit is ideal for hand grinder enthusiasts, offering an adjustable r
 
 ---
 
-## How We researched and compared These Dosing Rings
+## How We Researched These Dosing Rings
 
 We researched and compared each dosing ring across three key metrics: **dose consistency**, **ease of use**, and **durability over time**. For consistency testing, we ground 50 doses of the same bean with each ring and weighed results to measure variance. For ease of use, we timed attachment/removal and measured spillage on each setup. Durability testing involved 2 weeks of daily use with careful observation for wear, marking degradation, and structural integrity.
 

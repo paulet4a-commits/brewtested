@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Programmable Coffee Makers Under $50: 5 Top Models for Morning Convenience"
 description: "Affordable programmable coffee makers with timer delays, brew strength control, and reliable performance for busy mornings."
 category: coffee-makers
@@ -140,7 +140,7 @@ GE's 12-cup programmable model focuses on simplicity and reliability. The large 
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We brewed multiple cycles with each coffee maker using standard medium-roast beans across a 4-week period. We evaluated brew consistency, warmplate performance, timer accuracy, water distribution evenness, and carafe durability. We timed the full brew cycle, measured water temperature retention, tested pause-and-serve mechanisms where applicable, and assessed water reservoir design. We also examined control panel intuition by having first-time users operate the machines without instructions.
 

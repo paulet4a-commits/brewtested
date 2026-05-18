@@ -1,4 +1,4 @@
-﻿---
+---
 title: "French Press vs. Drip Coffee: Which Brewing Method is Best?"
 description: "Compare French press and drip coffee brewing methods. Learn which technique produces better flavor, costs less, and matches your lifestyle."
 pubDate: 2026-05-18

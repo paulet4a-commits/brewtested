@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Maker Under $30: 5 Budget Picks That Actually Brew Well"
 description: "Find the best coffee maker under $30 that actually brews good coffee. We researched and compared 5 ultra-budget coffee makers for brew quality, reliability, and value."
 pubDate: 2026-05-18
@@ -149,7 +149,7 @@ If you want the best coffee *taste* for under $30, skip the automatic machines a
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each coffee maker on:
 

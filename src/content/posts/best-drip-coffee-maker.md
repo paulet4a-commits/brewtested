@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Drip Coffee Maker: 5 Machines for Perfect Home Brew"
 description: "Find the best drip coffee maker for your kitchen. We researched and compared 5 automatic drip machines for brew quality, speed, ease of use, and value."
 pubDate: 2026-05-18
@@ -130,7 +130,7 @@ Mr. Coffee is the most-sold coffee maker in America for good reason: it's cheap,
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We researched and compared each machine over 3 weeks with the same medium-roast beans, same grind size, and same water. We measured:
 

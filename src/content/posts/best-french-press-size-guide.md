@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best French Press Size Guide: Which Capacity Is Right for You in 2026"
 description: "Find your ideal French press size. Compare 3-12 cup capacities, brewing times, and best uses. Expert tested guide with prices."
 category: "french-press"
@@ -121,7 +121,7 @@ If you appreciate quality craftsmanship and plan to keep your press for 10+ year
 
 [Check Price on Amazon](https://www.amazon.com/dp/B00AW2AU0Q?tag=brewtested07-20)
 
-## How We researched and compared French Press Sizes
+## How We Researched French Press Sizes
 
 We evaluated each size by:
 - **Brewing capacity**: Measuring actual yield and comparing to cup markings

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Moka Pot Under $30: 4 Stovetop Espresso Makers Compared"
 description: "Find the best moka pot under $30. Compare Bialetti, Cuisinox, and more stovetop espresso makers for rich, authentic Italian coffee at home."
 pubDate: 2026-05-18
@@ -105,7 +105,7 @@ The only stainless steel pick on this list. The Cuisinox Roma costs a bit more b
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We brewed each moka pot 10+ times using the same medium-fine grind (Lavazza Espresso Classico), the same water temperature (just off boil), and the same heat setting. We evaluated:
 

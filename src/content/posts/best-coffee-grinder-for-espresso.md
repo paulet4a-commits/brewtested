@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Grinder for Espresso: 5 Burr Grinders That Pull Great Shots"
 description: "Find the best coffee grinder for espresso at home. We researched and compared 5 burr grinders for espresso fineness, shot-to-shot consistency, and dosing accuracy."
 pubDate: 2026-05-18
@@ -86,7 +86,7 @@ We researched and compared five dedicated burr grinders specifically for espress
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each grinder across five criteria:
 

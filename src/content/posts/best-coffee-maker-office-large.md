@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Makers for Large Office Spaces: 12+ Cup Models Tested"
 description: "Brew for the entire office with our top-rated 12+ cup coffee makers. Durability, speed, and consistency tested for workplace kitchens."
 category: "coffee-makers"
@@ -149,7 +149,7 @@ For offices with serious coffee culture, the Moccamaster is the gold standard. T
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 Our team tested each machine in actual office environments over four weeks. We measured brew time, temperature consistency, and coffee quality using calibrated thermometers and taste testing with standardized coffee batches. Durability testing included 50+ brew cycles per machine with regular descaling on the schedule recommended by manufacturers.
 

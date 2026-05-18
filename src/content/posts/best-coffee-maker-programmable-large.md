@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Large Programmable Coffee Makers for the Office: Brew 12+ Cups Every Morning"
 description: "Top 5 programmable coffee makers for large families and offices. Brew 10-12 cups with timer features, thermal carafes, and auto-shutoff to save time daily."
 category: coffee-makers
@@ -143,7 +143,7 @@ The machine has a copper heating element and a unique spray head that ensures ev
 
 [Check Current Price on Amazon](https://www.amazon.com/dp/B0036ZXEUU?tag=brewtested07-20)
 
-## How We researched and compared These Coffee Makers
+## How We Researched These Coffee Makers
 
 Our research methodology focused on real-world use over 6+ weeks. Each machine brewed at least 50 pots of the same medium roast coffee. We evaluated:
 

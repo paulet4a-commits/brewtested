@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Cold Brew Coffee Maker Under $50: 4 Brewers for Smooth, Low-Acid Coffee"
 description: "Find the best cold brew coffee maker under $50. Compare Toddy, OXO, and more for smooth, low-acid cold brew you can make at home for pennies per cup."
 pubDate: 2026-05-18

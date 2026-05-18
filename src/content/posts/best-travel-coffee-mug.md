@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Travel Coffee Mug Under $40: 5 Insulated Mugs That Actually Keep Coffee Hot"
 description: "Find the best travel coffee mug that keeps coffee hot for hours. We researched and compared 5 insulated travel mugs under $40 for temperature retention, leak-proof design, and durability."
 pubDate: 2026-05-18
@@ -133,7 +133,7 @@ The Thermos Stainless King is the best budget-to-performance ratio on this list.
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We researched and compared temperature retention by filling each mug with coffee at 195°F and measuring temperature at 30, 60, 120, and 300 minutes. We also tested:
 

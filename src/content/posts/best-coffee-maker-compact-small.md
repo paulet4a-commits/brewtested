@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Makers for Small Spaces: Compact Models Under $50"
 description: "Find the perfect compact coffee maker for dorms, apartments, and small kitchens. Top 5 models reviewed with prices."
 category: "coffee-makers"
@@ -140,7 +140,7 @@ The Aeropress Go is a manual espresso/French press hybrid. It's engineered for t
 
 ---
 
-## How We researched and compared These
+## How We Researched These
 
 We evaluated each compact coffee maker on:
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Pour-Over Coffee Samplers 2026: Premium Beans to Elevate Your Ritual"
 description: "Discover top-rated pour-over coffee samplers from Trade, Atlas, and specialty roasters. Sample premium single-origins and blends for the perfect cup."
 category: pour-over
@@ -163,7 +163,7 @@ Blue Bottle's Flight sampler introduces specialty coffee through their signature
 
 ---
 
-## How We researched and compared Pour-Over Coffee Samplers
+## How We Researched Pour-Over Coffee Samplers
 
 Our rigorous evaluation process included:
 

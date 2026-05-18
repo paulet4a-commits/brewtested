@@ -1,4 +1,4 @@
-﻿---
+---
 title: Best Coffee Makers Under $200 - Top Picks for Quality Brewing
 description: Find the best coffee maker under $200 with our expert comparison guide. Quality drip, pour-over and espresso options tested and reviewed for home brewers.
 category: coffee-makers
@@ -140,11 +140,11 @@ At $30-$40, Mr. Coffee is the budget baseline. While it won't wow experienced co
 
 ---
 
-## How We researched and compared These Coffee Makers
+## How We Researched These Coffee Makers
 
 Our research process evaluates each coffee maker on:
 
-**Temperature Consistency:** We measured brew temperature throughout the brewing cycle using calibrated thermometers. SCAA certification requires maintaining 195-205°F water temperature. Premium models hit these targets; budget models often underperform.
+**Temperature Consistency:** We Manufacturer-spec brew temperature throughout the brewing cycle using calibrated thermometers. SCAA certification requires maintaining 195-205°F water temperature. Premium models hit these targets; budget models often underperform.
 
 **Extraction Quality:** Using the same specialty-grade coffee beans and water across all models, we evaluated flavor balance, brightness, and body. We cupped each brew blind to ensure unbiased scoring.
 

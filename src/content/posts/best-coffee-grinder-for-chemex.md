@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Grinder for Chemex: 2026 Guide to Perfect Pour-Over Grinds"
 description: "Find the ideal Chemex grinder with consistent medium-coarse grounds. Top burr grinders reviewed for precision and durability."
 category: grinders
@@ -129,7 +129,7 @@ The Infinity fills a gap between pre-ground coffee and serious grinders. It's a 
 
 [Buy Capresso Infinity on Amazon](https://www.amazon.com/dp/B0000AR7SU?tag=brewtested07-20)
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each grinder across multiple criteria:
 

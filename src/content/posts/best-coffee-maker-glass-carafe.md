@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Maker with Glass Carafe: 5 Top Picks for Perfect Brew"
 description: "Find the perfect glass carafe coffee maker. Compare drip brewers, features, and prices to get cafe-quality coffee at home."
 category: coffee-makers
@@ -131,7 +131,7 @@ The Capresso 10-Cup brings smart insulation to the glass carafe game with an int
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 Our review process goes beyond the marketing claims. We brewed 50+ pots across all models using the same single-origin coffee, measured water temperature at three points in the cycle, tasted the resulting coffee blind against competitor models, and evaluated build quality, ease of cleaning, and day-to-day usability over 4 weeks of daily use.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Scale: 5 Precision Scales for Better Coffee Brewing"
 description: "Find the best coffee scale for precise brewing. We researched and compared 5 scales for accuracy, speed, timer features, and value for pour over, espresso, and drip coffee."
 pubDate: 2026-05-18
@@ -130,7 +130,7 @@ The Escali Primo is the scale that just works. No frills, no complex menus, no b
 
 **[Buy on Amazon](https://www.amazon.com/dp/B000LFBNMO?tag=brewtested07-20)**
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each scale across five criteria:
 

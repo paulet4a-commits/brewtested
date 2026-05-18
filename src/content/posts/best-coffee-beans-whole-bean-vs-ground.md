@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Whole Bean vs Ground Coffee: Which Saves You Money & Tastes Better?"
 description: "Compare whole bean vs ground coffee. We researched and compared freshness, flavor, cost per cup, and convenience to help you choose the best option."
 category: comparison
@@ -148,7 +148,7 @@ We can't discuss whole bean without addressing the grinder. The Baratza Encore i
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We conducted a 6-week freshness comparison:
 

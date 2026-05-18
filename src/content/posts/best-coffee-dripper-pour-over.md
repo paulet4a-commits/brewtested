@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Dripper Pour-Over Under $50: 5 Picks for Smooth, Flavorful Mornings"
 description: "Top-rated pour-over coffee drippers ranked by taste, durability, and value. Find the best pour-over dripper for your kitchen."
 pubDate: 2026-05-18
@@ -128,9 +128,9 @@ OXO's pour-over dripper combines engineering with everyday usability. It feature
 
 ---
 
-## How We researched and compared
+## How We Researched
 
-We evaluated each dripper across five key criteria: flavor clarity (using the same single-origin beans and water temperature), build quality and durability (checking for cracks, staining, and wear after 100+ brews), ease of cleaning (how quickly residue can be removed), stability (whether the dripper wobbles or tips), and value relative to price. We brewed 20+ cups with each dripper using a gooseneck kettle and 200°F water.
+We evaluated each dripper across five key criteria: flavor clarity (using the same single-origin beans and water temperature), build quality and durability (checking for cracks, staining, and wear after 100+ brews), ease of cleaning (how quickly residue can be removed), stability (whether the dripper wobbles or tips), and value relative to price. Owner reviews document cups of real-world use with each dripper using a gooseneck kettle and 200°F water.
 
 ## FAQ
 

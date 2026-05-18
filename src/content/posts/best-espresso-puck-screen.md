@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Puck Screens: Improve Shot Quality and Reduce Channeling"
 category: "espresso"
 pubDate: 2026-05-18
@@ -157,7 +157,7 @@ For someone making 10+ shots daily (cafés, serious enthusiasts, competition pra
 
 **[Check Current Price on Amazon](https://www.amazon.com/s?k=Espresso+Gear+Premium+Puck+Screen?tag=brewtested07-20)**
 
-## How We researched and compared Puck Screens
+## How We Researched Puck Screens
 
 Our comprehensive testing methodology measured real-world impact across different espresso machines and user skill levels.
 

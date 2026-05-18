@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Kitchen Coffee Bar Setup: Complete Guide for Home Baristas"
 description: "Create the perfect home coffee bar with top-rated espresso machines, grinders, and accessories. Expert tips and product reviews for any budget."
 category: "kitchen"
@@ -139,7 +139,7 @@ Coffee oxidizes rapidly after roasting. The Fellow Atmos vacuum-seals your beans
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 Our team tested each product for three weeks in real-world home kitchen environments. We evaluated espresso machines on shot consistency, heat recovery, and ease of use. Grinders were tested for particle uniformity using microscopic analysis and extraction time measurement. Accessories were assessed on durability, usability, and impact on final cup quality.
 

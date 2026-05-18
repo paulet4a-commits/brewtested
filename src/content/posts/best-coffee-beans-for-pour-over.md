@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Beans for Pour Over: 5 Light and Medium Roasts for Clarity"
 description: "Find the best coffee beans for pour over brewing. We researched and compared 5 roasts for clarity, brightness, and flavor complexity in pour over and Chemex brewers."
 pubDate: 2026-05-18
@@ -96,7 +96,7 @@ Single-origin beans matter more in pour over because blend recipes are designed 
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 Our research protocol matched real home brewing, not lab conditions:
 

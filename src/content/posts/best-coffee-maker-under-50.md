@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Maker Under $50: 5 Budget Picks That Actually Brew Great Coffee"
 description: "Want a great cup of coffee without breaking the bank? We researched and compared the best coffee makers under $50 and ranked them by brew quality, durability, and ease of use."
 pubDate: 2026-05-18
@@ -124,7 +124,7 @@ Fair warning: brew temperature runs slightly cooler than other machines (~175°F
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We brewed 3 cups per machine per day over 2 weeks using the same medium roast beans (ground fresh each time). We measured:
 

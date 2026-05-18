@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Scale for Pour Over: Precision Brewing Under $200"
 description: "Find the perfect pour over coffee scale for precision brewing. Top 5 scales reviewed with accuracy, speed, and durability ratings for home baristas."
 category: "pour-over"
@@ -142,7 +142,7 @@ If you love tracking metrics and refining your technique through data analysis, 
 
 ---
 
-## How We researched and compared Coffee Scales
+## How We Researched Coffee Scales
 
 Our research process evaluated each scale across multiple pour over brewing sessions:
 

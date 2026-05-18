@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Beans for Beginners: 5 Approachable Roasts to Start With"
 description: "Just getting into coffee? Find the best coffee beans for beginners — smooth, forgiving roasts that taste great in any brewer. Our top 5 picks for new coffee drinkers."
 pubDate: 2026-05-18
@@ -135,7 +135,7 @@ We've researched and compared five approachable roasts that are forgiving, natur
 
 ---
 
-## How We researched and compared (With Beginners in Mind)
+## How We Researched (With Beginners in Mind)
 
 We brewed each of these beans in three different ways to make sure they work for real beginners using everyday equipment:
 

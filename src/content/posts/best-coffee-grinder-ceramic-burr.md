@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Ceramic Burr Coffee Grinder 2026: Hand & Electric Models Tested"
 description: "Top ceramic burr grinders reviewed. Compare hand, electric, budget, and premium options. Expert tested with real-world brew results."
 category: "grinders"
@@ -150,7 +150,7 @@ We recommend setting a phone timer or counting seconds to dial in grind amounts.
 
 [Check Price on Amazon](https://www.amazon.com/dp/B00018RRRK?tag=brewtested07-20)
 
-## How We researched and compared Ceramic Burr Grinders
+## How We Researched Ceramic Burr Grinders
 
 Our evaluation methodology:
 

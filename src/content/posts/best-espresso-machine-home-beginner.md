@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Machines for Beginners: Home Setup Under $300"
 description: "Start making espresso at home. Best beginner espresso machines reviewed with setup tips and training advice."
 category: "espresso"
@@ -154,7 +154,7 @@ The Breville Bambino is expensive for a beginner machine ($250–300), but if yo
 
 ---
 
-## How We researched and compared Beginner Espresso Machines
+## How We Researched Beginner Espresso Machines
 
 We evaluated each machine on:
 

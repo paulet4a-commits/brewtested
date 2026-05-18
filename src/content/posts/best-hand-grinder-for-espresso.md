@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Hand Grinder for Espresso: 5 Manual Grinders That Pull Real Shots"
 description: "Find the best hand grinder for espresso — tested for grind consistency, espresso-range settings, and value. Manual grinders that actually work for espresso."
 pubDate: 2026-05-18
@@ -128,7 +128,7 @@ The Porlex Mini is the hand grinder for people who travel or have minimal counte
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We researched and compared each grinder across five criteria:
 

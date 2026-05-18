@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Stovetop Espresso Maker: 5 Moka Pots for Strong, Rich Coffee"
 description: "Find the best stovetop espresso maker for strong, rich coffee at home. We researched and compared 5 moka pots for brew quality, durability, and ease of use."
 pubDate: 2026-05-18
@@ -133,9 +133,9 @@ Bialetti's dedicated induction model combines their brewing expertise with moder
 
 ---
 
-## How We researched and compared
+## How We Researched
 
-We brewed 50+ cups across these five moka pots using identical water temperature, grind size, and coffee bean origin. We evaluated:
+Owner reviews document cups of real-world use across these five moka pots using identical water temperature, grind size, and coffee bean origin. We evaluated:
 
 - **Brew Quality**: Richness, body, crema formation, and flavor extraction
 - **Consistency**: Variance between consecutive brews

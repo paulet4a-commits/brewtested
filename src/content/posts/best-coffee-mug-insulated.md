@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Insulated Coffee Mug: 5 Premium Picks That Actually Keep Coffee Hot"
 description: "Stop settling for lukewarm coffee by afternoon. These insulated mugs keep beverages hot for 6+ hours. We researched and compared the top contenders for durability."
 category: kitchen
@@ -149,7 +149,7 @@ However, context matters: Ember excels in offices with reliable charging but fai
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 Real-world testing protocol:
 

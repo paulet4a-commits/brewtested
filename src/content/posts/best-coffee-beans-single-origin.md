@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Single-Origin Coffee Beans 2026: Tasting Notes, Roasts & Roaster Reviews"
 description: "Discover the best single-origin coffee beans with detailed tasting profiles, perfect roasts for pour-over & french press brewing methods."
 pubDate: 2026-05-18
@@ -235,7 +235,7 @@ This is the coffee that polarizes coffee drinkers. If you love earthy, herbal no
 - **Flavor Keywords:** Earthy, cedar, mushroom, spice
 - **Learning Value:** MEDIUM - teaches you wet-hulled processing differences
 
-## How We researched and compared
+## How We Researched
 
 Our evaluation included:
 1. **Sensory Analysis** - SCAA cupping protocol (visual assessment, aroma, flavor, mouthfeel, finish)

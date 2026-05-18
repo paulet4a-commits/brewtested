@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Maker Under $100: 5 Machines Worth Every Penny"
 description: "Find the best coffee maker under $100 for rich, flavorful home coffee. We researched and compared 5 machines for brew quality, temperature, and features."
 pubDate: 2026-05-18
@@ -132,7 +132,7 @@ At $25, the Hamilton Beach 12-Cup is the best backup option when budget is truly
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We researched and compared each machine with the same medium-roast beans at identical grind settings over 3 weeks, measuring:
 

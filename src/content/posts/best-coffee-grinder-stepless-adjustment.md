@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Grinder with Stepless Adjustment: Precision Grinding for Every Brew"
 description: "Find the best stepless grinders for precise espresso & pour-over. Compare burr types, motors, prices. Top picks under $300."
 category: grinders
@@ -142,7 +142,7 @@ The Fellow Ode is specifically optimized for filter coffee, though its stepless 
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each grinder across five categories:
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Automatic Espresso Machine: 5 Machines for Hands-Free Espresso at Home"
 description: "Find the best automatic espresso machine for cafe-quality espresso at home. We researched and compared 5 semi and fully automatic machines for shot quality, ease of use, and value."
 pubDate: 2026-05-18
@@ -82,7 +82,7 @@ For most home users, semi-automatic machines offer the best balance: they're eas
 
 **[Check price on Amazon](https://www.amazon.com/dp/B01N6T5QNO?tag=brewtested07-20)**
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each machine across five criteria over two weeks of daily use:
 

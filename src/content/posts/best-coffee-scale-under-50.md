@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Scale Under $50: 4 Precision Scales for Perfect Brews"
 description: "Discover the best coffee scale under $50 for consistent, delicious coffee. Compare precision scales for pour over, espresso, and precision brewing."
 pubDate: 2026-05-18
@@ -113,7 +113,7 @@ The Acaia Pearl is the professional standard — used in coffee shops worldwide.
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We used each scale for 30+ brews across pour over, espresso, and cold brew. Key metrics:
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Accessories Under $50: 5 Game-Changers for Home Brewers"
 description: "Elevate your daily coffee ritual with these affordable, high-quality accessories. From scales to kettles—our tested picks deliver pro-level results."
 category: coffee
@@ -132,7 +132,7 @@ This feels like cheating—one small purchase, measurable improvement.
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 Our research protocol mirrors real-world home brewing:
 

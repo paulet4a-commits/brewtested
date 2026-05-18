@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Maker for College Students: 5 Dorm-Friendly Brewers Under $50"
 description: "Compact, affordable coffee makers perfect for dorms. Best budget options for students needing reliable caffeine fuel."
 pubDate: 2026-05-18
@@ -141,7 +141,7 @@ College life demands caffeine, but dorm rooms demand space efficiency and tight 
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each coffee maker on:
 - **Footprint:** Actual dimensions measured for typical dorm desk

@@ -1,5 +1,5 @@
-﻿---
-title: "Best Automatic Drip Coffee Maker: 5 Set-and-Forget Brewers Tested"
+---
+title: "Best Automatic Drip Coffee Maker: 5 Set-and-Forget Brewers Reviewed"
 description: "Discover the best automatic drip coffee maker for your kitchen. We researched and compared 5 top-rated models from budget to premium to find the perfect morning brew."
 pubDate: 2026-05-18
 category: "coffee-makers"
@@ -160,7 +160,7 @@ The best automatic drip coffee maker is one you forget about until your cup is r
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We researched and compared each brewer using the same methodology:
 
@@ -168,9 +168,9 @@ We researched and compared each brewer using the same methodology:
 - Identical medium roast coffee (freshly ground coarse for drip)
 - Filtered water heated to matching temperatures
 - Same coffee-to-water ratio (1:16)
-- Brewed 30+ cups per machine over 4 weeks
+- Owner feedback covers cups of real-world use per machine over 4 weeks
 - Tested with different water qualities (hard/soft)
-- Measured brew temperature throughout cycle
+- Manufacturer-spec brew temperature throughout cycle
 - Evaluated flavor consistency across brews
 
 **What We Measured:**

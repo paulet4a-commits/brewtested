@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Burr Coffee Grinders Under $50: Budget-Friendly Grinds"
 slug: best-coffee-grinder-burr-under-50
 description: "Find the best burr grinders under $50 with consistent results. Compare top budget models for espresso and pour-over coffee."
@@ -134,7 +134,7 @@ If you can find the Nino at the $49 sweet spot, it's worth every penny. Its flat
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 Our research methodology involved brewing 40+ cups using each grinder across multiple brewing methods. We measured:
 

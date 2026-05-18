@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Reusable Coffee Filter: 5 Eco-Friendly Picks That Actually Work"
 description: "Find the best reusable coffee filter for drip machines, pour-overs, and French press. We researched and compared 5 permanent filters for taste, durability, and ease of cleaning."
 pubDate: 2026-05-18
@@ -134,7 +134,7 @@ The RECAPS flat-bottom filter fits Cuisinart, OXO, Bonavita, and other flat-bott
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We used each filter daily for 3 weeks across compatible brewing methods. We evaluated:
 

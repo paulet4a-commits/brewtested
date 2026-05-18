@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Canister: 5 Airtight Containers to Keep Coffee Fresh Longer"
 description: "Find the best coffee canister for keeping coffee fresh. We researched and compared 5 airtight coffee canisters for seal quality, UV protection, and ease of use."
 pubDate: 2026-05-18
@@ -101,7 +101,7 @@ Outdoor enthusiasts, travelers, and anyone who needs coffee that stays sealed no
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We took coffee freshness seriously. Here's what we measured:
 

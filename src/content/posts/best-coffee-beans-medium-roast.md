@@ -1,4 +1,4 @@
-﻿---
+---
 title: Best Medium Roast Coffee Beans 2026 - Top Brands for Balanced Flavor
 description: Discover the best medium roast coffee beans with our expert picks. Balanced flavor, smooth body, rich taste. Updated 2026.
 category: coffee
@@ -131,7 +131,7 @@ Intelligentsia's Black Cat blends beans from three continents for a sweet, balan
 
 ---
 
-## How We researched and compared These Medium Roasts
+## How We Researched These Medium Roasts
 
 We evaluated each coffee across five brewing methods: pour-over (Chemex), French press, drip machine, espresso, and Aeropress. We measured grind consistency, extraction time, and taste at different water temperatures. Each bag was tested within 2 weeks of roast date when roast dates were available. We assessed balance, sweetness, acidity, body, and aftertaste against the roastery's published tasting notes.
 

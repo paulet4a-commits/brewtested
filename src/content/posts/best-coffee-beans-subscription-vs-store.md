@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Beans: Subscription Delivery vs Store-Bought (2026)"
 description: "Compare coffee bean subscriptions to store-bought options. We researched and compared delivery freshness, flavor, and cost to find the best beans for your brewing method."
 category: coffee
@@ -154,7 +154,7 @@ Peet's is an American specialty coffee brand with consistent quality and year-ro
 
 ---
 
-## How We researched and compared Coffee Freshness and Flavor
+## How We Researched Coffee Freshness and Flavor
 
 We evaluated each option across five criteria:
 

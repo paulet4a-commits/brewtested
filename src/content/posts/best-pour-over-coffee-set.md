@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Pour Over Coffee Set: 5 Complete Kits for Beginner to Expert Brewers"
 description: "Find the best pour over coffee set for home brewing. We reviewed 5 complete pour over kits with dripper, filters, carafe, and scale included."
 pubDate: 2026-05-18
@@ -136,7 +136,7 @@ OXO's design prioritizes consistency and ease, with integrated water temperature
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each pour over coffee set across five criteria:
 

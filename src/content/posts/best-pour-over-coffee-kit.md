@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Pour Over Coffee Kit: 5 Complete Sets for Cafe-Quality Coffee at Home"
 description: "Find the best pour over coffee kit for cafe-quality coffee at home. We researched and compared 5 complete pour over sets for brew quality, value, and what's included."
 pubDate: 2026-05-18
@@ -149,7 +149,7 @@ Melitta invented pour over coffee in 1908, and this kit proves their expertise. 
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We brewed 10+ pots with each kit using the same freshly roasted, medium-grind specialty coffee. We evaluated:
 

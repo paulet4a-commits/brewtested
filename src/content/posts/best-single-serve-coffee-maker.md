@@ -1,5 +1,5 @@
-﻿---
-title: "Best Single Serve Coffee Maker Under $100: 4 One-Cup Brewers Tested"
+---
+title: "Best Single Serve Coffee Maker Under $100: 4 One-Cup Brewers Reviewed"
 description: "Find the best single serve coffee maker under $100. Compare Keurig, Hamilton Beach, and more for convenience, quality, and value."
 pubDate: 2026-05-18
 category: "coffee-makers"
@@ -112,7 +112,7 @@ The Chulux is the cheapest K-Cup compatible machine worth recommending. At ~$35,
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We ran each machine through 20+ brew cycles testing:
 

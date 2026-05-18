@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Hand Coffee Grinder: 5 Top Manual Grinders for Fresh Beans"
 description: "Expert picks for the best hand coffee grinders. Manual burr grinders for espresso, pour-over, and French press with real-world testing."
 pubDate: 2026-05-18
@@ -159,7 +159,7 @@ The Comandante C40 is the luxury option among hand grinders at around $50-60, fe
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each hand grinder across five dimensions:
 

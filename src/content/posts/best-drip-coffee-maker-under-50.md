@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Drip Coffee Maker Under $50: 5 Budget Brewers Worth Buying"
 description: "Find the best drip coffee maker under $50 for great coffee at home. We researched and compared 5 budget drip coffee makers for brew quality, features, and reliability."
 pubDate: 2026-05-18
@@ -143,7 +143,7 @@ Need flexibility? The 2-Way Brewer works as a single-cup drip brewer (great for 
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each drip coffee maker on:
 

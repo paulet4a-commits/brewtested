@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best French Press for One Person: 5 Small Single-Serve Picks"
 description: "Compact French press models perfect for single-serve brewing. Small, efficient coffee makers for individuals."
 pubDate: 2026-05-18
@@ -150,7 +150,7 @@ We researched and compared five French press models specifically designed for si
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each French press on:
 - **Brew Quality:** Coffee flavor, body, extraction consistency across 20+ brews

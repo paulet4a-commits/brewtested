@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Tea Kettle Under $50: 5 Stovetop and Electric Kettles for Tea and Coffee"
 description: "Find the best tea kettle under $50 for fast, precise boiling. We researched and compared 5 electric and stovetop kettles for heat speed, temperature control, and value."
 pubDate: 2026-05-18
@@ -92,7 +92,7 @@ Not everyone wants electric. The Le Creuset stovetop kettle is an heirloom piece
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each kettle on five criteria:
 

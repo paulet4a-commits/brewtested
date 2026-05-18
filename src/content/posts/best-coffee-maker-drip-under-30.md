@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Drip Coffee Maker Under $30: Top Budget Picks for 2026"
 description: "Find the best drip coffee makers under $30. Compare affordable options for reliable morning brew without breaking the bank."
 pubDate: 2026-05-18
@@ -144,7 +144,7 @@ This Black & Decker 12-cup brews faster than almost any competitor in this price
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each coffee maker based on:
 

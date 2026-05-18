@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best 10-Cup Coffee Makers: Brew More Without Compromise"
 slug: best-coffee-maker-10-cup
 description: "Top 10-cup coffee makers for offices and households. Compare thermal carafes, programmable models, and brewing consistency."
@@ -145,7 +145,7 @@ The Moccamaster isn't just a coffee maker—it's an investment in ritual. Every 
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 Our 10-cup maker evaluation involved brewing 60+ pots using consistent methodology:
 

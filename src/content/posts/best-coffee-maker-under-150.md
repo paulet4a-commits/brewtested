@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Makers Under $150: Premium Brewing Without the Premium Price"
 description: "Top coffee makers under $150: drip, pour-over, and thermal carafe options. Compare Bonavita, OXO, Cuisinart with expert reviews and pricing."
 category: coffee-makers
@@ -163,7 +163,7 @@ A great coffee maker doesn't require a three-figure investment. Today's sub-$150
 
 ---
 
-## How We researched and compared These Coffee Makers
+## How We Researched These Coffee Makers
 
 **Brewing Consistency** - Brewed identical coffee (1:16 ratio, filtered water, medium-roast beans) in each machine and measured water temperature at three points: start, middle, and finish of brew cycle.
 

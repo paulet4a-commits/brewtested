@@ -1,5 +1,5 @@
-﻿---
-title: "Best Espresso Machine Under $100: Top 4 Machines Tested & Compared"
+---
+title: "Best Espresso Machine Under $100: Top 4 Machines Reviewed & Compared"
 description: "Looking for a quality espresso machine on a budget? We researched and compared the best espresso machines under $100 to help you make the right choice. Comparison table, detailed reviews, and buyer's guide included."
 pubDate: 2026-05-19
 category: "espresso"

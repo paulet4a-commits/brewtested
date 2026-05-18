@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Dark Roast Coffee Beans: 5 Bold Picks for Rich Flavor Under $15"
 description: "Discover the top dark roast coffee beans for deep, rich flavor. Compare Death Wish, Lavazza, and more premium options."
 category: coffee
@@ -135,7 +135,7 @@ Green Mountain Bold offers exceptional value in dark roast coffee. This blend de
 
 ---
 
-## How We researched and compared These Dark Roasts
+## How We Researched These Dark Roasts
 
 We brewed each coffee using three different methods: French press, pour-over, and espresso. We evaluated:
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Insulated French Press: Double-Wall Brewing for Hot Coffee That Stays Hot"
 description: "Top insulated French press models keeping coffee hot 4+ hours. Compare stainless steel, borosilicate, price, heat retention."
 category: french-press
@@ -155,7 +155,7 @@ The Planetary Design Nanopress is the ultimate travel insulated French press, de
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each insulated French press across five key criteria:
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best French Press Coffee Ratio: Perfect Brew Every Time"
 description: "Master the ideal French press coffee-to-water ratio for bold, rich flavor. Complete guide with troubleshooting tips."
 category: french-press

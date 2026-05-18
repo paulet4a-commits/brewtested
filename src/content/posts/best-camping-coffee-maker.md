@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Camping Coffee Maker: 5 Lightweight Brewers for Great Coffee Outdoors"
 description: "Find the best camping coffee maker for great coffee on the trail. We researched and compared 5 portable brewers for weight, brew quality, and packability."
 pubDate: 2026-05-18
@@ -134,7 +134,7 @@ The Jetboil French Press kit converts any Jetboil cooking system into a French p
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We brewed with each maker in field conditions across 4 camping trips — mountains, desert, and car camping. We evaluated:
 

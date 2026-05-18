@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Storage Containers 2026: Keep Your Beans Fresh Longer"
 description: "Top coffee storage containers ranked by airtight seal quality and freshness. Compare Fellow Atmos, Airscape & more."
 category: "kitchen"
@@ -123,7 +123,7 @@ For minimalist kitchen setups or second containers, the Nifty canister ($15-20) 
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We purchased all five canisters and filled each with the same batch of medium roast beans. Over 4 weeks, we:
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Machine Steam Wand 2026: Top 5 Models for Microfoam"
 description: "Best espresso machines with quality steam wands for latte and cappuccino. Breville vs De'Longhi vs Rancilio—tested for microfoam and temperature stability."
 category: "espresso"
@@ -149,7 +149,7 @@ The Breville Oracle is in a different league—dual boilers mean you can pull es
 
 ---
 
-## How We researched and compared Steam Wand Performance
+## How We Researched Steam Wand Performance
 
 We evaluated each machine's steam wand using these criteria:
 

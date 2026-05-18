@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best French Press for Cold Brew 2026: Our Top 4 Picks Tested"
 description: "Compare top French press models for cold brew. Bodum vs Frieling vs Espro—pros, cons, prices, and Our research methodology inside."
 category: "french-press"
@@ -115,7 +115,7 @@ While primarily an espresso machine, the Breville Barista Express includes a bui
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each French press based on:
 

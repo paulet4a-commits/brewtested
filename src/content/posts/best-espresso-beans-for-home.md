@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Beans for Home: 5 Roasts That Pull Perfect Shots"
 description: "Find the best espresso beans for home espresso machines. We researched and compared 5 roasts for crema quality, flavor balance, and consistency across different machines."
 pubDate: 2026-05-18
@@ -143,7 +143,7 @@ Pulling a perfect espresso shot starts long before you touch the portafilter. Th
 
 ---
 
-## How We researched and compared These Beans
+## How We Researched These Beans
 
 We researched and compared each roast using three different home espresso machines (including a budget semi-automatic under $300 and a higher-end pump machine) to ensure real-world applicability. Our evaluation focused on:
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Accessories Starter Kit: Essential Tools for Pulling Perfect Shots"
 description: "Complete espresso accessory starter kit with tampers, shot glasses, tamping mats, and more. Build a home espresso setup under $200 with expert recommendations."
 category: espresso

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Maker for Office: 5 Machines for the Workplace"
 description: "Find the best coffee maker for office use. We researched and compared 5 machines for quiet operation, easy cleanup, brew volume, and reliability for shared office spaces."
 pubDate: 2026-05-18
@@ -104,7 +104,7 @@ https://www.amazon.com/dp/B001A05FV2?tag=brewtested07-20
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We placed each machine in a shared office environment and evaluated them over a full week, with multiple people using them daily. Here's what we measured:
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Dual Carafe Coffee Makers: Brew Two Ways Simultaneously"
 description: "Review the best dual carafe coffee makers for households. Compare Mr. Coffee, Hamilton Beach, and Technivorm two-cup brewing systems."
 category: coffee-makers
@@ -171,7 +171,7 @@ Some dual systems add a third option: the ability to brew different strengths or
 
 ---
 
-## How We researched and compared Dual Carafe Makers
+## How We Researched Dual Carafe Makers
 
 We evaluated all five models across five testing criteria:
 

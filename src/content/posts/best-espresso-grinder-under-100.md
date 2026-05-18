@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Grinder Under $100: 5 Burr Grinders for Home Espresso"
 description: "Find the best espresso grinder under $100 for consistent fine grinds at home. We researched and compared 5 burr grinders for espresso fineness, consistency, and value."
 pubDate: 2026-05-18
@@ -97,7 +97,7 @@ Traveling espresso drinkers, minimalists, and anyone who wants backup grinder wi
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each grinder across five criteria:
 

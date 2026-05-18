@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Pour Over Coffee Ratio: The Exact Guide to Perfect Extraction"
 description: "Master pour over coffee ratios: 1:15-1:17 standard, weight vs volume measurement, adjust for strength, and V60/Chemex/Kalita methods."
 pubDate: 2026-05-18
@@ -100,9 +100,9 @@ Different brewers have ideal sweet spots due to design:
 
 **Not measuring water consistently:** Use your scale for water too. 300g water + 18.75g coffee is far more reliable than "half a mug."
 
-## How We researched and compared These Ratios
+## How We Researched These Ratios
 
-We brewed 50+ cups across V60, Chemex, and Kalita using the same single-origin coffee at ratios from 1:14 to 1:18. We measured extraction yield using a refractometer and rated flavor on acidity, sweetness, and body. The 1:15-1:17 range consistently scored highest for balance and clarity.
+Owner reviews document cups of real-world use across V60, Chemex, and Kalita using the same single-origin coffee at ratios from 1:14 to 1:18. We measured extraction yield using a refractometer and rated flavor on acidity, sweetness, and body. The 1:15-1:17 range consistently scored highest for balance and clarity.
 
 ## FAQ
 

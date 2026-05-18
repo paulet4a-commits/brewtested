@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso at Home: The Beginner's Complete Setup Guide"
 description: "Learn to pull perfect espresso at home: machine types, grinder selection, tamping, extraction timing & milk steaming essentials for beginners."
 pubDate: 2026-05-18
@@ -225,7 +225,7 @@ Always purge your steam wand before and after steaming to prevent milk buildup.
 
 ---
 
-## How We researched and compared Espresso Machines
+## How We Researched Espresso Machines
 
 1. **Temperature Stability:** We measured water temperature at the group head every 5 seconds for 1 minute during extraction. Machines with superior temperature control produced more consistent shots.
 

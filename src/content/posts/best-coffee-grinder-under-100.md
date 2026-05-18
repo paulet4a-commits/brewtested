@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Grinder Under $100: 5 Burr Grinders Worth Every Dollar"
 description: "Top 5 burr grinders under $100 for consistent espresso & pour-over grinds. Compare Breville, Baratza, and more."
 pubDate: 2026-05-18
@@ -24,7 +24,7 @@ Finding the right burr grinder doesn't mean breaking the bank. We've researched 
 
 ---
 
-## 5 Best Burr Grinders Tested
+## 5 Best Burr Grinders Reviewed
 
 ### 1. **Breville Smart Grinder Pro** (Best All-Around Under $100)
 [**Check Price on Amazon**](https://www.amazon.com/dp/B00OXGXW8O?tag=brewtested07-20)
@@ -126,7 +126,7 @@ Finding the right burr grinder doesn't mean breaking the bank. We've researched 
 
 ---
 
-## How We researched and compared These Grinders
+## How We Researched These Grinders
 
 We evaluated each grinder across four metrics:
 

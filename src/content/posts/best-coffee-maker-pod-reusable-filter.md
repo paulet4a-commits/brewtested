@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Makers with Reusable Filters: Save Money and Reduce Waste"
 description: "Compare top pod-compatible and reusable filter coffee makers. Reviews of Keurig K-Cup systems, Solofill filters, and eco-friendly alternatives under $200."
 category: "coffee-makers"
@@ -142,7 +142,7 @@ For those who want to skip the pod ecosystem entirely, the Instant Brew is a sim
 
 ---
 
-## How We researched and compared These Coffee Makers
+## How We Researched These Coffee Makers
 
 We evaluated each machine based on:
 

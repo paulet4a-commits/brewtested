@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pour Over vs Cold Brew Coffee: Which Method Brews Better Flavor?"
 description: "Compare pour over and cold brew coffee makers. Learn the flavor, speed, and cost differences to find your perfect brewing method."
 category: comparison
@@ -147,7 +147,7 @@ For households that consume 2-3 cups of cold brew daily, the Yama holds 32 ounce
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated both brewing methods across five criteria:
 

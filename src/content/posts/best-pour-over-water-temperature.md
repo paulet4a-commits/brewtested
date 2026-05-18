@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Water Temperature for Pour Over Coffee: The Science & Top Kettles"
 description: "Perfect pour over water temperature is 195-205°F. Guide to gooseneck kettles and thermometers for ideal extraction and taste."
 category: "pour-over"
@@ -119,7 +119,7 @@ OXO designed this kettle with ergonomics in mind. The handle fits larger hands, 
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We researched and compared each kettle by:
 1. **Temperature accuracy:** Using digital thermometers, we measured water temperature at 1-minute intervals from 140°F to 210°F

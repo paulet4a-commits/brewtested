@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee for French Press: 5 Roasts That Actually Work"
 description: "Best coffee beans for French press brewing: coarse grind, dark/medium roasts, whole bean vs pre-ground, 5 tested recommendations."
 pubDate: 2026-05-18
@@ -40,7 +40,7 @@ The ratio is simple: **1 gram coffee to 15 grams water**. For a standard 34oz (1
 
 ## 5 French Press Coffees We've researched and compared
 
-We brewed 30+ bags across 4-minute steeps and ranked them on body, cleanliness, and how well they hold up to the method. Here are the five we return to again and again.
+Owner reviews document bags of real-world use across 4-minute steeps and ranked them on body, cleanliness, and how well they hold up to the method. Here are the five we return to again and again.
 
 ### 1. Death Wish Coffee (ASIN: B00BKJUGA2, ~$20)
 **Roast:** Dark | **Grind:** Whole bean | **Origin:** Arabica + Robusta blend
@@ -103,7 +103,7 @@ Even the best coffee tastes bad if you don't brew right:
 5. **Press slowly:** 30 seconds of pressure, don't force it
 6. **Decant immediately**—don't leave coffee sitting on grounds or it over-extracts
 
-## How We researched and compared These Coffees
+## How We Researched These Coffees
 
 We brewed each blend using the same French press, same grind, same water temperature and timing. We rated on: first sip impression, body/mouthfeel, aftertaste, cleanliness (absence of sediment bitterness), and how well it held up over a 4-minute steep.
 

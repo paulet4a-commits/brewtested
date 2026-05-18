@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Machines Under $400: Home Setup Recommendations for 2026"
 description: "Top espresso machines under $400 that deliver cafe-quality shots at home. We researched and compared Gaggia, Breville, and more with pressure, crema, and ease ratings."
 category: espresso
@@ -148,7 +148,7 @@ Mr. Coffee Espresso ($169.99) is the absolute lowest price point for genuine esp
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 Our espresso machine testing followed cafe industry standards:
 

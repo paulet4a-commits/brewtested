@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Beans for French Press: 5 Roasts for Full-Body Flavor"
 description: "Find the best coffee beans for French press brewing. We researched and compared 5 roasts for body, flavor, and grind compatibility with French press brewing."
 pubDate: 2026-05-18
@@ -82,7 +82,7 @@ French press coffee demands beans that can stand up to immersion brewing. Unlike
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We brewed each coffee in a [12-cup French press under $30](/posts/best-french-press-under-30/) using the same technique: 1:16 coffee-to-water ratio, water at 200°F, four-minute steep, same burr grinder set to "coarse." We used water from the same source for all tests and waited 24 hours between tasting sessions to reset our palates.
 

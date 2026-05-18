@@ -1,4 +1,4 @@
-﻿---
+---
 title: "French Press vs Moka Pot: Which Brews Better Coffee for Your Kitchen?"
 description: "Compare French press and Moka pot brewing methods. We researched and compared both for flavor, ease, and durability to help you choose the right stovetop coffee maker."
 category: comparison
@@ -179,7 +179,7 @@ Shop Bialetti Venus B000IKLOP4 on Amazon: https://www.amazon.com/dp/B000IKLOP4?t
 
 ---
 
-## How We researched and compared French Press vs Moka Pot
+## How We Researched French Press vs Moka Pot
 
 We purchased popular models in both categories and brewed the same specialty coffee beans (medium roast) using each method over 2 weeks. We measured brew time, tested flavor consistency, evaluated ease of setup and cleanup, and assessed durability. We also had multiple people with different coffee experience levels try each method to assess the learning curve.
 

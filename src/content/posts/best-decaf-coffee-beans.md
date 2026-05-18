@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Decaf Coffee Beans: 5 Roasts That Actually Taste Like Coffee"
 description: "Premium decaf beans that don't taste flat. We researched and compared 5 roasts including Volcanica, Kicking Horse & more."
 pubDate: 2026-05-18
@@ -120,7 +120,7 @@ Most decaf tastes like cardboard. We researched and compared the 5 best decaf co
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 **Brewing Methods Used:**
 - Chemex (for clarity)

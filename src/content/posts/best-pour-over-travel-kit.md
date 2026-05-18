@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Pour Over Travel Kits: Portable Coffee Brewing for 2026"
 description: "Lightweight pour over kits for travel and camping. Compact, packable, quality brewing anywhere. Perfect for adventurers and nomads."
 category: pour-over
@@ -159,7 +159,7 @@ The Nanopresso is ideal for adventurers who want to explore a completely differe
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each pour over travel kit based on:
 - **Portability:** Weight, packed size, and ease of fitting into backpacks

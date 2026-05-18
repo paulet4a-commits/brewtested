@@ -1,4 +1,4 @@
-﻿---
+---
 title: Best Coffee Makers for Beginners 2026
 description: Beginner-friendly coffee makers under $100 with easy operation. Top picks, comparison table, and expert reviews.
 category: coffee-makers
@@ -156,7 +156,7 @@ This is an ideal gift for someone transitioning from instant coffee or pod machi
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each machine on:
 

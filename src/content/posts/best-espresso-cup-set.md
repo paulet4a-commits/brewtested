@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Cup Set: 5 Premium Double-Wall Sets for Café-Quality Serving"
 description: "Tested 5 espresso cup sets with insulation and style. Find double-wall cups that keep espresso hot—premium sets reviewed."
 pubDate: 2026-05-18
@@ -146,7 +146,7 @@ Le Creuset's ceramic espresso cups combine legendary durability with vibrant col
 
 ---
 
-## How We researched and compared These Espresso Cup Sets
+## How We Researched These Espresso Cup Sets
 
 We evaluated each set across six critical dimensions:
 

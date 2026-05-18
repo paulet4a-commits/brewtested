@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best French Press Under $50: 5 Presses for Rich, Full-Body Coffee"
 description: "Find the best French press under $50 for rich, full-bodied coffee at home. We researched and compared 5 French presses for build quality, brew quality, and value."
 pubDate: 2026-05-18
@@ -102,7 +102,7 @@ https://www.amazon.com/dp/B01LWYUQNP?tag=brewtested07-20
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each French press across five dimensions:
 

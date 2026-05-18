@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Conical vs Flat Burr Coffee Grinders: Which Type Grinds Better in 2026?"
 description: "Compare conical and flat burr grinders. We researched and compared consistency, heat, price, and ease of cleaning to find the best burr grinder for your brewing method."
 category: grinders
@@ -140,7 +140,7 @@ This premium conical grinder adds digital convenience with timed grinding and ma
 
 ---
 
-## How We researched and compared Coffee Grinders
+## How We Researched Coffee Grinders
 
 Our research process for each grinder included:
 

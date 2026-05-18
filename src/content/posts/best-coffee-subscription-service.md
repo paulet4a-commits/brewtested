@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Subscription Service: 5 Picks for Fresh Beans Delivered Monthly"
 description: "Find the best coffee subscription service for fresh roasted beans delivered to your door. We compared 5 subscriptions for variety, freshness, price, and flexibility."
 pubDate: 2026-05-18

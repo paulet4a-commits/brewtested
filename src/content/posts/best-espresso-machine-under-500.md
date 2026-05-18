@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Machine Under $500: 5 Semi-Automatic Machines for Home Baristas"
 description: "Find the best espresso machine under $500 for serious home espresso. We researched and compared 5 semi-automatic machines for shot quality, steam power, and value."
 pubDate: 2026-05-18
@@ -138,7 +138,7 @@ The De'Longhi La Specialista Arte bridges the gap between convenience and contro
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We pulled shots on each machine using the same process: a single-origin espresso blend, hand-ground on a Baratza Encore (good enough to isolate machine differences), 9-bar basket filled to manufacturer specs, and consistent tamping pressure. We evaluated:
 

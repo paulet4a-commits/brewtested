@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Thermal Carafe Coffee Maker: 5 Picks That Keep Coffee Hot for Hours"
 description: "Keep coffee hot for hours without burning it. We researched and compared the best thermal carafe coffee makers for heat retention, brew quality, and value."
 pubDate: 2026-05-18
@@ -92,7 +92,7 @@ The Ninja CE251 packs impressive features at a mid-range price. It brews 12 cups
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We brewed 5+ pots with each thermal carafe coffee maker and measured heat retention at 30-minute intervals over 4 hours. We tasted for flavor consistency (testing for burnt or stale notes), evaluated ease of use (programmability, pouring, cleaning), and assessed build quality and design. We also verified brew temperatures using calibrated thermometers and checked SCAA certification where applicable.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Grinder for Pour Over: 5 Burr Grinders for Perfect Extraction"
 description: "Tested 5 burr grinders optimized for pour over coffee. Discover which grinder delivers consistent medium grounds for superior extraction."
 pubDate: 2026-05-18
@@ -137,7 +137,7 @@ The 1Zpresso JX-Pro brings manual grinding into modern craft coffee. Its 150+ mi
 
 ---
 
-## How We researched and compared These Coffee Grinders
+## How We Researched These Coffee Grinders
 
 We standardized Our research methodology to ensure fair comparison:
 

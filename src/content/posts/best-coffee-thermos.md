@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Thermos: 5 Vacuum Flasks That Keep Coffee Hot for Hours"
 description: "Find the best coffee thermos for all-day heat retention. We researched and compared 5 vacuum flasks for temperature hold, leak resistance, and ease of use."
 pubDate: 2026-05-18
@@ -82,7 +82,7 @@ If you've ever gotten to work with lukewarm coffee, you know a good thermos is w
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We filled each thermos with freshly brewed coffee at 195°F and measured temperature retention at 1, 3, 6, 12, and 24-hour intervals using a digital thermometer. We researched and compared for:
 

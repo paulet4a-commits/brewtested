@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Grinders Under $200: Burr Grinders for Home Espresso 2026"
 description: "Top espresso grinders under $200 for home machines. Compare burr grinders with precision dosing. Expert grinder reviews and buying guide."
 category: "grinders"
@@ -163,7 +163,7 @@ Perfect for someone upgrading from cheap blade grinders and ready to explore pre
 
 ---
 
-## How We researched and compared Espresso Grinders
+## How We Researched Espresso Grinders
 
 Our espresso grinder testing protocol measured:
 

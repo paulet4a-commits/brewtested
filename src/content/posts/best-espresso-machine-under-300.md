@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Machine Under $300: 5 Semi-Auto Picks for Home Baristas"
 description: "Top 5 espresso machines under $300 for beginners. Breville Bambino Plus, De'Longhi Dedica, and more reviewed."
 pubDate: 2026-05-18
@@ -139,7 +139,7 @@ For those who prefer automation over technique, the Mr. Coffee Cafe Barista uses
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We brewed 50+ espresso shots across each machine over 2 weeks, evaluating:
 

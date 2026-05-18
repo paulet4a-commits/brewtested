@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Travel Coffee Maker: 5 Portable Brewers for Coffee Anywhere"
 description: "Find the best travel coffee maker for great coffee on the road, in hotels, and on flights. We researched and compared 5 portable brewers for packability, brew quality, and ease of use."
 pubDate: 2026-05-18
@@ -80,7 +80,7 @@ What could be better: You need hot water and a mug (both essential anyway). The 
 
 [Check price on Amazon](https://www.amazon.com/dp/B00BRNZ7GO?tag=brewtested07-20)
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each brewer across four dimensions:
 

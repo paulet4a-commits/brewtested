@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Manual Lever Espresso Machines: Pull Perfect Shots Without Electricity"
 description: "Expert review of manual lever espresso machines from $35-400. Compare Flair, La Pavoni, Cafelat Robot, and ROK for authentic espresso without electricity."
 category: "espresso"
@@ -173,7 +173,7 @@ The Swedish Elektra Microcbar represents the pinnacle of manual lever espresso d
 
 ---
 
-## How We researched and compared These Manual Lever Machines
+## How We Researched These Manual Lever Machines
 
 **Testing methodology:**
 

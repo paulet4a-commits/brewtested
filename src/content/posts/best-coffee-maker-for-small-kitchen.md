@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Maker for Small Kitchens: 5 Compact Brewers That Save Counter Space"
 description: "Find the best coffee maker for small kitchens. We researched and compared 5 compact brewers for footprint, brew quality, and features. Perfect for apartments and dorms."
 pubDate: 2026-05-18
@@ -128,7 +128,7 @@ The Hamilton Beach 2-Way is cleverly designed to brew either a single cup direct
 
 [Check price on Amazon →](https://www.amazon.com/dp/B003KYSLMW?tag=brewtested07-20)
 
-## How We researched and compared
+## How We Researched
 
 We evaluated each coffee maker across five critical dimensions for small kitchens:
 

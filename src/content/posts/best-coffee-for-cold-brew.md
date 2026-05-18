@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee for Cold Brew: 5 Coarse Ground Picks for Smooth Results"
 description: "Top 5 cold brew coffee picks tested. Stone Street, Bizzy, Chameleon & more for smooth, sweet results."
 pubDate: 2026-05-18
@@ -129,7 +129,7 @@ Cold brew done right is smooth, slightly sweet, and caffeine-packed. We research
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 **Brewing Equipment:**
 - OXO Toddy cold brew maker

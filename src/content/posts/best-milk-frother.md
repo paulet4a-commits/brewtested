@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Milk Frother: 5 Picks for Café-Quality Lattes at Home"
 description: "Find the best milk frother for lattes, cappuccinos, and macchiatos at home. We researched and compared 5 frothers for foam quality, speed, and ease of cleaning."
 pubDate: 2026-05-18
@@ -134,7 +134,7 @@ The Bodum Bistro is the most compact electric frother on this list. It produces 
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We researched and compared each frother with whole milk, oat milk, and 2% milk over 2 weeks, evaluating:
 

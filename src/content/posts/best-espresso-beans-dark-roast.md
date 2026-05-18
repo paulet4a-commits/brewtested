@@ -1,4 +1,4 @@
-﻿---
+---
 title: Best Dark Roast Espresso Beans - Premium Picks for Rich Shots
 description: Discover the best dark roast espresso beans for bold, rich shots at home. Expert reviews of premium Italian and specialty roasts under $20 per pound.
 category: espresso
@@ -147,7 +147,7 @@ Stumptown Hair Bender ($14-$16/lb) is a modern specialty roaster's take on dark 
 
 ---
 
-## How We researched and compared These Espresso Beans
+## How We Researched These Espresso Beans
 
 Our espresso bean evaluation covered:
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Coffee Maker for Two People: 5 Perfect Small-Batch Brewers"
 description: "Top 5 coffee makers for two people: AeroPress Go, Bonavita 5-Cup, Keurig K-Duo. Small-batch brewing reviewed."
 pubDate: 2026-05-18
@@ -151,7 +151,7 @@ The Ninja CE251 combines compact size with surprising versatility. Its microbrew
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We brewed 100+ pots of coffee across 2 weeks, measuring:
 

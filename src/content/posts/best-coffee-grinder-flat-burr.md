@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Flat Burr Coffee Grinders 2026: Top Picks for Consistent Espresso & Pour-Over"
 description: "Find the best flat burr coffee grinder for espresso and pour-over. Our top picks include Eureka Mignon, Baratza Encore, and more."
 category: grinders
@@ -123,7 +123,7 @@ If you're entering the flat burr world on a tight budget, the Gaggia MD58N won't
 
 ---
 
-## How We researched and compared Flat Burr Grinders
+## How We Researched Flat Burr Grinders
 
 We evaluated each grinder across five key criteria:
 

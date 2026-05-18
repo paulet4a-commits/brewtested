@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Espresso Machine Under $200: 5 Machines for Real Espresso at Home"
 description: "Find the best espresso machine under $200 for real espresso with crema. We researched and compared 5 machines for shot quality, pressure, and ease of use."
 pubDate: 2026-05-18
@@ -135,7 +135,7 @@ The Breville Bambino sits just above $200 but is worth including as the aspirati
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We pulled 3 shots per machine daily for 2 weeks, using the same freshly ground, medium-fine espresso at consistent tamping pressure. We measured:
 

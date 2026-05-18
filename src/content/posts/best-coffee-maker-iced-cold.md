@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Iced Coffee Makers 2026: Cold Brew, Nitro & Chilled Perfection"
 description: "Compare top iced coffee makers with buyer's guide. Find the best cold brew, chilled, and nitro systems for your kitchen. Expert tested."
 category: "coffee-makers"
@@ -138,7 +138,7 @@ The Capresso shines when you need consistency. Program it Sunday evening to have
 
 ---
 
-## How We researched and compared Iced Coffee Makers
+## How We Researched Iced Coffee Makers
 
 Our research methodology evaluated:
 

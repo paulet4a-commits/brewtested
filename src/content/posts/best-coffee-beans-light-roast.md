@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Light Roast Coffee Beans Under $20: 5 Picks for Fresh, Bright Flavor"
 description: "Top-rated light roast coffee beans for rich complexity and clean taste. Expert picks with brewing tips."
 category: coffee
@@ -126,7 +126,7 @@ Peet's Major Dickason's light roast is a classic for everyday drinking. This ble
 
 ---
 
-## How We researched and compared
+## How We Researched
 
 We brewed each coffee using three methods to evaluate versatility: pour-over, French press, and automatic drip. We assessed acidity, body, aroma, flavor complexity, and consistency across multiple bags purchased over two months. Each tasting was conducted blind by three evaluators using the Specialty Coffee Association cupping protocols. We also considered value—calculating the cost-per-ounce and comparing flavor quality relative to price.
 
