@@ -8,7 +8,10 @@
     "preview": "astro preview",
     "astro": "astro",
     "audit:products": "tsx scripts/audit-stale-products.mjs",
-    "audit:keys": "tsx scripts/audit-product-keys.mjs"
+    "audit:keys": "tsx scripts/audit-product-keys.mjs",
+    "audit:affiliate": "tsx scripts/audit-affiliate-routing.mjs",
+    "audit:claims": "tsx scripts/audit-claims.mjs",
+    "report:affiliate": "tsx scripts/report-affiliate-status.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.2.0",
