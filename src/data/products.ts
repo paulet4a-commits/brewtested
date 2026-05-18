@@ -274,4 +274,19 @@ export const products: Record<string, Product> = {
   'melitta-cone-dripper': { asin: 'B00005LMH6', name: 'Melitta Cone Coffee Filter Holder', category: 'pour-over', priceRange: '$5-12', lastVerified: '2026-05-18', status: 'active' },
   'kalita-wave': { asin: 'B00FLYWNYQ', name: 'Kalita Wave Stainless Steel Coffee Dripper', category: 'pour-over', priceRange: '$25-40', lastVerified: '2026-05-18', status: 'active' },
   'oxo-pour-over': { asin: 'B00OXNP914', name: 'OXO Good Grips Pour-Over Coffee Maker', category: 'pour-over', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
+
+  // AeroPress & Manual Brewing
+  'aeropress-original': { asin: 'B0047BIWSK', name: 'AeroPress Coffee and Espresso Maker', category: 'coffee-makers', priceRange: '$35-45', lastVerified: '2026-05-18', status: 'active' },
+
+  // Budget Grinders
+  'cuisinart-dbm8': { asin: 'B00019CZZG', name: 'Cuisinart DBM-8 Supreme Grind Burr Mill', category: 'grinders', priceRange: '$30-45', lastVerified: '2026-05-18', status: 'active' },
+  'wilfa-svart-nino': { asin: 'B07HTZF9FQ', name: 'Wilfa Svart Nino Coffee Grinder', category: 'grinders', priceRange: '$45-60', lastVerified: '2026-05-18', status: 'active' },
+
+  // Gift / Bundles
+  'starbucks-variety-pack': { asin: 'B08KGJ95YS', name: 'Starbucks Coffee Variety Pack', category: 'coffee-beans', priceRange: '$25-35', lastVerified: '2026-05-18', status: 'active' },
+
+  // Coffee Accessories
+  'oxo-coffee-scale': { asin: 'B00KPVPTG4', name: 'OXO Good Grips Coffee Scale', category: 'kitchen', priceRange: '$30-40', lastVerified: '2026-05-18', status: 'active' },
+  'hario-v60-kettle-stovetop': { asin: 'B06W2NWZWJ', name: 'Hario V60 Drip Coffee Kettle (Stovetop)', category: 'pour-over', priceRange: '$25-40', lastVerified: '2026-05-18', status: 'active' },
+  'contigo-autoseal': { asin: 'B07YLZL5VV', name: 'Contigo Autoseal Travel Mug', category: 'kitchen', priceRange: '$20-30', lastVerified: '2026-05-18', status: 'active' },
 };
