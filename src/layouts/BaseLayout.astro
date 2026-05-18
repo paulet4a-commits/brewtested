@@ -18,7 +18,7 @@ const {
 const siteTitle = 'BrewTested';
 const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const siteURL = 'https://paulet4a-commits.github.io/brewtested';
+const siteURL = Astro.site?.toString().replace(/\/$/, '') ?? 'https://brewtested.pulsedash-app.com';
 
 // Generate OG image via Pollinations.ai from page title
 const ogImagePrompt = encodeURIComponent(title.toLowerCase().replace(/[^a-z0-9 ]/g, '').slice(0, 60) + ' coffee kitchen product photography');
@@ -55,7 +55,7 @@ const articleSchema = pubDate ? {
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
     <meta name="google-site-verification" content="sATNOe6XpoOMvTSDUnXANJ-Y0TceU4_FdRINdWt0oJE" />
-    <link rel="sitemap" href="/brewtested/sitemap-index.xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
     <!-- Open Graph -->
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
@@ -71,14 +71,16 @@ const articleSchema = pubDate ? {
     <!-- JSON-LD Schema -->
     <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
     {articleSchema && <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />}
+    <!-- Plausible Analytics (free, privacy-first) -->
+    <script defer data-domain="brewtested.pulsedash-app.com" src="https://plausible.io/js/script.outbound-links.js"></script>
   </head>
   <body class="min-h-screen bg-white text-gray-900 font-sans">
     <header class="border-b border-gray-200 py-4 px-6 flex items-center justify-between">
-      <a href="/brewtested/" class="text-xl font-bold text-amber-700">☕ BrewTested</a>
+      <a href="/" class="text-xl font-bold text-amber-700">☕ BrewTested</a>
       <nav class="flex gap-6 text-sm">
-        <a href="/brewtested/coffee/" class="hover:text-amber-700">Coffee</a>
-        <a href="/brewtested/kitchen/" class="hover:text-amber-700">Kitchen</a>
-        <a href="/brewtested/about/" class="hover:text-amber-700">About</a>
+        <a href="/coffee/" class="hover:text-amber-700">Coffee</a>
+        <a href="/kitchen/" class="hover:text-amber-700">Kitchen</a>
+        <a href="/about/" class="hover:text-amber-700">About</a>
       </nav>
     </header>
 
@@ -96,8 +98,8 @@ const articleSchema = pubDate ? {
       <p class="font-medium text-gray-600">As an Amazon Associate I earn from qualifying purchases.</p>
       <p class="mt-1">© {new Date().getFullYear()} BrewTested. Content researched with AI assistance and reviewed by a human editor.</p>
       <p class="mt-1">
-        <a href="/brewtested/privacy/" class="hover:underline">Privacy Policy</a> ·
-        <a href="/brewtested/about/" class="hover:underline">About</a>
+        <a href="/privacy/" class="hover:underline">Privacy Policy</a> ·
+        <a href="/about/" class="hover:underline">About</a>
       </p>
     </footer>
   </body>

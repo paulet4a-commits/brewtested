@@ -24,14 +24,16 @@ const categoryLabels: Record<string, string> = {
 };
 const categoryLabel = categoryLabels[post.data.category] ?? post.data.category;
 const categoryHub = ['coffee', 'coffee-makers', 'espresso', 'pour-over', 'french-press', 'grinders', 'comparison', 'guide'].includes(post.data.category)
-  ? '/brewtested/coffee/' : '/brewtested/kitchen/';
+  ? '/coffee/' : '/kitchen/';
+
+const siteURL = Astro.site?.toString().replace(/\/$/, '') ?? 'https://brewtested.pulsedash-app.com';
 
 const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://paulet4a-commits.github.io/brewtested/' },
-    { '@type': 'ListItem', position: 2, name: categoryLabel, item: `https://paulet4a-commits.github.io${categoryHub}` },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: siteURL + '/' },
+    { '@type': 'ListItem', position: 2, name: categoryLabel, item: siteURL + categoryHub },
     { '@type': 'ListItem', position: 3, name: post.data.title },
   ],
 };
@@ -48,7 +50,7 @@ const breadcrumbSchema = {
   <article>
     <!-- Breadcrumb -->
     <nav class="text-xs text-gray-400 mb-6 flex gap-1 items-center flex-wrap">
-      <a href="/brewtested/" class="hover:text-amber-700">Home</a>
+      <a href="/" class="hover:text-amber-700">Home</a>
       <span>›</span>
       <a href={categoryHub} class="hover:text-amber-700">{categoryLabel}</a>
       <span>›</span>
@@ -79,7 +81,7 @@ const breadcrumbSchema = {
     <footer class="mt-12 pt-6 border-t border-gray-200 text-sm text-gray-500 space-y-2">
       <p><strong class="text-gray-700">How we research:</strong> We analyze product specs, dig through owner reviews on Amazon and Reddit, cross-reference common failure points, and compare manufacturer claims against real-world feedback. We do not physically test every product.</p>
       <p><strong class="text-gray-700">Prices:</strong> All prices are approximate and change frequently. Check Amazon for the current price before purchasing.</p>
-      <p><a href="/brewtested/about/" class="text-amber-700 hover:underline">Learn more about our methodology →</a></p>
+      <p><a href="/about/" class="text-amber-700 hover:underline">Learn more about our methodology →</a></p>
     </footer>
   </article>
 </BaseLayout>

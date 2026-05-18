@@ -20,12 +20,12 @@ const categoryLabels: Record<string, string> = {
 };
 
 const featured = [
-  { title: 'Best Coffee Maker Under $50', url: '/brewtested/posts/best-coffee-maker-under-50/', desc: 'Top drip machines for budget buyers.' },
-  { title: 'Best Espresso Machine Under $100', url: '/brewtested/posts/best-espresso-machine-under-100/', desc: 'Real espresso without the premium price.' },
-  { title: 'Best French Press Under $30', url: '/brewtested/posts/best-french-press-under-30/', desc: 'Rich, full-bodied coffee for under $30.' },
-  { title: 'Best Burr Grinder Under $100', url: '/brewtested/posts/best-burr-grinder-under-100/', desc: 'Consistent grinds without breaking the bank.' },
-  { title: 'Best Pour Over Coffee Maker', url: '/brewtested/posts/best-pour-over-coffee-maker/', desc: 'Clean, bright coffee — our top picks.' },
-  { title: 'Best Moka Pot Under $30', url: '/brewtested/posts/best-moka-pot-under-30/', desc: 'Stovetop espresso for pennies per cup.' },
+  { title: 'Best Coffee Maker Under $50', url: '/posts/best-coffee-maker-under-50/', desc: 'Top drip machines for budget buyers.' },
+  { title: 'Best Espresso Machine Under $100', url: '/posts/best-espresso-machine-under-100/', desc: 'Real espresso without the premium price.' },
+  { title: 'Best French Press Under $30', url: '/posts/best-french-press-under-30/', desc: 'Rich, full-bodied coffee for under $30.' },
+  { title: 'Best Burr Grinder Under $100', url: '/posts/best-burr-grinder-under-100/', desc: 'Consistent grinds without breaking the bank.' },
+  { title: 'Best Pour Over Coffee Maker', url: '/posts/best-pour-over-coffee-maker/', desc: 'Clean, bright coffee — our top picks.' },
+  { title: 'Best Moka Pot Under $30', url: '/posts/best-moka-pot-under-30/', desc: 'Stovetop espresso for pennies per cup.' },
 ];
 ---
 
@@ -56,7 +56,7 @@ const featured = [
         <article class="border border-gray-200 rounded-lg p-5 hover:border-amber-300 transition-colors">
           <span class="text-xs uppercase tracking-wide text-amber-700 font-semibold">{categoryLabels[post.data.category] ?? post.data.category}</span>
           <h3 class="text-lg font-bold mt-1 mb-1">
-            <a href={`/brewtested/posts/${post.slug}/`} class="hover:text-amber-700">{post.data.title}</a>
+            <a href={`/posts/${post.slug}/`} class="hover:text-amber-700">{post.data.title}</a>
           </h3>
           <p class="text-gray-600 text-sm">{post.data.description}</p>
         </article>

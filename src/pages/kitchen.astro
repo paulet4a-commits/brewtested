@@ -7,9 +7,9 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft && data.pu
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const featured = [
-  { title: 'Best Kitchen Scale for Cooking', url: '/brewtested/posts/best-kitchen-scale-for-cooking/', desc: 'Precise measurements for better cooking results.' },
-  { title: 'Best Tea Kettle Under $50', url: '/brewtested/posts/best-tea-kettle-under-50/', desc: 'Fast-boiling kettles for tea and pour over.' },
-  { title: 'Best Milk Frother', url: '/brewtested/posts/best-milk-frother/', desc: 'Café-quality foam at home for under $30.' },
+  { title: 'Best Kitchen Scale for Cooking', url: '/posts/best-kitchen-scale-for-cooking/', desc: 'Precise measurements for better cooking results.' },
+  { title: 'Best Tea Kettle Under $50', url: '/posts/best-tea-kettle-under-50/', desc: 'Fast-boiling kettles for tea and pour over.' },
+  { title: 'Best Milk Frother', url: '/posts/best-milk-frother/', desc: 'Café-quality foam at home for under $30.' },
 ];
 ---
 
@@ -43,14 +43,14 @@ const featured = [
           <article class="border border-gray-200 rounded-lg p-5 hover:border-amber-300 transition-colors">
             <span class="text-xs uppercase tracking-wide text-amber-700 font-semibold">Kitchen</span>
             <h3 class="text-lg font-bold mt-1 mb-1">
-              <a href={`/brewtested/posts/${post.slug}/`} class="hover:text-amber-700">{post.data.title}</a>
+              <a href={`/posts/${post.slug}/`} class="hover:text-amber-700">{post.data.title}</a>
             </h3>
             <p class="text-gray-600 text-sm">{post.data.description}</p>
           </article>
         ))}
       </div>
     ) : (
-      <p class="text-gray-500">Kitchen reviews are being added. Check back soon — or browse our <a href="/brewtested/coffee/" class="text-amber-700 hover:underline">coffee reviews</a> in the meantime.</p>
+      <p class="text-gray-500">Kitchen reviews are being added. Check back soon — or browse our <a href="/coffee/" class="text-amber-700 hover:underline">coffee reviews</a> in the meantime.</p>
     )}
   </section>
 </BaseLayout>
