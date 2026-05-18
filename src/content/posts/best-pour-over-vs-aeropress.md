@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pour Over vs AeroPress: Complete Brewing Comparison & Recommendations"
 description: "Compare pour over and AeroPress coffee makers head-to-head. Discover pros, cons, and which method suits your brewing style and taste preferences best."
 category: "comparison"
@@ -201,7 +201,7 @@ The AeroPress Max ($39-49) introduces two minor innovations to the classic desig
 - Appreciate compact countertop footprint
 - Want community and competition appeal
 
-## How We Tested
+## How We researched and compared
 
 **Extraction Consistency:** We brewed identical specialty-grade coffee (same origin, roast, grind) using each method 10 times, measuring water contact time, final temperature, and extracting TDS (Total Dissolved Solids) readings. Pour overs showed +/- 8% variance; AeroPress showed +/- 3% variance.
 

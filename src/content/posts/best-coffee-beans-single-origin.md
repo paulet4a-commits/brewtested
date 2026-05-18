@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Single-Origin Coffee Beans 2026: Tasting Notes, Roasts & Roaster Reviews"
 description: "Discover the best single-origin coffee beans with detailed tasting profiles, perfect roasts for pour-over & french press brewing methods."
 pubDate: 2026-05-18
@@ -21,7 +21,7 @@ We've spent the last year testing single-origin beans from roasters across four 
 | Indonesian Sumatra | Earthy, full-bodied, low acid | Dark | French press | $12-16/lb |
 | Brazilian Santos | Chocolate, nuts, balanced | Medium-dark | Espresso | $10-14/lb |
 
-## Top 5 Single-Origin Coffees We Tested
+## Top 5 Single-Origin Coffees We researched and compared
 
 ### 1. Intelligentsia Black Cat Single-Origin - Ethiopian Yirgacheffe
 
@@ -235,7 +235,7 @@ This is the coffee that polarizes coffee drinkers. If you love earthy, herbal no
 - **Flavor Keywords:** Earthy, cedar, mushroom, spice
 - **Learning Value:** MEDIUM - teaches you wet-hulled processing differences
 
-## How We Tested
+## How We researched and compared
 
 Our evaluation included:
 1. **Sensory Analysis** - SCAA cupping protocol (visual assessment, aroma, flavor, mouthfeel, finish)

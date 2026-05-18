@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Coffee Beans for Pour Over: 5 Light and Medium Roasts for Clarity"
-description: "Find the best coffee beans for pour over brewing. We tested 5 roasts for clarity, brightness, and flavor complexity in pour over and Chemex brewers."
+description: "Find the best coffee beans for pour over brewing. We researched and compared 5 roasts for clarity, brightness, and flavor complexity in pour over and Chemex brewers."
 pubDate: 2026-05-18
 category: "coffee"
 tags: ["best coffee beans for pour over", "pour over coffee beans", "light roast coffee", "single origin coffee", "specialty coffee"]
@@ -50,7 +50,7 @@ Pour over brewing reveals the true character of coffee beans in ways that full-i
 
 ### 3. Caribou Coffee Caribou Blend — Best All-Purpose Medium Roast
 
-**What we loved:** This was our testing surprise. Caribou Blend splits the difference between blonde Starbucks and dark Italian roasts—light enough to pour over clearly, dark enough to feel substantial. The flavor profile is clean and balanced with subtle caramel sweetness. It works consistently across different pour techniques and grind sizes.
+**What we loved:** This was Our research surprise. Caribou Blend splits the difference between blonde Starbucks and dark Italian roasts—light enough to pour over clearly, dark enough to feel substantial. The flavor profile is clean and balanced with subtle caramel sweetness. It works consistently across different pour techniques and grind sizes.
 
 **What could be better:** Another blend, so origin character gets muted. Not as bright as true light roasts, but darker than specialty roasters typically recommend for pour over.
 
@@ -96,9 +96,9 @@ Single-origin beans matter more in pour over because blend recipes are designed 
 
 ---
 
-## How We Tested
+## How We researched and compared
 
-Our testing protocol matched real home brewing, not lab conditions:
+Our research protocol matched real home brewing, not lab conditions:
 
 1. **Equipment**: Standard ceramic pour over dripper, Chemex, and a burr grinder set to medium-fine
 2. **Water**: Filtered tap water heated to 200°F, consistent across all tests
@@ -106,7 +106,7 @@ Our testing protocol matched real home brewing, not lab conditions:
 4. **Evaluation**: Tasting for clarity (distinct origin notes), brightness (acidity character), and complexity (flavor development through the cup)
 5. **Repetition**: 3 brews minimum per bean to account for technique variation
 
-We brewed these beans in both standard pour over and Chemex to see which adapted best across equipment. All beans were whole bean, ground immediately before brewing. We tested both fresh bags (within 2 weeks of roast date where available) and standard retail stock.
+We brewed these beans in both standard pour over and Chemex to see which adapted best across equipment. All beans were whole bean, ground immediately before brewing. We researched and compared both fresh bags (within 2 weeks of roast date where available) and standard retail stock.
 
 ---
 

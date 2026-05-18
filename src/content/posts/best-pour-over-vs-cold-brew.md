@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pour Over vs Cold Brew Coffee: Which Method Brews Better Flavor?"
 description: "Compare pour over and cold brew coffee makers. Learn the flavor, speed, and cost differences to find your perfect brewing method."
 category: comparison
@@ -37,7 +37,7 @@ The Hario V60 is a Japanese ceramic dripper with spiral ridges inside that promo
 - No thermal carafe included
 - Filter waste (use reusable filters to offset cost)
 
-**Our Testing:** We brewed 15 pots across different bean origins. The V60 consistently extracted the origin flavors with crisp acidity and clean mouthfeel. Medium roasts shined brightest; dark roasts sometimes tasted thin. Average brew time: 3.5 minutes at 200°F water temp.
+**Our research:** We brewed 15 pots across different bean origins. The V60 consistently extracted the origin flavors with crisp acidity and clean mouthfeel. Medium roasts shined brightest; dark roasts sometimes tasted thin. Average brew time: 3.5 minutes at 200°F water temp.
 
 **Price:** $12 (dripper alone)  
 **Where to Buy:** [Hario V60 on Amazon](https://www.amazon.com/dp/B002VUSWWK?tag=brewtested07-20)
@@ -62,7 +62,7 @@ The Chemex is a glass hourglass-shaped brewer that's been a design icon since 19
 - Longer brew time (4-5 minutes)
 - Requires careful pouring technique
 
-**Our Testing:** Six Chemex brews with single-origin Ethiopian and Colombian beans. The coffee tasted pristine—bright citrus notes and floral undertones without any astringency. Brew time averaged 4.2 minutes. Visual brewing experience rated 10/10 by testers.
+**Our research:** Six Chemex brews with single-origin Ethiopian and Colombian beans. The coffee tasted pristine—bright citrus notes and floral undertones without any astringency. Brew time averaged 4.2 minutes. Visual brewing experience rated 10/10 by testers.
 
 **Price:** $43 (8-cup model)  
 **Where to Buy:** [Chemex Coffee Maker on Amazon](https://www.amazon.com/dp/B000I1WAAJ?tag=brewtested07-20)
@@ -89,7 +89,7 @@ The Toddy is the OG cold brew. It's a simple plastic pitcher with a reusable mes
 - Concentrate tastes slightly flat (good for milk additions)
 - Sediment occasionally passes through filter
 
-**Our Testing:** Three brews over one week with different grind sizes. Final ratio: 1:4 coffee to water worked best. Cold brew ready at 18 hours. All brews tasted smooth and low-acid—perfect for afternoon drinking without jitters.
+**Our research:** Three brews over one week with different grind sizes. Final ratio: 1:4 coffee to water worked best. Cold brew ready at 18 hours. All brews tasted smooth and low-acid—perfect for afternoon drinking without jitters.
 
 **Price:** $18  
 **Where to Buy:** [Toddy Cold Brew System on Amazon](https://www.amazon.com/dp/B0000DIWJ7?tag=brewtested07-20)
@@ -115,7 +115,7 @@ OXO's cold brew pitcher adds convenience with measurement marks and a removable 
 - 12-24 hour wait time
 - Better results with a burr grinder (consistent coarse grind)
 
-**Our Testing:** Four two-week batches. The glass imparts no flavor; concentrate tasted clean and balanced. We used the 1:5 ratio mark and got optimal extraction at 16 hours. Concentrate lasted 16 days before quality declined.
+**Our research:** Four two-week batches. The glass imparts no flavor; concentrate tasted clean and balanced. We used the 1:5 ratio mark and got optimal extraction at 16 hours. Concentrate lasted 16 days before quality declined.
 
 **Price:** $45  
 **Where to Buy:** [OXO Good Grips Cold Brew System on Amazon](https://www.amazon.com/dp/B07CQPB1TH?tag=brewtested07-20)
@@ -140,14 +140,14 @@ For households that consume 2-3 cups of cold brew daily, the Yama holds 32 ounce
 - More water needed for larger batches
 - Cleaning takes extra care (glass fragility)
 
-**Our Testing:** Two batches of 32 oz concentrate. First batch tasted slightly bitter at 12 hours; 18-hour steep produced balanced, smooth coffee. Concentrate held quality for 18 days. Perfect for meal prep Sunday brewing.
+**Our research:** Two batches of 32 oz concentrate. First batch tasted slightly bitter at 12 hours; 18-hour steep produced balanced, smooth coffee. Concentrate held quality for 18 days. Perfect for meal prep Sunday brewing.
 
 **Price:** $65  
 **Where to Buy:** [Yama Glass Cold Brew Maker on Amazon](https://www.amazon.com/dp/B0000DIWK6?tag=brewtested07-20)
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We evaluated both brewing methods across five criteria:
 

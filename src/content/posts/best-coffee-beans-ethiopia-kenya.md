@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Ethiopian & Kenyan Coffee Beans 2026: Single-Origin Flavor Comparison"
 description: "Compare top Ethiopian and Kenyan single-origin coffees. Find bold, fruity flavors from Yirgacheffe to AA grades. Expert tasting notes and pricing."
 category: coffee
@@ -133,7 +133,7 @@ Ethiopian and Kenyan coffees represent some of the world's finest single-origin 
 
 ---
 
-## How We Tested These Coffees
+## How We researched and compared These Coffees
 
 We evaluated each coffee across five key dimensions:
 

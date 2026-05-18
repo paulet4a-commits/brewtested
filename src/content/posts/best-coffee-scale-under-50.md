@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Coffee Scale Under $50: 4 Precision Scales for Perfect Brews"
 description: "Discover the best coffee scale under $50 for consistent, delicious coffee. Compare precision scales for pour over, espresso, and precision brewing."
 pubDate: 2026-05-18
@@ -10,7 +10,7 @@ affiliateDisclosure: true
 
 The single most overlooked tool in home coffee brewing is a scale. Guessing your coffee-to-water ratio by eye or by scoop produces wildly inconsistent results. A coffee scale costing $20-$50 fixes that permanently.
 
-We tested four scales to find the best coffee scale under $50 — measuring response time, accuracy, and usability during actual brewing.
+We researched and compared four scales to find the best coffee scale under $50 — measuring response time, accuracy, and usability during actual brewing.
 
 ## Quick Comparison
 
@@ -113,7 +113,7 @@ The Acaia Pearl is the professional standard — used in coffee shops worldwide.
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We used each scale for 30+ brews across pour over, espresso, and cold brew. Key metrics:
 

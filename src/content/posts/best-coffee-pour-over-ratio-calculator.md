@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Coffee Pour-Over Ratio Calculator: Precision Scales Under $100"
 description: "Master pour-over coffee ratios with our tested calculator & best digital scales for perfect brewing accuracy every time."
 pubDate: 2026-05-18
@@ -7,7 +7,7 @@ category: pour-over
 affiliateDisclosure: true
 ---
 
-Getting the perfect pour-over coffee comes down to one thing: precision. Whether you're using a 1:16 ratio (most common) or experimenting with 1:15 for lighter brews, the difference between a great cup and a mediocre one is often just 0.5 grams. That's why we tested the best coffee scales and ratio calculators to help you dial in perfect pour-overs every single time.
+Getting the perfect pour-over coffee comes down to one thing: precision. Whether you're using a 1:16 ratio (most common) or experimenting with 1:15 for lighter brews, the difference between a great cup and a mediocre one is often just 0.5 grams. That's why We researched and compared the best coffee scales and ratio calculators to help you dial in perfect pour-overs every single time.
 
 ## Quick Comparison Table
 
@@ -169,7 +169,7 @@ This combination eliminates variables: precise grind consistency + accurate meas
 
 **Pro tip:** Start with 1:16, then adjust up or down based on taste. Too bitter? Lower ratio (more water). Too weak? Higher ratio (less water).
 
-## How We Tested
+## How We researched and compared
 
 We evaluated each scale on:
 1. **Accuracy** - Tested with calibration weights (100g, 500g, 1000g)

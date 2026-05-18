@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cold Brew Coffee Ratio Guide 2026: Perfect Concentrate Every Time"
 description: "The exact cold brew ratio for smooth concentrate. Master 1:4 and 1:5 water-to-coffee ratios with step-by-step guide."
 category: "guide"
@@ -10,7 +10,7 @@ affiliateDisclosure: true
 
 ## Master the Perfect Cold Brew Ratio
 
-Cold brew's concentrated flavor comes from proper water-to-coffee ratios. Too much water produces weak, diluted coffee. Too little creates overly bitter concentrate. We tested five different ratios over three months to find the sweet spots for various brewing preferences and equipment.
+Cold brew's concentrated flavor comes from proper water-to-coffee ratios. Too much water produces weak, diluted coffee. Too little creates overly bitter concentrate. We researched and compared five different ratios over three months to find the sweet spots for various brewing preferences and equipment.
 
 ## The Core Ratios Explained
 
@@ -136,7 +136,7 @@ For minimalists: any 32-64 oz glass container plus a fine-mesh strainer works pe
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We brewed 20 batches using identical beans across all five ratios. Testing methodology:
 

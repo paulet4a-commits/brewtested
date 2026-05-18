@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Espresso Beans Under $20: 5 Bags for Rich, Crema-Topped Shots"
-description: "Find the best espresso beans under $20 for rich, crema-topped shots at home. We tested 5 bags for flavor, roast consistency, and value."
+description: "Find the best espresso beans under $20 for rich, crema-topped shots at home. We researched and compared 5 bags for flavor, roast consistency, and value."
 pubDate: 2026-05-18
 category: "coffee-makers"
 tags: ["espresso beans", "coffee beans", "best espresso coffee", "home espresso", "dark roast"]
@@ -130,7 +130,7 @@ Peet's Espresso Forte is a darker blend with a syrupy body, low acidity, and ric
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We pulled 3+ shots per bag on the same machine (Breville Bambino Plus) with the same grind setting (Baratza Encore at 8). We evaluated:
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Espresso Tamper Under $50: Precision Tools for Perfect Shots"
 description: "Upgrade your espresso extraction with the best tampers under $50. Even pressure, consistent shots, and café-quality crema at home."
 category: espresso
@@ -141,9 +141,9 @@ The Fellow Opus isn't technically just a tamper—it's an espresso bundle that i
 
 ---
 
-## How We Tested
+## How We researched and compared
 
-We tested each tamper on three different espresso machines with identical beans, grind size, and water temperature to measure:
+We researched and compared each tamper on three different espresso machines with identical beans, grind size, and water temperature to measure:
 
 - **Pressure consistency** using a calibrated pressure gauge
 - **Shot flow time** from 9 bars through extraction

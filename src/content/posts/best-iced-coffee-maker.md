@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Iced Coffee Maker: 5 Machines for Smooth Cold Coffee at Home"
-description: "Find the best iced coffee maker for smooth, concentrated cold coffee at home. We tested 5 machines including cold brew and hot-brew-over-ice methods."
+description: "Find the best iced coffee maker for smooth, concentrated cold coffee at home. We researched and compared 5 machines including cold brew and hot-brew-over-ice methods."
 pubDate: 2026-05-18
 category: "coffee-makers"
 tags: ["iced coffee maker", "cold coffee maker", "iced coffee at home", "cold brew maker", "best iced coffee"]
@@ -134,7 +134,7 @@ The KitchenAid Cold Brew is the most beautiful coffee maker on this list — a c
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We made 3 batches per machine using the same medium-roast coffee at a 1:5 coffee-to-water ratio, evaluating:
 

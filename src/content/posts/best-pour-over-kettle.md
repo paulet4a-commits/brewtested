@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Pour Over Kettle: 5 Gooseneck Kettles for Perfect Coffee"
-description: "Find the best pour over kettle for precise, controlled brewing. We tested 5 gooseneck kettles for flow control, temperature accuracy, and value."
+description: "Find the best pour over kettle for precise, controlled brewing. We researched and compared 5 gooseneck kettles for flow control, temperature accuracy, and value."
 pubDate: 2026-05-18
 category: "pour-over"
 tags: ["pour over kettle", "gooseneck kettle", "electric kettle", "coffee kettle", "variable temperature kettle"]
@@ -134,7 +134,7 @@ The Cosori is the most affordable electric gooseneck with temperature control. F
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We used each kettle daily for 3 weeks, measuring:
 

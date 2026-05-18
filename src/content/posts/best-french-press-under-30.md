@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best French Press Under $30: 4 Picks for Rich, Full-Bodied Coffee"
-description: "A good French press doesn't cost much. We tested the best options under $30 and ranked them by brew quality, durability, and ease of cleaning."
+description: "A good French press doesn't cost much. We researched and compared the best options under $30 and ranked them by brew quality, durability, and ease of cleaning."
 pubDate: 2026-05-18
 category: "french-press"
 tags: ["french press", "coffee", "budget", "best of", "pour over alternative"]
@@ -10,7 +10,7 @@ affiliateDisclosure: true
 
 French press is one of the best brewing methods for full-bodied coffee — and one of the cheapest ways to get into specialty brewing. A decent press costs under $30, lasts years, and produces better coffee than most $100 drip machines.
 
-We tested 8 models over 3 weeks. These 4 are worth your money.
+We researched and compared 8 models over 3 weeks. These 4 are worth your money.
 
 ## Quick Comparison
 

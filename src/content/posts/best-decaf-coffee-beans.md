@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Decaf Coffee Beans: 5 Roasts That Actually Taste Like Coffee"
-description: "Premium decaf beans that don't taste flat. We tested 5 roasts including Volcanica, Kicking Horse & more."
+description: "Premium decaf beans that don't taste flat. We researched and compared 5 roasts including Volcanica, Kicking Horse & more."
 pubDate: 2026-05-18
 category: "coffee"
 tags: ["decaf", "whole-bean", "specialty-coffee", "tested"]
@@ -8,7 +8,7 @@ draft: false
 affiliateDisclosure: true
 ---
 
-Most decaf tastes like cardboard. We tested the 5 best decaf coffee beans that actually deliver flavor—rich body, nuanced notes, and zero bitterness.
+Most decaf tastes like cardboard. We researched and compared the 5 best decaf coffee beans that actually deliver flavor—rich body, nuanced notes, and zero bitterness.
 
 ## Quick Comparison
 
@@ -22,7 +22,7 @@ Most decaf tastes like cardboard. We tested the 5 best decaf coffee beans that a
 
 ---
 
-## 5 Best Decaf Coffee Beans We Tested
+## 5 Best Decaf Coffee Beans We researched and compared
 
 ### 1. **Volcanica Decaf Ethiopian Yirgacheffe**
 **[Amazon → $19](https://www.amazon.com/dp/B07Q66MWN4?tag=brewtested07-20)**
@@ -120,7 +120,7 @@ Most decaf tastes like cardboard. We tested the 5 best decaf coffee beans that a
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 **Brewing Methods Used:**
 - Chemex (for clarity)

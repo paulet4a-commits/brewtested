@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Espresso Portafilter Baskets 2026 - Upgrade Your Shot Quality
 description: Improve espresso extraction with the best portafilter baskets. Precision vs ridgeless, sizes compared. Brew better shots today.
 category: espresso
@@ -140,9 +140,9 @@ The Cafelat Robot is becoming a favorite among espresso lovers who want portabil
 
 ---
 
-## How We Tested These Baskets
+## How We researched and compared These Baskets
 
-We installed each basket in three different espresso machines (super-automatic, semi-automatic pump, manual lever) and pulled 30+ shots with identical grind, dose, and tamping. We measured extraction time, yield, temperature consistency, and sensory evaluation (crema quality, flavor clarity, body, aftertaste). We tested with light, medium, and dark roasts to assess versatility. We compared water flow patterns, puck resistance, and post-shot puck condition. Measurements were taken with infrared thermometers and precision scales.
+We installed each basket in three different espresso machines (super-automatic, semi-automatic pump, manual lever) and pulled 30+ shots with identical grind, dose, and tamping. We measured extraction time, yield, temperature consistency, and sensory evaluation (crema quality, flavor clarity, body, aftertaste). We researched and compared with light, medium, and dark roasts to assess versatility. We compared water flow patterns, puck resistance, and post-shot puck condition. Measurements were taken with infrared thermometers and precision scales.
 
 ---
 

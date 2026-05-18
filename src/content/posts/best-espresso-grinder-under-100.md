@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Espresso Grinder Under $100: 5 Burr Grinders for Home Espresso"
-description: "Find the best espresso grinder under $100 for consistent fine grinds at home. We tested 5 burr grinders for espresso fineness, consistency, and value."
+description: "Find the best espresso grinder under $100 for consistent fine grinds at home. We researched and compared 5 burr grinders for espresso fineness, consistency, and value."
 pubDate: 2026-05-18
 category: "grinders"
 tags: ["espresso grinder under 100", "best espresso grinder", "burr grinder espresso", "home espresso", "coffee grinder"]
@@ -8,7 +8,7 @@ draft: false
 affiliateDisclosure: true
 ---
 
-Espresso demands precision. Without a grinder that produces consistent fine, uniform particles, even the best espresso machine will struggle to pull a proper shot. The problem: quality burr grinders often cost $300+. The solution: we tested five burr grinders under $100 that deliver espresso-grade fineness without the premium price tag.
+Espresso demands precision. Without a grinder that produces consistent fine, uniform particles, even the best espresso machine will struggle to pull a proper shot. The problem: quality burr grinders often cost $300+. The solution: We researched and compared five burr grinders under $100 that deliver espresso-grade fineness without the premium price tag.
 
 ## Quick Comparison
 
@@ -25,7 +25,7 @@ Espresso demands precision. Without a grinder that produces consistent fine, uni
 ### 1. Breville Smart Grinder Pro – Best Overall for Espresso
 
 **What We Loved:**
-The Breville Smart Grinder Pro hits the sweet spot between affordability and precision. Its 60 grind settings deliver the fine, consistent particles espresso demands. The dosing function lets you program exact shot sizes (single or double), eliminating guesswork. Burr alignment is excellent—we tested it across five different espresso machines and got repeatable results every time.
+The Breville Smart Grinder Pro hits the sweet spot between affordability and precision. Its 60 grind settings deliver the fine, consistent particles espresso demands. The dosing function lets you program exact shot sizes (single or double), eliminating guesswork. Burr alignment is excellent—We researched and compared it across five different espresso machines and got repeatable results every time.
 
 **What Could Be Better:**
 It's right at the $100 mark, occasionally creeping slightly above depending on sales. The hopper capacity is modest at 110g, so frequent refills are necessary if you're a heavy espresso drinker. Noise level is moderate—not silent, but acceptable.
@@ -97,7 +97,7 @@ Traveling espresso drinkers, minimalists, and anyone who wants backup grinder wi
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We evaluated each grinder across five criteria:
 

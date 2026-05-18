@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best French Press Size Guide: Which Capacity Is Right for You in 2026"
 description: "Find your ideal French press size. Compare 3-12 cup capacities, brewing times, and best uses. Expert tested guide with prices."
 category: "french-press"
@@ -8,7 +8,7 @@ affiliateDisclosure: true
 author: "BrewTested"
 ---
 
-Finding the right French press size can make or break your morning coffee routine. A 12-cup press wastes beans if you're solo, while a 3-cup is insufficient for entertaining. We've tested the most popular sizes to help you choose the perfect fit for your household.
+Finding the right French press size can make or break your morning coffee routine. A 12-cup press wastes beans if you're solo, while a 3-cup is insufficient for entertaining. We've researched and compared the most popular sizes to help you choose the perfect fit for your household.
 
 ## French Press Size Comparison
 
@@ -121,7 +121,7 @@ If you appreciate quality craftsmanship and plan to keep your press for 10+ year
 
 [Check Price on Amazon](https://www.amazon.com/dp/B00AW2AU0Q?tag=brewtested07-20)
 
-## How We Tested French Press Sizes
+## How We researched and compared French Press Sizes
 
 We evaluated each size by:
 - **Brewing capacity**: Measuring actual yield and comparing to cup markings
@@ -131,7 +131,7 @@ We evaluated each size by:
 - **Breakage resistance**: Recording impact tests on each frame type
 - **Real-world use**: Month-long testing in actual households with varied brewing needs
 
-Our testing confirmed that French press size dramatically impacts daily satisfaction. Oversized presses cool faster and waste beans. Undersized presses require constant re-brewing.
+Our research confirmed that French press size dramatically impacts daily satisfaction. Oversized presses cool faster and waste beans. Undersized presses require constant re-brewing.
 
 ## French Press Size FAQ
 

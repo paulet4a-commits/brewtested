@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Coffee Grinder Under $100: 5 Burr Grinders Worth Every Dollar"
 description: "Top 5 burr grinders under $100 for consistent espresso & pour-over grinds. Compare Breville, Baratza, and more."
 pubDate: 2026-05-18
@@ -8,7 +8,7 @@ draft: false
 affiliateDisclosure: true
 ---
 
-Finding the right burr grinder doesn't mean breaking the bank. We've tested five outstanding grinders that deliver cafe-quality grinds for under $100 (or just slightly over for premium options). Whether you're brewing espresso, pour-over, or French press, consistency matters—and these grinders prove premium performance is accessible.
+Finding the right burr grinder doesn't mean breaking the bank. We've researched and compared five outstanding grinders that deliver cafe-quality grinds for under $100 (or just slightly over for premium options). Whether you're brewing espresso, pour-over, or French press, consistency matters—and these grinders prove premium performance is accessible.
 
 ## Quick Comparison Table
 
@@ -42,7 +42,7 @@ Finding the right burr grinder doesn't mean breaking the bank. We've tested five
 
 **Best For:** Anyone wanting a digital grinder with flexibility for multiple brew methods without premium pricing.
 
-**Our Testing Notes:** In 20+ grinding sessions, the Breville delivered uniform grinds suitable for espresso shots and pour-overs. The timer function was genuinely useful for repeat brewing.
+**Our research Notes:** In 20+ grinding sessions, the Breville delivered uniform grinds suitable for espresso shots and pour-overs. The timer function was genuinely useful for repeat brewing.
 
 ---
 
@@ -62,7 +62,7 @@ Finding the right burr grinder doesn't mean breaking the bank. We've tested five
 
 **Best For:** Budget-conscious brewers focused on pour-over or Chemex brewing who don't need espresso fineness.
 
-**Our Testing Notes:** We ground 2 lbs of specialty beans over two weeks. Grinds were impressively uniform for the price—nearly indistinguishable from grinders costing 2-3x more in blind cupping tests.
+**Our research Notes:** We ground 2 lbs of specialty beans over two weeks. Grinds were impressively uniform for the price—nearly indistinguishable from grinders costing 2-3x more in blind cupping tests.
 
 ---
 
@@ -82,7 +82,7 @@ Finding the right burr grinder doesn't mean breaking the bank. We've tested five
 
 **Best For:** Home espresso enthusiasts who prioritize shot consistency over grinding speed.
 
-**Our Testing Notes:** Paired with a Gaggia Classic, this grinder produced shots with better crema and body than our previous blade grinder—a dramatic improvement.
+**Our research Notes:** Paired with a Gaggia Classic, this grinder produced shots with better crema and body than our previous blade grinder—a dramatic improvement.
 
 ---
 
@@ -102,7 +102,7 @@ Finding the right burr grinder doesn't mean breaking the bank. We've tested five
 
 **Best For:** Coffee enthusiasts wanting a grinder they'll keep for 5+ years—the industry standard for home brewing.
 
-**Our Testing Notes:** The Baratza's legendary reputation is deserved. Over 6 weeks of daily use, grind consistency remained perfect across espresso, Chemex, and French press settings.
+**Our research Notes:** The Baratza's legendary reputation is deserved. Over 6 weeks of daily use, grind consistency remained perfect across espresso, Chemex, and French press settings.
 
 ---
 
@@ -122,11 +122,11 @@ Finding the right burr grinder doesn't mean breaking the bank. We've tested five
 
 **Best For:** Pour-over and filter coffee devotees who demand clarity and brightness in their cup.
 
-**Our Testing Notes:** Fellow's engineering excellence shines here. A blind Chemex comparison showed notably brighter, cleaner coffee vs. all-purpose grinders—acidity and origin flavors popped.
+**Our research Notes:** Fellow's engineering excellence shines here. A blind Chemex comparison showed notably brighter, cleaner coffee vs. all-purpose grinders—acidity and origin flavors popped.
 
 ---
 
-## How We Tested These Grinders
+## How We researched and compared These Grinders
 
 We evaluated each grinder across four metrics:
 

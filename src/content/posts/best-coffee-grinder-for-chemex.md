@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Coffee Grinder for Chemex: 2026 Guide to Perfect Pour-Over Grinds"
 description: "Find the ideal Chemex grinder with consistent medium-coarse grounds. Top burr grinders reviewed for precision and durability."
 category: grinders
@@ -7,7 +7,7 @@ affiliateDisclosure: true
 pubDate: 2026-05-18
 ---
 
-Brewing Chemex requires precise, consistent grinds to extract properly. A quality burr grinder makes the difference between muddy, over-extracted coffee and a clean, balanced cup. We've tested the best grinders specifically suited for Chemex brewing to help you dial in your perfect pour-over.
+Brewing Chemex requires precise, consistent grinds to extract properly. A quality burr grinder makes the difference between muddy, over-extracted coffee and a clean, balanced cup. We've researched and compared the best grinders specifically suited for Chemex brewing to help you dial in your perfect pour-over.
 
 ## Chemex Grinder Comparison
 
@@ -129,7 +129,7 @@ The Infinity fills a gap between pre-ground coffee and serious grinders. It's a 
 
 [Buy Capresso Infinity on Amazon](https://www.amazon.com/dp/B0000AR7SU?tag=brewtested07-20)
 
-## How We Tested
+## How We researched and compared
 
 We evaluated each grinder across multiple criteria:
 

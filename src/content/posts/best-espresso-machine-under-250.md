@@ -1,4 +1,4 @@
----
+﻿---
 title: Best Espresso Machines Under $250 for Home Brewing
 description: Affordable home espresso machines under $250 that actually pull great shots. Tested picks, setup guide, and buyer tips.
 category: espresso
@@ -15,7 +15,7 @@ slug: best-espresso-machine-under-250
 
 Espresso doesn't have to be expensive. You can pull café-quality shots at home for under $250 if you know what to look for. The sweet spot is finding machines that nail the fundamentals—temperature stability, pressure consistency, and build quality—without paying for unnecessary automation or bling.
 
-We've tested entry-level espresso machines and identified the best buys that deliver great shots without breaking the bank or requiring a PhD to operate.
+We've researched and compared entry-level espresso machines and identified the best buys that deliver great shots without breaking the bank or requiring a PhD to operate.
 
 ## Comparison Table
 
@@ -187,7 +187,7 @@ The built-in grinder eliminates the biggest barrier to entry: sourcing quality e
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We evaluated each machine across real-world espresso scenarios:
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Portable Coffee Makers for Travel: Lightweight Brew Anywhere"
 description: "Brew great coffee while traveling. Compare lightweight AeroPress, portable espresso, manual press, and thermos-friendly travel coffee makers."
 category: "coffee-makers"
@@ -7,7 +7,7 @@ affiliateDisclosure: true
 pubDate: 2026-05-18
 ---
 
-Traveling shouldn't mean sacrificing great coffee. Whether you're on a camping trip, hotel room, or international adventure, a lightweight portable coffee maker lets you brew quality coffee anywhere. We've tested the best travel-friendly options so you can find the right balance of taste, weight, and durability for your adventures.
+Traveling shouldn't mean sacrificing great coffee. Whether you're on a camping trip, hotel room, or international adventure, a lightweight portable coffee maker lets you brew quality coffee anywhere. We've researched and compared the best travel-friendly options so you can find the right balance of taste, weight, and durability for your adventures.
 
 ## Comparison Table
 
@@ -142,9 +142,9 @@ Sometimes the best travel coffee maker is no coffee maker at all. A simple colla
 
 ---
 
-## How We Tested
+## How We researched and compared
 
-We tested each portable coffee maker by:
+We researched and compared each portable coffee maker by:
 
 1. **Brewing quality:** Made coffee with each device using identical beans (medium roast) and evaluated taste, body, and richness
 2. **Ease of use:** Tested in various conditions—hotel bathrooms, campsites, airport lounges, moving vehicles

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Coffee Beans for French Press: 5 Roasts for Full-Body Flavor"
-description: "Find the best coffee beans for French press brewing. We tested 5 roasts for body, flavor, and grind compatibility with French press brewing."
+description: "Find the best coffee beans for French press brewing. We researched and compared 5 roasts for body, flavor, and grind compatibility with French press brewing."
 pubDate: 2026-05-18
 category: "coffee"
 tags: ["best coffee beans for french press", "french press coffee beans", "dark roast coffee", "medium roast", "whole bean coffee"]
@@ -8,7 +8,7 @@ draft: false
 affiliateDisclosure: true
 ---
 
-French press coffee demands beans that can stand up to immersion brewing. Unlike espresso or pour-over methods, a French press requires coarser grinds and longer contact time with hot water—which means you need beans with enough body and flavor complexity to shine during a four-minute steep. We tested five whole bean coffees specifically for French press compatibility, focusing on full-bodied roasts that deliver rich flavor without bitterness or thin, underwhelming cups.
+French press coffee demands beans that can stand up to immersion brewing. Unlike espresso or pour-over methods, a French press requires coarser grinds and longer contact time with hot water—which means you need beans with enough body and flavor complexity to shine during a four-minute steep. We researched and compared five whole bean coffees specifically for French press compatibility, focusing on full-bodied roasts that deliver rich flavor without bitterness or thin, underwhelming cups.
 
 ## Quick Comparison
 
@@ -82,7 +82,7 @@ French press coffee demands beans that can stand up to immersion brewing. Unlike
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We brewed each coffee in a [12-cup French press under $30](/posts/best-french-press-under-30/) using the same technique: 1:16 coffee-to-water ratio, water at 200°F, four-minute steep, same burr grinder set to "coarse." We used water from the same source for all tests and waited 24 hours between tasting sessions to reset our palates.
 

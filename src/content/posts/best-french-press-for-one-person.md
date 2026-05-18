@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best French Press for One Person: 5 Small Single-Serve Picks"
 description: "Compact French press models perfect for single-serve brewing. Small, efficient coffee makers for individuals."
 pubDate: 2026-05-18
@@ -10,7 +10,7 @@ affiliateDisclosure: true
 
 A French press is the gold standard for full-bodied, flavorful coffee without electricity. But most traditional presses make 3-4+ cups, leaving extra coffee that goes stale or requires scaling down measurements awkwardly. If you're brewing for one person, oversized equipment wastes space, coffee, and time.
 
-We tested five French press models specifically designed for single-serve or small-batch brewing. These compact presses give you fresh, excellent coffee in the right quantity every time.
+We researched and compared five French press models specifically designed for single-serve or small-batch brewing. These compact presses give you fresh, excellent coffee in the right quantity every time.
 
 ## Quick Comparison
 
@@ -150,7 +150,7 @@ We tested five French press models specifically designed for single-serve or sma
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We evaluated each French press on:
 - **Brew Quality:** Coffee flavor, body, extraction consistency across 20+ brews

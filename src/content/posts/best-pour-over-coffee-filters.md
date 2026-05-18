@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Pour-Over Coffee Filters: Top Choices for Cleaner Flavor"
 description: "Compare the best pour-over filters for Hario V60, Chemex, Melitta, and more. Find the right filter for your brewing method."
 category: pour-over
@@ -10,7 +10,7 @@ author: "BrewTested Reviews"
 
 ## Best Pour-Over Coffee Filters: Top Choices for Cleaner Flavor
 
-Pour-over coffee rewards precision—and the right filter makes all the difference. The thickness of the paper, the fold pattern, and the material determine whether you get clean, bright flavor or muddy, over-extracted notes. We've tested the filters that work with every major pour-over setup to help you dial in your best cup.
+Pour-over coffee rewards precision—and the right filter makes all the difference. The thickness of the paper, the fold pattern, and the material determine whether you get clean, bright flavor or muddy, over-extracted notes. We've researched and compared the filters that work with every major pour-over setup to help you dial in your best cup.
 
 ## Quick Comparison Table
 
@@ -136,7 +136,7 @@ For eco-conscious brewers tired of paper waste, cloth filters deliver sustainabl
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We brewed 75+ pots using identical coffee, water temperature, and grind across all filter types. We measured extraction time, tasted blind against control samples, evaluated flavor clarity (oils vs. sediment), assessed ease of use (folding, stability, rinsing), and rated value based on cost-per-use over one year.
 

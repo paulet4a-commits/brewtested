@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Coffee Maker with Carafe Under $100: 5 Top-Rated Brewers for Busy Mornings"
 description: "Best carafe coffee makers ranked for brewing capacity, temperature retention, and brewing speed. Top picks for households and offices."
 pubDate: 2026-05-18
@@ -143,7 +143,7 @@ The Hamilton Beach 12-Cup is the budget champion—a no-frills machine that brew
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We evaluated each carafe brewer across six critical dimensions: brew temperature consistency (using thermometers to verify water stays in 195-205°F range), extraction quality (cupping the same single-origin beans in identical conditions), carafe heat retention (measuring temperature loss over 30 and 60 minutes), brew speed (timing from water to finished cup), build quality (examining materials and seams for durability), and user-friendliness (rating intuitive controls and cleanability). Each machine was used daily for 2+ weeks and brewed with filtered water and medium grinds.
 

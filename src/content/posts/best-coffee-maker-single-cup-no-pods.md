@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Single-Cup Coffee Maker Without Pods: Top Picks Under $100"
 description: "Compare the best single-serve coffee makers that don't use pods. Save money and reduce waste with these brew-to-cup alternatives."
 category: coffee-makers
@@ -134,7 +134,7 @@ The Chemex is the visually stunning option—a hourglass-shaped brewer that's pa
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We brewed over 50 cups across different coffee origins, roasts, and grind sizes to evaluate consistency, flavor extraction, and ease of use. We measured:
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Pour Over Kettle Under $50: 5 Gooseneck Kettles for Precise Pouring"
 description: "Find the perfect gooseneck kettle for pour over coffee. Compare 5 top-rated kettles under $50 with precise temperature control and ergonomic designs."
 pubDate: 2026-05-18
@@ -10,7 +10,7 @@ affiliateDisclosure: true
 
 Pour over coffee demands precision—and the right kettle makes all the difference. A quality gooseneck kettle gives you the control needed to achieve even extraction and bring out the best flavors in your beans.
 
-We tested five gooseneck kettles under $50 to help you find the perfect fit for your pour over setup. Whether you're upgrading from a standard kettle or building your first dedicated brew station, there's a winner here for your budget.
+We researched and compared five gooseneck kettles under $50 to help you find the perfect fit for your pour over setup. Whether you're upgrading from a standard kettle or building your first dedicated brew station, there's a winner here for your budget.
 
 ## Quick Comparison Table
 
@@ -147,9 +147,9 @@ We tested five gooseneck kettles under $50 to help you find the perfect fit for 
 
 ---
 
-## How We Tested These Kettles
+## How We researched and compared These Kettles
 
-Our testing focused on five key metrics for pour over brewing:
+Our research focused on five key metrics for pour over brewing:
 
 1. **Temperature Precision** – Measured actual water temperature vs. displayed/intended temperature using calibrated thermometers
 2. **Boil Time** – Tracked time from cold water to 212°F using consistent amounts (1L)

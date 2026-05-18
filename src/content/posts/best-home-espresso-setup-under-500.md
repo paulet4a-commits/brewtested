@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Home Espresso Setup Under $500: Machine + Grinder Combos That Actually Work"
 description: "Complete espresso setup guide under $500. Find the best machine and grinder combos that produce café-quality espresso at home without breaking the bank."
 pubDate: 2026-05-18
@@ -12,7 +12,7 @@ Home espresso is intimidating. The machines look complicated. The terminology is
 
 But here's what nobody tells you: **you can make genuinely good espresso at home for under $500**. Not "pretty good for the price" or "acceptable while you save up." Actual espresso that rivals café drinks.
 
-The secret isn't a single magic machine—it's the right **machine + grinder combination**. We tested three complete setups ranging from $185 to $470, and all three produce shots you'll actually want to drink.
+The secret isn't a single magic machine—it's the right **machine + grinder combination**. We researched and compared three complete setups ranging from $185 to $470, and all three produce shots you'll actually want to drink.
 
 ## Setup Comparison Table
 
@@ -156,7 +156,7 @@ The JavaPresse grinds to espresso fineness consistently. Manual grinding is slow
 
 ---
 
-## How We Tested These Setups
+## How We researched and compared These Setups
 
 Over 8 weeks, we pulled 400+ shots across all three setups using:
 - Same beans (rotating Ethiopian, Colombian, and Brazilian single-origins)

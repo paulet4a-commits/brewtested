@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Insulated French Press: Double-Wall Brewing for Hot Coffee That Stays Hot"
 description: "Top insulated French press models keeping coffee hot 4+ hours. Compare stainless steel, borosilicate, price, heat retention."
 category: french-press
@@ -10,7 +10,7 @@ affiliateDisclosure: true
 
 ## Introduction
 
-An insulated French press solves one of coffee's most frustrating problems: your brew gets cold. Double-wall stainless steel construction creates a thermal barrier that keeps water hot during steeping and your finished coffee piping hot for hours. We've tested the best insulated French press models to find options that combine excellent heat retention, durability, and brewed-coffee quality—without the ceramic or glass fragility.
+An insulated French press solves one of coffee's most frustrating problems: your brew gets cold. Double-wall stainless steel construction creates a thermal barrier that keeps water hot during steeping and your finished coffee piping hot for hours. We've researched and compared the best insulated French press models to find options that combine excellent heat retention, durability, and brewed-coffee quality—without the ceramic or glass fragility.
 
 ## Comparison Table
 
@@ -155,7 +155,7 @@ The Planetary Design Nanopress is the ultimate travel insulated French press, de
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We evaluated each insulated French press across five key criteria:
 

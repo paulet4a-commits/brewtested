@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best French Press Coffee Ratio: Perfect Brew Every Time"
 description: "Master the ideal French press coffee-to-water ratio for bold, rich flavor. Complete guide with troubleshooting tips."
 category: french-press
@@ -11,7 +11,7 @@ affiliateDisclosure: true
 
 The difference between bitter, over-extracted French press coffee and smooth, rich coffee comes down to one simple thing: the coffee-to-water ratio. Getting this right transforms your morning brew from mediocre to exceptional.
 
-The classic French press ratio is **1:15** (one part coffee to fifteen parts water by weight), but the best ratio for your taste depends on your brewing method, bean roast level, and personal preference. We've tested ratios ranging from 1:12 (strong) to 1:18 (lighter) to find what works best.
+The classic French press ratio is **1:15** (one part coffee to fifteen parts water by weight), but the best ratio for your taste depends on your brewing method, bean roast level, and personal preference. We've researched and compared ratios ranging from 1:12 (strong) to 1:18 (lighter) to find what works best.
 
 ## Quick Ratio Reference Chart
 

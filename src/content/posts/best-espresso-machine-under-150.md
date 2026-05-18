@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Espresso Machine Under $150: 5 Picks for Budget Café Quality"
 description: "Top 5 affordable espresso machines under $150 that deliver real café-quality shots at home. Expert picks for beginners and upgraders."
 pubDate: 2026-05-18
@@ -9,7 +9,7 @@ affiliateDisclosure: true
 
 # Best Espresso Machine Under $150: 5 Picks for Budget Café Quality
 
-Finding a quality espresso machine without breaking the bank is absolutely possible. We've tested the best budget espresso machines that deliver authentic café-quality shots at a fraction of coffee shop prices. Whether you're a beginner looking to dip your toes into espresso or an upgrader hunting for a compact secondary machine, this guide covers everything you need to know.
+Finding a quality espresso machine without breaking the bank is absolutely possible. We've researched and compared the best budget espresso machines that deliver authentic café-quality shots at a fraction of coffee shop prices. Whether you're a beginner looking to dip your toes into espresso or an upgrader hunting for a compact secondary machine, this guide covers everything you need to know.
 
 ## Quick Comparison Table
 
@@ -150,7 +150,7 @@ The Mr. Coffee Espresso Maker sits at the absolute bottom price point (~$79) wit
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We evaluated each machine across five criteria:
 

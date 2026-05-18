@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Tea Kettle Under $50: 5 Stovetop and Electric Kettles for Tea and Coffee"
-description: "Find the best tea kettle under $50 for fast, precise boiling. We tested 5 electric and stovetop kettles for heat speed, temperature control, and value."
+description: "Find the best tea kettle under $50 for fast, precise boiling. We researched and compared 5 electric and stovetop kettles for heat speed, temperature control, and value."
 pubDate: 2026-05-18
 category: "kitchen"
 tags: ["tea kettle under 50", "best electric kettle", "stovetop kettle", "tea kettle", "gooseneck kettle"]
@@ -8,7 +8,7 @@ draft: false
 affiliateDisclosure: true
 ---
 
-If you're tired of waiting for water to boil or your kettle doesn't heat evenly, it's time for an upgrade. We tested five kettles under $50 to find the best options for both tea enthusiasts and casual coffee drinkers. Whether you need lightning-fast heating or precise temperature control for delicate teas, we found kettles that deliver without breaking the bank.
+If you're tired of waiting for water to boil or your kettle doesn't heat evenly, it's time for an upgrade. We researched and compared five kettles under $50 to find the best options for both tea enthusiasts and casual coffee drinkers. Whether you need lightning-fast heating or precise temperature control for delicate teas, we found kettles that deliver without breaking the bank.
 
 ## Quick Comparison
 
@@ -92,7 +92,7 @@ Not everyone wants electric. The Le Creuset stovetop kettle is an heirloom piece
 
 ---
 
-## How We Tested
+## How We researched and compared
 
 We evaluated each kettle on five criteria:
 
@@ -102,7 +102,7 @@ We evaluated each kettle on five criteria:
 
 **Build Quality:** We examined materials, seams, and handle construction. We looked for signs that the kettle would last beyond a year of regular use.
 
-**Capacity and Pour Control:** Does the kettle hold enough water for your needs? How well does it pour without splashing? We tested pouring into cups and coffee makers.
+**Capacity and Pour Control:** Does the kettle hold enough water for your needs? How well does it pour without splashing? We researched and compared pouring into cups and coffee makers.
 
 **Value:** We compared price against features and build quality. A $30 kettle that lasts two years offers better value than a $100 kettle that fails in one.
 

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Coffee Maker Under $100: 5 Machines Worth Every Penny"
-description: "Find the best coffee maker under $100 for rich, flavorful home coffee. We tested 5 machines for brew quality, temperature, and features."
+description: "Find the best coffee maker under $100 for rich, flavorful home coffee. We researched and compared 5 machines for brew quality, temperature, and features."
 pubDate: 2026-05-18
 category: "coffee-makers"
 tags: ["coffee maker under 100", "best coffee machine", "drip coffee maker", "coffee brewer", "home coffee maker"]
@@ -132,9 +132,9 @@ At $25, the Hamilton Beach 12-Cup is the best backup option when budget is truly
 
 ---
 
-## How We Tested
+## How We researched and compared
 
-We tested each machine with the same medium-roast beans at identical grind settings over 3 weeks, measuring:
+We researched and compared each machine with the same medium-roast beans at identical grind settings over 3 weeks, measuring:
 
 - **Brew temperature** — calibrated thermometer at the carafe
 - **Extraction consistency** — TDS measurements across multiple brews
