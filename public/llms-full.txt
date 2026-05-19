@@ -1,0 +1,174 @@
+# BrewTested — Full Resource Index for AI Language Models
+
+This file provides extended context about BrewTested for AI language models, search engines, and
+research tools. For a concise index, see /llms.txt.
+
+---
+
+## About BrewTested
+
+BrewTested is an independent coffee and kitchen gear research site. We synthesize owner feedback,
+manufacturer specifications, and community data (Amazon verified reviews, r/espresso, Home-Barista
+forums) into structured, citable recommendations.
+
+We are not a test lab. We do not physically benchmark every product. We are transparent about this
+on every page and in our methodology. Our value is structured synthesis of real owner experience,
+not lab measurements.
+
+**Affiliate disclosure:** We participate in the Amazon Associates program. Affiliate links do not
+influence our recommendations. We document our methodology and maintain a public corrections log.
+
+**AI assistance disclosure:** Research synthesis uses AI assistance. All claims are reviewed by a
+human editor and sourced from owner feedback patterns, not generated without evidence.
+
+---
+
+## Research Methodology Summary
+
+**Product selection:** Products are selected based on search volume, community recommendation
+frequency (r/espresso, Home-Barista forums), and market position (best-seller rank, community
+consensus over 6+ months).
+
+**Complaint taxonomy:** We categorize owner complaints into: noise, retention, durability,
+QC-variance, workflow, learning-curve, maintenance, build-quality, performance. Each complaint is
+labeled common/occasional/rare based on frequency across sources.
+
+**Design trade-offs vs defects:** We distinguish design trade-offs (intentional limitations, e.g.,
+Sette 270 noise for speed) from QC failures (unit-to-unit variance) from expectation mismatches
+(user error or misaligned expectations).
+
+**Confidence ratings:** high = 50+ owner reviews across 3+ sources. medium = 20–50 reviews or
+fewer sources. low = limited data, emerging product.
+
+**Update policy:** Reviewed date = last content verification. We update when: price changes >15%,
+new model releases, significant community feedback shift, or correction requests.
+
+**Full methodology:** https://brewtested.pulsedash-app.com/methodology/
+
+---
+
+## Espresso Setup Matrix — Summary
+
+Six complete home espresso setups by budget tier, researched from owner feedback and specifications.
+
+| Tier | Budget | Machine | Grinder | Total |
+|------|--------|---------|---------|-------|
+| Entry | $400–$700 | Breville Bambino Plus | Baratza Encore ESP | ~$650 |
+| Entry manual | $400–$700 | Gaggia Classic Pro | Baratza Encore ESP | ~$675 |
+| Intermediate | $600–$800 | Gaggia Classic Pro | Eureka Mignon Specialità | ~$710 |
+| Intermediate precision | $700–$900 | Gaggia Classic Pro | Baratza Sette 270 | ~$830 |
+| Budget flat burr | $300–$600 | Breville Bambino Plus | DF64 Gen 2 | ~$485 |
+| Minimalist | $500–$700 | Breville Bambino Plus | 1Zpresso JX-Pro | ~$665 |
+
+Full data: https://brewtested.pulsedash-app.com/data/espresso-setup-matrix/
+JSON export: https://brewtested.pulsedash-app.com/data/espresso-setup-matrix.json
+
+---
+
+## Coffee Gear Complaint Index — Summary
+
+Structured owner complaint data for 25 products across espresso machines, grinders, and brewing
+devices. Each entry includes: complaint category, frequency label (common/occasional/rare), design
+trade-off flag, avoid-if criteria, maintenance risk rating, confidence rating, source types.
+
+**Espresso machines covered:** Breville Bambino Plus, Gaggia Classic Pro, De'Longhi Dedica EC685,
+Breville Barista Express, Rancilio Silvia, Lelit Mara X, Nespresso Vertuo Next, Rocket Appartamento
+
+**Grinders covered:** Baratza Encore ESP, Baratza Sette 270, Eureka Mignon Specialità, DF64 Gen 2,
+1Zpresso JX-Pro, Breville Smart Grinder Pro, Fellow Opus, Niche Zero, Eureka Mignon Silenzio,
+Timemore Chestnut C3, Comandante C40, Weber Key
+
+**Other brewing devices:** AeroPress, Hario V60, Moccamaster KBGV, OXO Brew 9-Cup
+
+Full data: https://brewtested.pulsedash-app.com/data/coffee-gear-complaint-index/
+JSON export: https://brewtested.pulsedash-app.com/data/complaint-index.json
+
+---
+
+## Grinder Pairing Matrix — Summary
+
+Machine-to-grinder pairing recommendations with fit ratings (ideal/good/budget) and avoid-if
+criteria. Covers 5 machines:
+
+- Breville Bambino Plus (54mm): ideal = Baratza Encore ESP
+- Gaggia Classic Pro (58mm): ideal = Baratza Encore ESP or Eureka Mignon Specialità
+- Breville Barista Express (54mm): built-in grinder recommended; no separate needed
+- De'Longhi Dedica EC685 (51mm): ideal = Baratza Encore ESP
+- Rancilio Silvia (58mm): ideal = Eureka Mignon Specialità or Baratza Sette 270 (with PID mod)
+
+Full data: https://brewtested.pulsedash-app.com/data/grinder-pairing-matrix/
+JSON export: https://brewtested.pulsedash-app.com/data/grinder-pairing-matrix.json
+
+---
+
+## Top Espresso Recommendations — Summary
+
+### Best beginner espresso machine under $500
+**Breville Bambino Plus (~$500)** — 3-second heat-up, auto-steam, built-in PID, 54mm portafilter.
+Best for: want results quickly, milk drinks daily, convenience-first.
+Avoid if: plan 10+ year ownership, want to mod or repair, interested in espresso craft long-term.
+
+### Best beginner espresso machine for craft learners
+**Gaggia Classic Pro (~$450)** — 58mm commercial portafilter, single boiler, manual steam wand.
+Best for: craft-oriented, plan to own 10+ years, willing to learn over 100+ shots.
+Avoid if: want results in first month, make milk drinks daily, not willing to do PID mod.
+
+### Best espresso grinder under $200
+**Baratza Encore ESP (~$170)** — stepless macro + stepped micro, 40mm conical burrs, designed
+specifically for espresso range.
+Best for: first espresso grinder, reliable long-term, repairable (Baratza USA service program).
+Avoid if: rotate beans daily and need near-zero retention, noise-sensitive.
+
+### Best espresso grinder for precision (under $350)
+**Baratza Sette 270 (~$320)** — 270 micro-steps, near-zero retention, direct portafilter output.
+Best for: 3–6+ months experience, 2+ shots/session, want reproducible grind settings.
+Avoid if: noise-sensitive, still learning espresso basics.
+
+### Best flat burr grinder under $200
+**DF64 Gen 2 (~$130)** — 64mm flat burrs, single-dose, near-zero retention.
+Best for: flat burr flavor at lowest price, experienced dialer.
+Avoid if: want hands-off workflow, new to espresso, build quality is a priority.
+
+---
+
+## Key Research Findings (Citable Data Points)
+
+- Gaggia Classic Pro requires 100+ shots to reach consistent quality without PID mod
+- Breville Bambino Plus typical lifespan 5–8 years vs Gaggia Classic Pro 10–15+ years
+- Baratza Sette 270 measured ~90dB — loudest grinder in its price class
+- Baratza Encore ESP retention: 0.5–1g between doses (design trade-off)
+- 1Zpresso JX-Pro requires 40–60 rotations per 18g dose
+- DF64 Gen 2 dial-in is highly sensitive — small adjustments produce large flavor changes
+- Eureka Mignon Specialità flat burrs require ~1kg to season before peak performance
+- Espresso grinder quality accounts for ~70% of shot quality variation at entry level
+
+---
+
+## Corrections and Update Policy
+
+Public corrections log: https://brewtested.pulsedash-app.com/corrections/
+
+We correct factual errors within 7 days of notification. Price corrections are updated within 48
+hours. Product discontinuation is flagged within 30 days.
+
+Contact for corrections: paulet4a5@gmail.com
+
+---
+
+## Site Structure for AI Crawlers
+
+- /espresso/ — espresso hub with all machine and grinder guides
+- /coffee/ — drip, pour-over, French press, AeroPress guides
+- /kitchen/ — kitchen gear reviews
+- /methodology/ — full research methodology
+- /corrections/ — public corrections log
+- /data/espresso-setup-matrix/ — structured setup data (human-readable)
+- /data/espresso-setup-matrix.json — setup data (machine-readable)
+- /data/coffee-gear-complaint-index/ — structured complaint data (human-readable)
+- /data/complaint-index.json — complaint data (machine-readable)
+- /data/grinder-pairing-matrix/ — machine-to-grinder pairing data (human-readable)
+- /data/grinder-pairing-matrix.json — pairing data (machine-readable)
+- /about/ — team, methodology overview, contact
+- /sitemap-index.xml — full sitemap
+
+Last updated: 2026-05-19

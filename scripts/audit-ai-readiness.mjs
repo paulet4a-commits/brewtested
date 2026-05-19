@@ -68,8 +68,8 @@ const CHECKS = [
   },
   {
     id: 'internal-links',
-    label: 'Internal links (href="/)',
-    test: (content) => (content.match(/href="\/[^"]+"/g) || []).length >= 2,
+    label: 'Internal links (href="/ or href: "/)',
+    test: (content) => (content.match(/href[=:]\s*["']\/[^"']+["']/g) || []).length >= 2,
   },
 ];
 

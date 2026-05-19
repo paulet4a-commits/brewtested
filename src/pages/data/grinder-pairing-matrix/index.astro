@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { grinderPairingMatrix } from '../../../data/grinder-pairing-matrix';
+---
+
+<BaseLayout
+  title="Grinder Pairing Matrix — Machine + Grinder Compatibility | BrewTested"
+  description="BrewTested's grinder pairing matrix: which burr grinder pairs best with each espresso machine. Ideal, good, and budget fits with avoid-if criteria. Research-based."
+>
+  <div class="mb-8">
+    <p class="text-xs uppercase tracking-widest text-amber-600 font-semibold mb-2">Original Data</p>
+    <h1 class="text-3xl font-bold text-gray-900 mb-3">Grinder Pairing Matrix</h1>
+    <p class="text-gray-600 text-lg leading-relaxed mb-4">
+      Which grinder pairs best with each espresso machine — by portafilter size, budget fit, and workflow. Sourced from owner feedback, community data, and spec analysis. Updated May 2026.
+    </p>
+    <div class="flex gap-3 text-sm">
+      <a href="/data/grinder-pairing-matrix.json" class="inline-flex items-center gap-1 text-amber-700 hover:text-amber-900 underline font-medium">
+        JSON export
+      </a>
+      <span class="text-gray-400">·</span>
+      <a href="/methodology/" class="text-amber-700 hover:text-amber-900 underline">Research methodology</a>
+    </div>
+  </div>
+
+  <div class="mb-6 text-sm text-gray-600 bg-gray-50 rounded-lg p-4">
+    <strong>Fit labels:</strong>
+    <span class="inline-block ml-2 px-2 py-0.5 text-xs border rounded text-green-700 bg-green-50 border-green-200">ideal</span> best match for this machine ·
+    <span class="inline-block ml-1 px-2 py-0.5 text-xs border rounded text-amber-700 bg-amber-50 border-amber-200">good</span> solid pairing ·
+    <span class="inline-block ml-1 px-2 py-0.5 text-xs border rounded text-gray-500 bg-gray-50 border-gray-200">budget</span> works with trade-offs
+  </div>
+
+  <div class="space-y-8" itemscope itemtype="https://schema.org/Dataset">
+    <meta itemprop="name" content="BrewTested Grinder Pairing Matrix" />
+    <meta itemprop="description" content="Espresso machine to grinder compatibility matrix with fit ratings and avoid-if criteria." />
+    <meta itemprop="url" content="https://brewtested.pulsedash-app.com/data/grinder-pairing-matrix/" />
+
+    {grinderPairingMatrix.map(machine => (
+      <article class="border border-gray-200 rounded-xl p-6 bg-white shadow-sm">
+        <div class="flex items-start justify-between mb-4">
+          <div>
+            <h2 class="text-xl font-bold text-gray-900">{machine.machineName}</h2>
+            <p class="text-sm text-gray-500 mt-0.5">~${machine.machinePrice} · {machine.portafilterSize} portafilter</p>
+          </div>
+        </div>
+
+        <div class="mb-4">
+          <h3 class="text-sm font-semibold text-gray-700 mb-2">Recommended Grinders</h3>
+          <div class="space-y-3">
+            {machine.pairings.map(p => (
+              <div class="flex items-start gap-3 text-sm">
+                <span class={`mt-0.5 flex-shrink-0 text-xs px-1.5 py-0.5 border rounded font-medium ${
+                  p.fit === 'ideal' ? 'text-green-700 bg-green-50 border-green-200' :
+                  p.fit === 'good' ? 'text-amber-700 bg-amber-50 border-amber-200' :
+                  'text-gray-500 bg-gray-50 border-gray-200'
+                }`}>
+                  {p.fit}
+                </span>
+                <div>
+                  <span class="font-medium text-gray-800">{p.grinderName}</span>
+                  {p.grinderPrice > 0 && <span class="text-gray-400 ml-1">(~${p.grinderPrice})</span>}
+                  <p class="text-gray-600 mt-0.5">{p.reason}</p>
+                  {p.avoidIf && <p class="text-amber-700 text-xs mt-0.5 italic">Avoid if: {p.avoidIf}</p>}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {machine.notRecommended.length > 0 && (
+          <div class="mb-4">
+            <h3 class="text-sm font-semibold text-gray-700 mb-1">Not recommended:</h3>
+            <ul class="list-disc list-inside space-y-0.5 text-sm text-gray-500">
+              {machine.notRecommended.map(n => <li>{n}</li>)}
+            </ul>
+          </div>
+        )}
+
+        <p class="text-sm text-gray-600 border-t border-gray-100 pt-3 mt-3">{machine.notes}</p>
+        <p class="text-xs text-gray-400 mt-2">Reviewed: {machine.lastReviewed}</p>
+      </article>
+    ))}
+  </div>
+
+  <div class="mt-10 pt-6 border-t border-gray-200 text-sm text-gray-500 space-y-2">
+    <p>Pairing recommendations based on portafilter size, machine capability ceiling, and owner workflow feedback. Budget fit = works with trade-offs; ideal = best match at machine's capability level.</p>
+    <p>
+      <a href="/methodology/" class="text-amber-700 underline">Research methodology</a> ·
+      <a href="/data/grinder-pairing-matrix.json" class="text-amber-700 underline">JSON export</a> ·
+      <a href="/data/espresso-setup-matrix/" class="text-amber-700 underline">Setup matrix</a> ·
+      <a href="/data/coffee-gear-complaint-index/" class="text-amber-700 underline">Complaint index</a>
+    </p>
+  </div>
+</BaseLayout>

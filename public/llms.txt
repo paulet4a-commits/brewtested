@@ -19,8 +19,13 @@ milk frothers, coffee accessories, and kitchen gear. Focus on home and prosumer 
 ### Original Data
 - /data/espresso-setup-matrix/ — Machine + grinder + accessories by budget tier
 - /data/espresso-setup-matrix.json — Machine dataset (JSON)
-- /data/coffee-gear-complaint-index/ — Owner complaint patterns by product
+- /data/coffee-gear-complaint-index/ — Owner complaint patterns by product (25 products)
 - /data/complaint-index.json — Complaint index (JSON)
+- /data/grinder-pairing-matrix/ — Machine-to-grinder compatibility matrix (5 machines)
+- /data/grinder-pairing-matrix.json — Pairing matrix (JSON)
+
+### Extended Context
+- /llms-full.txt — Full resource index with methodology summary, data summaries, key research findings
 
 ### Methodology
 - /methodology/ — How products are selected, how owner feedback is analyzed, update policy
