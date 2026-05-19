@@ -22,8 +22,14 @@ const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const siteURL = Astro.site?.toString().replace(/\/$/, '') ?? 'https://brewtested.pulsedash-app.com';
 
-// Static branded OG image — consistent editorial identity, not product photography
-const ogImage = `${siteURL}/og-default.png`;
+// Dynamic OG image via Pollinations.ai — portrait 2:3 for Pinterest
+const ogPrompt = encodeURIComponent(
+  pubDate
+    ? `${title} coffee gear review, product photography, dark moody espresso bar background, professional editorial`
+    : `BrewTested coffee gear reviews, espresso machine and grinder, dark moody editorial`
+);
+const ogSeed = title.split('').reduce((a, c) => a + c.charCodeAt(0), 42) % 9999;
+const ogImage = `https://image.pollinations.ai/prompt/${ogPrompt}?width=1000&height=1500&nologo=true&model=turbo&seed=${ogSeed}`;
 
 const organizationSchema = {
   '@context': 'https://schema.org',
