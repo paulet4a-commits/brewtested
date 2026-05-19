@@ -9,6 +9,13 @@ Update 24h clicks column the following day.
 | 2026-05-18 | Pinterest | — | /posts/baratza-encore-esp-vs-sette-270/ | Pollinations.ai OG image (1000×1500) | paulet4a5 | BLOCKED | — | Same save error; image scraping works, save API call fails |
 | 2026-05-18 | Reddit | https://www.reddit.com/r/espresso/ | /posts/gaggia-classic-pro-vs-breville-bambino-plus/ | traffic-pack Reddit drafts | u/BrewTestedReviews | POSTED | — | Phase 1 (no links). Comment on beginner machine thread. |
 | 2026-05-18 | Reddit | https://www.reddit.com/r/espresso/ | /posts/gaggia-classic-pro-vs-breville-bambino-plus/ | traffic-pack Reddit drafts | u/BrewTestedReviews | POSTED | — | Comment on Gaggia vs Bambino comparison thread. |
+| 2026-05-19 | Pinterest | https://pinterest.com/pin/1128785094127194288 | /posts/gaggia-classic-pro-vs-breville-bambino-plus/ | Pollinations.ai OG image (1000×1500) | paulet4a5 | POSTED | — | Unblocked after domain switch to brewtested.pulsedash-app.com |
+| 2026-05-19 | Pinterest | https://pinterest.com/pin/1128785094127194408 | /posts/best-home-espresso-setup-beginners/ | Pollinations.ai OG image (1000×1500) | paulet4a5 | POSTED | — | |
+| 2026-05-19 | Pinterest | https://pinterest.com/pin/1128785094127194549 | /posts/baratza-encore-esp-vs-sette-270/ | Pollinations.ai OG image (1000×1500) | paulet4a5 | POSTED | — | |
+| 2026-05-19 | Pinterest | https://pinterest.com/pin/1128785094127194723 | /posts/best-espresso-grinder-under-300/ | Pollinations.ai OG image (1000×1500) | paulet4a5 | POSTED | — | |
+| 2026-05-19 | Pinterest | https://pinterest.com/pin/1128785094127194897 | /posts/best-grinder-for-gaggia-classic-pro/ | Pollinations.ai OG image (1000×1500) | paulet4a5 | POSTED | — | |
+| 2026-05-19 | Pinterest | https://pinterest.com/pin/1128785094127195023 | /posts/best-nespresso-machine/ | Pollinations.ai OG image (1000×1500) | paulet4a5 | POSTED | — | |
+| 2026-05-19 | Pinterest | https://pinterest.com/pin/1128785094127195219 | /posts/best-espresso-machine-under-300/ | Pollinations.ai OG image (1000×1500) | paulet4a5 | POSTED | — | |
 
 ---
 
@@ -29,7 +36,7 @@ Update 24h clicks column the following day.
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Pinterest pins added | 0 | Save API blocked — investigate domain/account restriction |
+| Pinterest pins added | 7 | Unblocked — domain pulsedash-app.com accepted; og-default.png fixed to portrait 1000×1500 |
 | Reddit comments | — | Continue Phase 1 commenting |
 | New content deployed | 3 | best-grinder-for-breville-bambino-plus, baratza-encore-esp-vs-sette-270, best-espresso-grinder-under-300 |
 

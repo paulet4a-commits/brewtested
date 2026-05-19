@@ -13,7 +13,8 @@
     "audit:claims": "tsx scripts/audit-claims.mjs",
     "audit:ai": "node scripts/audit-ai-readiness.mjs",
     "report:ai": "node scripts/audit-ai-readiness.mjs > docs/reports/ai-readiness-$(date +%Y-%m-%d).md",
-    "report:affiliate": "tsx scripts/report-affiliate-status.mjs"
+    "report:affiliate": "tsx scripts/report-affiliate-status.mjs",
+    "submit:indexnow": "node scripts/indexnow-submit.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.2.0",
