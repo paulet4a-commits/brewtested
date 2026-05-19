@@ -37,6 +37,30 @@ const organizationSchema = {
   name: 'BrewTested',
   url: siteURL,
   description: 'Independent research-based reviews of coffee makers, grinders, espresso machines, and kitchen gear.',
+  sameAs: [
+    'https://www.reddit.com/user/BrewTestedReviews',
+    'https://www.pinterest.com/paulet4a5',
+  ],
+  logo: {
+    '@type': 'ImageObject',
+    url: `${siteURL}/favicon.svg`,
+  },
+};
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'BrewTested',
+  url: siteURL,
+  description: 'Independent research-based reviews of coffee makers, grinders, espresso machines, and kitchen gear.',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: `${siteURL}/?q={search_term_string}`,
+    },
+    'query-input': 'required name=search_term_string',
+  },
 };
 
 const articleSchema = pubDate ? {
@@ -77,6 +101,7 @@ const articleSchema = pubDate ? {
     {updatedDate && <meta property="article:modified_time" content={updatedDate.toISOString()} />}
     <!-- JSON-LD Schema -->
     <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
     {articleSchema && <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />}
     <!-- Plausible Analytics (free, privacy-first) -->
     <script defer data-domain="brewtested.pulsedash-app.com" src="https://plausible.io/js/script.outbound-links.js"></script>
@@ -124,7 +149,9 @@ const articleSchema = pubDate ? {
       <p class="mt-1">© {new Date().getFullYear()} BrewTested. Content researched with AI assistance and reviewed by a human editor.</p>
       <p class="mt-1">
         <a href="/privacy/" class="hover:underline">Privacy Policy</a> ·
-        <a href="/about/" class="hover:underline">About</a>
+        <a href="/about/" class="hover:underline">About</a> ·
+        <a href="/methodology/" class="hover:underline">Research Methodology</a> ·
+        <a href="/corrections/" class="hover:underline">Corrections</a>
       </p>
     </footer>
   </body>

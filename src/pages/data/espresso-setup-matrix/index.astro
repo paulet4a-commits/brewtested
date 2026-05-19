@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { espressoSetupMatrix } from '../../../data/espresso-setup-matrix';
+---
+
+<BaseLayout
+  title="Espresso Setup Matrix — Machine + Grinder by Budget | BrewTested"
+  description="BrewTested's espresso setup matrix: the right machine, grinder, and accessories for every budget tier from $400 to $850. Research-based recommendations with upgrade paths."
+>
+  <div class="mb-8">
+    <p class="text-xs uppercase tracking-widest text-amber-600 font-semibold mb-2">Original Data</p>
+    <h1 class="text-3xl font-bold text-gray-900 mb-3">Espresso Setup Matrix</h1>
+    <p class="text-gray-600 text-lg leading-relaxed mb-4">
+      Machine + grinder + accessories recommendations by budget tier. Each setup is researched from owner feedback, community data, and spec analysis. Updated May 2026.
+    </p>
+    <div class="flex gap-3 text-sm">
+      <a href="/data/espresso-setup-matrix.json" class="inline-flex items-center gap-1 text-amber-700 hover:text-amber-900 underline font-medium">
+        JSON export
+      </a>
+      <span class="text-gray-400">·</span>
+      <a href="/methodology/" class="text-amber-700 hover:text-amber-900 underline">Research methodology</a>
+    </div>
+  </div>
+
+  <div class="space-y-8" itemscope itemtype="https://schema.org/Dataset">
+    <meta itemprop="name" content="BrewTested Espresso Setup Matrix" />
+    <meta itemprop="description" content="Home espresso machine + grinder + accessories by budget tier, with upgrade paths and user profiles." />
+    <meta itemprop="url" content="https://brewtested.pulsedash-app.com/data/espresso-setup-matrix/" />
+
+    {espressoSetupMatrix.map(setup => (
+      <article class="border border-gray-200 rounded-xl p-6 bg-white shadow-sm">
+        <div class="flex items-start justify-between mb-4">
+          <div>
+            <span class="inline-block text-xs font-bold text-amber-700 bg-amber-50 border border-amber-200 rounded px-2 py-0.5 mb-2">{setup.tier}</span>
+            <h2 class="text-xl font-bold text-gray-900">{setup.budgetRange}</h2>
+          </div>
+          <span class="text-sm font-semibold text-gray-500">~${setup.totalEstimate} total</span>
+        </div>
+
+        <dl class="space-y-3 text-sm">
+          <div class="flex flex-col sm:flex-row gap-1">
+            <dt class="font-semibold text-gray-700 sm:min-w-[140px]">Machine:</dt>
+            <dd class="text-gray-600">{setup.machine.name} <span class="text-gray-400">(~${setup.machine.price})</span></dd>
+          </div>
+          <div class="flex flex-col sm:flex-row gap-1">
+            <dt class="font-semibold text-gray-700 sm:min-w-[140px]">Grinder:</dt>
+            <dd class="text-gray-600">{setup.grinder.name} <span class="text-gray-400">(~${setup.grinder.price})</span></dd>
+          </div>
+          <div class="flex flex-col sm:flex-row gap-1">
+            <dt class="font-semibold text-gray-700 sm:min-w-[140px]">Accessories:</dt>
+            <dd class="text-gray-600">{setup.accessories.join(', ')}</dd>
+          </div>
+          <div class="flex flex-col sm:flex-row gap-1">
+            <dt class="font-semibold text-gray-700 sm:min-w-[140px]">Best for:</dt>
+            <dd class="text-gray-600">{setup.bestUserProfile}</dd>
+          </div>
+          <div class="flex flex-col sm:flex-row gap-1">
+            <dt class="font-semibold text-gray-700 sm:min-w-[140px]">Notes:</dt>
+            <dd class="text-gray-600">{setup.notes}</dd>
+          </div>
+          {setup.upgradePathTo && (
+            <div class="flex flex-col sm:flex-row gap-1">
+              <dt class="font-semibold text-gray-700 sm:min-w-[140px]">Upgrade path:</dt>
+              <dd class="text-gray-600">→ {setup.upgradePathTo} tier</dd>
+            </div>
+          )}
+        </dl>
+
+        <p class="mt-4 text-xs text-gray-400">Last reviewed: {setup.lastReviewed}</p>
+      </article>
+    ))}
+  </div>
+
+  <div class="mt-10 pt-6 border-t border-gray-200 text-sm text-gray-500 space-y-2">
+    <p>Data sourced from owner feedback (Amazon verified reviews, r/espresso, Home-Barista forums) and manufacturer specifications. Prices are approximate and change frequently — verify before purchasing.</p>
+    <p>
+      <a href="/methodology/" class="text-amber-700 underline">Research methodology</a> ·
+      <a href="/data/espresso-setup-matrix.json" class="text-amber-700 underline">JSON export</a> ·
+      <a href="/data/coffee-gear-complaint-index/" class="text-amber-700 underline">Complaint index</a>
+    </p>
+  </div>
+</BaseLayout>

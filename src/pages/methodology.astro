@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="How BrewTested Researches Coffee Gear"
+  description="BrewTested research methodology: how products are selected, how owner feedback is analyzed, how complaints are categorized, and our update policy."
+>
+  <article class="prose prose-amber max-w-none">
+    <h1>Research Methodology</h1>
+    <p class="lead text-lg text-gray-600">BrewTested produces research-based buying guides for coffee and kitchen gear. This page explains exactly how those guides are built, what "reviewed" means, and how we maintain accuracy over time.</p>
+
+    <h2>What We Are (and Are Not)</h2>
+    <p>BrewTested is a research-based review site. We do not maintain a testing lab. We do not receive products for free in exchange for coverage. We are not a journalism outlet. We are a structured research operation that aggregates owner data and synthesizes it into buying decisions.</p>
+    <p>When we say a product "has retention issues" or "runs loud," that claim is based on patterns in verified owner feedback — not a single test session in controlled conditions.</p>
+
+    <h2>How Products Are Selected</h2>
+    <ul>
+      <li><strong>Sales rank and category position:</strong> Products with sustained sales rank are more likely to have sufficient owner feedback for pattern analysis.</li>
+      <li><strong>Price tier coverage:</strong> We aim to cover every meaningful price bracket so a reader at any budget has a clear recommendation.</li>
+      <li><strong>Community signal:</strong> Products frequently discussed in r/espresso, r/coffee, Home-Barista forums, and similar communities get prioritized — they have real-world usage data beyond Amazon reviews.</li>
+      <li><strong>Competitor coverage:</strong> If a product appears in multiple competitor guides, we research it to provide independent analysis.</li>
+    </ul>
+    <p>We do not accept payment to include or exclude products. Commission rates from Amazon Associates do not influence which products we recommend.</p>
+
+    <h2>How Owner Feedback Is Analyzed</h2>
+    <p>For each product we research, we analyze:</p>
+    <ul>
+      <li><strong>Verified Amazon reviews:</strong> We read verified purchase reviews, weighting recent reviews more heavily and filtering obvious astroturfing (5-star reviews with no specifics, clusters of same-day reviews).</li>
+      <li><strong>Reddit threads:</strong> r/espresso, r/coffee, r/BuyItForLife — community discussions surface issues that don't appear in Amazon reviews (long-term durability, failure modes, edge cases).</li>
+      <li><strong>Manufacturer specs:</strong> We cross-reference claimed specs (grind settings, heat-up time, pressure) against owner-reported real-world performance.</li>
+      <li><strong>Expert community input:</strong> Home-Barista, CoffeeGeek, and similar forums contain deep technical analysis from experienced users.</li>
+    </ul>
+
+    <h2>Complaint Taxonomy</h2>
+    <p>We categorize owner complaints into:</p>
+    <ul>
+      <li><strong>Design complaints:</strong> Inherent to how the product works (e.g., conical burrs produce bimodal particle distribution — not a defect, a design choice).</li>
+      <li><strong>Quality control complaints:</strong> Unit-to-unit variance (e.g., burr alignment differences between DF64 units).</li>
+      <li><strong>Expectation complaints:</strong> Complaints that reflect a mismatch between buyer expectations and what the product actually does (filtered out of "avoid" criteria unless widespread).</li>
+      <li><strong>Failure complaints:</strong> Reports of product failure within expected lifespan — highest weight in our analysis.</li>
+    </ul>
+    <p>We publish a structured complaint index at <a href="/data/coffee-gear-complaint-index/">/data/coffee-gear-complaint-index/</a>.</p>
+
+    <h2>What "Reviewed" Means on BrewTested</h2>
+    <p>A page marked as "reviewed" means:</p>
+    <ol>
+      <li>We have analyzed owner feedback from at least two independent sources (Amazon, Reddit, or forums).</li>
+      <li>The product specs have been cross-referenced against manufacturer documentation.</li>
+      <li>The recommendation has been validated against the current price tier.</li>
+      <li>The page has been checked for factual accuracy by a human editor.</li>
+    </ol>
+    <p>A page marked "Last reviewed: [date]" reflects when this process was last completed for that specific page.</p>
+    <p>We do not claim to physically test every product. When we have hands-on experience with a product, we say so explicitly.</p>
+
+    <h2>Update Policy</h2>
+    <p>Pages are updated when:</p>
+    <ul>
+      <li>A product is discontinued or replaced by a successor model</li>
+      <li>Price changes materially (more than 15% from the stated price)</li>
+      <li>Significant new owner feedback emerges (failure patterns, design changes)</li>
+      <li>A competitor launches a better product in the same price tier</li>
+      <li>A factual error is reported</li>
+    </ul>
+    <p>Our target is to review each money page at least once every six months. High-traffic pages are reviewed more frequently.</p>
+
+    <h2>AI Assistance Disclosure</h2>
+    <p>BrewTested uses AI assistance in content drafting. All AI-drafted content is reviewed and edited by a human editor for accuracy, tone, and factual correctness before publication. AI assistance does not replace the research process described above — it assists with structuring and writing, not with data collection or analysis.</p>
+    <p>The footer on every page states: "Content researched with AI assistance and reviewed by a human editor."</p>
+
+    <h2>Affiliate Independence</h2>
+    <p>BrewTested participates in the Amazon Associates program and other affiliate programs. Our affiliate relationships:</p>
+    <ul>
+      <li>Do not influence which products we recommend</li>
+      <li>Do not influence how we categorize complaints or drawbacks</li>
+      <li>Do not involve paid placement — no brand pays to appear in our guides</li>
+      <li>Are disclosed on every page that contains affiliate links</li>
+    </ul>
+    <p>We link to the best product for the reader's use case, not the product with the highest commission rate.</p>
+
+    <h2>Corrections</h2>
+    <p>Factual errors are corrected promptly. If you spot a wrong ASIN, outdated price, discontinued product, or inaccurate spec, email <a href="mailto:paulet4a5@gmail.com">paulet4a5@gmail.com</a> or see our <a href="/corrections/">corrections page</a>.</p>
+
+    <h2>Original Data</h2>
+    <p>BrewTested publishes two structured datasets derived from our research:</p>
+    <ul>
+      <li><a href="/data/espresso-setup-matrix/">Espresso Setup Matrix</a> — machine + grinder + accessories recommendations by budget tier, with JSON export</li>
+      <li><a href="/data/coffee-gear-complaint-index/">Coffee Gear Complaint Index</a> — structured owner complaint patterns by product, with JSON export</li>
+    </ul>
+    <p>These datasets are freely available for reference under the understanding that they represent research synthesis, not laboratory-controlled test results.</p>
+  </article>
+</BaseLayout>

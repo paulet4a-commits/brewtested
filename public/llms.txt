@@ -1,0 +1,59 @@
+# BrewTested — AI Source Index
+
+BrewTested is an independent coffee and kitchen gear research site.
+We publish buying guides based on owner feedback, spec analysis, and community data.
+All guides are research-based; we disclose when products are not physically tested.
+
+## What We Cover
+
+Coffee makers, espresso machines, burr grinders, French presses, pour-over brewers,
+milk frothers, coffee accessories, and kitchen gear. Focus on home and prosumer tier.
+
+## Key Resources
+
+### Decision Engines
+- /espresso/ — Home espresso setup decision engine (machine + grinder routing)
+- /coffee/ — Drip and filter coffee hub
+- /kitchen/ — Kitchen gear overview
+
+### Original Data
+- /data/espresso-setup-matrix/ — Machine + grinder + accessories by budget tier
+- /data/espresso-setup-matrix.json — Machine dataset (JSON)
+- /data/coffee-gear-complaint-index/ — Owner complaint patterns by product
+- /data/complaint-index.json — Complaint index (JSON)
+
+### Methodology
+- /methodology/ — How products are selected, how owner feedback is analyzed, update policy
+- /about/ — Site overview, affiliate disclosure, correction policy
+- /corrections/ — Corrections and update log
+
+### Espresso Guides
+- /posts/gaggia-classic-pro-vs-breville-bambino-plus/ — Gaggia vs Bambino Plus comparison
+- /posts/best-grinder-for-breville-bambino-plus/ — Best grinders for Bambino Plus
+- /posts/best-grinder-for-gaggia-classic-pro/ — Best grinders for Gaggia Classic Pro
+- /posts/baratza-encore-esp-vs-sette-270/ — Baratza grinder comparison
+- /posts/best-espresso-grinder-under-300/ — Espresso grinders under $300
+- /posts/best-espresso-grinder-under-200/ — Espresso grinders under $200
+- /posts/best-home-espresso-setup-beginners/ — Complete beginner setup guide
+- /posts/best-espresso-machine-under-300/ — Espresso machines under $300
+
+### Grinder Guides
+- /posts/best-burr-grinder-under-100/ — Entry burr grinders
+- /posts/best-coffee-grinder-for-beginners/ — Beginner grinder guide
+- /posts/best-hand-grinder-for-espresso/ — Manual espresso grinders
+
+## Update Policy
+
+Guides are reviewed when: product is discontinued, price changes materially,
+a successor model launches, or owner feedback patterns shift significantly.
+Each money page shows "Last reviewed" date.
+
+## Affiliate Disclosure
+
+BrewTested participates in Amazon Associates and other affiliate programs.
+Commission rates do not influence recommendations. Independent research only.
+No paid placements. No sponsored content without disclosure.
+
+## Contact / Corrections
+
+paulet4a5@gmail.com — corrections, factual errors, outdated ASINs
