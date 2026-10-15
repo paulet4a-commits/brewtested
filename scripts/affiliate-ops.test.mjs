@@ -171,3 +171,31 @@ test('an all-unverified registry remains valid and retains all 246 stale product
   assert.equal(result.findings.filter((p) => p.type === 'product_stale').length, 246);
   assert.equal(inspectProducts("export const products = { 'old': {status:'discontinued'} };", '2026-10-15').parseStatus, 'static_registry_observed');
 });
+
+test('daily sampling prioritizes article guides, rotates across UTC days, and stays internal and unique', async () => {
+  async function sample(today) {
+    const calls = [];
+    const report = await checkPublic({ today, request: async (url) => {
+      calls.push(url);
+      const path = new URL(url).pathname;
+      const pages = ['/about/', '/coffee/', '/corrections/', '/posts/private/', ...Array.from({length: 9}, (_, i) => `/posts/guide-${i}/`)];
+      const text = path === '/robots.txt' ? 'User-agent: *\nDisallow: /posts/private/\nSitemap: https://brewtested.pulsedash-app.com/sitemap-0.xml' :
+        path === '/' ? '<a href="/about/">About</a><a href="https://external.example/posts/unsafe/">External</a><a href="/posts/guide-0/">Repeated guide</a>' :
+          path === '/sitemap-0.xml' ? `<urlset>${[...pages.map((p) => `https://brewtested.pulsedash-app.com${p}`), 'https://external.example/posts/unsafe/', 'https://127.0.0.1/posts/unsafe/'].map((p) => `<url><loc>${p}</loc></url>`).join('')}</urlset>` : 'Article content';
+      return { status: 200, text, bytes: text.length };
+    } });
+    assert.equal(calls.length, new Set(calls).size);
+    assert.ok(calls.length <= 10);
+    assert.ok(calls.every((url) => safeUrl(url)));
+    assert.ok(calls.every((url) => !url.includes('/posts/private/')));
+    return report.observations.filter((item) => item.kind === 'sampled_internal_link').map((item) => item.url);
+  }
+  const today = await sample('2026-10-15');
+  const repeat = await sample('2026-10-15');
+  const tomorrow = await sample('2026-10-16');
+  assert.equal(today.length, 3);
+  assert.ok(today.every((url) => new URL(url).pathname.startsWith('/posts/guide-')));
+  assert.deepEqual(today, repeat);
+  assert.notDeepEqual(today, tomorrow);
+  assert.equal(new Set(tomorrow).size, 3);
+});

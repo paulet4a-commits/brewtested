@@ -242,7 +242,8 @@ export function robotsAllows(text, pathname) {
   return true;
 }
 
-export async function checkPublic({ request = publicGet, maxRequests = 10, budgetMs = 30_000, maxLinks = 3 } = {}) {
+export async function checkPublic({ request = publicGet, maxRequests = 10, budgetMs = 30_000, maxLinks = 3, today = new Date().toISOString().slice(0, 10) } = {}) {
+  if (!isoDate(today)) throw new Error('Invalid sampling date');
   const deadline = Date.now() + budgetMs;
   const observations = [], seen = new Set();
   async function get(value, kind) {
@@ -289,14 +290,24 @@ export async function checkPublic({ request = publicGet, maxRequests = 10, budge
   for (const item of home?.text.matchAll(/\bhref\s*=\s*["']([^"']+)["']/gi) ?? []) {
     try { const url = safeUrl(item[1]); if (!/\.(?:css|js|png|jpe?g|svg|ico|webp|woff2?)$/i.test(url.pathname)) candidates.add(url.href); } catch { /* bounded internal GETs only */ }
   }
+  const eligible = [...candidates].filter((url) => !seen.has(url) && allowed(url)).sort();
+  const articles = eligible.filter((url) => /^\/posts\/.+/.test(safeUrl(url).pathname));
+  const otherPages = eligible.filter((url) => !/^\/posts\/.+/.test(safeUrl(url).pathname));
+  // UTC day rotation is reproducible without randomness; one run cannot repeat a URL.
+  const rotate = (urls) => {
+    if (!urls.length) return [];
+    const offset = Math.floor(Date.parse(today) / DAY) % urls.length;
+    return [...urls.slice(offset), ...urls.slice(0, offset)];
+  };
+  const sampleCandidates = [...rotate(articles), ...rotate(otherPages)];
   let sampled = 0;
-  for (const url of [...candidates].sort()) {
+  for (const url of sampleCandidates) {
     if (sampled >= maxLinks || seen.size >= maxRequests || Date.now() >= deadline) break;
     if (seen.has(url) || !allowed(url)) continue;
     sampled++;
     await get(url, 'sampled_internal_link');
   }
-  return { observations, requests: seen.size, crawlState: 'sampled', discoveredInternalUrls: candidates.size, sampledLinks: sampled };
+  return { observations, requests: seen.size, crawlState: 'sampled', sampleDate: today, sampleStrategy: 'daily_rotating_articles_first', discoveredInternalUrls: candidates.size, sampledLinks: sampled };
 }
 
 export async function runAudit({ root = ROOT, today = new Date().toISOString().slice(0, 10), publicChecks = false, previous = null } = {}) {
@@ -315,7 +326,7 @@ export async function runAudit({ root = ROOT, today = new Date().toISOString().s
   digests.push(['src/data/products.ts', hash(registry)]);
   const productAudit = inspectProducts(registry, today);
   findings.push(...productAudit.findings);
-  const publicAudit = publicChecks ? await checkPublic() : { crawlState: 'not_requested', observations: [], requests: 0 };
+  const publicAudit = publicChecks ? await checkPublic({ today }) : { crawlState: 'not_requested', observations: [], requests: 0 };
   for (const observation of publicAudit.observations) {
     if (observation.status !== 200) {
       const item = finding('http_attention', observation.url, `HTTP ${observation.status ?? observation.error}`, 'status');
