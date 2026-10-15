@@ -1,0 +1,67 @@
+{
+  "schema": "buying-guide-research/v1",
+  "observedAt": "2026-10-15T11:34:36.674Z",
+  "scope": "gaggia-classic-pro-vs-breville-bambino-plus.mdx editorial/specification review, no hands-on test, no retailer price/ASIN/stock verification.",
+  "sources": [
+    {
+      "url": "https://www.gaggia-na.com/products/gaggia-classic-pro",
+      "authority": "Gaggia North America",
+      "verified": [
+        "Current page is Classic Pro E24, lead-free brass single boiler",
+        "Revision identity must not be inferred for older listing"
+      ]
+    },
+    {
+      "url": "https://www.gaggia.com/manual-machines/new-classic-e24/",
+      "authority": "Gaggia",
+      "verified": [
+        "58mm filter holder",
+        "Manual steam wand and rocker controls",
+        "E24 brass boiler"
+      ],
+      "limit": "International specification; regional differences cannot be projected automatically."
+    },
+    {
+      "url": "https://www.breville.com/en-us/product/bes500",
+      "authority": "Breville US",
+      "verified": [
+        "54mm portafilter",
+        "ThermoJet manufacturer three-second readiness claim; not full drink timing",
+        "PID",
+        "Automatic and manual milk texturing; three temp/texture settings"
+      ]
+    },
+    {
+      "url": "https://www.breville.com/content/dam/breville/us/en/assets/miscellaneous/instruction-manual/espresso/BES500-instruction-manual.pdf",
+      "authority": "Breville US operating manual",
+      "verified": [
+        "Manual milk texturing mode",
+        "Single-wall versus dual-wall basket guidance"
+      ]
+    },
+    {
+      "url": "https://www.gaggia.com/app/uploads/2023/07/4219-465-10461-MANUAL-GAG.-CLASSIC-USA-Rev-00_New_Classic_Evo.pdf",
+      "authority": "Gaggia US Classic Pro operating manual, older revision",
+      "verified": [
+        "Preheat and steam-to-brew temperature reduction workflow"
+      ],
+      "limit": "Explicitly older US manual; not asserted to document every E24 detail."
+    }
+  ],
+  "changes": [
+    "Removed invented 100+/30–40 shot learning counts, 2–4 week and 100h learning promises, 10–15/5–8 year lifespan figures",
+    "Removed unsupported taste ceiling and superiority, owner complaint rankings and modification prices",
+    "Corrected erroneous Gaggia 25–30 second warm-up comparison; qualify Breville heater readiness",
+    "Removed unverified Gaggia Amazon CTA as it is not verified to match current E24",
+    "Kept one routed unverified Bambino listing CTA; explicit regional/model/price/stock confirmation required",
+    "Removed unverified checklist email promise; existing email delivery not verified",
+    "Preserved pubDate; actual editorial updatedDate 2026-10-15"
+  ],
+  "open": [
+    "Exact ASIN/revision mapping",
+    "Seller stock and checkout total",
+    "Physical performance/durability/taste comparison",
+    "All 246 registry entries remain unverified"
+  ],
+  "sharedRegistryChanged": false
+}

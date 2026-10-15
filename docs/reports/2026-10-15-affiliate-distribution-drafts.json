@@ -1,0 +1,132 @@
+{
+  "schema": "affiliate-distribution-drafts/v1",
+  "createdAt": "2026-10-15T11:36:32.421Z",
+  "audience": "Coffee equipment buyers; no unrelated Beehiiv or Apify links.",
+  "newSpend": 0,
+  "notPublished": true,
+  "baseline": "Traffic and event ingestion unknown; no experimental result yet.",
+  "drafts": [
+    {
+      "id": "coffee-maker-50",
+      "title": "Coffee Makers for a $50 Budget: What to Check",
+      "description": "Compare capacity, timers and filter costs using manufacturer sources. Check the exact model and delivered total before choosing. Research-based guide; contains affiliate links.",
+      "articlePath": "/posts/best-coffee-maker-under-50/",
+      "destination": "https://brewtested.pulsedash-app.com/posts/best-coffee-maker-under-50/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=coffee-maker-50",
+      "status": "draft_not_posted",
+      "creative": "not_created",
+      "publishGates": [
+        "Authorized owner account",
+        "Reviewed creative",
+        "Live corrected destination",
+        "Current budget claim remains conditional"
+      ],
+      "measurement": {
+        "impressions": null,
+        "siteVisits": null,
+        "affiliateClicks": null,
+        "qualifiedOrders": null,
+        "commissionUSD": null
+      }
+    },
+    {
+      "id": "espresso-100",
+      "title": "Espresso on a $100 Budget: Compare the Workflow",
+      "description": "Ground coffee or capsules? Compare preparation, included equipment and ongoing coffee costs. Current offers need checking. Research-based guide; contains affiliate links.",
+      "articlePath": "/posts/best-espresso-machine-under-100/",
+      "destination": "https://brewtested.pulsedash-app.com/posts/best-espresso-machine-under-100/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=espresso-100",
+      "status": "draft_not_posted",
+      "creative": "not_created",
+      "publishGates": [
+        "Authorized owner account",
+        "Reviewed creative",
+        "Live corrected destination",
+        "Current budget claim remains conditional"
+      ],
+      "measurement": {
+        "impressions": null,
+        "siteVisits": null,
+        "affiliateClicks": null,
+        "qualifiedOrders": null,
+        "commissionUSD": null
+      }
+    },
+    {
+      "id": "french-press-30",
+      "title": "Shopping for a French Press on a $30 Budget",
+      "description": "Compare usable capacity, materials and matching spare parts. A model name alone does not confirm its current price. Research-based guide; contains affiliate links.",
+      "articlePath": "/posts/best-french-press-under-30/",
+      "destination": "https://brewtested.pulsedash-app.com/posts/best-french-press-under-30/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=french-press-30",
+      "status": "draft_not_posted",
+      "creative": "not_created",
+      "publishGates": [
+        "Authorized owner account",
+        "Reviewed creative",
+        "Live corrected destination",
+        "Current budget claim remains conditional"
+      ],
+      "measurement": {
+        "impressions": null,
+        "siteVisits": null,
+        "affiliateClicks": null,
+        "qualifiedOrders": null,
+        "commissionUSD": null
+      }
+    },
+    {
+      "id": "burr-grinder-100",
+      "title": "Buying a Burr Grinder: Manual or Electric?",
+      "description": "Compare cup controls, timed grinding and hand grinding for your brew routine. Check the exact variant and total price. Research-based guide; contains affiliate links.",
+      "articlePath": "/posts/best-burr-grinder-under-100/",
+      "destination": "https://brewtested.pulsedash-app.com/posts/best-burr-grinder-under-100/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=burr-grinder-100",
+      "status": "draft_not_posted",
+      "creative": "not_created",
+      "publishGates": [
+        "Authorized owner account",
+        "Reviewed creative",
+        "Live corrected destination",
+        "Current budget claim remains conditional"
+      ],
+      "measurement": {
+        "impressions": null,
+        "siteVisits": null,
+        "affiliateClicks": null,
+        "qualifiedOrders": null,
+        "commissionUSD": null
+      }
+    },
+    {
+      "id": "classic-bambino",
+      "title": "Gaggia Classic or Bambino Plus: Start With Milk Workflow",
+      "description": "Compare manual and automatic milk preparation, model revisions and basket sizes before choosing a machine. Research-based comparison; contains affiliate links.",
+      "articlePath": "/posts/gaggia-classic-pro-vs-breville-bambino-plus/",
+      "destination": "https://brewtested.pulsedash-app.com/posts/gaggia-classic-pro-vs-breville-bambino-plus/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=classic-bambino",
+      "status": "draft_not_posted",
+      "creative": "not_created",
+      "publishGates": [
+        "Authorized owner account",
+        "Reviewed creative",
+        "Live corrected destination",
+        "Current budget claim remains conditional"
+      ],
+      "measurement": {
+        "impressions": null,
+        "siteVisits": null,
+        "affiliateClicks": null,
+        "qualifiedOrders": null,
+        "commissionUSD": null
+      }
+    }
+  ],
+  "profileCorrectionDraft": {
+    "account": "paulet4a5",
+    "bio": "Research-based coffee and kitchen gear guides, compiled with AI assistance. Compare models and buying criteria before choosing.",
+    "website": "https://brewtested.pulsedash-app.com",
+    "status": "draft_not_applied"
+  },
+  "existingPinObserved": {
+    "url": "https://www.pinterest.com/pin/1128785094127097919/",
+    "destination": "https://brewtested.pulsedash-app.com/posts/best-coffee-maker-under-50/",
+    "source": "Existing Hasan Chrome public DOM",
+    "performance": "unknown"
+  }
+}

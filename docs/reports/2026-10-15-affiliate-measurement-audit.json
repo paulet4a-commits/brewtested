@@ -1,0 +1,165 @@
+{
+  "schema": "affiliate-measurement-audit/v1",
+  "auditDate": "2026-10-15",
+  "scope": {
+    "mode": "local_source_review",
+    "networkRequests": 0,
+    "browserSessionsOpened": 0,
+    "codeModified": false,
+    "newSpend": 0,
+    "secretFilesRead": false
+  },
+  "evidence": "Read-only Node scans and explicit source/document reads; no live account or ingestion checks.",
+  "guides": [
+    {
+      "slug": "best-coffee-maker-under-50",
+      "productCardCtas": 5,
+      "rawAmazonUrls": 0,
+      "internalPostLinks": 4,
+      "missingLocalPostTargets": []
+    },
+    {
+      "slug": "best-espresso-machine-under-100",
+      "productCardCtas": 4,
+      "rawAmazonUrls": 0,
+      "internalPostLinks": 3,
+      "missingLocalPostTargets": []
+    },
+    {
+      "slug": "best-french-press-under-30",
+      "productCardCtas": 4,
+      "rawAmazonUrls": 0,
+      "internalPostLinks": 4,
+      "missingLocalPostTargets": []
+    },
+    {
+      "slug": "best-burr-grinder-under-100",
+      "productCardCtas": 4,
+      "rawAmazonUrls": 0,
+      "internalPostLinks": 4,
+      "missingLocalPostTargets": []
+    },
+    {
+      "slug": "gaggia-classic-pro-vs-breville-bambino-plus",
+      "productCardCtas": 2,
+      "rawAmazonUrls": 0,
+      "internalPostLinks": 3,
+      "missingLocalPostTargets": []
+    }
+  ],
+  "publicConfiguration": {
+    "plausible": {
+      "domain": "brewtested.pulsedash-app.com",
+      "scriptUrl": "https://plausible.io/js/script.outbound-links.js",
+      "dashboardUrl": "https://plausible.io/brewtested.pulsedash-app.com",
+      "customEvent": "Affiliate Click",
+      "properties": [
+        "productKey",
+        "asin",
+        "category",
+        "placement",
+        "pageSlug",
+        "merchant"
+      ],
+      "source": "src/layouts/BaseLayout.astro:108",
+      "accountAccess": "not_verified",
+      "activeServiceOrBilling": "not_verified",
+      "goalConfiguration": "not_verified",
+      "eventIngestion": "not_measured"
+    },
+    "googleSearchConsole": {
+      "documentedProperty": "brewtested.pulsedash-app.com",
+      "source": "docs/indexing-checklist.md",
+      "propertyChecklistChecked": false,
+      "publicHtmlVerificationMetaPresent": true,
+      "ownerEmail": "unknown",
+      "publicContactEmailClue": "paulet4a5@gmail.com",
+      "emailClueSource": "src/pages/privacy.astro",
+      "limitation": "Contact email and public HTML verification markup are not proof of property ownership or verification."
+    },
+    "pinterest": {
+      "publicProfile": "https://www.pinterest.com/paulet4a5",
+      "documentedPostedPins": 7,
+      "postedPinDate": "2026-05-19",
+      "source": "docs/traffic-publishing-log.md",
+      "candidateGuidePin": "https://pinterest.com/pin/1128785094127194288",
+      "candidateGuide": "gaggia-classic-pro-vs-breville-bambino-plus",
+      "actualPinStatus": "not_checked_live",
+      "clickMetrics": "not_measured"
+    }
+  },
+  "findings": [
+    {
+      "id": "AM-01",
+      "severity": "high",
+      "source": "src/layouts/BaseLayout.astro:110",
+      "finding": "Custom event listener returns without recording if window.plausible is unavailable. No queue/fallback appears in the reviewed source.",
+      "runtimeImpact": "Not measured; early or SDK-blocked clicks may be lost."
+    },
+    {
+      "id": "AM-02",
+      "severity": "high",
+      "source": "docs/indexing-checklist.md:48",
+      "finding": "Plausible goals and actual event ingestion are not confirmed; checklist remains unchecked."
+    },
+    {
+      "id": "AM-03",
+      "severity": "medium",
+      "source": "src/layouts/BaseLayout.astro:112",
+      "finding": "Only click is observed; no auxclick listener for middle-button navigation. Runtime behavior not measured."
+    },
+    {
+      "id": "AM-04",
+      "severity": "medium",
+      "source": "src/layouts/BaseLayout.astro:108",
+      "finding": "Automatic outbound events and custom Affiliate Click coexist. Keep these event types separate; do not sum them as unique clicks."
+    },
+    {
+      "id": "AM-05",
+      "severity": "medium",
+      "source": "src/layouts/BaseLayout.astro:49",
+      "finding": "WebSite SearchAction advertises /?q={search_term_string}; reviewed index source contains no search/query implementation. Live behavior not measured."
+    },
+    {
+      "id": "AM-06",
+      "severity": "medium",
+      "source": "src/pages/privacy.astro",
+      "finding": "Source describes cookieless aggregate analytics and retailer cookies. Actual requests, provider persistence/retention and legal compliance were not assessed."
+    }
+  ],
+  "privacyAndPersistence": {
+    "localCookiesOrStorageInReviewedAnalyticsCode": "none_found",
+    "customEventPropertiesContainDirectPersonalIdentifiers": false,
+    "customEventPropsSendSearchQueryOrEmail": false,
+    "collectorPersistence": "not_measured",
+    "providerRetention": "not_measured",
+    "legalCompliance": "not_assessed"
+  },
+  "smallZeroSpendPlan": [
+    "Verify the existing Plausible dashboard and GSC property through protected Chrome. Do not activate a trial, subscription or paid collector.",
+    "If existing analytics is available without new spend, implement its documented event bootstrap/queue plus guarded delegated click/auxclick handling using existing ProductCard attributes. Do not introduce visitor identifiers, arbitrary query text or durable local storage.",
+    "Verify an authorized test event reaches the existing provider under Affiliate Click with pageSlug/productKey/placement; keep page views, outbound clicks and qualified orders separate. Unavailable provider access remains not measured.",
+    "Read the already documented Gaggia/Bambino Pinterest pin's current referral data first. The four homepage guides are editorial candidates until actual GSC/analytics data shows demand.",
+    "Choose five-page experiments from actual 28/90-day GSC impressions/clicks and matching-period affiliate reports; sitemap health is not traffic evidence."
+  ],
+  "safeEntryPoints": [
+    "AGENTS.md",
+    "docs/affiliate-growth-plan.md",
+    "docs/indexing-checklist.md",
+    "docs/indexing-log.md",
+    "docs/traffic-publishing-log.md",
+    "docs/weekly-workflow.md (historical sections superseded)",
+    "src/pages/privacy.astro"
+  ],
+  "unknown": [
+    "analytics ingestion",
+    "dashboard access",
+    "existing service entitlement or cost",
+    "GSC verified property and owner",
+    "GSC 28/90-day metrics",
+    "Pinterest current referrals",
+    "qualified orders and commissions",
+    "live internal-link status",
+    "third-party retention and request payload"
+  ]
+}

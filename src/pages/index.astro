@@ -9,10 +9,10 @@ const recent = allPosts
   .slice(0, 6);
 
 const topPicks = [
-  { title: 'Best Coffee Maker Under $50', url: '/posts/best-coffee-maker-under-50/', badge: 'Top Pick', desc: 'Best drip machine for most people.' },
-  { title: 'Best Espresso Machine Under $100', url: '/posts/best-espresso-machine-under-100/', badge: 'Best Value', desc: 'Real espresso shots without the premium price.' },
-  { title: 'Best French Press Under $30', url: '/posts/best-french-press-under-30/', badge: 'Budget Win', desc: 'Rich, bold coffee for under $30.' },
-  { title: 'Best Burr Grinder Under $100', url: '/posts/best-burr-grinder-under-100/', badge: "Editor's Choice", desc: 'Consistent grinds that improve every brew method.' },
+  { title: 'Coffee Makers on a $50 Budget', url: '/posts/best-coffee-maker-under-50/', badge: 'Drip Coffee', desc: 'Compare controls, capacity and cleaning; check the current model and checkout total.' },
+  { title: 'Espresso on a $100 Budget', url: '/posts/best-espresso-machine-under-100/', badge: 'Getting Started', desc: 'Separate pump machines from steam brewers and account for the complete setup.' },
+  { title: 'French Presses on a $30 Budget', url: '/posts/best-french-press-under-30/', badge: 'Manual Brewing', desc: 'Compare serving size, materials and replacement parts before buying.' },
+  { title: 'Burr Grinders on a $100 Budget', url: '/posts/best-burr-grinder-under-100/', badge: 'Grinding Guide', desc: 'Match adjustment and workflow to your brewing method; confirm current pricing.' },
 ];
 ---
 
@@ -34,7 +34,8 @@ const topPicks = [
 
   <!-- Top Picks -->
   <section class="mb-14">
-    <h2 class="text-xl font-bold text-gray-800 mb-5 border-b border-gray-200 pb-2">Our Top Picks Right Now</h2>
+    <h2 class="text-xl font-bold text-gray-800 mb-5 border-b border-gray-200 pb-2">Start With Your Budget</h2>
+    <p class="text-sm text-gray-600 mb-4">Budget targets guide these comparisons. Current prices and seller stock need checking before purchase.</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
       {topPicks.map((pick) => (
         <a href={pick.url} class="block border border-gray-200 rounded-xl p-5 hover:border-amber-400 hover:shadow-sm transition-all group">

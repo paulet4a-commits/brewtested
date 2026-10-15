@@ -1,0 +1,109 @@
+{
+  "schema": "buying-guide-editorial-review/v1",
+  "observedAt": "2026-10-15",
+  "scope": "Two article factual/editorial reviews. Safe site/AGENTS.md read; known secret CLAUDE boundaries not opened. No shared products/homepage edits, accounts, messages, new spend, commit, push, heavy build or browser.",
+  "files": [
+    "src/content/posts/best-espresso-machine-under-100.mdx",
+    "src/content/posts/best-burr-grinder-under-100.mdx"
+  ],
+  "sources": [
+    {
+      "url": "https://www.delonghi.com/en-ca/p/manual-espresso-machines-manual-espresso-machine--cappuccino-maker---ec155m/EC155M.html",
+      "reviewedOn": "2026-10-15",
+      "verified": "EC155M advertised15bar pump/manual frother/groundcoffee+ESE filter/stainlessboiler. Canadian page does not verify US stock, price, or warranty."
+    },
+    {
+      "url": "https://www.nespresso.com/us/en/order/machines/original/essenza-mini-c30-piano-black",
+      "reviewedOn": "2026-10-15",
+      "verified": "Original Essenza MiniC30;espresso/lungo controls, removable tank,19bar advertised rating. Does not verify retailer ASIN."
+    },
+    {
+      "url": "https://www.mrcoffee.com/instruction-manuals.html",
+      "reviewedOn": "2026-10-15",
+      "verified": "Official manualfinder observed; exact current ECMP50 primary specification/manual not obtained. Unsupported built-in-grinder recommendation removed."
+    },
+    {
+      "url": "https://www.oxo.com/conical-burr-coffee-grinder-1.html",
+      "reviewedOn": "2026-10-15",
+      "verified": "CurrentSKU8722600B;stainless conicalburr;15settings+micro;time-based dial remembers setting;12oz hopper.40mm claim unverified."
+    },
+    {
+      "url": "https://www.cuisinart.com/supreme-grind-automatic-burr-mill/P-DBM-8.html",
+      "reviewedOn": "2026-10-15",
+      "verified": "Current listingDBM-8P1;18positions/4–18cupslider/8ozhopper/timerautostop;precise burr geometry not established."
+    },
+    {
+      "url": "https://www.javapresse.com/products/coffee-grinder",
+      "reviewedOn": "2026-10-15",
+      "verified": "Ceramicconicalburr/manualcrank/over15settings;do not infer lifespan, noise, or taste advantages."
+    },
+    {
+      "url": "https://www.javapresse.com/",
+      "reviewedOn": "2026-10-15",
+      "verified": "Homepage18settings differs from productpage15+; discrepancy preserved."
+    },
+    {
+      "url": "https://www.timemore.com/pages/download-center",
+      "reviewedOn": "2026-10-15",
+      "verified": "Downloadcenter observed; matching current originalC2 manual/spec not established. C3/C2S not substituted."
+    }
+  ],
+  "changes": [
+    "Budget titles and comparisons now conditional on actual delivered offer; stale product/capsule/accessory prices removed.",
+    "Removed ProductCards from these two articles to prevent rendering stale shared spec/rating/price data. Kept existing AffiliateButton for EC155M, EssenzaMini, DBM8, JavaPresse; routing is parent scope and not newly verified.",
+    "Corrected EC155M9bar to manufacturer's15bar rating with pumpvsactualextraction caveat; removed40sheatup/fullsteel/lifespan claims.",
+    "Removed ECMP50 built-in-grinder recommendation and ambiguous Sowtech recommendation.",
+    "Corrected OXO cup-baseddosing to timedial; distinguished currentSKU8722600B from older model and unsupported40mmburr claim.",
+    "Corrected Cuisinart currentmodelDBM8P1 with cupslider; removed flatburr/$25 assertion.",
+    "JavaPresse settings discrepancy recorded; removed ceramic-no-metallic-taste/noise/lifespan rankings.",
+    "Timemore stepless/burr/time/performance claims withdrawn until matching primary originalC2 evidence.",
+    "Removed unsupported taste, tactile, quality, grinder-minimumprice, universalcleaning and ownerreport claims; replaced with concrete model/controls/recipe/budget decisions.",
+    "Preserved pubDate2026-05-18 and added updatedDate2026-10-15 for actual documented editorialreview. Fixed related$50grinderlink label."
+  ],
+  "sharedProductsRecommendationsForParent": [
+    {
+      "key": "delonghi-ec155m",
+      "action": "Use15bar as advertised pump rating only. Remove unsupported9bar/40s/fullsteel/lifespan data; USprice/stock/ASIN/warranty remain unknown."
+    },
+    {
+      "key": "nespresso-essenza-mini",
+      "action": "Confirm intended Original variant and retailerASIN. C30 manufacturer source does not prove affiliateASIN. Remove universal$99/capsuleprice/quality assertions."
+    },
+    {
+      "key": "mr-coffee-ecmp50",
+      "action": "Remove built-in-grinder spec and dependent recommendations; primarycurrentexactmodel evidence remains open."
+    },
+    {
+      "key": "sowtech-espresso",
+      "action": "Keep unverified until exactmodel and matchingprimarymanual/retailer mapping obtained."
+    },
+    {
+      "key": "oxo-brew-conical",
+      "action": "Canonicalcurrentpage isSKU8722600B/12oz; do not silentlymap olderASIN or40mm data onto it. Dosebytime notcupcount. Variant identity remains open."
+    },
+    {
+      "key": "cuisinart-dbm-8",
+      "action": "ModelpageDBM8P1;18positions/4–18cup/8oz;removeunsupportedflatgeometry/$25 data. ASINsuffixmapping open."
+    },
+    {
+      "key": "javapresse-manual",
+      "action": "15+settings productpage with18homepage discrepancy; no$25/no-metallic-taste advantage verified; retailer variant open."
+    },
+    {
+      "key": "timemore-chestnut-c2",
+      "action": "Remove stepless claim; originalC2 exactmatchingmanual needed. Do not promote C2S/C3 claims as originalC2 evidence."
+    }
+  ],
+  "openFacts": [
+    "Actual checkout prices/stock/shipping/tax/ASIN matches unverified.",
+    "No physical shot/temperature/taste/grind/noise/static/retention/lifespan or ownerreport measurements.",
+    "Exact ECMP50/TimemoreC2/Sowtech primarycurrent model documentation incomplete.",
+    "AffiliateButton routing sharedparent scope; manufacturerordinaryURL notaffiliateapproval/saleproof.",
+    "Heavybuild/render/hosteddeployment/livebehavior parent scope. Existingforeignheavylock honored."
+  ],
+  "validation": {
+    "contentGate": "node scripts/affiliate-content-gate.mjs passed for208sourcefiles; does not establish complete factual accuracy or product freshness.",
+    "lightweightChecks": "Both articles frontmatter/date, all internal related-post targets, absence of stale ProductCard rendering, and research JSON parse passed. Heavy build/render not run."
+  },
+  "toolIssue": "Initial apply_patch rejected combined delete/add operations targeting samefile; no edit occurred. Espresso write succeeded via literal PowerShell text; grinder shell write automatically rejected by policy. Safer apply_patch replacement completed the grinder edit; no approval requested and no blocked shell retry."
+}

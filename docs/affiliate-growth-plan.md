@@ -45,3 +45,13 @@ GitHub standart public-repo Linux runner'ı kullanılır; ücretli model/API, re
 Kaynak başına/tur başına istek sınırı kesindir; aynı gün tekrar bastırma önceki cache snapshotının başarıyla korunmasına bağlıdır. Cache kaybı veya bağımsız branch/yerel koşu küresel günlük kota garantisi vermez. Workflow'un yeşil olması kaynakların sağlıklı veya koşulların onaylı olduğu anlamına gelmez; summary kapsama ve erişim hatalarını ayrıca gösterir.
 
 Günlük koşu kayıtları GitHub Actions **Affiliate operations** sayfasındadır. Summary ve JSON artifactları yedi gün saklanır; cache karşılaştırma içindir, ana işletme kaydı değildir. Public repoda uzun hareketsizlik zamanlamayı devre dışı bırakabilir; işin son koşu tarihini kontrol et. Doğal zamanlanmış ilk koşu gerçekleşmeden günlük devam kanıtı oluşmuş sayılmaz.
+
+## 15 Ekim ikinci tur: beş rehberin kaynak incelemesi
+
+İlk beş editoryal adayın üretici kaynaklarıyla incelemesi tamamlandı. Model farkları, yanlış özellikler ve bütçe iddiaları düzeltildi; kaynak linkleri ve somut karar kriterleri eklendi. `updatedDate` gerçek editoryal incelemeyi gösterir; tüm ürünlerin stok/fiyat/ASIN doğrulaması anlamına gelmez. Paylaşılan 246 ürün hâlâ `unverified` durumundadır. Kaynak ve açık alanlar `docs/reports/2026-10-15-buying-guide-research-{a,b,c}.json` içindedir.
+
+Ana sayfa artık güncel fiyatla doğrulanmış “top picks right now” iddiası yerine bütçe ve alışveriş kriterleriyle rehberlere yönlendirir. Çalışan arama kutusu olmadığı için desteklenmeyen `SearchAction` yapılandırılmış verisi çıkarıldı.
+
+Mevcut ölçüm kodu Plausible'a bağlı; hesap/ingestion ve goal erişimi doğrulanmadı. Herkese açık dashboard denemesi 404 verdi; bu sonuç hesabın veya aboneliğin bulunmadığını kanıtlamaz. [Resmî Plausible belgesi](https://plausible.io/docs/custom-event-goals), custom eventlerin ücretlendirilen aylık kullanıma sayıldığını ve dashboardda eşleşen goal gerektirdiğini söylüyor. Yeni ücretli collector, event artışı veya plan başlatılmadı; kodun bulunması ölçümün çalıştığı anlamına gelmez.
+
+Beş Pinterest metni ve kendi site URL'lerinde UTM etiketleri `docs/reports/2026-10-15-affiliate-distribution-drafts.json` içinde hazırlandı. Paylaşım ve görsel üretimi yapılmadı. Mevcut bir pinin doğru coffee-maker rehberine gittiği görüldü; gösterim/referral/satış performansı bilinmiyor. Dağıtım deneyi, doğru owner hesabı ve gerçek analytics ölçümü üzerinden başlatılmalı; eldeki beşli trafik sıralaması değildir.

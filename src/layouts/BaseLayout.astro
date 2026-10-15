@@ -55,14 +55,6 @@ const websiteSchema = {
   name: 'BrewTested',
   url: siteURL,
   description: 'Independent research-based reviews of coffee makers, grinders, espresso machines, and kitchen gear.',
-  potentialAction: {
-    '@type': 'SearchAction',
-    target: {
-      '@type': 'EntryPoint',
-      urlTemplate: `${siteURL}/?q={search_term_string}`,
-    },
-    'query-input': 'required name=search_term_string',
-  },
 };
 
 const articleSchema = pubDate ? {
@@ -105,7 +97,7 @@ const articleSchema = pubDate ? {
     <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
     {articleSchema && <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />}
-    <!-- Plausible Analytics (free, privacy-first) -->
+    <!-- Existing Plausible integration; account access and ingestion require separate verification. -->
     <script defer data-domain="brewtested.pulsedash-app.com" src="https://plausible.io/js/script.outbound-links.js"></script>
     <!-- Affiliate click tracking: single delegated listener, no duplicate events -->
     <script>

@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-15",
+  "scope": {
+    "articles": [
+      "src/content/posts/best-coffee-maker-under-50.mdx",
+      "src/content/posts/best-french-press-under-30.mdx"
+    ],
+    "method": "Manufacturer-source desk review; selected model/specification corrections and conditional budget guidance. No physical tests, logged purchaser sample, retailer ASIN matching, live checkout, or purchase.",
+    "shared_products_ts": "not edited",
+    "homepage": "not edited",
+    "pubDate": "2026-05-18 preserved on both",
+    "updatedDate": "2026-10-15 on both; actual desk review only",
+    "account_or_external_writes": "none",
+    "cost": "no new spend"
+  },
+  "sources": [
+    {
+      "url": "https://hamiltonbeach.com/coffee-makers",
+      "observed_on": "2026-10-15",
+      "evidence": "official category search extract",
+      "verified": "49615 identity, programmable controls, displayed $34.99; 49316RG displayed $24.99.",
+      "open": "Exact product-page/manual, delivered total, inventory and ASIN mapping not confirmed."
+    },
+    {
+      "url": "https://www.mrcoffee.com/coffee-makers/5-cup-coffee-makers/mr.-coffee-mini-brew-switch-coffee-maker-5-cup-coffee-maker-black/SP_4020438.html",
+      "observed_on": "2026-10-15",
+      "evidence": "official product page opened",
+      "verified": "SAP 2211804; 25 oz; reusable filter sold separately; out-of-stock notice.",
+      "open": "Retailer identity, pricing, supplied accessories and inventory not checked."
+    },
+    {
+      "url": "https://chulux.com/products/chulux-mini-single-serve-travel-coffee-maker-for-k-cup-lavender",
+      "observed_on": "2026-10-15",
+      "evidence": "official product page opened; differing cached price extracts also observed",
+      "verified": "QF-CM801 Lavender; 12 oz; reusable filter excluded; opened page $49.99.",
+      "open": "Search extracts showed $44.99; no checkout completed. Exact historical ASIN/variant mapping remains unverified."
+    },
+    {
+      "url": "https://blackanddeckerappliances.com/products/12-cup-switch-coffeemaker",
+      "observed_on": "2026-10-15",
+      "evidence": "official product page opened",
+      "verified": "Page identifies CM0915BKD, $33.99 and sold out; glass carafe, washable basket.",
+      "open": "Does not establish CM0912B specifications or mapping. No substitution of model/ASIN made."
+    },
+    {
+      "url": "https://hamiltonbeach.com/smart-12-cup-coffee-maker-works-with-alexa-49350r",
+      "observed_on": "2026-10-15",
+      "evidence": "official product page opened",
+      "verified": "49350R Alexa model no longer available; cleaning reminder instead of claimed self-cleaning.",
+      "open": "49350 versus 49350R version-specific equivalence and historical ASIN mapping remain unverified."
+    },
+    {
+      "url": "https://hamiltonbeach.com/coffee-makers-product-archive",
+      "observed_on": "2026-10-15",
+      "evidence": "official archive search extract",
+      "verified": "49350 appears as an Alexa-family model.",
+      "open": "No live offer or under-$50 price verified."
+    },
+    {
+      "url": "https://www.cuisinart.com/discontinued-cuisinart-4-cup-coffee-maker-with-stainless-steel-carafe/DCC-450BK.html",
+      "observed_on": "2026-10-15",
+      "evidence": "official product page opened",
+      "verified": "DCC-450BK discontinued/out of stock; stainless-steel carafe; 30-minute shutoff.",
+      "open": "Old-stock retailer condition, warranty applicability, inventory and exact ASIN not verified."
+    },
+    {
+      "url": "https://www.bodum.com/us/en/10938-04b-brazil",
+      "observed_on": "2026-10-15",
+      "evidence": "official-domain indexed product extract; direct open exposed only iframe",
+      "verified": "BRAZIL 10938-04B, 34 oz/1 L; glass/plastic/stainless construction. Indexed price $27.49.",
+      "open": "Indexed extract approximately six months old; no current checkout/stock guarantee. No ASIN identified."
+    },
+    {
+      "url": "https://www.bodum.com/us/en/1928-57-chambord",
+      "observed_on": "2026-10-15",
+      "evidence": "official-domain indexed product extract; direct open exposed only iframe",
+      "verified": "CHAMBORD 1928-57, 34 oz/1 L; indexed price $54.99 contradicts old unqualified budget claim.",
+      "open": "Current delivered price, live stock and stored ASIN/finish match remain unverified."
+    }
+  ],
+  "nonaccepted_or_inaccessible_sources": [
+    {
+      "url": "https://coffeegator.com",
+      "result": "502 Bad Gateway; no manufacturer content observed."
+    },
+    {
+      "url": "https://idylchomes.com",
+      "result": "Not accessible using web tool; KONA manufacturer evidence not established."
+    },
+    {
+      "url": "https://mycoffeegator.com/products/coffee-gator-french-press-34-oz/",
+      "result": "Not accepted as manufacturer evidence; brand ownership was not established."
+    },
+    {
+      "url": "https://sterlingprofrenchpress.com/",
+      "result": "Not accepted as manufacturer evidence; brand ownership was not established."
+    },
+    {
+      "url": "https://hamiltonbeach.com/12-cup-programmable-coffee-maker-with-3-settings-49615",
+      "result": "Attempted inferred path unavailable; article cites observed official category URL instead."
+    }
+  ],
+  "changes": [
+    "Replaced unqualified best/under-budget titles with shopping and model-check framing.",
+    "Removed original temperature/speed/durability/taste rankings and unlogged owner-review counts.",
+    "Corrected discontinued model, carafe/shutoff, connected-model and filter-inclusion errors.",
+    "Added model/variant, capacity, accessories, spare-parts and delivered-total decisions plus inline primary-source links.",
+    "Removed rankings for three French press brands without sufficiently reliable manufacturer evidence.",
+    "Explained that 22g/330mL is a small 330mL batch, not a full 34oz press.",
+    "Retained three clearly marked historical retailer buttons with unverified status; no unsupported model-to-ASIN assurances."
+  ],
+  "product_registry_recommendations_only": [
+    {
+      "key": "cuisinart-dcc-450",
+      "proposal": "Consider manufacturer-discontinued status and corrected carafe/shutoff after confirming registry ASIN maps to DCC-450BK. Do not claim stock."
+    },
+    {
+      "key": "hamilton-beach-49350",
+      "proposal": "Keep unverified; do not relabel as 49615. Check exact 49350/R identity and ASIN. Consider separate 49615 record after mapping."
+    },
+    {
+      "key": "black-decker-cm0912b",
+      "proposal": "Keep unverified. CM0915BKD needs its own verified identity/ASIN; never substitute by similar product name."
+    },
+    {
+      "key": "mr-coffee-5cup",
+      "proposal": "Match existing ASIN to SAP/model and box contents before using reviewed specifications in shared data."
+    },
+    {
+      "key": "chulux-single-serve",
+      "proposal": "Resolve exact QF model and variant; historical $20-28 range is not supported by this review."
+    },
+    {
+      "key": "bodum-chambord-34oz",
+      "proposal": "Keep unverified; old $22-30 range cannot support an unconditional budget recommendation. Resolve size/finish/item and ASIN."
+    },
+    {
+      "key": "new-bodum-brazil-34oz",
+      "proposal": "Candidate only: exact item 10938-04B documented; confirm current offer and ASIN before creating affiliate routing."
+    },
+    {
+      "key": "sterlingpro-double-wall / coffee-gator-french-press / kona-french-press",
+      "proposal": "Keep unverified. Require reliably attributable manufacturer/manual plus exact model and retailer offer before restoring rankings."
+    }
+  ],
+  "checks": {
+    "frontmatter_yaml": "2/2 valid",
+    "original_pubDate_preserved": true,
+    "updatedDate_matches_real_desk_review": true,
+    "missing_related_article_targets": 0,
+    "retained_affiliate_product_keys_unverified": 3,
+    "affiliate_content_gate": {
+      "exit_code": 0,
+      "source_files": 208
+    },
+    "affiliate_node_tests": {
+      "command": "node --test scripts/affiliate-*.test.mjs",
+      "exit_code": 0,
+      "tests": 32,
+      "passed": 32,
+      "failed": 0
+    },
+    "targeted_git_diff_check": {
+      "exit_code": 0
+    },
+    "build": "not run due to another task heavy-work lock",
+    "browser": "not run due to another task heavy-work lock",
+    "commit_push_publish": "not performed"
+  },
+  "limits": [
+    "Manufacturer specifications are declarations, not independent physical measurements.",
+    "Cached/indexed primary-page data is not current checkout verification; article budget claims are conditional.",
+    "Existing unverified retailer buttons still need exact variant/ASIN verification.",
+    "This does not make the guides or products sales-ready."
+  ],
+  "final_editorial_pass": {
+    "date": "2026-10-15",
+    "changes": "Removed public correction history and unsupported-claim inventories; shortened source scope and unranked-brand explanation; preserved model/discontinued-stock purchase guidance. Full correction details remain in this report.",
+    "metadata_dates": "unchanged from actual source-review dates",
+    "checks": [
+      {
+        "command": "node scripts/affiliate-content-gate.mjs",
+        "exit_code": 0,
+        "output": "Content evidence gate passed for 208 source files. Product freshness and remaining editorial claims require separate review."
+      },
+      {
+        "command": "git -c core.safecrlf=false diff --check -- src\\content\\posts\\best-coffee-maker-under-50.mdx src\\content\\posts\\best-french-press-under-30.mdx",
+        "exit_code": 0,
+        "output": ""
+      }
+    ],
+    "frontmatter_yaml": "2/2 valid",
+    "additional_files_or_publish": "none"
+  }
+}
