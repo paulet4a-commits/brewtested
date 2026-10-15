@@ -1,0 +1,1060 @@
+{
+  "schema": "affiliate-pin-creatives/v1",
+  "createdAt": "2026-10-15T12:40:22.001Z",
+  "source": "docs/reports/2026-10-15-affiliate-distribution-drafts.json",
+  "dimensions": {
+    "width": 1000,
+    "height": 1500
+  },
+  "newSpend": 0,
+  "published": false,
+  "method": "Code-drawn generic SVG coffee illustration and typography; local existing sharp rasterization; no generated product photography.",
+  "limitations": [
+    "No account posting or profile changes.",
+    "No traffic, impressions, conversions, orders or income measured.",
+    "Destination equality and UTM parameters checked locally; live destination availability and article revision not rechecked by this asset task.",
+    "PNG files do not create clickable links; assign the manifest destination in the Pinterest pin form.",
+    "No price, stock, review score, hands-on test, or result guarantee in artwork."
+  ],
+  "visualReview": {
+    "status": "team_visual_review_passed_for_all_five",
+    "reviewedAt": "2026-10-15T12:41:09.485Z",
+    "samples": [
+      "espresso-100.png",
+      "classic-bambino.png"
+    ],
+    "method": "Actual rendered PNGs viewed with view_image",
+    "observations": [
+      "Headline, subtitle, coffee illustration, checklist, CTA, BrewTested and full domain readable.",
+      "No clipping or overlap seen in the two inspected outputs.",
+      "All five outputs passed independent raster text bounds and exact dimensions checks."
+    ],
+    "limit": "All five PNGs were inspected across agent and root; publication, account access and campaign results remain unverified.",
+    "rootReviewedAt": "2026-10-15T12:42:00.544833+00:00",
+    "rootSamples": [
+      "coffee-maker-50.png",
+      "french-press-30.png",
+      "burr-grinder-100.png"
+    ]
+  },
+  "assets": [
+    {
+      "id": "coffee-maker-50",
+      "title": "Coffee Makers for a $50 Budget: What to Check",
+      "svg": "coffee-maker-50.svg",
+      "png": "coffee-maker-50.png",
+      "pngBytes": 100263,
+      "dimensions": {
+        "width": 1000,
+        "height": 1500
+      },
+      "destination": "https://brewtested.pulsedash-app.com/posts/best-coffee-maker-under-50/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=coffee-maker-50",
+      "caption": "Compare capacity, timers and filter costs using manufacturer sources. Check the exact model and delivered total before choosing. Research-based guide; contains affiliate links. Disclosure: contains affiliate links; as an Amazon Associate, BrewTested earns from qualifying purchases.",
+      "altText": "coffee maker guide: Choosing your next coffee maker? Checklist: Capacity for your routine; Timers and daily controls; Filters and running costs. BrewTested.",
+      "status": "creative_created_not_posted",
+      "liveDestinationVerified": false,
+      "textBounds": {
+        "method": "Each line rasterized and trimmed with the same SVG font, then measured against safe page bounds.",
+        "allPassed": true,
+        "boxes": [
+          {
+            "text": "BrewTested",
+            "x": 70,
+            "baseline": 99,
+            "fontSize": 38,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 209,
+              "height": 29
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "COFFEE MAKER GUIDE",
+            "x": 70,
+            "baseline": 153,
+            "fontSize": 22,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 250,
+              "height": 17
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Choosing your",
+            "x": 70,
+            "baseline": 268,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 577,
+              "height": 78
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "next coffee",
+            "x": 70,
+            "baseline": 361,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 425,
+              "height": 61
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "maker?",
+            "x": 70,
+            "baseline": 454,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 283,
+              "height": 61
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Start with the details that matter.",
+            "x": 70,
+            "baseline": 533,
+            "fontSize": 30,
+            "fontWeight": 400,
+            "maxWidth": 860,
+            "measured": {
+              "width": 425,
+              "height": 23
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "A clear checklist",
+            "x": 70,
+            "baseline": 652,
+            "fontSize": 41,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 322,
+              "height": 31
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "before you choose.",
+            "x": 70,
+            "baseline": 702,
+            "fontSize": 35,
+            "fontWeight": 400,
+            "maxWidth": 560,
+            "measured": {
+              "width": 293,
+              "height": 34
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Capacity for your routine",
+            "x": 158,
+            "baseline": 857,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 368,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Timers and daily controls",
+            "x": 158,
+            "baseline": 961,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 376,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Filters and running costs",
+            "x": 158,
+            "baseline": 1065,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 367,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "READ THE BUYING GUIDE",
+            "x": 226,
+            "baseline": 1266,
+            "fontSize": 30,
+            "fontWeight": 700,
+            "maxWidth": 690,
+            "measured": {
+              "width": 379,
+              "height": 23
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Research-based comparisons",
+            "x": 70,
+            "baseline": 1362,
+            "fontSize": 27,
+            "fontWeight": 400,
+            "maxWidth": 860,
+            "measured": {
+              "width": 356,
+              "height": 26
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "brewtested.pulsedash-app.com",
+            "x": 70,
+            "baseline": 1422,
+            "fontSize": 35,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 519,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "espresso-100",
+      "title": "Espresso on a $100 Budget: Compare the Workflow",
+      "svg": "espresso-100.svg",
+      "png": "espresso-100.png",
+      "pngBytes": 96932,
+      "dimensions": {
+        "width": 1000,
+        "height": 1500
+      },
+      "destination": "https://brewtested.pulsedash-app.com/posts/best-espresso-machine-under-100/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=espresso-100",
+      "caption": "Ground coffee or capsules? Compare preparation, included equipment and ongoing coffee costs. Current offers need checking. Research-based guide; contains affiliate links. Disclosure: contains affiliate links; as an Amazon Associate, BrewTested earns from qualifying purchases.",
+      "altText": "espresso buying guide: Ground coffee or capsules? Checklist: Preparation steps; Included equipment; Ongoing coffee costs. BrewTested.",
+      "status": "creative_created_not_posted",
+      "liveDestinationVerified": false,
+      "textBounds": {
+        "method": "Each line rasterized and trimmed with the same SVG font, then measured against safe page bounds.",
+        "allPassed": true,
+        "boxes": [
+          {
+            "text": "BrewTested",
+            "x": 70,
+            "baseline": 99,
+            "fontSize": 38,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 209,
+              "height": 29
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "ESPRESSO BUYING GUIDE",
+            "x": 70,
+            "baseline": 153,
+            "fontSize": 22,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 287,
+              "height": 17
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Ground coffee",
+            "x": 70,
+            "baseline": 268,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 554,
+              "height": 61
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "or capsules?",
+            "x": 70,
+            "baseline": 361,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 500,
+              "height": 77
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Choose the workflow before the machine.",
+            "x": 70,
+            "baseline": 533,
+            "fontSize": 30,
+            "fontWeight": 400,
+            "maxWidth": 860,
+            "measured": {
+              "width": 549,
+              "height": 23
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "A clear checklist",
+            "x": 70,
+            "baseline": 652,
+            "fontSize": 41,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 322,
+              "height": 31
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "before you choose.",
+            "x": 70,
+            "baseline": 702,
+            "fontSize": 35,
+            "fontWeight": 400,
+            "maxWidth": 560,
+            "measured": {
+              "width": 293,
+              "height": 34
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Preparation steps",
+            "x": 158,
+            "baseline": 857,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 264,
+              "height": 32
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Included equipment",
+            "x": 158,
+            "baseline": 961,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 294,
+              "height": 32
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Ongoing coffee costs",
+            "x": 158,
+            "baseline": 1065,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 317,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "READ THE BUYING GUIDE",
+            "x": 226,
+            "baseline": 1266,
+            "fontSize": 30,
+            "fontWeight": 700,
+            "maxWidth": 690,
+            "measured": {
+              "width": 379,
+              "height": 23
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Research-based comparisons",
+            "x": 70,
+            "baseline": 1362,
+            "fontSize": 27,
+            "fontWeight": 400,
+            "maxWidth": 860,
+            "measured": {
+              "width": 356,
+              "height": 26
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "brewtested.pulsedash-app.com",
+            "x": 70,
+            "baseline": 1422,
+            "fontSize": 35,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 519,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "french-press-30",
+      "title": "Shopping for a French Press on a $30 Budget",
+      "svg": "french-press-30.svg",
+      "png": "french-press-30.png",
+      "pngBytes": 97666,
+      "dimensions": {
+        "width": 1000,
+        "height": 1500
+      },
+      "destination": "https://brewtested.pulsedash-app.com/posts/best-french-press-under-30/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=french-press-30",
+      "caption": "Compare usable capacity, materials and matching spare parts. A model name alone does not confirm its current price. Research-based guide; contains affiliate links. Disclosure: contains affiliate links; as an Amazon Associate, BrewTested earns from qualifying purchases.",
+      "altText": "french press guide: Choose a French press that fits. Checklist: Usable capacity; Materials and cleaning; Matching replacement parts. BrewTested.",
+      "status": "creative_created_not_posted",
+      "liveDestinationVerified": false,
+      "textBounds": {
+        "method": "Each line rasterized and trimmed with the same SVG font, then measured against safe page bounds.",
+        "allPassed": true,
+        "boxes": [
+          {
+            "text": "BrewTested",
+            "x": 70,
+            "baseline": 99,
+            "fontSize": 38,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 209,
+              "height": 29
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "FRENCH PRESS GUIDE",
+            "x": 70,
+            "baseline": 153,
+            "fontSize": 22,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 247,
+              "height": 17
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Choose a",
+            "x": 70,
+            "baseline": 268,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 363,
+              "height": 61
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "French press",
+            "x": 70,
+            "baseline": 361,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 505,
+              "height": 76
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "that fits.",
+            "x": 70,
+            "baseline": 454,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 313,
+              "height": 61
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Your mug. Your space. Your routine.",
+            "x": 70,
+            "baseline": 533,
+            "fontSize": 30,
+            "fontWeight": 400,
+            "maxWidth": 860,
+            "measured": {
+              "width": 475,
+              "height": 29
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "A clear checklist",
+            "x": 70,
+            "baseline": 652,
+            "fontSize": 41,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 322,
+              "height": 31
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "before you choose.",
+            "x": 70,
+            "baseline": 702,
+            "fontSize": 35,
+            "fontWeight": 400,
+            "maxWidth": 560,
+            "measured": {
+              "width": 293,
+              "height": 34
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Usable capacity",
+            "x": 158,
+            "baseline": 857,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 238,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Materials and cleaning",
+            "x": 158,
+            "baseline": 961,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 336,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Matching replacement parts",
+            "x": 158,
+            "baseline": 1065,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 417,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "READ THE BUYING GUIDE",
+            "x": 226,
+            "baseline": 1266,
+            "fontSize": 30,
+            "fontWeight": 700,
+            "maxWidth": 690,
+            "measured": {
+              "width": 379,
+              "height": 23
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Research-based comparisons",
+            "x": 70,
+            "baseline": 1362,
+            "fontSize": 27,
+            "fontWeight": 400,
+            "maxWidth": 860,
+            "measured": {
+              "width": 356,
+              "height": 26
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "brewtested.pulsedash-app.com",
+            "x": 70,
+            "baseline": 1422,
+            "fontSize": 35,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 519,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "burr-grinder-100",
+      "title": "Buying a Burr Grinder: Manual or Electric?",
+      "svg": "burr-grinder-100.svg",
+      "png": "burr-grinder-100.png",
+      "pngBytes": 94058,
+      "dimensions": {
+        "width": 1000,
+        "height": 1500
+      },
+      "destination": "https://brewtested.pulsedash-app.com/posts/best-burr-grinder-under-100/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=burr-grinder-100",
+      "caption": "Compare cup controls, timed grinding and hand grinding for your brew routine. Check the exact variant and total price. Research-based guide; contains affiliate links. Disclosure: contains affiliate links; as an Amazon Associate, BrewTested earns from qualifying purchases.",
+      "altText": "grinder buying guide: Manual or electric burr grinder? Checklist: Hand-grinding effort; Cup-based controls; Timed grinding. BrewTested.",
+      "status": "creative_created_not_posted",
+      "liveDestinationVerified": false,
+      "textBounds": {
+        "method": "Each line rasterized and trimmed with the same SVG font, then measured against safe page bounds.",
+        "allPassed": true,
+        "boxes": [
+          {
+            "text": "BrewTested",
+            "x": 70,
+            "baseline": 99,
+            "fontSize": 38,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 209,
+              "height": 29
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "GRINDER BUYING GUIDE",
+            "x": 70,
+            "baseline": 153,
+            "fontSize": 22,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 267,
+              "height": 17
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Manual or",
+            "x": 70,
+            "baseline": 268,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 384,
+              "height": 60
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "electric",
+            "x": 70,
+            "baseline": 361,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 283,
+              "height": 60
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "burr grinder?",
+            "x": 70,
+            "baseline": 454,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 511,
+              "height": 78
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Match the controls to your routine.",
+            "x": 70,
+            "baseline": 533,
+            "fontSize": 30,
+            "fontWeight": 400,
+            "maxWidth": 860,
+            "measured": {
+              "width": 449,
+              "height": 29
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "A clear checklist",
+            "x": 70,
+            "baseline": 652,
+            "fontSize": 41,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 322,
+              "height": 31
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "before you choose.",
+            "x": 70,
+            "baseline": 702,
+            "fontSize": 35,
+            "fontWeight": 400,
+            "maxWidth": 560,
+            "measured": {
+              "width": 293,
+              "height": 34
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Hand-grinding effort",
+            "x": 158,
+            "baseline": 857,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 298,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Cup-based controls",
+            "x": 158,
+            "baseline": 961,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 293,
+              "height": 32
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Timed grinding",
+            "x": 158,
+            "baseline": 1065,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 222,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "READ THE BUYING GUIDE",
+            "x": 226,
+            "baseline": 1266,
+            "fontSize": 30,
+            "fontWeight": 700,
+            "maxWidth": 690,
+            "measured": {
+              "width": 379,
+              "height": 23
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Research-based comparisons",
+            "x": 70,
+            "baseline": 1362,
+            "fontSize": 27,
+            "fontWeight": 400,
+            "maxWidth": 860,
+            "measured": {
+              "width": 356,
+              "height": 26
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "brewtested.pulsedash-app.com",
+            "x": 70,
+            "baseline": 1422,
+            "fontSize": 35,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 519,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "classic-bambino",
+      "title": "Gaggia Classic or Bambino Plus: Start With Milk Workflow",
+      "svg": "classic-bambino.svg",
+      "png": "classic-bambino.png",
+      "pngBytes": 97708,
+      "dimensions": {
+        "width": 1000,
+        "height": 1500
+      },
+      "destination": "https://brewtested.pulsedash-app.com/posts/gaggia-classic-pro-vs-breville-bambino-plus/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=classic-bambino",
+      "caption": "Compare manual and automatic milk preparation, model revisions and basket sizes before choosing a machine. Research-based comparison; contains affiliate links. Disclosure: contains affiliate links; as an Amazon Associate, BrewTested earns from qualifying purchases.",
+      "altText": "espresso comparison: Gaggia Classic or Bambino Plus? Checklist: Milk preparation; Exact model revision; Basket compatibility. BrewTested.",
+      "status": "creative_created_not_posted",
+      "liveDestinationVerified": false,
+      "textBounds": {
+        "method": "Each line rasterized and trimmed with the same SVG font, then measured against safe page bounds.",
+        "allPassed": true,
+        "boxes": [
+          {
+            "text": "BrewTested",
+            "x": 70,
+            "baseline": 99,
+            "fontSize": 38,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 209,
+              "height": 29
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "ESPRESSO COMPARISON",
+            "x": 70,
+            "baseline": 153,
+            "fontSize": 22,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 275,
+              "height": 17
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Gaggia Classic",
+            "x": 70,
+            "baseline": 268,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 582,
+              "height": 78
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "or Bambino",
+            "x": 70,
+            "baseline": 361,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 450,
+              "height": 60
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Plus?",
+            "x": 70,
+            "baseline": 454,
+            "fontSize": 82,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 214,
+              "height": 61
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Start with the milk workflow.",
+            "x": 70,
+            "baseline": 533,
+            "fontSize": 30,
+            "fontWeight": 400,
+            "maxWidth": 860,
+            "measured": {
+              "width": 365,
+              "height": 23
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "A clear checklist",
+            "x": 70,
+            "baseline": 652,
+            "fontSize": 41,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 322,
+              "height": 31
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "before you choose.",
+            "x": 70,
+            "baseline": 702,
+            "fontSize": 35,
+            "fontWeight": 400,
+            "maxWidth": 560,
+            "measured": {
+              "width": 293,
+              "height": 34
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Milk preparation",
+            "x": 158,
+            "baseline": 857,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 238,
+              "height": 32
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Exact model revision",
+            "x": 158,
+            "baseline": 961,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 310,
+              "height": 26
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Basket compatibility",
+            "x": 158,
+            "baseline": 1065,
+            "fontSize": 34,
+            "fontWeight": 400,
+            "maxWidth": 730,
+            "measured": {
+              "width": 298,
+              "height": 32
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "READ THE BUYING GUIDE",
+            "x": 226,
+            "baseline": 1266,
+            "fontSize": 30,
+            "fontWeight": 700,
+            "maxWidth": 690,
+            "measured": {
+              "width": 379,
+              "height": 23
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "Research-based comparisons",
+            "x": 70,
+            "baseline": 1362,
+            "fontSize": 27,
+            "fontWeight": 400,
+            "maxWidth": 860,
+            "measured": {
+              "width": 356,
+              "height": 26
+            },
+            "safeBoundsPassed": true
+          },
+          {
+            "text": "brewtested.pulsedash-app.com",
+            "x": 70,
+            "baseline": 1422,
+            "fontSize": 35,
+            "fontWeight": 700,
+            "maxWidth": 860,
+            "measured": {
+              "width": 519,
+              "height": 33
+            },
+            "safeBoundsPassed": true
+          }
+        ]
+      }
+    }
+  ],
+  "validation": {
+    "outputCount": 5,
+    "svgCount": 5,
+    "pngCount": 5,
+    "textLineCount": 69,
+    "allTextBoundsPassed": true,
+    "allDimensionsPassed": true,
+    "totalPngBytes": 486627,
+    "maxTextRightEdge": 652,
+    "minTextLeftEdge": 70
+  }
+}

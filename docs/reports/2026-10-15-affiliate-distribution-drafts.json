@@ -13,7 +13,7 @@
       "articlePath": "/posts/best-coffee-maker-under-50/",
       "destination": "https://brewtested.pulsedash-app.com/posts/best-coffee-maker-under-50/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=coffee-maker-50",
       "status": "draft_not_posted",
-      "creative": "not_created",
+      "creative": "docs/distribution/2026-10-15/coffee-maker-50.png",
       "publishGates": [
         "Authorized owner account",
         "Reviewed creative",
@@ -35,7 +35,7 @@
       "articlePath": "/posts/best-espresso-machine-under-100/",
       "destination": "https://brewtested.pulsedash-app.com/posts/best-espresso-machine-under-100/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=espresso-100",
       "status": "draft_not_posted",
-      "creative": "not_created",
+      "creative": "docs/distribution/2026-10-15/espresso-100.png",
       "publishGates": [
         "Authorized owner account",
         "Reviewed creative",
@@ -57,7 +57,7 @@
       "articlePath": "/posts/best-french-press-under-30/",
       "destination": "https://brewtested.pulsedash-app.com/posts/best-french-press-under-30/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=french-press-30",
       "status": "draft_not_posted",
-      "creative": "not_created",
+      "creative": "docs/distribution/2026-10-15/french-press-30.png",
       "publishGates": [
         "Authorized owner account",
         "Reviewed creative",
@@ -79,7 +79,7 @@
       "articlePath": "/posts/best-burr-grinder-under-100/",
       "destination": "https://brewtested.pulsedash-app.com/posts/best-burr-grinder-under-100/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=burr-grinder-100",
       "status": "draft_not_posted",
-      "creative": "not_created",
+      "creative": "docs/distribution/2026-10-15/burr-grinder-100.png",
       "publishGates": [
         "Authorized owner account",
         "Reviewed creative",
@@ -101,7 +101,7 @@
       "articlePath": "/posts/gaggia-classic-pro-vs-breville-bambino-plus/",
       "destination": "https://brewtested.pulsedash-app.com/posts/gaggia-classic-pro-vs-breville-bambino-plus/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=buying_guides_20261015&utm_content=classic-bambino",
       "status": "draft_not_posted",
-      "creative": "not_created",
+      "creative": "docs/distribution/2026-10-15/classic-bambino.png",
       "publishGates": [
         "Authorized owner account",
         "Reviewed creative",
@@ -128,5 +128,10 @@
     "destination": "https://brewtested.pulsedash-app.com/posts/best-coffee-maker-under-50/",
     "source": "Existing Hasan Chrome public DOM",
     "performance": "unknown"
+  },
+  "creativeFollowup": {
+    "at": "2026-10-15T12:42:00.549836+00:00",
+    "manifest": "docs/distribution/2026-10-15/manifest.json",
+    "status": "5 PNG/SVG prepared and visually reviewed; not posted"
   }
 }

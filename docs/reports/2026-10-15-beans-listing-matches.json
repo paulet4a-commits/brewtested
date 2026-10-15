@@ -1,0 +1,22 @@
+{
+  "reviewedOn": "2026-10-15",
+  "scope": "Follow-up to traffic-guide-research-a; exact public Amazon listing identity, not price/availability or physical testing",
+  "method": "affiliate_content read primary public pages; root independently reopened three product pages and checked product title/format/size. No account, checkout, tracked click or purchase.",
+  "matches": [
+    {"coffee":"Death Wish Dark Roast","asin":"B006CNTR6W","format":"whole bean","size":"16 oz","packCount":1,"url":"https://www.amazon.com/dp/B006CNTR6W","sourceCrawledOn":"2026-10-15","identityMatched":true},
+    {"coffee":"Lavazza Super Crema","asin":"B000SDKDM4","format":"whole bean","roast":"medium","size":"2.2 lb","packCount":1,"url":"https://www.amazon.com/dp/B000SDKDM4","sourceCrawledOn":"2026-10-15","identityMatched":true},
+    {"coffee":"Stumptown Hair Bender","asin":"B008J4WEBM","format":"whole bean","roast":"medium","size":"12 oz","packCount":1,"url":"https://www.amazon.com/dp/B008J4WEBM","sourceCrawledOn":"2026-10-13","identityMatched":true}
+  ],
+  "notAccepted": [
+    {"coffee":"illy Intenso whole bean 8.8 oz","candidateAsin":"B000S75L6M","reason":"Product page inaccessible; identity not accepted"},
+    {"coffee":"Peet's Major Dickason's","candidateAsin":"B00475UVR0","reason":"Product page inaccessible; identity not accepted"}
+  ],
+  "publishedLinkTag":"brewtested07-20",
+  "linkRel":"sponsored nofollow noopener",
+  "noPriceStockSellerDeliveryOrRoastDateAcceptance":true,
+  "publicSnapshotsMayBeCached":true,
+  "sharedProductRegistryChanged":false,
+  "analyticsIngestAccepted":false,
+  "newAnalyticsEventCollectionAdded":false,
+  "incomeOrConversionEffect":"measurement unavailable"
+}

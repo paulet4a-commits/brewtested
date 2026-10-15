@@ -10,7 +10,7 @@ updatedDate: 2026-10-15
 
 Choose espresso beans by roast, format and the amount you will use. An espresso blend is not automatically dark roasted, and a dark-roast label does not establish the caffeine in your shot.
 
-**Manufacturer-source review: October 15, 2026.** The notes below are roaster descriptions and buying criteria. Current retailer prices, stock, roast dates and exact listing matches remain unverified.
+**Source review: October 15, 2026.** The notes below are roaster descriptions and buying criteria. Three Amazon listings were matched by coffee, whole-bean format and pack size using public listing snapshots. Current prices, stock, sellers, delivery and roast dates remain unverified.
 
 ## Compare Roast and Format
 
@@ -44,6 +44,8 @@ Use the current pack weight and delivered total when comparing it with another b
 
 Read that serving definition rather than applying a brewed-coffee figure to an espresso shot. This guide provides no caffeine assay, espresso-dose conversion or evidence that this coffee has the highest caffeine content.
 
+<a href="https://www.amazon.com/dp/B006CNTR6W?tag=brewtested07-20" rel="sponsored nofollow noopener">View Death Wish Dark Roast whole beans, 16 oz, on Amazon</a>
+
 ## Two Medium-Roast Espresso Alternatives
 
 ### Lavazza Super Crema
@@ -52,11 +54,15 @@ Read that serving definition rather than applying a brewed-coffee figure to an e
 
 Consider this blend when that flavor direction matters more than a dark-roast label. Match format and pack weight: the Super Crema name also appears on other formats that do not replace beans for a grinder.
 
+<a href="https://www.amazon.com/dp/B000SDKDM4?tag=brewtested07-20" rel="sponsored nofollow noopener">View Lavazza Super Crema whole beans, 2.2 lb, on Amazon</a>
+
 ### Stumptown Hair Bender
 
 [Stumptown's product page](https://www.stumptowncoffee.com/products/hair-bender) describes an espresso blend with citrus, dark-chocolate and raisin notes. Its [roast guidance](https://wholesalesupport.stumptowncoffee.com/hc/en-us/articles/34731648902157-Do-you-have-light-medium-and-dark-roast-options) describes Hair Bender as medium roast and points dark-roast drinkers toward French Roast.
 
 Treat it as a comparison option. Dark chocolate in tasting notes is not a dark-roast classification; match the current bag and format to your preference.
+
+<a href="https://www.amazon.com/dp/B008J4WEBM?tag=brewtested07-20" rel="sponsored nofollow noopener">View Stumptown Hair Bender whole beans, 12 oz, on Amazon</a>
 
 ## Make the Choice Fit Your Setup
 
@@ -72,7 +78,7 @@ Use the recipe for your machine, basket and coffee as a starting point. Record d
 
 ## Review Scope
 
-This desk review checked selected roaster descriptions, classifications and formats. It does not provide physical tasting, extraction or caffeine measurements, or confirm retailer availability and exact ASIN matches.
+This desk review checked selected roaster descriptions, classifications and formats. The three Amazon links identify the named whole-bean pack sizes in the public snapshots reviewed; those snapshots may be cached. Exact illy and Peet's retailer matches remain unverified, so their manufacturer links are provided. This review does not provide physical tasting, extraction or caffeine measurements, or confirm retailer availability or the current delivered total. Check the selected variant before buying.
 
 ## Related Guides
 
