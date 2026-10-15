@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-15",
+  "scope": {
+    "articles": [
+      "src/content/posts/best-espresso-beans-dark-roast.md",
+      "src/content/posts/best-pour-over-kettle.md"
+    ],
+    "method": "Selected primary-manufacturer/roaster specifications and version-specific manuals; editorial desk review.",
+    "pubDate": "2026-05-18 preserved",
+    "updatedDate": "2026-10-15 for actual desk review",
+    "other_source_or_shared_registry_edits": "none",
+    "account_activity_external_messages_spend": "none",
+    "private_TamKontrol_GSC_metrics": "not accessed or included"
+  },
+  "sources": [
+    {
+      "url": "https://www.lavazzausa.com/en/whole-bean-coffee/super-crema",
+      "observed_on": "2026-10-15",
+      "access": "opened official product page",
+      "verified": "Medium roast; Arabica/Robusta; whole-bean format.",
+      "open_limits": "No pack-to-ASIN, roast-date, delivery or inventory verification."
+    },
+    {
+      "url": "https://www.illy.com/en-us/coffee/whole-bean-coffee/whole-bean-coffee-intenso-dark-roast/8839ST.html",
+      "observed_on": "2026-10-15",
+      "access": "official indexed extract; direct open returned 403",
+      "verified": "8839ST whole bean; dark roast; 100% Arabica; 8.8 oz.",
+      "open_limits": "Indexed extract about 1.1 years old; no current stock or checkout claim."
+    },
+    {
+      "url": "https://www.peets.com/products/major-dickasons",
+      "observed_on": "2026-10-15",
+      "access": "opened official product page",
+      "verified": "Dark roast, whole-bean/espresso-grind selections, earth/spice descriptions.",
+      "open_limits": "No delivered-price, current pack roast date, retailer stock or ASIN match."
+    },
+    {
+      "url": "https://www.deathwishcoffee.com/products/death-wish-coffee",
+      "observed_on": "2026-10-15",
+      "access": "opened official product page",
+      "verified": "Dark Roast Arabica/Robusta; whole-bean/ground options; caffeine data specifies serving/preparation.",
+      "open_limits": "No espresso caffeine conversion, assay, comparison or high-caffeine certification asserted."
+    },
+    {
+      "url": "https://www.stumptowncoffee.com/products/hair-bender",
+      "observed_on": "2026-10-15",
+      "access": "opened official product page",
+      "verified": "Espresso blend; citrus/chocolate/raisin roaster descriptors.",
+      "open_limits": "No independent sensory comparison or guaranteed current roast classification across variants."
+    },
+    {
+      "url": "https://wholesalesupport.stumptowncoffee.com/hc/en-us/articles/34731648902157-Do-you-have-light-medium-and-dark-roast-options",
+      "observed_on": "2026-10-15",
+      "access": "official indexed support extract",
+      "verified": "Support guidance calls Hair Bender medium and directs dark-roast drinkers to French Roast.",
+      "open_limits": "Another official collection page describes medium/dark; article attributes the specific support description."
+    },
+    {
+      "url": "https://www.stumptowncoffee.com/collections/signature-blends",
+      "observed_on": "2026-10-15",
+      "access": "official indexed collection extract; used only to triage conflicting classifications",
+      "verified": "Collection calls Hair Bender medium/dark.",
+      "open_limits": "Not used to claim an unambiguous dark-roast category."
+    },
+    {
+      "url": "https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle",
+      "observed_on": "2026-10-15",
+      "access": "opened official product page",
+      "verified": "Current Pro/Pro Studio page: 0.9 L and 104-212 F.",
+      "open_limits": "Older EKG retailer ASIN/generation not matched; no Pro specification transferred to an older listing."
+    },
+    {
+      "url": "https://help.fellowproducts.com/hc/en-us/articles/115001707611-Stagg-EKG-Electric-Kettle-Safety-Troubleshooting-and-Instructions",
+      "observed_on": "2026-10-15",
+      "access": "opened official instructions",
+      "verified": "Original EKG optional hold up to 60 minutes.",
+      "open_limits": "Generation-specific instructions; not a measured holding-accuracy result."
+    },
+    {
+      "url": "https://bonavita.co/products/1-0l-variable-temperature-kettle",
+      "observed_on": "2026-10-15",
+      "access": "opened official product page",
+      "verified": "Variable-temperature 1 L kettle; hold and adjustable setpoint controls.",
+      "open_limits": "No live delivered price or available complete-kit/retailer ASIN claim."
+    },
+    {
+      "url": "https://bonavita.co/s/files/1/0568/6132/7532/files/Bonavita_Electric_Gooseneck_Kettle_Manual_v-1662901522.pdf",
+      "observed_on": "2026-10-15",
+      "access": "official indexed manual extract",
+      "verified": "BV382510V; manual setpoint adjustment and optional one-hour hold.",
+      "open_limits": "Version-specific manual; model at retailer remains unverified."
+    },
+    {
+      "url": "https://bonavita.co/s/files/1/0568/6132/7532/files/1.0L_Variable_Temperature_Kettle_-_Sell_Sheet_v-1685706446.pdf",
+      "observed_on": "2026-10-15",
+      "access": "official indexed product sheet",
+      "verified": "BV382510V; 1 L; 140-212 F in one-degree increments.",
+      "open_limits": "Only selected specifications used; no certification claim or physical measurement inferred."
+    },
+    {
+      "url": "https://www.oxo.com/adjustable-temperature-pour-over-kettle.html",
+      "observed_on": "2026-10-15",
+      "access": "opened official product page",
+      "verified": "SKU 8717100 identified.",
+      "open_limits": "Capacity not established by the observed page; article leaves fill limits for exact-model confirmation."
+    },
+    {
+      "url": "https://www.oxo.com/media/wysiwyg/BL_Brew_8717100_Adjustable_Temp_Pour_Over_Kettle_Booklet_M02.pdf",
+      "observed_on": "2026-10-15",
+      "access": "opened official manual; printed pages 7-9",
+      "verified": "104-212 F, 30-minute hold, count-up timer with ten-minute maximum; 200 F coffee suggestion.",
+      "open_limits": "Settings and maker guidance, not temperature/flow measurements or universal brewing rules."
+    },
+    {
+      "url": "https://www.hario-usa.com/products/v60-buono-drip-kettle",
+      "observed_on": "2026-10-15",
+      "access": "opened official product page",
+      "verified": "VKB-120HSV: 1.2 L naming; 800 mL practical capacity; stainless-steel body.",
+      "open_limits": "Exact regional stove compatibility and retailer mapping not verified; no decades-long lifespan claim."
+    },
+    {
+      "url": "https://cosori.com/products/electric-gooseneck-kettle-co108-nk",
+      "observed_on": "2026-10-15",
+      "access": "opened official product page",
+      "verified": "CO108-NK; 0.8 L; 170/180/195/205/212 F presets; hold up to 60 minutes.",
+      "open_limits": "No lowest-price, build-quality ranking, temperature accuracy or boiling-speed assertion."
+    }
+  ],
+  "editorial_changes": [
+    "Distinguished dark roasts from medium/medium-dark espresso alternatives using attributed manufacturer labels.",
+    "Attributed flavor descriptions to roasters; removed guaranteed crema/taste, microfoam, origin-count, shelf-life, caffeine superlative and price-per-pound claims.",
+    "Added format, pack weight, grind, delivered-cost and machine-manual decisions.",
+    "Separated Fellow generations; corrected Bonavita/COSORI hold, COSORI presets, OXO timer/range, Hario practical capacity.",
+    "Removed cheapest/best-value and physical accuracy, speed, taste and lifespan assurances.",
+    "Kept source and scope language short; no public correction history."
+  ],
+  "affiliate_link_triage": {
+    "bean_article": "Removed all five raw retailer links rather than carrying known duplicate cross-product assignments into the source-reviewed guide; manufacturer sources remain. No replacement ASIN guessed.",
+    "duplicate_pairs_before": [
+      "Lavazza and illy both used B077XNBJKH.",
+      "Death Wish and Hair Bender both used B01LCXR2VE."
+    ],
+    "kettle_article": "Retained four original retailer URLs for Bonavita, OXO, Hario and COSORI, labeled View retailer product details with exact-model/price/inventory limits. Removed original Fellow raw retailer URL because current Pro/Studio specifications do not establish the old listing generation.",
+    "remaining_action": "Verify exact product/model/format/region and retailer ASIN before adding or restoring coffee links or claiming a kettle listing matches the reviewed version. Shared records remain untouched."
+  },
+  "checks": {
+    "yaml": "2/2 valid",
+    "pubDate_preserved": true,
+    "updatedDate_real_review": true,
+    "related_article_missing_targets": 0,
+    "bean_retailer_link_count": 0,
+    "kettle_retailer_link_count": 4,
+    "content_gate": {
+      "command": "node scripts/affiliate-content-gate.mjs",
+      "exit_code": 0,
+      "source_files": 208
+    },
+    "affiliate_tests": {
+      "command": "node --test scripts/affiliate-*.test.mjs",
+      "exit_code": 0,
+      "passed": 32,
+      "failed": 0
+    },
+    "targeted_diff_check": {
+      "exit_code": 0
+    },
+    "heavy_local_build_browser": "not run; another task heavy-work lock",
+    "commit_push_publish": "not performed"
+  },
+  "limits": [
+    "Desk-review metadata does not refresh shared product verification or establish purchase readiness.",
+    "No physical tasting, extraction, caffeine, temperature accuracy, pouring, speed or durability measurements.",
+    "No checkout, current inventory, delivered price or ASIN match confirmed.",
+    "Manufacturer pages may change or conflict; the source and model version are stated where material."
+  ]
+}

@@ -1,182 +1,82 @@
 ---
-title: Best Dark Roast Espresso Beans - Premium Picks for Rich Shots
-description: Discover the best dark roast espresso beans for bold, rich shots at home. Expert reviews of premium Italian and specialty roasts under $20 per pound.
+title: "Dark Roast Espresso Beans: Roast Labels, Blends and Buying Choices"
+description: "Compare illy Intenso, Peet's Major Dickason's and Death Wish dark roasts, with medium-roast alternatives and checks for grind, pack size and price."
 category: espresso
 draft: false
 affiliateDisclosure: true
 pubDate: 2026-05-18
+updatedDate: 2026-10-15
 ---
 
-Dark roast espresso beans deliver the bold, intense flavors and crema that define authentic espresso. We've researched and compared premium dark roast options to help you find the perfect beans for your espresso machine or Moka pot, whether you prefer classic Italian roasts or modern specialty dark roasts.
+Choose espresso beans by roast, format and the amount you will use. An espresso blend is not automatically dark roasted, and a dark-roast label does not establish the caffeine in your shot.
 
-## Quick Comparison Table
+**Manufacturer-source review: October 15, 2026.** The notes below are roaster descriptions and buying criteria. Current retailer prices, stock, roast dates and exact listing matches remain unverified.
 
-| Bean | Origin | Price | Best For |
-|------|--------|-------|----------|
-| Lavazza Super Crema | Italy (blend) | $10-$12/lb | Rich crema, everyday espresso |
-| Illy Intenso | Italy (blend) | $12-$14/lb | Bold flavor, smooth texture |
-| Peet's Major Dickason's | USA (dark roast) | $11-$13/lb | Deep chocolate notes |
-| Death Wish Coffee | USA (dark roast) | $13-$15/lb | Maximum boldness, high caffeine |
-| Stumptown Hair Bender | USA (blend) | $14-$16/lb | Dark roast with chocolate-caramel |
+## Compare Roast and Format
 
-## Detailed Product Reviews
+| Coffee | Roaster identification | Main buying distinction |
+|---|---|---|
+| illy Intenso 8839ST | Dark roast; 100% Arabica; 8.8-oz whole-bean pack | Smaller pack with an identified dark-roast profile |
+| Peet's Major Dickason's | Dark roast; whole-bean and grind choices | Compare whole beans with the espresso-ground option |
+| Death Wish Dark Roast | Arabica and Robusta; whole-bean or ground formats | Read serving-specific caffeine information |
+| Lavazza Super Crema whole bean | Medium roast; Arabica and Robusta | Espresso-oriented alternative when dark roast is not essential |
+| Stumptown Hair Bender | Espresso blend; support guidance describes medium roast | Compare the roaster's citrus, chocolate and raisin profile |
 
-### Lavazza Super Crema Espresso Beans
+These are different choices, not a measured taste ranking. Manufacturer sources are linked below.
 
-Lavazza is Italy's iconic espresso brand, and their Super Crema blend is the benchmark for accessible premium dark roast espresso beans. At $10-$12 per pound, it's an incredible value for consistent, café-quality shots.
+## Three Dark-Roast Options
 
-**Pros:**
-- Creates thick, golden crema (the hallmark of great espresso)
-- Medium-dark roast balances boldness with slight sweetness
-- Consistent quality across batches (major Italian brand reliability)
-- Works excellently in both traditional espresso machines and Moka pots
-- Widely available at most grocery stores
-- 9 Arabica + Robusta blend produces rich body
-- Perfect for milk-based drinks (lattes, cappuccinos)
+### illy Intenso: A Smaller Whole-Bean Pack
 
-**Cons:**
-- 100% Italian roast, some prefer origin-specific single origins
-- Crema doesn't last as long as some specialty roasts
-- Slightly oily surface can clog grinder burrs if not cleaned weekly
-- Not ideal for those preferring lighter roasts
+The [illy product page](https://www.illy.com/en-us/coffee/whole-bean-coffee/whole-bean-coffee-intenso-dark-roast/8839ST.html) identifies **8839ST** as dark roast, **100% Arabica**, in an **8.8-oz** pack. illy describes cocoa and dried-fruit notes; these are the roaster's descriptors, not our tasting results.
 
-**Verdict:** The gold standard for everyday espresso. If you want reliable café-quality shots without experimentation, this is your bean.
+Consider this format if you want a smaller pack and have a suitable grinder. Match whole beans rather than ground coffee or capsules. An 8.8-oz tin is not a pound, so compare equal weights before judging value.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B077XNBJKH?tag=brewtested07-20)
+### Peet's Major Dickason's: Choose Your Grind
 
----
+[Peet's](https://www.peets.com/products/major-dickasons) labels Major Dickason's **dark roast**, describes earth and spice notes, and offers whole-bean and espresso-grind selections. Whole beans let you adjust your own grind; a pre-ground option needs to suit your machine and basket.
 
-### Illy Intenso Dark Roast
+Use the current pack weight and delivered total when comparing it with another bag or tin. This guide establishes no price or cup-quality advantage over the other coffees.
 
-Illy Intenso ($12-$14/lb) is the premium Italian option from another legendary espresso house. It's slightly darker and bolder than their standard blend, making it perfect for shot purists and milk drink enthusiasts.
+### Death Wish: Check the Serving Definition
 
-**Pros:**
-- Darker roast than standard Illy (more intense)
-- 100% Arabica beans sourced from 10 origins globally
-- Smooth, velvety body with low acidity
-- Pressurized packaging preserves freshness (one-way valve)
-- Creates excellent microfoam for latte art
-- Bold chocolate and cocoa notes
-- Works brilliantly in automatic espresso machines
+[Death Wish's Dark Roast page](https://www.deathwishcoffee.com/products/death-wish-coffee) identifies an **Arabica and Robusta** blend in ground and whole-bean formats. Its flavor description includes chocolate and cherry; the brand also publishes caffeine information tied to a specified serving and preparation.
 
-**Cons:**
-- Premium price point ($12-$14) versus Lavazza
-- Darker roast means slightly less complexity
-- Heavy body can overwhelm some palates
-- Limited availability compared to Lavazza
+Read that serving definition rather than applying a brewed-coffee figure to an espresso shot. This guide provides no caffeine assay, espresso-dose conversion or evidence that this coffee has the highest caffeine content.
 
-**Verdict:** Best for those wanting bold espresso with premium Italian pedigree. Worth the upgrade from budget brands.
+## Two Medium-Roast Espresso Alternatives
 
-[Check Price on Amazon](https://www.amazon.com/dp/B077XNBJKH?tag=brewtested07-20)
+### Lavazza Super Crema
 
----
+[Lavazza's whole-bean page](https://www.lavazzausa.com/en/whole-bean-coffee/super-crema) identifies **medium roast**, an **Arabica and Robusta** blend and an espresso preparation option. The roaster describes roasted-hazelnut and brown-sugar notes.
 
-### Peet's Major Dickason's Dark Roast
+Consider this blend when that flavor direction matters more than a dark-roast label. Match format and pack weight: the Super Crema name also appears on other formats that do not replace beans for a grinder.
 
-Peet's is an American dark roast legend, and Major Dickason's ($11-$13/lb) is their signature blend. While traditionally a drip coffee, it pulls exceptional espresso with deep chocolate characteristics.
+### Stumptown Hair Bender
 
-**Pros:**
-- Deep, complex dark roast flavor
-- Strong chocolate, cocoa, and molasses notes
-- Excellent value at $11-$13 per pound
-- Works great in espresso machines and Moka pots
-- Rich body holds up well in milk drinks
-- Easier to find in US grocery stores
-- Lower price than Italian imports
+[Stumptown's product page](https://www.stumptowncoffee.com/products/hair-bender) describes an espresso blend with citrus, dark-chocolate and raisin notes. Its [roast guidance](https://wholesalesupport.stumptowncoffee.com/hc/en-us/articles/34731648902157-Do-you-have-light-medium-and-dark-roast-options) describes Hair Bender as medium roast and points dark-roast drinkers toward French Roast.
 
-**Cons:**
-- Not specifically formulated for espresso (more drip-focused)
-- Slightly more bitter than true espresso blends
-- Less crema production than Italian blends
-- Roast slightly inconsistent batch-to-batch
+Treat it as a comparison option. Dark chocolate in tasting notes is not a dark-roast classification; match the current bag and format to your preference.
 
-**Verdict:** Excellent budget-friendly dark roast for espresso lovers. Not premium Italian pedigree but delivers solid results.
+## Make the Choice Fit Your Setup
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00475UVR0?tag=brewtested07-20)
+1. **Match the format.** Whole beans, espresso-ground coffee, moka-ground coffee and capsules require different equipment.
+2. **Read the actual roast label.** Then consider the roaster's flavor description; neither promises how your own shot will taste.
+3. **Choose a useful pack size.** Consider your consumption, date information and storage space before buying bulk.
+4. **Compare equal weights.** For a US price-per-pound comparison, divide the delivered price by ounces and multiply by 16. Distinguish a one-time purchase from a subscription offer.
+5. **Check your machine manual.** Do not assume a brand or roast name guarantees compatibility with a built-in grinder.
 
----
+## Start With a Repeatable Brew
 
-### Death Wish Coffee Dark Roast
+Use the recipe for your machine, basket and coffee as a starting point. Record dose, drink yield and grind setting, then change one variable at a time. This guide does not establish a universal freshness deadline, crema target or a roast that guarantees a good shot without adjustment.
 
-Death Wish Coffee ($13-$15/lb) is for the bold and the sleepless. This American dark roast is intentionally extreme—heavily roasted with guaranteed high caffeine content for maximum intensity.
+## Review Scope
 
-**Pros:**
-- Extremely bold, full-bodied flavor
-- Highest caffeine content in dark roasts (certified high-caffeine blend)
-- Creates thick, dark shots with serious punch
-- Works remarkably well in Moka pots
-- Strong chocolate and burnt caramel notes
-- Appeals to dark roast extremists
-- Fun branding and memorable shots
+This desk review checked selected roaster descriptions, classifications and formats. It does not provide physical tasting, extraction or caffeine measurements, or confirm retailer availability and exact ASIN matches.
 
-**Cons:**
-- Very bitter for those preferring balanced espresso
-- Over-roasted for some traditional espresso purists
-- Crema is dark but less voluminous
-- Oily surface requires frequent grinder cleaning
-- High price ($13-$15) for its intensity level
+## Related Guides
 
-**Verdict:** For espresso lovers who want maximum boldness and don't mind bitter notes. Not for balanced shot enthusiasts.
-
-[Check Price on Amazon](https://www.amazon.com/dp/B01LCXR2VE?tag=brewtested07-20)
-
----
-
-### Stumptown Hair Bender Dark Roast Blend
-
-Stumptown Hair Bender ($14-$16/lb) is a modern specialty roaster's take on dark roast espresso. It balances traditional dark roast boldness with contemporary flavor complexity.
-
-**Pros:**
-- Chocolate and caramel notes with slight fruit undertones
-- Less oily than Death Wish (cleaner grinder operation)
-- Modern specialty roasting expertise
-- Consistent quality and freshness (smaller roaster advantage)
-- Works excellently in espresso machines
-- Creates balanced shots without harsh bitterness
-- Single-origin transparency despite being a blend
-
-**Cons:**
-- Premium price at $14-$16 per pound
-- Availability limited to specialty coffee shops
-- Less crema than traditional Italian blends
-- Modern roast style not for purists seeking classic Italian espresso
-
-**Verdict:** Best for modern coffee enthusiasts wanting dark roast complexity with specialty roasting standards.
-
-[Check Price on Amazon](https://www.amazon.com/dp/B01LCXR2VE?tag=brewtested07-20)
-
----
-
-## Editorial Comparison Method
-
-This is an editorial buying guide. The comparison criteria are coffee format, roast preference, brewing-system compatibility, pack size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
-
----
-
-## Frequently Asked Questions
-
-**Q: What's the best dark roast espresso bean for beginners?**
-A: Start with Lavazza Super Crema ($10-$12/lb). It's widely available, consistently excellent, and forgiving of brewing variables. You'll get café-quality shots immediately without complex adjustments.
-
-**Q: Should I use dark roast or medium roast espresso beans?**
-A: Dark roasts create thicker crema and bolder flavor, ideal for milk-based drinks. Medium roasts offer more complexity and acidity, better for straight shots. For everyday espresso, dark roast is more forgiving and more commonly preferred.
-
-**Q: How long do dark roast espresso beans stay fresh?**
-A: Use beans within 2-3 weeks of the roast date for peak flavor. Store in an airtight container away from light and heat. Beans continue to degrade after 3-4 weeks but remain usable for about 6 weeks.
-
-**Q: Can I use espresso beans in a drip coffee maker?**
-A: Yes, espresso beans work in drip makers (just grind coarser), but they're optimized for espresso's higher pressure and extraction time. For drip coffee, standard medium roasts often taste better. Espresso beans in drip coffee can taste overly bitter.
-
----
-
-## Final Recommendation
-
-**Best Overall:** Lavazza Super Crema is the choice for most espresso enthusiasts. It delivers authentic Italian espresso flavor at an honest price, creating shots with thick crema and smooth body that work perfectly for both straight shots and milk drinks.
-
-**Best Premium Option:** Illy Intenso offers upgrade-worthy quality with its 100% Arabica blend and velvety texture. If you want premium Italian pedigree, this justifies the extra cost.
-
-**Best for Milk Drinks:** Peet's Major Dickason's creates bold shots that shine in cappuccinos and lattes without the premium price tag of Italian imports.
-
-**Best for Bold Lovers:** Death Wish Coffee is extreme by design—perfect if you want maximum intensity over balanced complexity.
-
-For more espresso content, explore our guides to [best espresso machines under $200](/posts/best-espresso-machine-under-200/), [best espresso beans under $20](/posts/best-espresso-beans-under-20/), and [best coffee beans for general home brewing](/posts/best-coffee-beans-dark-roast/). If you're building your home espresso setup, check out our [best coffee maker with grinder guide](/posts/best-coffee-maker-with-grinder/) for integrated solutions.
+- [Espresso Machines Under $200 Compared](/posts/best-espresso-machine-under-200/)
+- [Espresso Beans for a Budget](/posts/best-espresso-beans-under-20/)
+- [Dark-Roast Coffee Beans](/posts/best-coffee-beans-dark-roast/)
+- [Coffee Grinders for Beginners](/posts/best-coffee-grinder-for-beginners/)

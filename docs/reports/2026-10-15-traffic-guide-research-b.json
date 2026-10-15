@@ -1,0 +1,104 @@
+{
+  "schema": "traffic-guide-editorial-review/v1",
+  "reviewedOn": "2026-10-15",
+  "scope": "Two owned English Markdown guides; primary manufacturer public sources only for factual statements. Safe site/AGENTS.md read. Known secret CLAUDE/env/auth/Gitconfig boundaries not opened. No private GSC data entered public content.",
+  "files": [
+    "src/content/posts/best-coffee-maker-for-rv.md",
+    "src/content/posts/best-coffee-maker-drip-under-30.md"
+  ],
+  "sources": [
+    {
+      "reviewedOn": "2026-10-15",
+      "url": "https://aeropress.com/products/aeropress-go-travel-coffee-press",
+      "verified": "AeroPress Go8ozall-water-through serving; mugdoublestravelcontainer; manufacturersturdyvessel/invertedmethod guidance. No pressureespresso or measuredtaste/longevity inferred."
+    },
+    {
+      "reviewedOn": "2026-10-15",
+      "url": "https://www.wacaco.com/products/nanopresso",
+      "verified": "Nanopresso80mltank,standard8gsinglebasket,noheating,groundcoffee/hotwater/handpowered; maximumadvertised18bar; doublebasket/tank/capsuleadapterseparate."
+    },
+    {
+      "reviewedOn": "2026-10-15",
+      "url": "https://gsioutdoors.com/products/30-fl-oz-javapress",
+      "verified": "30fl oz JavaPress / copolyester carafe / insulating sleeve; source explicitly not stovetop/microwave; coarse grounds, stable surface and gentle plunging instructions. No drop/lifetime testing."
+    },
+    {
+      "reviewedOn": "2026-10-15",
+      "url": "https://www.bialetti.com/it_en/moka-express.html",
+      "verified": "AluminumMokaExpress;electric/gashob compatibility; inductiononlywithspecifiedBialettiplate. Model-specificinstructionsdirected; no allburnercompatibility orespressoequivalence."
+    },
+    {
+      "reviewedOn": "2026-10-15",
+      "url": "https://primulaproducts.com/products/burke-cold-brew-maker",
+      "verified": "Burke1.6qt/removablemeshfilter,modelSKUcolorvariants; productinstructionlink available. No paperfilterclaim, universalstorage-lifeoroutputquantity inferred."
+    },
+    {
+      "reviewedOn": "2026-10-15",
+      "url": "https://blackanddeckerappliances.com/products/cafecraft-12-cup-one-switch-drip-coffeemaker",
+      "verified": "CM0021-0SD12cup/oneswitch/keepwarm/temporarypourpause; source120V900W not used as RV compatibility calculation.",
+      "priceObservation": {
+        "displayedUSD": 29.99,
+        "observedOn": "2026-10-15",
+        "checkoutTaxesShippingAndFinalTotalVerified": false,
+        "stockPromise": false
+      }
+    },
+    {
+      "reviewedOn": "2026-10-15",
+      "url": "https://www.blackanddecker.com/products/cm0700b",
+      "verified": "CM0700B5cupglasscarafe; manufacturer'scupapproximately5oz; lightedonoffswitch/removablebasket/basketpaperfilters/temporarypourpause. Under30price/autoshutoffnotestablished."
+    },
+    {
+      "reviewedOn": "2026-10-15",
+      "url": "https://blackanddeckerappliances.com/products/12-cup-switch-coffeemaker",
+      "verified": "CM0915BKD12cup/glasscarafe/keephotplate/washablebasket;source120V975W. Not5cup/thermal. Digitalflagnotusedtoinferprogramming.",
+      "priceObservation": {
+        "displayedUSD": 33.99,
+        "observedOn": "2026-10-15",
+        "sourceStockLabel": "Sold Out",
+        "checkoutTaxesShippingAndFinalTotalVerified": false,
+        "under30Eligible": false
+      }
+    },
+    {
+      "reviewedOn": "2026-10-15",
+      "url": "https://www.proctorsilex.com/coffee-makers-12-cup-coffee-maker-white-43601",
+      "verified": "Exact43601manufacturerpageNoLongerAvailable,12cup/pauseserve/lightedswitch. Notallbrand/allretaileravailability claim."
+    }
+  ],
+  "changes": [
+    "Preserved pubDate2026-05-18; added actualeditorial updatedDate2026-10-15. Public body explains choices/workflows directly; no editorial change-history section.",
+    "RV: removed fabricatedownerquotes and genericownerconsensus,physicaltaste/durability/drop/lifespan/fastestclaims.",
+    "RV: distinguishedmanualbrewingfromenergyforwaterheating/refrigeration; no blanketzeroenergy/fuel claim.",
+    "RV: correctedGSI28ozstainless to30fl ozcopolyester; removedanyheat assertion and made notstovetop/microwave clear.",
+    "RV: Nanopressostandardkitandseparateaccessories,80ml/maxadvertised18bar/noheating corrected; no fixedpumpingstrokes or onlyportableespresso assertion.",
+    "RV: Moka model/hob/inductionconditions; not3largemugs,notindestructible orallheatcompatible.",
+    "RV: Burke1.6qt/removablemesh,advancepreparation/storage; no2weekfoodstorage orpaperfilterassumption.",
+    "Drip: rebuilt under30 asconditionalcompletecheckoutbudget. Oneexactmanufacturerprice29.99dated; nofakecheapASINorcurrentinventorypromise.",
+    "Drip: CM0700B5cup vsCM0915BKD12cup distinguished; glass/keephot vs thermal clarified; genericMrCoffee/HamiltonBeach modelrecommendations dropped pendingexactidentification.",
+    "Drip: no inventedautoshutoff/brewstrength/10minute/lifespan/relativequality claims; explicitpausevsautoshutoff distinction.",
+    "Removed all historicalrawAmazonASINlinks; linked manufacturerfacts instead. No affiliateaccount/retailermappingverified or sharedproductsfilechange."
+  ],
+  "openFacts": [
+    "ASIN identity, sellerinventory, finalcheckoutcosts and ongoingprices notverified.",
+    "RV-specificelectricalcompatibility remainsunknown; article points to exactnameplate/appliancemanual and owner's RVmanufacturerinstructions, not inverter/breaker/battery sizing.",
+    "Automaticshutoffbehavior/universaldescalingschedule/finishedcoldbrewstoragelife notestablished.",
+    "Physicalperformance,taste,noise,brewtime,temperature,dropresistance,lifespan/ownerreportcounts: nomeasurement.",
+    "BlackDeckerCM0915pagehasDigitalYesflagdespiteoneswitchdescription; article doesnotinferprogrammability fromthatflag.",
+    "Proctor43601availability appliesonlytoexactmanufacturerpage; legacyoldASINmodelidentitynotverified.",
+    "Heroimageunchanged; exactpicturedmodelidentitiesnotreviewed.",
+    "Heavybuild/render/deploy/liveacceptance left toparent/hostedCI."
+  ],
+  "excludedOrUnsuccessfulSources": [
+    {
+      "url": "https://www.winnebago.com/owners/owner-resources/operator-manuals",
+      "status": "webfetchinternalerror",
+      "effect": "Not cited as evidence of a particular RV electrical limit; user directed to their own manufacturer's manual without fabricated compatibility."
+    }
+  ],
+  "validation": {
+    "contentGate": "node scripts/affiliate-content-gate.mjs passed for208sourcefiles.",
+    "shortChecks": "Both articles date/frontmatter, mojibake and stale quote/raw-ASIN absence, all related-post link targets, and report JSON parse passed.",
+    "heavyBuildBrowser": "not run"
+  }
+}
