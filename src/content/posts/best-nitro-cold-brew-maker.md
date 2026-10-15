@@ -220,17 +220,9 @@ You can use homemade cold brew or purchase pre-made from specialty roasters. If 
 
 ---
 
-## How We Researched Nitro Cold Brew Makers
+## Editorial Comparison Method
 
-1. **Nitrogen Infusion Effectiveness:** We measured crema production (the tan head on nitro cold brew) using visual comparison and bubble size analysis. Premium systems produced finer bubbles and more stable crema.
-
-2. **Cascade Quality:** We poured identically and rated cascade uniformity on a 1–10 scale. Pressure consistency mattered more than system cost.
-
-3. **Cartridge Efficiency:** We tracked cartridge usage per 32 oz of cold brew. Single-use systems used 0.5–1 cartridge per serving. Refillable systems used less.
-
-4. **Flavor Impact:** We compared nitro-infused cold brew to non-infused controls using blind tasting. Nitrogen added perceivable sweetness and mouthfeel but didn't change core flavor profile.
-
-5. **Durability:** We subjected each system to 50 nitrogen infusions over 3 months, tracking valve integrity, pressure consistency, and build quality degradation.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

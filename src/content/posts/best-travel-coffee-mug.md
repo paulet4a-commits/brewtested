@@ -133,14 +133,9 @@ The Thermos Stainless King is the best budget-to-performance ratio on this list.
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We researched and compared temperature retention by filling each mug with coffee at 195°F and measuring temperature at 30, 60, 120, and 300 minutes. We also tested:
-
-- **Leak-proof rating** — filled, sealed, and inverted in a bag for 30 minutes
-- **Ease of cleaning** — dishwasher vs. hand wash, interior accessibility
-- **Practical use** — one-handed operation, cup holder fit, driving usability
-- **Durability** — drop tests, hinge and lid wear over 6 months of use
+This is an editorial buying guide. The comparison criteria are capacity, lid or handle design, portability, cleaning requirements, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

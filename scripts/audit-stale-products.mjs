@@ -43,4 +43,6 @@ if (stale.length > 0) {
   process.exit(1);
 }
 
-console.log(`✓ All ${Object.keys(products).length} active products within freshness threshold.`);
+const activeCount = Object.values(products).filter((product) => product.status === 'active').length;
+const unverifiedCount = Object.values(products).filter((product) => product.status === 'unverified').length;
+console.log(`✓ ${activeCount} active products within freshness threshold; ${unverifiedCount} unverified products still require review.`);

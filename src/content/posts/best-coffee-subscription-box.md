@@ -161,18 +161,9 @@ We researched and compared five coffee subscription services to find the best op
 
 ---
 
-## How We Researched These Services
+## Editorial Comparison Method
 
-Our evaluation spanned three months of actual subscriptions, measuring:
-
-1. **Roast Quality** – Tasted each coffee brewed with consistent methods (pour-over, French press) and equipment
-2. **Freshness** – Measured roast date freshness on arrival and tracked flavor degradation over 4 weeks
-3. **Consistency** – Compared multiple shipments from the same service for reliability
-4. **Curation Quality** – Evaluated whether chosen/recommended roasts matched preferences and advertised profiles
-5. **Customer Experience** – Assessed website usability, shipping speed, pause/skip ease, and support responsiveness
-6. **Value** – Calculated cost-per-ounce and compared to retail specialty coffee prices
-
-All coffees were brewed with filtered water at 195-205°F using the same grinder and brewing equipment for fair comparison.
+This is an editorial buying guide. The comparison criteria are selection, delivery options, subscription terms, cancellation controls, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

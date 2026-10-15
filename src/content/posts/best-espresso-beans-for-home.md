@@ -143,17 +143,9 @@ Pulling a perfect espresso shot starts long before you touch the portafilter. Th
 
 ---
 
-## How We Researched These Beans
+## Editorial Comparison Method
 
-We researched and compared each roast using three different home espresso machines (including a budget semi-automatic under $300 and a higher-end pump machine) to ensure real-world applicability. Our evaluation focused on:
-
-- **Crema quality:** Thickness, color, and stability
-- **Flavor consistency:** Shot-to-shot repeatability
-- **Ease of dialing in:** How forgiving the bean is with grind adjustments
-- **Performance across machines:** Works on multiple setups
-- **Value:** Quality relative to price per pound
-
-Each roast was tested at three grind levels and pulled at standard espresso parameters (9 bars pressure, 1:2 ratio, 25-30 second pull).
+This is an editorial buying guide. The comparison criteria are coffee format, roast preference, brewing-system compatibility, pack size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

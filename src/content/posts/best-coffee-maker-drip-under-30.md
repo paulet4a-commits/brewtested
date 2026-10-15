@@ -144,18 +144,11 @@ This Black & Decker 12-cup brews faster than almost any competitor in this price
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We evaluated each coffee maker based on:
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-- **Brew Quality:** Tasted the coffee from each machine and assessed flavor consistency
-- **Brew Speed:** Measured time from water addition to full pot completion
-- **Build Quality:** Examined durability, materials, and construction
-- **Ease of Use:** Tested setup, brewing, and cleaning processes
-- **Temperature Control:** Measured final coffee temperature and heat retention
-- **Value for Money:** Calculated cost-per-cup-capacity ratio
-
-All testing was conducted over 4 weeks with each machine making 20+ pots of coffee. We used the same coffee beans and filtered water across all tests to ensure fair comparison.
+---
 
 ## Frequently Asked Questions
 

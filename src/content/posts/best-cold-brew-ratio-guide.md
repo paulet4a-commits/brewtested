@@ -136,17 +136,11 @@ For minimalists: any 32-64 oz glass container plus a fine-mesh strainer works pe
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We brewed 20 batches using identical beans across all five ratios. Testing methodology:
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-1. **Extraction Measurement** - Measured total dissolved solids (TDS) at 12, 16, 20, and 24-hour marks
-2. **Taste Panel** - 5 blind taste tests per ratio with scoring rubric (brightness, body, bitterness, balance)
-3. **Dilution Testing** - Mixed each concentrate with water, milk, and ice to assess final flavor
-4. **Caffeine Content** - Lab tested samples from each ratio for actual caffeine concentration
-5. **Shelf Life** - Monitored flavor degradation weekly for 4 weeks in refrigeration
-
-Variables controlled: bean origin (single-origin Brazilian), roast date (all 2 weeks old), grind size (consistent 40-45 seconds in burr grinder), water temperature (always 40-45°F), and brewing environment (70°F room).
+---
 
 ## Frequently Asked Questions
 

@@ -179,14 +179,9 @@ Shop Bialetti Venus B000IKLOP4 on Amazon: https://www.amazon.com/dp/B000IKLOP4?t
 
 ---
 
-## How We Researched French Press vs Moka Pot
+## Editorial Comparison Method
 
-We purchased popular models in both categories and brewed the same specialty coffee beans (medium roast) using each method over 2 weeks. We measured brew time, tested flavor consistency, evaluated ease of setup and cleanup, and assessed durability. We also had multiple people with different coffee experience levels try each method to assess the learning curve.
-
-Flavor testing included:
-- Black coffee tasting (body, clarity, flavor notes)
-- Milk-based drinks (cappuccino texture and integration)
-- Reheating quality (how well flavor held after an hour)
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

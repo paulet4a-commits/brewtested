@@ -142,19 +142,9 @@ For those who want to skip the pod ecosystem entirely, the Instant Brew is a sim
 
 ---
 
-## How We Researched These Coffee Makers
+## Editorial Comparison Method
 
-We evaluated each machine based on:
-
-- **Brew Quality:** Taste, temperature consistency, and flavor extraction with the same medium roast
-- **Ease of Use:** Filling, filter insertion, cleaning, and overall daily convenience
-- **Durability:** Long-term reliability of the machine and reusable filters after 6+ months of regular use
-- **Value for Money:** Total cost of ownership including filters, replacement parts, and electricity
-- **Environmental Impact:** Plastic waste reduction, filter lifespan, and overall sustainability
-- **Compatibility:** Which reusable filters actually fit and function reliably
-- **Maintenance:** Time required for cleaning and descaling routines
-
-All testing was conducted in a kitchen environment with tap water at standard mineral content levels.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

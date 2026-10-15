@@ -149,15 +149,9 @@ Melitta invented pour over coffee in 1908, and this kit proves their expertise. 
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We brewed 10+ pots with each kit using the same freshly roasted, medium-grind specialty coffee. We evaluated:
-
-- **Brew consistency:** Temperature Consistency, extraction evenness
-- **Brew quality:** Clarity, body, flavor profile
-- **Ease of use:** Setup time, technique difficulty, cleanup
-- **Value:** Cost vs. what's included, filter ongoing costs
-- **Durability:** Material quality, breakage risk
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

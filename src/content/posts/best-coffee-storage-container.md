@@ -123,17 +123,11 @@ For minimalist kitchen setups or second containers, the Nifty canister ($15-20) 
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We purchased all five canisters and filled each with the same batch of medium roast beans. Over 4 weeks, we:
+This is an editorial buying guide. The comparison criteria are capacity, closure design, materials, cleaning requirements, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-1. **Seal Test** - Used digital scales to check for any weight loss indicating air infiltration
-2. **Freshness Evaluation** - Brewed identical cups weekly using beans from each container, rating aroma and flavor
-3. **Temperature Consistency** - Measured internal temperatures with thermal imaging to assess insulation
-4. **Long-term Durability** - Inspected lids and seals weekly for wear and degradation
-5. **User Experience** - Tracked ease of daily use with a scoring rubric
-
-All tests used beans stored at room temperature (68°F) away from direct sunlight in a kitchen cupboard.
+---
 
 ## Frequently Asked Questions
 

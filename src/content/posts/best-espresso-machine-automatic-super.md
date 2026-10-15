@@ -154,21 +154,9 @@ For solo apartment dwellers or minimalist kitchens, the PicoBaristo punches abov
 
 ---
 
-## How We Researched Automatic Espresso Machines
+## Editorial Comparison Method
 
-Our research protocol evaluated each machine across real-world home usage:
-
-**Shot Consistency:** We pulled 50+ espresso shots on each machine, measuring extraction time, crema formation, and flavor consistency across sequential pulls.
-
-**Milk System Performance:** We steamed milk 30+ times on each machine, assessing froth quality, temperature consistency, and ease of technique.
-
-**Reliability:** Each machine ran daily for 60 days, tracking error rates, cleaning requirements, and component durability.
-
-**Ease of Use:** We evaluated user interface intuitiveness, drink customization options, and learning curve for new users.
-
-**Maintenance:** We documented cleaning procedures, descaling frequency, and parts replacement costs for each model.
-
-Our findings showed that automatic espresso machines prioritize consistency over ultimate shot quality compared to manual machines, but the convenience advantage makes them ideal for daily home use.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

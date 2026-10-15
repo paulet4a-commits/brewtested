@@ -225,17 +225,9 @@ Always purge your steam wand before and after steaming to prevent milk buildup.
 
 ---
 
-## How We Researched Espresso Machines
+## Editorial Comparison Method
 
-1. **Temperature Consistency:** We measured water temperature at the group head every 5 seconds for 1 minute during extraction. Machines with superior temperature control produced more consistent shots.
-
-2. **Grind Dialing (Repeatability):** Using identical beans and grind settings, we pulled 20 consecutive shots and measured extraction times. Variation under 3 seconds = good. Variation over 5 seconds = inconsistent.
-
-3. **Milk Steaming:** We steamed 50 ml of cold milk on each machine, measuring time-to-ready and microfoam quality. Bambino Plus outperformed budget options significantly.
-
-4. **Pressure Consistency:** We measured pre-infusion pressure and extraction pressure throughout each shot. Better machines maintain steady pressure; budget machines fluctuate.
-
-5. **Crema Quality:** We evaluated crema color (should be tan to reddish-brown, never black). Poor crema indicates under-extraction or stale beans, not machine failure.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

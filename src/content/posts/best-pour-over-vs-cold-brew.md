@@ -37,7 +37,7 @@ The Hario V60 is a Japanese ceramic dripper with spiral ridges inside that promo
 - No thermal carafe included
 - Filter waste (use reusable filters to offset cost)
 
-**Our research:** We brewed 15 pots across different bean origins. The V60 consistently extracted the origin flavors with crisp acidity and clean mouthfeel. Medium roasts shined brightest; dark roasts sometimes tasted thin. Average brew time: 3.5 minutes at 200°F water temp.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 **Price:** $12 (dripper alone)  
 **Where to Buy:** [Hario V60 on Amazon](https://www.amazon.com/dp/B002VUSWWK?tag=brewtested07-20)
@@ -62,7 +62,7 @@ The Chemex is a glass hourglass-shaped brewer that's been a design icon since 19
 - Longer brew time (4-5 minutes)
 - Requires careful pouring technique
 
-**Our research:** Six Chemex brews with single-origin Ethiopian and Colombian beans. The coffee tasted pristine—bright citrus notes and floral undertones without any astringency. Brew time averaged 4.2 minutes. Visual brewing experience rated 10/10 by testers.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 **Price:** $43 (8-cup model)  
 **Where to Buy:** [Chemex Coffee Maker on Amazon](https://www.amazon.com/dp/B000I1WAAJ?tag=brewtested07-20)
@@ -89,7 +89,7 @@ The Toddy is the OG cold brew. It's a simple plastic pitcher with a reusable mes
 - Concentrate tastes slightly flat (good for milk additions)
 - Sediment occasionally passes through filter
 
-**Our research:** Three brews over one week with different grind sizes. Final ratio: 1:4 coffee to water worked best. Cold brew ready at 18 hours. All brews tasted smooth and low-acid—perfect for afternoon drinking without jitters.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 **Price:** $18  
 **Where to Buy:** [Toddy Cold Brew System on Amazon](https://www.amazon.com/dp/B0000DIWJ7?tag=brewtested07-20)
@@ -115,7 +115,7 @@ OXO's cold brew pitcher adds convenience with measurement marks and a removable 
 - 12-24 hour wait time
 - Better results with a burr grinder (consistent coarse grind)
 
-**Our research:** Four two-week batches. The glass imparts no flavor; concentrate tasted clean and balanced. We used the 1:5 ratio mark and got optimal extraction at 16 hours. Concentrate lasted 16 days before quality declined.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 **Price:** $45  
 **Where to Buy:** [OXO Good Grips Cold Brew System on Amazon](https://www.amazon.com/dp/B07CQPB1TH?tag=brewtested07-20)
@@ -140,24 +140,16 @@ For households that consume 2-3 cups of cold brew daily, the Yama holds 32 ounce
 - More water needed for larger batches
 - Cleaning takes extra care (glass fragility)
 
-**Our research:** Two batches of 32 oz concentrate. First batch tasted slightly bitter at 12 hours; 18-hour steep produced balanced, smooth coffee. Concentrate held quality for 18 days. Perfect for meal prep Sunday brewing.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 **Price:** $65  
 **Where to Buy:** [Yama Glass Cold Brew Maker on Amazon](https://www.amazon.com/dp/B0000DIWK6?tag=brewtested07-20)
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We evaluated both brewing methods across five criteria:
-
-1. **Flavor Quality** — Tasted side-by-side brews with the same bean origin, evaluated for clarity, acidity, body, and finish.
-2. **Ease of Use** — Timed setup, brewing, and cleanup. Counted steps to get drinkable coffee.
-3. **Consistency** — Made 3-5 brews with each device to measure variance in taste and strength.
-4. **Durability** — Examined materials, tested daily use wear, and measured expected lifespan.
-5. **Value** — Calculated total cost including equipment, filters/supplies, and cost per cup over one year.
-
-All testing used medium roast specialty coffee beans from the same roaster (measured at 1.3% density). Water temperature controlled at 200°F for pour overs. Cold brew steeped at room temperature (72°F).
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

@@ -147,19 +147,9 @@ Stumptown Hair Bender ($14-$16/lb) is a modern specialty roaster's take on dark 
 
 ---
 
-## How We Researched These Espresso Beans
+## Editorial Comparison Method
 
-Our espresso bean evaluation covered:
-
-**Crema Quality:** We assessed crema thickness, color (golden to dark brown), and persistence across 15+ shots. Authentic espresso depends on proper crema formation, which indicates quality extraction.
-
-**Flavor Profile:** Using consistent espresso machines (both manual lever and semi-automatic) and grind settings, we pulled shots blind and evaluated for balance, bitterness, sweetness, and body complexity.
-
-**Body and Mouthfeel:** Dark roast beans should produce full-bodied shots. We compared how each bean's body changed when diluted with water (lungo) or milk (cappuccino).
-
-**Consistency:** Multiple bags purchased over months were evaluated for batch consistency, ensuring reliable quality over time.
-
-**Grinder Performance:** We researched and compared how each bean behaved in both burr and blade grinders, noting oiliness, static, and clogging issues.
+This is an editorial buying guide. The comparison criteria are coffee format, roast preference, brewing-system compatibility, pack size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

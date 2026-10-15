@@ -135,17 +135,9 @@ The Chemex is the visually stunning option—a hourglass-shaped brewer that's pa
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We brewed over 50 cups across different coffee origins, roasts, and grind sizes to evaluate consistency, flavor extraction, and ease of use. We measured:
-
-- **Flavor clarity** using specialty coffee standards
-- **Brewing time** from dry grounds to drinkable cup
-- **Ease of cleanup** and filter availability
-- **Build quality** and durability under daily use
-- **Value for money** against convenience lost
-
-All brewers were Evaluated with the same beans and water temperature (200°F) to ensure fair comparison.
+This is an editorial buying guide. The comparison criteria are coffee format, roast preference, brewing-system compatibility, pack size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

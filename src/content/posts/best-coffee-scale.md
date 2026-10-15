@@ -130,19 +130,11 @@ The Escali Primo is the scale that just works. No frills, no complex menus, no b
 
 **[Buy on Amazon](https://www.amazon.com/dp/B000LFBNMO?tag=brewtested07-20)**
 
-## How We Researched
+## Editorial Comparison Method
 
-We evaluated each scale across five criteria:
+This is an editorial buying guide. The comparison criteria are resolution, weighing capacity, timer controls, display readability, size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-**Accuracy:** Weighed calibration weights and tested repeatability at 10g, 50g, and 200g intervals. We measured response time and consistency over 50+ repeated measurements.
-
-**Build Quality:** Assessed materials, platform stability, button responsiveness, and longevity through weeks of daily use.
-
-**Timer Features:** Tested accuracy of built-in timers (where available) and usability during actual brewing.
-
-**Real-World Performance:** Brewed pour overs, espresso, and French press using each scale. We measured whether the scale's accuracy actually improved consistency in the cup.
-
-**Value:** Considered price relative to durability, accuracy, and features. We weighted this against common brewing methods (budget home brewers don't need Acaia precision).
+---
 
 ## Frequently Asked Questions
 

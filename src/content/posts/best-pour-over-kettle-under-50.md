@@ -147,17 +147,9 @@ We researched and compared five gooseneck kettles under $50 to help you find the
 
 ---
 
-## How We Researched These Kettles
+## Editorial Comparison Method
 
-Our research focused on five key metrics for pour over brewing:
-
-1. **Temperature Precision** – Measured actual water temperature vs. displayed/intended temperature using calibrated thermometers
-2. **Boil Time** – Tracked time from cold water to 212°F using consistent amounts (1L)
-3. **Pour Control** – Evaluated gooseneck spout design, balance, and ability to maintain consistent flow rates
-4. **Durability** – Assessed build quality, seam construction, and handle integrity after extended use
-5. **User Experience** – Tested ease of refilling, weight, and comfort during actual pour over brewing sessions
-
-All kettles were Evaluated with standard medium-roast filter coffee and water from the same source to ensure consistency.
+This is an editorial buying guide. The comparison criteria are capacity, temperature controls, pouring design, maintenance, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

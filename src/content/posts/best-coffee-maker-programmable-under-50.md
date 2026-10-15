@@ -141,9 +141,11 @@ GE's 12-cup programmable model focuses on simplicity and reliability. The large 
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We brewed multiple cycles with each coffee maker using standard medium-roast beans across a 4-week period. We evaluated brew consistency, warmplate performance, timer accuracy, water distribution evenness, and carafe durability. We timed the full brew cycle, measured water temperature retention, tested pause-and-serve mechanisms where applicable, and assessed water reservoir design. We also examined control panel intuition by having first-time users operate the machines without instructions.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
+
+---
 
 ## FAQ
 

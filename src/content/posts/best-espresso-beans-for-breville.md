@@ -9,7 +9,7 @@ affiliateDisclosure: true
 draft: false
 ---
 
-Breville espresso machines are engineered with precise pressure control and heating elements that reward quality beans. But not all espresso beans perform equally in these machines. We analyzed owner reviews and tested compatibility to identify the roasts that pull the best shots in Breville equipment.
+Breville espresso machines are engineered with precise pressure control and heating elements that reward quality beans. But not all espresso beans perform equally in these machines. This editorial guide compares roast options for Breville users; it does not provide original compatibility or shot tests.
 
 ## Why Bean Choice Matters for Breville Machines
 

@@ -94,7 +94,7 @@ Owner reviews consistently show:
 
 Research indicates the difference in the cup is imperceptible when both are dialed in. The Gaggia requires more skill to reach that point. The Bambino gets you there faster.
 
-**Real user feedback:** "After 20 shots on the Gaggia, I pulled an excellent cappuccino. After 5 shots on the Bambino, same quality cappuccino." The path is different, but the destination is the same.
+**Buying consideration:** Compare the controls, training resources, and workflow with the amount of practice you want to invest. This guide does not document a shot count or a sourced user comparison establishing how quickly either machine can be learned.
 
 If you want to learn espresso deeply, the Gaggia's slower learning curve is educational. If you want good shots now, the Bambino's faster forgiveness wins.
 

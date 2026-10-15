@@ -1,5 +1,9 @@
 # Weekly Operations Workflow — BrewTested
 
+> Effective 15 October 2026: use `affiliate-growth-plan.md`, `affiliate-operations.md`, and `affiliate-program-watch.md` for the current operating contract. The older targets and examples below are planning history, not measured performance or authorization to spend/post.
+>
+> Do not call paid image models, automate social accounts with stored passwords, update review dates without verifying products, or activate a merchant with only an ordinary store URL. Confirm provider approval and the actual tracked affiliate URL first. The daily observer does not send outreach or execute these older publishing examples.
+
 Target: $5k/month affiliate revenue
 Stack: Astro + GitHub Pages + Amazon Associates + Direct affiliates (pending)
 

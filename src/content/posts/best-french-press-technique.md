@@ -176,19 +176,9 @@ The 17oz (3-cup) Pavina is the compact sibling of the Chambord. It's perfect for
 
 ---
 
-## How We Researched These French Presses
+## Editorial Comparison Method
 
-Our research protocol was rigorous and designed to isolate variables:
-
-1. **Consistency Testing:** Each model brewed 10 consecutive cups using identical coffee, grind size, water temperature, and timing. We measured extraction yield and tasted blind to identify differences.
-
-2. **Temperature Retention:** We measured carafe interior temperature every minute for 10 minutes to assess thermal performance. Glass models significantly outperformed plastic in heat retention.
-
-3. **Filter Efficiency:** We researched and compared sediment particle count using a calibrated particle counter. Espro's micro-filter system genuinely removed 3–4× more particles than standard mesh.
-
-4. **Durability Testing:** We performed 100 brew cycles on each model, measuring handle integrity, carafe durability, and seal performance over time.
-
-5. **Plunge Resistance:** We measured the force required to plunge using a scale, confirming that coarser grinds (and Espro's filters) require more pressure but produce cleaner cups.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

@@ -139,11 +139,11 @@ Coffee oxidizes rapidly after roasting. The Fellow Atmos vacuum-seals your beans
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-Our team tested each product for three weeks in real-world home kitchen environments. We evaluated espresso machines on shot consistency, heat recovery, and ease of use. Grinders were tested for particle uniformity using microscopic analysis and extraction time measurement. Accessories were assessed on durability, usability, and impact on final cup quality.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-We prioritized products that deliver genuine café-quality results without professional-level pricing. All measurements were taken using calibrated scales and timing equipment to ensure accuracy.
+---
 
 ## Frequently Asked Questions
 

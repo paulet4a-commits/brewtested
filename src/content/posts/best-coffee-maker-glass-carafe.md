@@ -131,16 +131,11 @@ The Capresso 10-Cup brings smart insulation to the glass carafe game with an int
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-Our review process goes beyond the marketing claims. We brewed 50+ pots across all models using the same single-origin coffee, measured water temperature at three points in the cycle, tasted the resulting coffee blind against competitor models, and evaluated build quality, ease of cleaning, and day-to-day usability over 4 weeks of daily use.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-We specifically looked for:
-- **Brewing accuracy:** Did machines heat water to the optimal 195–205°F range?
-- **Extraction consistency:** Did all areas of the grounds get equally saturated?
-- **Taste profile:** Which machines produced the cleanest, brightest flavor?
-- **Durability:** Which glass carafes resisted thermal shock and staining?
-- **Practical use:** Which machines were easiest to fill, clean, and operate daily?
+---
 
 ## FAQ
 
@@ -176,4 +171,4 @@ Want to elevate your setup further? Pair any of these with [the best pour-over c
 
 ---
 
-*Affiliate Disclosure: BrewTested Reviews is a participant in the Amazon Associates Program. We earn a commission from qualifying purchases at no extra cost to you. We only recommend products we've personally tested and genuinely believe in.*
+*Affiliate Disclosure: BrewTested Reviews is a participant in the Amazon Associates Program. We earn a commission from qualifying purchases at no extra cost to you. Recommendations in this guide are editorial comparisons; no original hands-on test data is provided.*

@@ -3,7 +3,7 @@ title: "Best Decaf Coffee Beans: 5 Roasts That Actually Taste Like Coffee"
 description: "Premium decaf beans that don't taste flat. We researched and compared 5 roasts including Volcanica, Kicking Horse & more."
 pubDate: 2026-05-18
 category: "coffee"
-tags: ["decaf", "whole-bean", "specialty-coffee", "tested"]
+tags: ["decaf", "whole-bean", "specialty-coffee"]
 draft: false
 affiliateDisclosure: true
 ---
@@ -39,7 +39,7 @@ Most decaf tastes like cardboard. We researched and compared the 5 best decaf co
 
 **Best For:** Coffee lovers who refuse to sacrifice flavor. This is decaf for people who actually enjoy coffee.
 
-**Our Test:** Brewed in a Chemex. Tasting notes emerged immediately—jasmine, blackberry, subtle nuttiness. Smooth finish, no bitterness. Held up through 24 hours in a French press.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 ---
 
@@ -58,7 +58,7 @@ Most decaf tastes like cardboard. We researched and compared the 5 best decaf co
 
 **Best For:** Daily drinkers who want bold flavor without the caffeine jitters.
 
-**Our Test:** Espresso shot pulled 25 seconds, full crema, rich chocolate notes. Also brewed as automatic drip—smooth, no grounds. Consistent across 4 brewing methods.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 ---
 
@@ -77,7 +77,7 @@ Most decaf tastes like cardboard. We researched and compared the 5 best decaf co
 
 **Best For:** Budget-conscious drinkers who value reliability over complexity.
 
-**Our Test:** Drip machine, automatic espresso, Moka pot. Consistent across all methods. Mild hazelnut notes, smooth body. Not memorable, but honest coffee.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 ---
 
@@ -97,7 +97,7 @@ Most decaf tastes like cardboard. We researched and compared the 5 best decaf co
 
 **Best For:** Cold brew fanatics who want a turn-key solution. [See our best cold brew coffee maker guide](/posts/best-cold-brew-coffee-maker/).
 
-**Our Test:** Steeped 12 hours in OXO Toddy. Clean, sweet, chocolate notes. Concentrate lasted 8 days refrigerated, no degradation. Diluted 1:1 with water or milk.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 ---
 
@@ -116,28 +116,13 @@ Most decaf tastes like cardboard. We researched and compared the 5 best decaf co
 
 **Best For:** People transitioning off regular coffee who need higher decaf caffeine. Pairs well with our [best coffee canister selection](/posts/best-coffee-canister/).
 
-**Our Test:** French press (4 minutes steep). Rich, almost espresso-like intensity. Caffeine content ~12-15mg per cup vs. 95mg in regular coffee. No jitters even with 2 cups.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-**Brewing Methods Used:**
-- Chemex (for clarity)
-- French press (for body)
-- Automatic espresso machine
-- Moka pot
-- Cold brew immersion (12 hours)
-
-**Criteria:**
-- Flavor complexity (origin notes, aftertaste)
-- Smoothness (zero bitterness)
-- Consistency across brew methods
-- Price per oz
-- Freshness upon arrival
-- How it ages (shelf life)
-
-**Timeline:** Each bean tested for 2 weeks, minimum 15 cups per variant.
+This is an editorial buying guide. The comparison criteria are coffee format, roast preference, brewing-system compatibility, pack size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 
@@ -175,4 +160,4 @@ Start with Volcanica if flavor matters. Rotate brands every 2-3 weeks to keep pa
 ---
 
 **Last Updated:** May 18, 2026  
-**Affiliate Disclosure:** We earn a small commission on Amazon purchases at no extra cost to you. Reviews are unsponsored and reflect genuine testing.
+**Affiliate Disclosure:** We earn a small commission on Amazon purchases at no extra cost to you. This guide provides editorial comparisons and does not include original hands-on test data.

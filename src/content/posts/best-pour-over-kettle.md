@@ -134,15 +134,9 @@ The Cosori is the most affordable electric gooseneck with temperature control. F
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We used each kettle daily for 3 weeks, measuring:
-
-- **Temperature accuracy** — calibrated thermometer vs. set temperature
-- **Hold accuracy** — temperature drift over 30 minutes
-- **Pour control** — flow rate and consistency through gooseneck
-- **Heat speed** — time to reach 200°F from room temperature
-- **Ease of use** — filling, pouring, controls
+This is an editorial buying guide. The comparison criteria are capacity, temperature controls, pouring design, maintenance, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

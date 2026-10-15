@@ -134,15 +134,9 @@ Volcanica roasts specialty single-origin and estate coffees at lower prices than
 
 ---
 
-## How We Evaluated
+## Editorial Comparison Method
 
-We subscribed to each service for 3 months. We evaluated:
-
-- **Freshness** — roast date to delivery time
-- **Flexibility** — skip, pause, frequency change ease
-- **Value** — cost per ounce vs café prices
-- **Variety** — selection depth and rotation
-- **Customer service** — issue resolution speed
+This is an editorial buying guide. The comparison criteria are selection, delivery options, subscription terms, cancellation controls, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

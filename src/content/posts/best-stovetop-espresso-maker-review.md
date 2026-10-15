@@ -45,7 +45,7 @@ Stovetop espresso makers—or Moka pots—deliver rich, concentrated coffee with
 
 **Best For:** Daily Moka pot brewers who want the proven classic and don't mind occasional heat management.
 
-**Our research Notes:** Over 25 brewing sessions, the Moka Express delivered consistent, bold shots. The thick rubber gasket sealed perfectly every time. A blind comparison with a mid-range espresso machine showed only modest flavor difference—remarkable for a $35 brewer.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 ---
 
@@ -66,7 +66,7 @@ Stovetop espresso makers—or Moka pots—deliver rich, concentrated coffee with
 
 **Best For:** Espresso enthusiasts wanting maximum crema and café authenticity from a stovetop brewer.
 
-**Our research Notes:** The Brikka's pressure valve is engineering genius. Shots poured with restaurant-quality crema—a 3mm golden layer that outlasted Moka Express by 2+ minutes. Cost premium justified by crema obsessives.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 ---
 
@@ -87,7 +87,7 @@ Stovetop espresso makers—or Moka pots—deliver rich, concentrated coffee with
 
 **Best For:** Budget-conscious coffee lovers, travel brewing, or first-time Moka pot experimenters.
 
-**Our research Notes:** For $30, the Milano's performance was impressive. Brewing 3 servings weekly for 5 weeks showed no degradation. Crema was thinner than premium models but flavor remained bold. Best entry-point grinder.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 ---
 
@@ -109,7 +109,7 @@ Stovetop espresso makers—or Moka pots—deliver rich, concentrated coffee with
 
 **Best For:** Long-term brewers wanting durability, induction stove users, or anyone concerned about aluminum leaching.
 
-**Our research Notes:** The Cuisinox performed flawlessly. After 6 weeks daily use, zero discoloration (aluminum models showed brown staining). Heat management was more critical—required lower flame to prevent over-extraction.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 ---
 
@@ -131,22 +131,13 @@ Stovetop espresso makers—or Moka pots—deliver rich, concentrated coffee with
 
 **Best For:** Design enthusiasts willing to pay for aesthetics; gift-worthy heirloom brewer for serious coffee lovers.
 
-**Our research Notes:** The Alessi is gorgeous. Flavor was indistinguishable from $35 Bialetti—the premium is pure design and materials. However, it looks stunning on a kitchen counter and is genuinely robust. If you display your coffee gear, this is it.
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 ---
 
-## How We Researched These Moka Pots
+## Editorial Comparison Method
 
-We brewed 100+ shots across 6 weeks using standardized methods:
-
-1. **Consistency:** Identical beans (medium espresso roast), tamped identically, 5 brews per pot
-2. **Crema Production:** Measured crema thickness and longevity (timed with stopwatch)
-3. **Heat Management:** Tracked time-to-brew and consistency at low/medium/high heat
-4. **Durability:** Weekly deep cleaning; monitored gasket wear and seal integrity
-5. **Flavor Profiling:** Blind cupping comparisons between pots using identical beans
-6. **Thermal Efficiency:** Measured exterior temperature during brewing
-
-**Testing Beans:** Single-origin medium roast espresso blend; consistent 18-20g per brew.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 
@@ -196,4 +187,4 @@ Already brewing? Upgrade your experience with our [**Best Coffee Grinders for Es
 
 ---
 
-**Affiliate Disclosure:** BrewTested uses Amazon affiliate links. We earn a small commission on purchases, at no extra cost to you. We only recommend Moka pots we've personally tested and believe deliver genuine value for the price.
+**Affiliate Disclosure:** BrewTested uses Amazon affiliate links. We earn a small commission on purchases, at no extra cost to you. Recommendations in this guide are editorial comparisons; no original hands-on test data is provided.

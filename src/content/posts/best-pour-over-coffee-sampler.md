@@ -163,23 +163,9 @@ Blue Bottle's Flight sampler introduces specialty coffee through their signature
 
 ---
 
-## How We Researched Pour-Over Coffee Samplers
+## Editorial Comparison Method
 
-Our rigorous evaluation process included:
-
-1. **Freshness Assessment** – Tracked roast dates and evaluated aroma intensity, bloom volume during brewing, and crema characteristics to measure coffee vitality.
-
-2. **Flavor Profiling** – Brewed each sample using a Hario V60 dripper with filtered water at 200°F, timing extraction at 2:30-3:00 minutes, and cataloged actual flavor notes against tasting profiles.
-
-3. **Consistency Testing** – Brewed each coffee 3 times over one week and again after two weeks to evaluate flavor stability and detect staling patterns.
-
-4. **Grind Size Response** – Tested each bean at multiple grind settings to assess flexibility and forgiving nature for different brewing styles.
-
-5. **Value Analysis** – Calculated cost per cup, compared against retail single-bag pricing, and evaluated sampler pricing relative to quality delivered.
-
-6. **Variety Scoring** – Assessed roast range, origin diversity, and educational value of accompanying materials.
-
-7. **Sustainability & Ethics** – Reviewed roaster sourcing practices, Fair Trade certifications, and farm relationship transparency.
+This is an editorial buying guide. The comparison criteria are coffee format, roast preference, brewing-system compatibility, pack size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

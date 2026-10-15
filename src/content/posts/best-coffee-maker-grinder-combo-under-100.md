@@ -178,15 +178,9 @@ Coffee lovers willing to buy two machines for better control. Best paired with a
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-**Grind Quality:** We measured particle size distribution under a microscope (burr vs. blade results are visually obvious).
-
-**Brew Consistency:** We researched and compared water temperature throughout the brew cycle using an infrared thermometer and tasted for over-extraction (bitterness) and under-extraction (sourness).
-
-**Durability:** We ran each machine through 50 brew cycles over 2 weeks, monitoring grinder performance, carafe longevity, and seal integrity.
-
-**Ease of Use:** Setup time, button logic, cleaning, and daily operation ranked by Our research team.
+This is an editorial buying guide. The comparison criteria are adjustment design, brewing-method compatibility, portability, maintenance, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

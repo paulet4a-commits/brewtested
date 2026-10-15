@@ -52,7 +52,7 @@ We researched the best large batch cold brew systems based on user feedback and 
 - Requires replacement paper filters
 - No insulation or brewing indicators
 
-**Best For:** Cold brew drinkers who want the most reliable, tested system. Owner reviews consistently praise its durability and simplicity.
+**Best For:** Cold brew drinkers who want a system to compare for batch size and workflow. Owner reviews consistently praise its durability and simplicity.
 
 **Amazon Link:** [Toddy Cold Brew System](https://www.amazon.com/dp/B0000YOH5E?tag=brewtested07-20)
 

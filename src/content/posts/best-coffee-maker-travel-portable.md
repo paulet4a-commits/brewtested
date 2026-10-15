@@ -142,18 +142,11 @@ Sometimes the best travel coffee maker is no coffee maker at all. A simple colla
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We researched and compared each portable coffee maker by:
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-1. **Brewing quality:** Made coffee with each device using identical beans (medium roast) and evaluated taste, body, and richness
-2. **Ease of use:** Tested in various conditions—hotel bathrooms, campsites, airport lounges, moving vehicles
-3. **Durability:** Subjected equipment to drops, temperature swings, and 4+ weeks of daily use while traveling
-4. **Cleanup time:** Measured time required to break down, clean, and pack after brewing
-5. **Weight & packability:** Weighed each device (with necessary accessories) and tested how it packs in backpacks and luggage
-6. **Water temperature tolerance:** Tested how forgiving each device is with non-ideal water temperatures
-
-The AeroPress Go offered the best combination of coffee quality, ease of use, and durability. The Nanopresso won for ultra-lightweight espresso lovers. Pour over drippers were surprisingly good for backpackers who don't mind simplicity.
+---
 
 ## FAQ
 

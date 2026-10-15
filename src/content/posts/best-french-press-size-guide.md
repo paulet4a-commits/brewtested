@@ -1,6 +1,6 @@
 ---
 title: "Best French Press Size Guide: Which Capacity Is Right for You in 2026"
-description: "Find your ideal French press size. Compare 3-12 cup capacities, brewing times, and best uses. Expert tested guide with prices."
+description: "Find your ideal French press size. Compare 3-12 cup capacities, brewing times, and best uses. Editorial guide with prices."
 category: "french-press"
 draft: false
 pubDate: 2026-05-18
@@ -121,17 +121,11 @@ If you appreciate quality craftsmanship and plan to keep your press for 10+ year
 
 [Check Price on Amazon](https://www.amazon.com/dp/B00AW2AU0Q?tag=brewtested07-20)
 
-## How We Researched French Press Sizes
+## Editorial Comparison Method
 
-We evaluated each size by:
-- **Brewing capacity**: Measuring actual yield and comparing to cup markings
-- **Water-to-bean ratio**: Testing consistency across three brews per size
-- **Heat retention**: Using thermometers to track temperature decline
-- **Handling**: Assessing weight and balance when full
-- **Breakage resistance**: Recording impact tests on each frame type
-- **Real-world use**: Month-long testing in actual households with varied brewing needs
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-Our research confirmed that French press size dramatically impacts daily satisfaction. Oversized presses cool faster and waste beans. Undersized presses require constant re-brewing.
+---
 
 ## French Press Size FAQ
 
@@ -159,4 +153,4 @@ Explore more French press insights in our guide on [best French press for one pe
 
 ---
 
-**Disclosure:** BrewTested uses Amazon Associates links. We earn a small commission when you purchase through these links at no extra cost to you. We only recommend products we've personally tested and believe deliver genuine value.
+**Disclosure:** BrewTested uses Amazon Associates links. We earn a small commission when you purchase through these links at no extra cost to you. Recommendations in this guide are editorial comparisons; no original hands-on test data is provided.

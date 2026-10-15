@@ -119,16 +119,11 @@ OXO designed this kettle with ergonomics in mind. The handle fits larger hands, 
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We researched and compared each kettle by:
-1. **Temperature accuracy:** Using digital thermometers, we measured water temperature at 1-minute intervals from 140°F to 210°F
-2. **Heating speed:** Timed how long each kettle took to heat 1.7L from room temperature (68°F) to 200°F
-3. **Temperature hold:** Measured temperature drift over 10 minutes after reaching target
-4. **Pour control:** Performed actual pour over brews using each kettle with a single-cup dripper
-5. **Durability:** Examined materials, seals, and overall build quality after 2 months of daily use
+This is an editorial buying guide. The comparison criteria are capacity, temperature controls, pouring design, maintenance, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-The Fellow Stagg EKG maintained the tightest temperature tolerance and fastest heating. The Bonavita offered excellent performance at 1/4 the price. Budget builders choosing stovetop options should pair their kettle with a good instant-read thermometer.
+---
 
 ## FAQ
 

@@ -48,7 +48,7 @@ The Breville Barista Express is actually a complete espresso machine, but its ex
 - Requires regular backflushing and cleaning (maintenance commitment)
 - Steaming requires holding pitcher at precise angle
 
-**Real-World Testing:** This steam wand transformed our espresso drinks. The consistent pressure and heat meant that every milk jug produced identical silky microfoam. We successfully created latte art consistently after just one week of practice. The key advantage: steam is always ready. With single-boiler machines, you wait 30+ seconds between pulling shots and steaming milk.
+**Editorial note:** This guide does not provide original hands-on measurements or user-trial results for this product. Check the current specifications, compatibility, and maintenance instructions before buying.
 
 **Best For:** Home baristas serious about espresso who want an all-in-one solution. The espresso quality justifies the premium, and the steam wand is genuinely professional-grade.
 
@@ -78,7 +78,7 @@ The Bellman CX-25P is a manual milk steamer that uses water pressure from a stov
 - Requires cooling between uses
 - No temperature gauges or indicators
 
-**Real-World Testing:** This humble device impressed us. After initial awkwardness, we achieved cafe-quality microfoam consistently. The key difference from electric steamers: you're heating water in a closed chamber, building pressure manually. It's slower but infinitely more satisfying. The durability is unmatched—these units have 30+ year lifespans with minimal maintenance.
+**Editorial note:** This guide does not provide original hands-on measurements or user-trial results for this product. Check the current specifications, compatibility, and maintenance instructions before buying.
 
 **Best For:** Budget-conscious enthusiasts, travel, or backup steaming when your espresso machine fails. Perfect for purists who enjoy manual coffee preparation.
 
@@ -110,7 +110,7 @@ The Aeroccino 4 eliminates the learning curve with fully automatic frothing. Pus
 - Whisk mechanism can deteriorate after 2+ years of use
 - Not ideal for latte art (foam separation from milk)
 
-**Real-World Testing:** The Aeroccino excels at producing airy, light foam perfect for cappuccinos. However, if you're chasing silky microfoam for latte art, this creates separated foam rather than integrated milk texture. It's excellent for convenience but represents a quality compromise versus manual steamers.
+**Editorial note:** This guide does not provide original hands-on measurements or user-trial results for this product. Check the current specifications, compatibility, and maintenance instructions before buying.
 
 **Best For:** Beginners uncomfortable with manual steaming, or anyone prioritizing consistency and speed over technique development. Great for occasional coffee drinkers.
 
@@ -142,7 +142,7 @@ The Nanofoamer is a portable, battery-powered hand-held milk frothing device tha
 - Louder noise than electric steamers
 - Cleaning whisks can be tedious
 
-**Real-World Testing:** This device impressed us for convenience. Perfect for travel, office break rooms, or testing milk steaming without commitment. The foam quality sits between automatic frothers and manual steamers—decent for cappuccinos, less ideal for latte art. We appreciated the portability but found the battery dependency annoying long-term.
+**Editorial note:** This guide does not provide original hands-on measurements or user-trial results for this product. Check the current specifications, compatibility, and maintenance instructions before buying.
 
 **Best For:** Travel enthusiasts, office coffee upgrades, or experimenting before investing in dedicated steaming equipment. Not recommended as your primary steamer if you're serious about espresso drinks.
 
@@ -174,32 +174,15 @@ The Rancilio Silvia V6 is a single-boiler espresso machine with a legendary two-
 - Requires regular descaling (hard water regions)
 - Not truly portable (needs water source and power)
 
-**Real-World Testing:** The Silvia V6's steam wand is legendary for good reason. The two-hole tip distributes pressure perfectly, making microfoam production feel less like work and more like flow state. Once you dial in the temperature timing (pulling shots, waiting for steam availability), you produce exceptional milk-based espresso drinks consistently.
+**Editorial note:** This guide does not provide original hands-on measurements or user-trial results for this product. Check the current specifications, compatibility, and maintenance instructions before buying.
 
 **Best For:** Serious home baristas building a dedicated coffee station. The investment pays dividends if you drink 2+ milk-based espresso drinks daily.
 
 ---
 
-## How We Researched Espresso Milk Steamers
+## Editorial Comparison Method
 
-**Testing Methodology:**
-
-1. **Microfoam Quality:** Steamed 8 ounces of whole milk to 150-155°F using each device. Measured foam texture under magnification, evaluated smoothness, and assessed ability to pour latte art.
-
-2. **Consistency Testing:** Repeated milk steaming 20 times per device, measuring temperature variation and foam consistency across cycles.
-
-3. **Time Measurement:** Recorded total time from cold milk to ready-to-pour microfoam for each steamer. Included heating time where applicable.
-
-4. **Milk Type Compatibility:** Tested steaming with dairy (whole, 2%, skim), plant-based (oat, almond, soy), and specialty milks (barista-blend oat).
-
-5. **Learning Curve Assessment:** Had novice coffee drinkers attempt each device without instruction, timing how long until acceptable microfoam was produced.
-
-6. **Heat Retention:** Measured steamed milk temperature at 30, 60, and 120 seconds after steaming completion to assess thermal stability.
-
-7. **Durability Evaluation:** Examined equipment condition after 30-day daily use, assessed wear on steaming tips, and noted maintenance requirements.
-
-**Testing Period:** March 2026 - May 2026
-**Testers:** 3 baristas + 2 novice coffee drinkers across different experience levels
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 
@@ -209,7 +192,7 @@ The Rancilio Silvia V6 is a single-boiler espresso machine with a legendary two-
 A: Foam is large bubbles you can see (cappuccino style). Microfoam is tiny, integrated bubbles that create velvety texture (latte style). Steamers that create silky texture rather than separated bubbles produce microfoam.
 
 **Q: Can I use non-dairy milk in steamers?**
-A: Yes, but results vary. Oat milk froths exceptionally well. Almond and coconut milk are more challenging due to lower protein content. Soy milk works but can curdle in very high temperatures. All steamers in Our research handled oat milk perfectly.
+A: Results depend on the device, milk formulation, and technique. Check the manufacturer instructions and milk label; this guide does not provide controlled comparisons across dairy and plant-based milks.
 
 **Q: How hot should steamed milk be?**
 A: Optimal serving temperature is 150-155°F (65-68°C). Above 160°F, milk tastes scorched. Below 140°F, it won't create proper foam. Most home steamers reach this range reliably.

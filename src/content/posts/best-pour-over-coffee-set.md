@@ -137,21 +137,9 @@ OXO's design prioritizes consistency and ease, with integrated water temperature
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We evaluated each pour over coffee set across five criteria:
-
-**Ease of Use:** Can a complete beginner follow the included instructions and brew good coffee immediately? Does the kit include everything needed to start brewing today?
-
-**Brew Quality:** We brewed the same single-origin coffee through each dripper and assessed clarity, body, and flavor consistency across multiple brews.
-
-**Durability:** We assessed material quality, longevity, and resistance to damage through regular use and (in test cases) accidental drops.
-
-**Value:** We compared the price against what you receive—filters, carafe quality, accessories, and longevity of components.
-
-**Design:** We considered aesthetics, space efficiency, and whether the kit complements a modern kitchen or brewing station.
-
-All testing used the same coffee beans (a single-origin light roast), filtered water, and a consistent water temperature across all tests for fair comparison.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

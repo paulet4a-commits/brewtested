@@ -139,19 +139,11 @@ The Rancilio attracts serious coffee enthusiasts willing to pair it with a quali
 
 **[Check Current Price on Amazon](https://www.amazon.com/s?k=Rancilio+Silvia?tag=brewtested07-20)**
 
-## How We Researched
+## Editorial Comparison Method
 
-Our evaluation process focused on real-world home use across different skill levels:
+This is an editorial buying guide. The comparison criteria are adjustment design, brewing-method compatibility, portability, maintenance, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-**Grind Consistency:** We researched and compared each built-in grinder by measuring particle size distribution using sieve analysis and visual comparison. Consistency directly impacts extraction and shot quality, so this proved crucial.
-
-**Extraction Quality:** Each machine received 20+ test shots using standardized beans (20-gram dose, standard tamping pressure, 30-second target pull). We measured total dissolved solids (TDS) and documented flavor notes at each setting.
-
-**Reliability:** Machines were operated daily for four weeks, tracking any temperature fluctuations, water leaks, or mechanical issues. We documented maintenance requirements and ease of repairs.
-
-**User Experience:** We had testers with no espresso experience operate each machine to assess learning curves, instruction clarity, and consistency after initial training.
-
-**Value Assessment:** We calculated cost-per-shot over three years, including water, electricity, maintenance, and replacement parts.
+---
 
 ## Frequently Asked Questions
 

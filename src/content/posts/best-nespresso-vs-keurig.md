@@ -142,21 +142,9 @@ The Creatista Pro is Nespresso's premium milk-focused machine, combining espress
 
 ---
 
-## How We Researched Nespresso vs Keurig
+## Editorial Comparison Method
 
-Our research methodology evaluated real-world usage across multiple dimensions:
-
-1. **Brew Quality** – We cupped espresso and coffee side-by-side, measuring body, balance, crema (for Nespresso), and overall flavor complexity. Tested across capsule varieties.
-
-2. **Consistency** – We brewed 10 consecutive cups per machine and evaluated uniformity in temperature, flavor, and strength.
-
-3. **Speed & Convenience** – We timed warmup, brew time, and cleanup across multiple use scenarios (morning rush, multiple users, different drink types).
-
-4. **Milk Frothing** – For machines with frothers, we evaluated microfoam quality, temperature consistency, and ease of cleaning.
-
-5. **Long-term Use** – We operated machines for 4+ weeks in daily household use, tracking reliability, water quality concerns, and maintenance needs.
-
-6. **Cost of Ownership** – We calculated cost per cup including machine depreciation, capsule/pod pricing, and electricity consumption.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

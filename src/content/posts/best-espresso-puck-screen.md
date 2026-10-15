@@ -29,7 +29,7 @@ The IMS Precision Puck Screen represents the gold standard in puck screen engine
 - Precision-engineered holes (300-micron pattern) ensure even distribution
 - Stainless steel construction resists corrosion and staining
 - Compatible with most 58mm portafilters (universal fit)
-- Reduces channeling by 70-80% compared to no screen
+- Check screen fit, thickness, and cleaning requirements
 - Allows slightly coarser grinds without compromising extraction
 - IMS reputation backed by 20+ years in professional espresso
 - Easy to clean and sterilize
@@ -42,7 +42,7 @@ The IMS Precision Puck Screen represents the gold standard in puck screen engine
 - Requires basket compatibility verification before purchase
 - Can trap fine particles if not backflushed regularly
 
-The IMS screen works by restricting water flow slightly and distributing pressure evenly, forcing water through all grounds rather than finding pathways of least resistance. Tests show espresso extraction improves 5-8% (measurable by TDS meter) when upgrading from no screen to IMS. Users consistently report cleaner shots with improved body and reduced bitterness—the result of more complete extraction rather than charred spots from uneven water distribution.
+The IMS screen is included as a puck-screen option. This guide provides no original extraction-yield or channeling measurements and does not establish a percentage improvement over brewing without a screen.
 
 The engineering precision that justifies IMS's premium price becomes evident immediately. Water distribution becomes visibly more uniform in the cup's crema pattern, and tasting notes reveal greater complexity. Professional baristas choose IMS for this reason—reliability and consistency matter more than price when serving customers daily.
 
@@ -56,7 +56,7 @@ The Normcore Puck Screen delivers exceptional value by combining quality enginee
 - Excellent value ($18-25) without compromising quality
 - Durable stainless steel construction
 - Fits standard 58mm portafilters
-- Reduces channeling effectively (60-70% improvement)
+- Check screen fit, thickness, and cleaning requirements
 - Simple design with no moving parts or failures
 - Easy installation and removal
 - Minimal maintenance required
@@ -70,7 +70,7 @@ The Normcore Puck Screen delivers exceptional value by combining quality enginee
 - Requires 58mm portafilter compatibility
 - Can accumulate residue if backflushing neglected
 
-Normcore screens represent smart budget optimization. The engineering shortfall compared to IMS remains marginal—we measured extraction improvement of 4-6% (TDS increase) versus 5-8% with IMS. For home users running 1-5 shots daily, this difference rarely registers in cup quality. The manufacturing process uses similar stainless steel and precision machinery; the cost difference reflects scale and brand positioning rather than fundamental quality gaps.
+For a Normcore screen, compare fit, thickness, cleaning requirements, and current price. This guide provides no original TDS comparison with IMS or evidence of a measured extraction improvement.
 
 Installation is straightforward: remove the shower screen, insert the puck screen flat (critical), reinstall the shower screen, and pull a shot. Within one or two attempts, you'll dial in the proper grind adjustment. Users report that Normcore screens maintain consistency for two-plus years of daily use before requiring replacement due to wear.
 
@@ -157,25 +157,17 @@ For someone making 10+ shots daily (cafés, serious enthusiasts, competition pra
 
 **[Check Current Price on Amazon](https://www.amazon.com/s?k=Espresso+Gear+Premium+Puck+Screen?tag=brewtested07-20)**
 
-## How We Researched Puck Screens
+## Editorial Comparison Method
 
-Our comprehensive testing methodology measured real-world impact across different espresso machines and user skill levels.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-**Water Distribution Analysis:** We prepared espresso beds with uniform 20-gram doses across test machines with and without screens. Using slow-motion video, we tracked water penetration patterns, documenting channeling behavior and breakthrough points. IMS and Normcore screens showed 65-75% more uniform water distribution compared to no screen.
-
-**Extraction Consistency:** We pulled 50 shots per screen variant using identical dose, tamp pressure, and temperature. TDS (Total Dissolved Solids) measurements quantified extraction consistency. Screens reduced TDS variation from ±2.5% to ±0.8%, a significant improvement in consistency.
-
-**Texture and Crema Quality:** Blind tastings with trained panelists assessed body, mouthfeel, and crema characteristics. Shots with screens rated 7.2/10 average versus 6.1/10 without screens (using expert tasting criteria).
-
-**Durability Assessment:** We ran 1000+ shots through each screen variant over 12 weeks, examining wear patterns, residue accumulation, and replacement frequency. IMS and Espresso Gear screens showed minimal wear; Normcore screens showed minor surface dulling after 800+ shots.
-
-**Grind Size Impact:** We researched and compared coarser grinds with and without screens. Without screens, coarse grinds produced sour underextracted shots; with screens, the same grind dialed in perfectly, confirming that screens enable coarser grinding without extraction compromise.
+---
 
 ## Frequently Asked Questions
 
 **Do puck screens actually improve espresso quality?**
 
-Yes, measurably. Scientific testing shows 4-8% extraction improvement (quantified by TDS meter) when using quality puck screens. Blind tasting confirms that shots taste better—more complete flavor development, reduced bitterness, improved body. For casual drinkers, the improvement is noticeable but subtle. For enthusiasts pulling 5+ shots weekly, the difference becomes obvious and consistent.
+A puck screen may change your brewing workflow, but this guide provides no controlled measurements or blind tasting data demonstrating an extraction or taste improvement. Check the fit for your basket and evaluate the results with your own setup.
 
 **Are all 58mm puck screens compatible with my machine?**
 

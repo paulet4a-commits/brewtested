@@ -26,7 +26,7 @@ If you've ever gotten to work with lukewarm coffee, you know a good thermos is w
 
 **What we loved:** The Thermos Stainless King is the gold standard for affordable thermoses. Its 24-hour heat retention means coffee stays hot all day without a second pour. The wide mouth opening makes cleaning effortless—a feature that matters more than most people realize. At under $25, it's an absolute steal for anyone who wants reliability without premium pricing.
 
-**What could be better:** The stainless steel exterior does show fingerprints, and the lid isn't quite as smooth as higher-end models. Some users report the latch occasionally loosens in bags, though this hasn't been an issue in Our research.
+**What could be better:** The stainless steel exterior does show fingerprints, and the lid isn't quite as smooth as higher-end models. Some users report the latch occasionally loosens in bags; this guide does not provide an original leak test.
 
 **Best for:** Office workers, students, anyone who needs a no-nonsense thermos that performs exactly as advertised.
 
@@ -82,17 +82,9 @@ If you've ever gotten to work with lukewarm coffee, you know a good thermos is w
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We filled each thermos with freshly brewed coffee at 195°F and measured temperature retention at 1, 3, 6, 12, and 24-hour intervals using a digital thermometer. We researched and compared for:
-
-- **Heat retention:** How long coffee remained above 150°F (still drinkable)
-- **Leak resistance:** Carrying sealed thermoses in bags and vehicles
-- **Ease of cleaning:** Accessibility of interior surfaces
-- **Real-world durability:** Repeated opening, closing, and light drops
-- **Lid performance:** Seal quality, spill prevention, ease of use
-
-All tests were conducted at room temperature (70°F) with thermoses stored upright.
+This is an editorial buying guide. The comparison criteria are capacity, lid or handle design, portability, cleaning requirements, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

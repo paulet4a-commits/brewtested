@@ -135,13 +135,11 @@ Blue Bottle's minimalist dripper combines the best elements of conical designs w
 
 ---
 
-## How We Researched These Pour-Over Makers
+## Editorial Comparison Method
 
-We evaluated each dripper across **brewing consistency**, **ease of use**, and **cup quality**. For consistency, we brewed 20 cups of the same bean with identical water temperature (200°F), grind size, and coffee-to-water ratio, then cupped them blind to identify flavor patterns and variability.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-For ease of use, we timed setup and brewing with 5 different people (experience levels from never-brewed-before to coffee enthusiasts). We measured user confidence, mistake recovery, and repeatability across sessions. Cup quality testing involved professional cupping notes across light, medium, and dark roasts to understand flavor profile consistency.
-
-We also tested each dripper's compatibility with different filter types, water pour speeds, and Temperature Consistency to simulate real-world beginner scenarios where variables aren't controlled.
+---
 
 ## Frequently Asked Questions
 

@@ -138,17 +138,9 @@ The De'Longhi La Specialista Arte bridges the gap between convenience and contro
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We pulled shots on each machine using the same process: a single-origin espresso blend, hand-ground on a Baratza Encore (good enough to isolate machine differences), 9-bar basket filled to manufacturer specs, and consistent tamping pressure. We evaluated:
-
-- **Extraction consistency**: Did the machine produce repeatable shots?
-- **Crema quality**: Does the pressure generate proper emulsification?
-- **Steam power**: How quickly can you froth milk to microfoam?
-- **Thermal stability**: Does temperature drift between shots?
-- **Build quality**: Will this machine last three years of regular use?
-
-We made 150+ shots across all five machines over four weeks, rotating between them to avoid bias from one machine's specific characteristics.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

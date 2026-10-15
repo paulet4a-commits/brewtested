@@ -100,9 +100,11 @@ Different brewers have ideal sweet spots due to design:
 
 **Not measuring water consistently:** Use your scale for water too. 300g water + 18.75g coffee is far more reliable than "half a mug."
 
-## How We Researched These Ratios
+## Editorial Comparison Method
 
-Owner reviews reflect real-world use across V60, Chemex, and Kalita using the same single-origin coffee at ratios from 1:14 to 1:18. We measured extraction yield using a refractometer and rated flavor on acidity, sweetness, and body. The 1:15-1:17 range consistently scored highest for balance and clarity.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
+
+---
 
 ## FAQ
 

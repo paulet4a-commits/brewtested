@@ -148,17 +148,9 @@ Mr. Coffee Espresso ($169.99) is the absolute lowest price point for genuine esp
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-Our espresso machine testing followed cafe industry standards:
-
-1. **Pressure Testing:** Verified 9-bar pressure at group head using professional gauge
-2. **Shot Quality:** Pulled 20+ shots from each machine, measuring extraction time (25-30 seconds ideal)
-3. **Crema Evaluation:** Assessed crema color, thickness, and consistency
-4. **Temperature Consistency:** Measured temperature during shot pull with thermal probe
-5. **Steaming Consistency:** Steamed whole milk, checking for microfoam quality and temperature accuracy
-6. **Durability Test:** 30-day continuous use assessment (1-2 shots daily)
-7. **Comparison Baseline:** All tests run against professional cafe espresso for reference
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

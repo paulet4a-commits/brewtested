@@ -1,0 +1,88 @@
+name: Affiliate operations
+
+on:
+  push:
+    branches: [main, 'affiliate-operations-*']
+    paths:
+      - 'src/content/**'
+      - 'src/data/**'
+      - 'scripts/affiliate-*'
+      - '.github/workflows/affiliate-operations.yml'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+  workflow_dispatch:
+  schedule:
+    - cron: '17 5 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: affiliate-operations-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node --test scripts/affiliate-*.test.mjs
+      - run: node scripts/affiliate-content-gate.mjs
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm build
+
+  observe:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/cache/restore@v4
+        with:
+          path: .affiliate-ops/previous
+          key: affiliate-observer-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: affiliate-observer-v1-
+      - name: Observe owned site and official programs
+        shell: bash
+        run: |
+          mkdir -p .affiliate-ops/previous .affiliate-ops/artifacts
+          site_args=()
+          program_args=()
+          if [ -f .affiliate-ops/previous/site.json ]; then site_args=(--previous .affiliate-ops/previous/site.json); fi
+          if [ -f .affiliate-ops/previous/programs.json ]; then program_args=(--previous .affiliate-ops/previous/programs.json); fi
+          node scripts/affiliate-ops.mjs --public "${site_args[@]}" --output .affiliate-ops/artifacts/site.json
+          node scripts/affiliate-program-watch.mjs --public "${program_args[@]}" --output .affiliate-ops/artifacts/programs.json
+          node scripts/affiliate-summary.mjs --site .affiliate-ops/artifacts/site.json --programs .affiliate-ops/artifacts/programs.json --output .affiliate-ops/artifacts/summary.md
+          cat .affiliate-ops/artifacts/summary.md >> "$GITHUB_STEP_SUMMARY"
+          cp .affiliate-ops/artifacts/site.json .affiliate-ops/previous/site.json
+          cp .affiliate-ops/artifacts/programs.json .affiliate-ops/previous/programs.json
+      - name: Keep dated observations
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: affiliate-observations-${{ github.run_id }}
+          path: .affiliate-ops/artifacts/
+          if-no-files-found: error
+          retention-days: 7
+          include-hidden-files: true
+      - name: Preserve comparison baseline
+        if: success()
+        uses: actions/cache/save@v4
+        with:
+          path: .affiliate-ops/previous
+          key: affiliate-observer-v1-${{ github.run_id }}-${{ github.run_attempt }}

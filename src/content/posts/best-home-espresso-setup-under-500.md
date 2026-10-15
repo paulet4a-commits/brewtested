@@ -156,29 +156,9 @@ The JavaPresse grinds to espresso fineness consistently. Manual grinding is slow
 
 ---
 
-## How We Researched These Setups
+## Editorial Comparison Method
 
-Over 8 weeks, we pulled 400+ shots across all three setups using:
-- Same beans (rotating Ethiopian, Colombian, and Brazilian single-origins)
-- Same water (filtered, 200°F target)
-- Same technique (proper tamping, WDT for consistency)
-- Same tasting protocol (taste within 10 seconds of pulling)
-
-Testing criteria:
-- **Shot consistency:** How repeatable is each setup shot-to-shot?
-- **Flavor extraction:** How clearly do origin flavors come through?
-- **Milk frothing:** Can it produce microfoam for proper cappuccinos?
-- **Learning curve:** How many shots until acceptable espresso?
-- **Durability:** Signs of wear or mechanical issues?
-- **Daily usability:** Would you make this your actual morning routine?
-
-### Key Findings
-
-**Premium Setup (Breville + Baratza):** Shot-to-shot consistency was exceptional (95%+). Flavor complexity was highest. Milk frothing was professional quality. Warmup time meant zero friction to daily use. Learning curve was gentlest (acceptable shots by day 3).
-
-**Mid-Range Setup (De'Longhi + Capresso):** Good consistency with practiced tamping (85%+). Flavor complexity was very good. Manual controls rewarded technique development. Milk frothing required more skill. Acceptable shots came by week 2 of practice.
-
-**Budget Setup (Mr. Coffee + JavaPresse):** Consistency was decent but variable (75-80% due to manual grind variation). Pressurized basket compensated for grind inconsistencies. Manual grinding was feasible but impractical for repeat shots. Acceptable shots came immediately (pressurized system is forgiving).
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

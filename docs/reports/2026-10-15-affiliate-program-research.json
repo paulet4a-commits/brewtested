@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "observedAt": "2026-10-15T10:57:21Z",
+  "scope": "Yalnız resmî herkese açık kaynak araştırması. Hesap, e-posta, banka, başvuru gönderimi, şart kabulü ve yayın yok. Bu snapshot satış veya hesap kabul kanıtı değildir.",
+  "evidenceLevel": "public-official-document-observation",
+  "cost": "Yeni ücretli araç/model/hesap/reklam alınmadı.",
+  "programs": [
+    {
+      "id": "amazon-us",
+      "sourceURLs": [
+        "https://affiliate-program.amazon.com/help/node/topic/G8TW5AE9XL2VX9VM",
+        "https://affiliate-program.amazon.com/help/operating/policies",
+        "https://affiliate-program.amazon.com/help/node/topic/G63DR893K4DH55XZ"
+      ],
+      "observedAt": "2026-10-15T10:57:21Z",
+      "commission": null,
+      "commissionStatus": "Güncel kategori tablosu doğrulanamadı; kahve makinesinin oranı varsayılmadı.",
+      "attribution": "Session en çok 24 saat; sipariş veya başka affiliate linkine tıklama erken bitirir. Session içinde sepete eklenen uygun ürün için ilk tıklamadan itibaren en geç 89 günde sipariş istisnası var.",
+      "payout": "Vergi bilgisi ve seçilen yöntemin minimumu gerekir; ay sonundan yaklaşık 60 gün sonra. Kullanıcının ödeme yöntemi/minimum durumu ölçüm yok.",
+      "entryRequirement": "İlk 180 günde en az üç nitelikli satış; kişisel siparişler sayılmaz. Gerçek kayıt tarihi/deadline ölçüm yok; 17 Ekim kapanış tarihi varsayılmaz.",
+      "countryEligibility": null,
+      "accessLimits": ["Türkiye için seçilebilir banka yöntemi bu araştırmada doğrulanmadı.", "Program Content kullanan Agent HTTP isteklerinde Agent/[agent name] tanıtımı gerekir; engel/CAPTCHA aşılmaz."],
+      "audienceChannel": "BrewTested satın alma niyetli kahve/espresso rehberleri; kendi sayfasından açıkça etiketli ürün bağlantıları.",
+      "nextAction": "Mevcut Chrome'da kayıt tarihi ve ödeme hazırlığını doğrula; en çok gerçek ziyaret alan beş sayfayı ölçüp link/tag/ürün eşleşmesini ve kanıtsız deneyim iddialarını düzelt. Yeni rastgele 200 yazı üretmek yerine ilk beş sayfada sonuç ölç."
+    },
+    {
+      "id": "beehiiv",
+      "sourceURLs": [
+        "https://www.beehiiv.com/partners",
+        "https://www.beehiiv.com/support/article/23352219299095-getting-started-with-the-beehiiv-partner-program"
+      ],
+      "observedAt": "2026-10-15T10:57:21Z",
+      "commission": "Resmî help: yönlendirilen gelirin %50'si 12 ay. Public partner sayfası Bronze %50, Silver %55, Gold %60 gösteriyor; kullanıcının daha yüksek tier hakkı ölçüm yok.",
+      "cookieDays": 60,
+      "attribution": "Resmî help ilk tıklama atfı diyor.",
+      "payout": "Önceki ayın komisyonları ayın 15'inde Dub üzerinden; Dub bağlantısının kullanıcıda tamamlandığı ölçüm yok.",
+      "countryEligibility": null,
+      "accessLimits": ["Türkiye payout uygunluğu ve minimum ödeme bu kaynaklarda doğrulanmadı.", "Kendi affiliate linkinle kendi hesabını açmak yasak; Google/Bing search reklamları yasak. Yeni harcama yapılmayacak."],
+      "audienceChannel": "Newsletter kuran creator/indie hacker/ajans kitlesi. Kahve okuyucusuna ilgisiz araç tavsiyesi eklenmez.",
+      "nextAction": "Mevcut hesapta Dub durumunu yalnız korumalı UI ile doğrula. Creator/dev yayın kanalı için gerçekten denenmiş newsletter kurulum rehberi ve açık affiliate bildirimi hazırlayıp ziyaretçi → lead → ücretli dönüşümü ayrı ölç."
+    },
+    {
+      "id": "apify",
+      "sourceURLs": [
+        "https://docs.apify.com/legal/affiliate-program-terms-and-conditions",
+        "https://apify.com/partners/affiliate"
+      ],
+      "observedAt": "2026-10-15T10:57:21Z",
+      "termsUpdatedAt": "2026-09-15",
+      "commission": "İlk üç ücretli ay %20; sonra %30. Starter müşteribaşı $2500, Performer $5000 tavan; Performer 50+ aktif ücretli müşteri.",
+      "cookieDays": 45,
+      "payout": "Koşullar §5: toplam en az üç referred customer ve $100; düşük tutar devreder. Ay sonundan 15 işgünü içinde, FirstPromoter faturasıyla PayPal/banka/Wise.",
+      "countryEligibility": null,
+      "accessLimits": ["Tek affiliate hesabı; ikinci hesap açılmaz.", "§6.1(6): affiliate referral link Apify'nin Platform/Website/diğer owned assets içeriğinde kullanılamaz; Actor Store README içine yerleştirilmez.", "Ücretli reklam yazılı özel izin olmadan yasak; kendin/yakınların/ilişkili iş ortaklarının self-referral'ı yasak."],
+      "sourceDiscrepancy": "Marketing FAQ 15 calendar day ve düşük ödeme istisnası diyor; 15 Eylül güncel sözleşme 15 işgünü ve yazılı waiver diyor. Eski help'in yalnız %20 ifadesi güncel tam model değildir.",
+      "audienceChannel": "Kendi WebDataTools haricî sitesi, geliştirici eğitimi ve B2B otomasyon iş akışları.",
+      "nextAction": "9 Ekim mevcut başvurunun yanıtını takip et; onaylı referral link olmadan link uydurma. Kendi alanında gerçek Actor çıktılı bir kullanım rehberi hazırla; Store sayfalarında affiliate link kullanma."
+    },
+    {
+      "id": "lifeboost",
+      "sourceURLs": ["https://lifeboostcoffee.com/pages/affiliate"],
+      "observedAt": "2026-10-15T10:57:21Z",
+      "commission": "Resmî sayfada satış başına %5.",
+      "cookieDays": null,
+      "payout": null,
+      "countryEligibility": null,
+      "accessLimits": ["Apply Now Impact'e gidiyor; cookie/payout/country/hesap onayı bu public sayfada ölçüm yok. Eski yüksek komisyon beyanı kullanılmaz."],
+      "audienceChannel": "BrewTested kahve çekirdeği/low acid araştıran okuyucu; sağlık iddiaları bağımsız kanıt gerektirir.",
+      "nextAction": "Mevcut başvurunun Impact hesabındaki durumunu doğrula; pending kaydını accepted sayma. Şartlar ve gerçek onay olmadan ticari link devreye alma."
+    },
+    {
+      "id": "whole-latte-love",
+      "sourceURLs": [
+        "https://www.wholelattelove.com/pages/events",
+        "https://www.wholelattelove.com/blogs/articles/celebrating-25-years-of-whole-latte-love"
+      ],
+      "observedAt": "2026-10-15T10:57:21Z",
+      "commission": null,
+      "cookieDays": null,
+      "payout": null,
+      "countryEligibility": null,
+      "verifiedProgramAvailability": "Güncel Events sayfası affiliate partnerships taleplerini Collaboration & Partnership kapsamında kabul ediyor; eski yıl dönümü yazısı program varlığını anlatıyor.",
+      "accessLimits": ["Güncel resmî public oran/cookie/payout bulunamadı; eski tracker oranları doğrulanmış sayılmaz.", "Tahmini /pages/affiliate-program yolu açılamadı; başvurunun gönderildiği kanıtı değil."],
+      "audienceChannel": "BrewTested espresso makinesi/öğütücü karşılaştırmaları; kahve kitlesiyle doğrudan uyum.",
+      "nextAction": "19 Mayıs SMS/gönderim eksik kaydının mevcut Chrome başvuru ekranında durumunu doğrula; mükerrer başvuru açmadan şartları ve kabulü netleştir. Başvuru metnine yalnız ölçülmüş trafik ve dürüst içerik örnekleri koy."
+    }
+  ],
+  "nearestThreeActions": [
+    "Amazon kayıt/deadline/ödeme + gerçek trafik ölçümü + beş yüksek niyetli BrewTested sayfası düzeltmesi.",
+    "Beehiiv mevcut Dub ödeme hazırlığı + creator kitlesine uygun tek kanıtlı rehber ve dönüşüm ölçümü.",
+    "Apify mevcut tek başvuruyu izle; haricî WebDataTools rehberi hazırla, Apify Store'a affiliate link ekleme."
+  ],
+  "automationRecommendation": {
+    "status": "Öneri; bu rapor worker/schedule kurmaz.",
+    "roles": ["Resmî program değişikliği ve mevcut başvuru takipçisi", "Kendi sayfalarında link/tag/disclosure ve kaynak tazeliği denetçisi", "Gerçek trafik/dönüşüm ve haftalık iş önceliği analisti"],
+    "rules": ["Kahve ve creator/dev kitlesini ayrı tut.", "Program durumu ve satış kanıtını ayrı alanlarda tut; bilinmeyen null/ölçüm yok.", "Kendi sayfaları/allowlist resmî public kaynaklarla sınırla; rastgele toplu program başvurusu veya unsolicited mesaj yok.", "Ücretli sürekli LLM döngüsü açma; mevcut altyapıda ölçülü mekanik kontrollerden değişiklik olayı üret, mevcut abonelik içindeki uygun oturuma kanıtlı görev ver."]
+  }
+}

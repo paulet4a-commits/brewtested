@@ -1,5 +1,5 @@
 ---
-title: "Best Kitchen Scale for Cooking Under $30: 5 Scales Tested for Accuracy"
+title: "Best Kitchen Scale for Cooking Under $30: 5 Scales Compared"
 description: "Find the best kitchen scale for cooking and baking under $30. We researched and compared 5 scales for accuracy, ease of use, and durability — here are the top picks."
 pubDate: 2026-05-18
 category: "kitchen"
@@ -136,14 +136,9 @@ OXO's signature pull-out display solves the #1 usability problem with kitchen sc
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We researched and compared each scale with the same set of calibration checks:
-- **Accuracy**: Compared against a certified 500g calibration weight at three points (100g, 300g, 500g)
-- **Response time**: Measured time to stable reading from when object was placed
-- **Tare accuracy**: Repeated tare function 20x and measured consistency
-- **Durability**: 6 months of daily kitchen use, including exposure to steam and occasional spills
-- **Usability**: Evaluated button placement, display readability, and cleaning ease
+This is an editorial buying guide. The comparison criteria are resolution, weighing capacity, timer controls, display readability, size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

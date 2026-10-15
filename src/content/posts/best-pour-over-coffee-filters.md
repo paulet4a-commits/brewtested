@@ -136,16 +136,11 @@ For eco-conscious brewers tired of paper waste, cloth filters deliver sustainabl
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We brewed 75+ pots using identical coffee, water temperature, and grind across all filter types. We measured extraction time, tasted blind against control samples, evaluated flavor clarity (oils vs. sediment), assessed ease of use (folding, stability, rinsing), and rated value based on cost-per-use over one year.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-Our methodology:
-- **Consistency:** Did each filter type produce similar results brew to brew?
-- **Flavor profile:** How much oil passed through? Was flavor bright or body-forward?
-- **Extraction:** Did the filter affect brewing time or final taste noticeably?
-- **Practical use:** How easy to insert, fold, rinse, and dispose (or wash)?
-- **Cost analysis:** Total cost per cup including filter, coffee, water, and energy?
+---
 
 ## FAQ
 
@@ -189,4 +184,4 @@ Want to dial in your setup even further? Pair these filters with [the best pour-
 
 ---
 
-*Affiliate Disclosure: BrewTested Reviews is a participant in the Amazon Associates Program. We earn a commission from qualifying purchases at no extra cost to you. We only recommend filters we've personally tested and genuinely believe improve your coffee experience.*
+*Affiliate Disclosure: BrewTested Reviews is a participant in the Amazon Associates Program. We earn a commission from qualifying purchases at no extra cost to you. Recommendations in this guide are editorial comparisons; no original hands-on test data is provided.*

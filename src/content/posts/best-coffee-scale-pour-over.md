@@ -142,21 +142,9 @@ If you love tracking metrics and refining your technique through data analysis, 
 
 ---
 
-## How We Researched Coffee Scales
+## Editorial Comparison Method
 
-Our research process evaluated each scale across multiple pour over brewing sessions:
-
-**Accuracy Testing:** We measured 20g of coffee and 300g of water on each scale repeatedly, comparing results for consistency and deviation.
-
-**Response Time:** We poured water in a steady stream and noted how quickly each scale registered changes, which affects pour technique feedback.
-
-**Durability:** Each scale was tested for 30 days of daily use, including water splash exposure during cleaning.
-
-**Ease of Use:** We evaluated display clarity, button responsiveness, and how intuitive each scale feels during actual brewing.
-
-**Value Assessment:** We calculated price-to-accuracy ratio and compared features against cost.
-
-The results showed that accuracy matters less than consistency for home brewing. Even the $45 Timemore scale delivers repeatable results when you calibrate properly.
+This is an editorial buying guide. The comparison criteria are resolution, weighing capacity, timer controls, display readability, size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

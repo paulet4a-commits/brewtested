@@ -80,17 +80,11 @@ What could be better: You need hot water and a mug (both essential anyway). The 
 
 [Check price on Amazon](https://www.amazon.com/dp/B00BRNZ7GO?tag=brewtested07-20)
 
-## How We Researched
+## Editorial Comparison Method
 
-We evaluated each brewer across four dimensions:
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-**Portability:** We packed each brewer in a standard carry-on suitcase and recorded dimensions and weight. We assessed case design, whether everything fits together, and whether the machine survives baggage handling.
-
-**Brew Quality:** We used the same coffee beans and filtered water with each brewer, following manufacturer instructions. We evaluated body, flavor clarity, and consistency across multiple brews. We tasted each cup blind-sampled against standard drip coffee as a baseline.
-
-**Ease of Use:** We timed the complete process from unpacking to first sip, including water heating time when applicable. We assessed the learning curve for first-time users. We evaluated cleanup requirements.
-
-**Travel Realism:** We researched and compared each brewer in actual travel scenarios—hotel rooms with limited counterspace, camping with a camp stove, and airport lounges with limited resources. We noted which models handled real constraints best.
+---
 
 ## Frequently Asked Questions
 

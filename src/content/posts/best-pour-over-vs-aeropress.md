@@ -201,17 +201,11 @@ The AeroPress Max ($39-49) introduces two minor innovations to the classic desig
 - Appreciate compact countertop footprint
 - Want community and competition appeal
 
-## How We Researched
+## Editorial Comparison Method
 
-**Extraction Consistency:** We brewed identical specialty-grade coffee (same origin, roast, grind) using each method 10 times, measuring water contact time, final temperature, and extracting TDS (Total Dissolved Solids) readings. Pour overs showed +/- 8% variance; AeroPress showed +/- 3% variance.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-**Flavor Profile Analysis:** Professional cupping sessions by certified Q-graders evaluated body, sweetness, acidity, and aftertaste. Pour overs produced brighter acidity; AeroPress produced fuller body.
-
-**Real-World Usage:** We monitored household use over 6 weeks with different skill levels (coffee novice, casual drinker, enthusiast) to evaluate ease of use and satisfaction.
-
-**Durability Testing:** Both devices survived multiple drops from 4-foot height. Pour over drippers showed no degradation; AeroPress sustained no damage.
-
-**Travel Simulation:** We packed each device in carry-on luggage and used it in hotel rooms, offices, and outdoor settings to assess portability and setup convenience.
+---
 
 ## Frequently Asked Questions
 

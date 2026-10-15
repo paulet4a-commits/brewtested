@@ -56,18 +56,9 @@ The key difference? **Pour over gives you clean, bright, articulate flavor** whi
 
 ---
 
-## How We Researched These Methods
+## Editorial Comparison Method
 
-We evaluated both brewing methods across six weeks using the same single-origin Ethiopian and Colombian beans. Testing criteria included:
-
-- **Flavor clarity:** How distinct are the coffee's notes?
-- **Body and mouthfeel:** How full or light does the coffee feel?
-- **Consistency:** How repeatable is the result?
-- **Ease of use:** How forgiving is the method for beginners?
-- **Time investment:** Total time from water to cup
-- **Cleanup effort:** Actual minutes spent cleaning
-
-Pour over consistently scored higher on flavor complexity. French press consistently scored higher on ease and bold flavor intensity.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

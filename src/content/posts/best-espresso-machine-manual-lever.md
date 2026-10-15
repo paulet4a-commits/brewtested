@@ -173,20 +173,9 @@ The Swedish Elektra Microcbar represents the pinnacle of manual lever espresso d
 
 ---
 
-## How We Researched These Manual Lever Machines
+## Editorial Comparison Method
 
-**Testing methodology:**
-
-- **Pressure consistency:** Verified each machine generated rated bar pressure (8-9 bar)
-- **Crema production:** Evaluated with 18g basket medium-fine espresso grind
-- **Heat stability:** Measured temperature across 10 consecutive shots
-- **Ease of use:** Evaluated learning curve across different skill levels (beginner, intermediate, expert)
-- **Shot repeatability:** Pulled 20 consecutive shots and measured consistency
-- **Build durability:** Examined materials, welds, and mechanical wear points
-- **Portability assessment:** Weighed machines and tested travel readiness
-- **Long-term reliability:** Reviewed owner feedback at 6-month, 1-year, and 2-year usage points
-
-All testing used the same single-origin medium roast (Brazilian Santos), ground on a dedicated burr grinder at identical settings across machines.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

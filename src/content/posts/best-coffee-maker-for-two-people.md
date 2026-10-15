@@ -151,18 +151,9 @@ The Ninja CE251 combines compact size with surprising versatility. Its microbrew
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We brewed 100+ pots of coffee across 2 weeks, measuring:
-
-- **Brew time:** From water-on to finished cup (including heat-up)
-- **Temperature consistency:** Using thermometers to track water temp throughout brewing
-- **Flavor extraction:** Taste tests at 0, 15, 30, and 60 minutes post-brew
-- **Space efficiency:** Counter footprint, cabinet storage, portability
-- **Durability:** Material quality, component lifespan projections
-- **Ease of use:** New user testing without instructions
-
-All brewers used the same single-origin medium roast beans, filtered water, and consistent coffee-to-water ratios.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

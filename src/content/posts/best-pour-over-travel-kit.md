@@ -60,7 +60,7 @@ The GSI Outdoors Java Drip is an all-in-one coffee brewer designed specifically 
 - Brews into any cup or mug
 - No paper filters to waste
 - Great for group camping (larger capacity)
-- Field-tested by professional outdoor guides
+- Check packed dimensions and included accessories
 
 **Cons:**
 - Heavier than the Hario V60 (~9 ounces)

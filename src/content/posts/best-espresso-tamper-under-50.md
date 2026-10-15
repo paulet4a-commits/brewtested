@@ -141,18 +141,9 @@ The Fellow Opus isn't technically just a tamper—it's an espresso bundle that i
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We researched and compared each tamper on three different espresso machines with identical beans, grind size, and water temperature to measure:
-
-- **Pressure consistency** using a calibrated pressure gauge
-- **Shot flow time** from 9 bars through extraction
-- **Espresso extraction quality** (body, balance, crema)
-- **User feedback and feel** during tamping
-- **Long-term durability** after 30+ days of daily use
-- **Value proposition** against cost
-
-All tampers were evaluated with fresh 18-20g single-shot doses to establish baseline performance.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

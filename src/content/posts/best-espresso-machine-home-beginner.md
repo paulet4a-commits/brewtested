@@ -154,20 +154,9 @@ The Breville Bambino is expensive for a beginner machine ($250–300), but if yo
 
 ---
 
-## How We Researched Beginner Espresso Machines
+## Editorial Comparison Method
 
-We evaluated each machine on:
-
-1. **Ease of use** – How quickly can a beginner pull a decent shot?
-2. **Espresso quality** – Crema, flavor, body, consistency
-3. **Milk frothing** – Steamed milk quality for cappuccinos and lattes
-4. **Durability** – Build quality and longevity
-5. **Heat-up time** – How long before first shot is ready?
-6. **Learning resources** – Community support, mods, guides
-7. **Value** – Price versus features and build quality
-8. **Counter space** – Footprint and aesthetics
-
-We brewed over 200 shots across five machines, tested milk frothing with baristas and home users, and evaluated long-term durability after 6+ months of daily use.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

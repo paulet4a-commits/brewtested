@@ -150,16 +150,11 @@ We researched and compared five French press models specifically designed for si
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We evaluated each French press on:
-- **Brew Quality:** Coffee flavor, body, extraction consistency across 20+ brews
-- **Heat Retention:** Temperature drops measured over 30 minutes
-- **Ease of Use:** Plunger smoothness, filling, pouring, and emptying
-- **Durability:** Glass strength, frame flexibility, plunger lifespan testing
-- **Cleaning:** Time and effort to remove grounds and residue
-- **Portability:** Weight, size, and travel suitability
-- **Value:** Cost-per-cup over 5-year lifespan
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
+
+---
 
 ## Frequently Asked Questions
 

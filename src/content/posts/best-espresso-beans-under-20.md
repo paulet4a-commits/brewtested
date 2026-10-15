@@ -10,7 +10,7 @@ affiliateDisclosure: true
 
 The biggest variable in home espresso isn't your machine — it's your beans. Bad beans make bad espresso regardless of what you brew on. These five bags under $20 produce genuine crema and rich espresso flavor without the specialty roaster price tag.
 
-We pulled hundreds of shots across five espresso bean picks to find which deliver consistent crema, body, and flavor for budget-conscious home baristas.
+This editorial guide compares five espresso bean options by format, roast preference, pack size, and budget. It does not report original shot tests.
 
 ## Quick Comparison
 
@@ -130,14 +130,9 @@ Peet's Espresso Forte is a darker blend with a syrupy body, low acidity, and ric
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We pulled 3+ shots per bag on the same machine (Breville Bambino Plus) with the same grind setting (Baratza Encore at 8). We evaluated:
-
-- **Crema** — thickness, persistence, color
-- **Flavor** — balance, sweetness, bitterness, complexity
-- **Consistency** — shot-to-shot repeatability
-- **Value** — cost per shot vs. quality delivered
+This is an editorial buying guide. The comparison criteria are coffee format, roast preference, brewing-system compatibility, pack size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

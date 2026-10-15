@@ -41,7 +41,7 @@ The Mr. Coffee Dual Brew is the entry-level workhorse. It brews a full 12-cup ca
 - Plastic housing looks cheap
 - Water filter needs regular replacement
 
-**Our research:** Five brew cycles over two weeks with medium roast beans. Both carafes filled consistently. Thermal carafe maintained 165°F after 90 minutes (acceptable but not premium). Brew quality matched standard Mr. Coffee machines—average taste, reliable extraction. Cost per cup: $0.08 (lowest of all tested models).
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 **Price:** $42  
 **Where to Buy:** [Mr. Coffee Dual Brew on Amazon](https://www.amazon.com/dp/B00005MF9Y?tag=brewtested07-20)
@@ -69,7 +69,7 @@ Hamilton Beach's dual brew system shaves 30% off brew time compared to competito
 - Thermal carafe capacity smaller than glass side (imbalance)
 - Instructions could be clearer
 
-**Our research:** Seven brew cycles including four programmed overnight brews. All delayed brews tasted fresh (no stale flavor). Brew quality excellent with medium and dark roasts. Thermal carafe stayed at 170°F for 120 minutes. Fast brew time perfect for rushed mornings. Cost per cup: $0.12 (accounting for equipment).
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 **Price:** $68  
 **Where to Buy:** [Hamilton Beach Dual Brew Coffee Maker on Amazon](https://www.amazon.com/dp/B01CDHVTS0?tag=brewtested07-20)
@@ -97,7 +97,7 @@ For coffee purists, the Moccamaster Dual System combines a full 10-cup drip coff
 - Overkill for casual coffee drinkers
 - Requires filtered water for optimal performance
 
-**Our research:** Four brew cycles with third-wave specialty coffee beans (single-origin Ethiopian). The Moccamaster produced the cleanest, most complex coffee of all tested models. Water Temperature Consistency was perfect—no temperature fluctuation during brewing. Manual pour-over capability let us experiment with grind sizes. Average brew time: 4 minutes. Thermal carafe maintained 175°F for 90 minutes. Cost per cup: $0.35 (highest, but quality reflects it).
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 **Price:** $305  
 **Where to Buy:** [Technivorm Moccamaster Dual on Amazon](https://www.amazon.com/dp/B000I1WAAG?tag=brewtested07-20)
@@ -125,7 +125,7 @@ Cuisinart's dual brew system offers something others don't: the ability to brew 
 - Brew basket design makes grounds escape occasionally
 - Louder operation than competitors
 
-**Our research:** Five brews including three with dual-strength settings. Regular + strong brews completed at 12 minutes. Strong setting produced noticeably darker extraction—good for dark roasts, slightly over-extracted with light roasts. Programmable timer worked reliably across all tests. Both carafes maintained heat for 90+ minutes. Cost per cup: $0.15 (mid-range).
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 **Price:** $52  
 **Where to Buy:** [Cuisinart Programmable Dual Brew on Amazon](https://www.amazon.com/dp/B0089XYY8Q?tag=brewtested07-20)
@@ -153,7 +153,7 @@ Black+Decker's dual brew system is the unsung hero in this category. It's durabl
 - No water filtration (you supply your own)
 - Smaller water reservoir than competitors
 
-**Our research:** Six brew cycles over three weeks. Consistent extraction with medium and dark roasts. Brew time averaged 9 minutes. Thermal carafe reached 165°F after 3 minutes, held heat well for 2+ hours. Reliability rating: 10/10 (no errors, no failures). Cost per cup: $0.09 (very affordable).
+**Editorial note:** This guide does not provide original measurements or tasting results for this product. Compare the current specifications, preparation or maintenance instructions, and price before choosing.
 
 **Price:** $45  
 **Where to Buy:** [Black+Decker Dual Brew on Amazon](https://www.amazon.com/dp/B001GTBH5O?tag=brewtested07-20)
@@ -171,17 +171,9 @@ Some dual systems add a third option: the ability to brew different strengths or
 
 ---
 
-## How We Researched Dual Carafe Makers
+## Editorial Comparison Method
 
-We evaluated all five models across five testing criteria:
-
-1. **Brew Quality** — Tasted coffee from both carafes, evaluated clarity, body, acidity, and finish using the same bean origin.
-2. **Temperature Consistency** — Measured initial brew temperature and temperature after 30, 60, and 90 minutes in both carafes.
-3. **Brew Speed** — Timed from water fill to first full carafe ready to serve.
-4. **Ease of Use** — Counted steps to brew, program, and clean. Timed entire setup/cleanup cycle.
-5. **Durability & Reliability** — Examined build quality, material strength, and tracked any errors or failures.
-
-All tests used medium roast specialty coffee (consistent origin), filtered water, and standard paper filters. We maintained consistent grind size across all machines.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 
@@ -194,7 +186,7 @@ A: Almost always yes. Both carafes receive the same brewed coffee through differ
 A: Yes, all dual systems work with just one carafe. However, this defeats the purpose—you'd still have the second carafe sitting unused. We recommend buying dual carafe systems only if you actually use both brewing destinations regularly.
 
 **Q: How often do I need to clean a dual carafe coffee maker?**  
-A: Weekly descaling is ideal (mineral deposits reduce brewing efficiency). Monthly deep cleaning removes stubborn buildup. All tested models are dishwasher safe for carafes, but the brewing basket should be hand-washed. Budget 10-15 minutes for full monthly cleaning.
+A: Weekly descaling is ideal (mineral deposits reduce brewing efficiency). Monthly deep cleaning removes stubborn buildup. Check the exact model manual for dishwasher-safe parts and cleaning instructions. Budget 10-15 minutes for full monthly cleaning.
 
 **Q: Which carafe stays hot longer—glass on warming plate or thermal?**  
 A: Thermal carafes stay hot longer (2-4 hours at 160°F+). Glass carafes on warming plates maintain temperature for 1-2 hours before tasting burnt. Thermal is superior if you don't drink coffee immediately after brewing.
@@ -220,7 +212,7 @@ A: If you drink coffee throughout the morning or have household members with dif
 
 ### Related Articles Worth Reading
 
-- [Best Coffee Maker With Thermal Carafe: Temperature Retention Tested](/posts/best-thermal-carafe-coffee-maker/)
+- [Best Coffee Maker With Thermal Carafe: Buying Considerations](/posts/best-thermal-carafe-coffee-maker/)
 - [Best Glass Carafe Coffee Makers: Durability & Heat Retention](/posts/best-coffee-maker-glass-carafe/)
 - [Best 10-Cup Coffee Makers for Families and Offices](/posts/best-coffee-maker-10-cup/)
 - [Coffee Maker Buying Guide: Drip vs Programmable vs Thermal](/posts/best-pour-over-vs-french-press/)

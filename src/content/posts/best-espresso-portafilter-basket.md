@@ -28,7 +28,7 @@ The portafilter basket is the foundation of espresso extraction—a small upgrad
 The IMS Precision Competition basket is the gold standard for espresso machines. The ridged design controls water flow distribution, promoting even extraction across the entire puck. Used in competition cafes worldwide, it's engineered to eliminate dead zones and channeling.
 
 **Pros:**
-- Tournament-tested design
+- Check basket dimensions against your portafilter
 - Consistent, even extraction
 - Dramatic improvement over OEM baskets
 - Works with any espresso machine
@@ -140,9 +140,9 @@ The Cafelat Robot is becoming a favorite among espresso lovers who want portabil
 
 ---
 
-## How We Researched These Baskets
+## Editorial Comparison Method
 
-We installed each basket in three different espresso machines (super-automatic, semi-automatic pump, manual lever) and pulled 30+ shots with identical grind, dose, and tamping. We measured extraction time, yield, temperature consistency, and sensory evaluation (crema quality, flavor clarity, body, aftertaste). We researched and compared with light, medium, and dark roasts to assess versatility. We compared water flow patterns, puck resistance, and post-shot puck condition. Measurements were taken with infrared thermometers and precision scales.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 
@@ -164,7 +164,7 @@ A quality basket lasts 5+ years with proper care. Replace when you notice perman
 
 ## Final Recommendation
 
-**Best Overall:** IMS Precision Competition delivers tournament-tested consistency and dramatic improvements over stock baskets. Worth the investment if you pull espresso daily.
+**Best Overall:** Compare IMS Precision Competition dimensions and specifications with your current basket. Worth the investment if you pull espresso daily.
 
 **Best Ridgeless Option:** VST Ridgeless Basket is more forgiving while still precision-engineered. Perfect for the learning curve.
 

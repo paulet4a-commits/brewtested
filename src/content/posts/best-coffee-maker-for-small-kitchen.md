@@ -70,7 +70,7 @@ If you live alone and don't want to brew a full pot daily, the Keurig K-Mini del
 For espresso lovers with minimal counter space, the Nespresso Essenza Mini is revolutionary. This 4-inch by 5-inch machine is smaller than a toaster oven but produces café-quality espresso shots in seconds.
 
 **Pros:**
-- Smallest footprint of all tested models
+- Compare dimensions against the other models and your available space
 - Makes authentic espresso and cappuccinos
 - Automatic water pressure system (no skill required)
 - Fast heating and brewing
@@ -129,22 +129,16 @@ The Hamilton Beach 2-Way is cleverly designed to brew either a single cup direct
 
 [Check price on Amazon →](https://www.amazon.com/dp/B003KYSLMW?tag=brewtested07-20)
 
-## How We Researched
+## Editorial Comparison Method
 
-We evaluated each coffee maker across five critical dimensions for small kitchens:
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-1. **Counter Footprint** — Actual measurements width × depth, considering vertical height
-2. **Brew Quality** — Taste, temperature consistency, and flavor extraction
-3. **Speed** — Time from power-on to first cup
-4. **Ease of Use** — Setup, operation, and daily maintenance
-5. **Durability** — Build quality and longevity based on user reviews and warranty
-
-All testing occurred over two months in real kitchen environments with limited counter space.
+---
 
 ## FAQ: Compact Coffee Makers for Small Kitchens
 
 **Q: Can I fit a compact coffee maker in a dorm room?**
-A: Absolutely. All five models tested fit comfortably on a dorm desk. The AeroPress Go and Nespresso Essenza Mini are especially dorm-friendly for their minimal footprint.
+A: Absolutely. Check the dimensions of each model against your available desk space. The AeroPress Go and Nespresso Essenza Mini are especially dorm-friendly for their minimal footprint.
 
 **Q: Is small coffee maker quality compromised vs. full-size models?**
 A: Not necessarily. Brew quality depends more on heating elements and water distribution than size. The AeroPress Go and Nespresso Essenza Mini produce exceptional coffee despite compact dimensions.

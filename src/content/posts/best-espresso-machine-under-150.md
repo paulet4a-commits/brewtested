@@ -150,17 +150,11 @@ The Mr. Coffee Espresso Maker sits at the absolute bottom price point (~$79) wit
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We evaluated each machine across five criteria:
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-1. **Shot Quality:** Crema appearance, flavor profile, body, and extraction consistency
-2. **Heat-Up Speed:** Time from cold start to first drinkable shot
-3. **Steaming Performance:** Milk foam texture, temperature control, and microfoam capability
-4. **Build Quality:** Materials, durability expectations, and long-term reliability
-5. **Learning Curve:** How quickly a beginner can produce acceptable shots
-
-Testing occurred over 4-6 weeks with each machine, using fresh beans ground to espresso consistency and standardized doses (18-20g for basket capacity). We prepared 50+ shots per machine, varying tamping pressure and grind size to understand consistency boundaries.
+---
 
 ## Frequently Asked Questions
 

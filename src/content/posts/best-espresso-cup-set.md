@@ -1,9 +1,9 @@
 ---
 title: "Best Espresso Cup Set: 5 Premium Double-Wall Sets for Café-Quality Serving"
-description: "Tested 5 espresso cup sets with insulation and style. Find double-wall cups that keep espresso hot—premium sets reviewed."
+description: "Compare 5 espresso cup sets with insulation and style. Find double-wall cups that keep espresso hot—premium sets reviewed."
 pubDate: 2026-05-18
 category: "espresso"
-tags: ["espresso", "cups", "drinkware", "tested"]
+tags: ["espresso", "cups", "drinkware"]
 draft: false
 affiliateDisclosure: true
 ---
@@ -146,18 +146,9 @@ Le Creuset's ceramic espresso cups combine legendary durability with vibrant col
 
 ---
 
-## How We Researched These Espresso Cup Sets
+## Editorial Comparison Method
 
-We evaluated each set across six critical dimensions:
-
-1. **Thermal Performance** – Measured internal temperature over 5 minutes and assessed hand comfort
-2. **Double-Wall Integrity** – Inspected for gaps or delamination in layered designs
-3. **Material Durability** – Tested resistance to chipping, staining, and thermal shock
-4. **Visual Appeal** – Evaluated presentation when filled with espresso and crema
-5. **Capacity Accuracy** – Verified cup markings and actual volume
-6. **Ease of Cleaning** – Tested dishwasher safety and residue removal
-
-**Testing Standard:** We pulled single and double shots from a consistent espresso machine (Gaggia Classic) and allowed cups to cool naturally while monitoring temperature.
+This is an editorial buying guide. The comparison criteria are capacity, lid or handle design, portability, cleaning requirements, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

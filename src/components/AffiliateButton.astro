@@ -17,7 +17,7 @@ if (!product) {
 const url = getPreferredUrl(product);
 const merchant = getPreferredMerchant(product);
 const defaultLabel = merchant === 'amazon' ? 'Check Current Price on Amazon' : 'View Current Price';
-const btnLabel = label ?? defaultLabel;
+const btnLabel = product.status === 'unverified' ? 'View product details' : label ?? defaultLabel;
 const pageSlug = Astro.url.pathname;
 const cls = variant === 'primary'
   ? 'inline-block bg-amber-600 hover:bg-amber-700 text-white font-semibold px-5 py-2.5 rounded-lg text-sm transition-colors plausible-affiliate-click'

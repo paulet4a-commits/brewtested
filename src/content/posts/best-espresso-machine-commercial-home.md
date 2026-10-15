@@ -147,21 +147,9 @@ The Sunbeam delivers commercial-grade capability in a home-friendly package. If 
 
 ---
 
-## How We Researched Home Espresso Machines
+## Editorial Comparison Method
 
-Our research process ensures every espresso machine recommendation is based on real-world performance and barista experience:
-
-**Shot Quality:** We pulled 50+ espresso shots with each machine using the same specialty-grade espresso beans and measuring extraction time, pressure, and flavor clarity. We tracked how consistently each machine pulled the same shot multiple times.
-
-**Temperature Control:** We measured water Temperature Consistency throughout extraction and between shots. Machines with better temperature control produce more consistent flavor from shot to shot.
-
-**Milk Frothing Capability:** We steamed milk on each machine's steam wand, evaluating steam pressure, responsiveness, and the quality of microfoam produced. We researched and compared both frothing for lattes and dry steam for cappuccinos.
-
-**Build Quality:** We examined materials, pressure pump design, boiler construction, and group head quality. We researched long-term reliability through owner reviews spanning multiple years.
-
-**Learning Curve:** We evaluated how quickly a skilled user could master each machine and how forgiving each was to novice mistakes. This matters because an excellent machine that's impossible to use regularly is worthless.
-
-**Maintenance:** We assessed the cleaning requirements, descaling frequency, and ease of parts replacement for each model.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

@@ -92,21 +92,9 @@ Not everyone wants electric. The Le Creuset stovetop kettle is an heirloom piece
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We evaluated each kettle on five criteria:
-
-**Heating Speed:** How quickly does the kettle reach a rolling boil? We measured from cold tap water to 212°F. Faster kettles save time during busy mornings.
-
-**Temperature Control:** For electric models, how accurate are the preset temperatures? We verified multiple presets with a thermometer. Accuracy matters for specialty teas.
-
-**Build Quality:** We examined materials, seams, and handle construction. We looked for signs that the kettle would last beyond a year of regular use.
-
-**Capacity and Pour Control:** Does the kettle hold enough water for your needs? How well does it pour without splashing? We researched and compared pouring into cups and coffee makers.
-
-**Value:** We compared price against features and build quality. A $30 kettle that lasts two years offers better value than a $100 kettle that fails in one.
-
-All testing was conducted in a standard home kitchen with normal tap water. Results may vary slightly with harder water or different cooktops.
+This is an editorial buying guide. The comparison criteria are capacity, temperature controls, pouring design, maintenance, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 

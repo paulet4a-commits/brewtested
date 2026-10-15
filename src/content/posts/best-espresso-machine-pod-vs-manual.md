@@ -181,23 +181,9 @@ The Mr. Coffee Espresso is the most basic option: a stovetop steam pressure devi
 
 ---
 
-## How We Researched Espresso Machines: Methodology
+## Editorial Comparison Method
 
-We evaluated each machine across six rigorous criteria:
-
-1. **Pressure Measurement:** Used pressure gauges to verify bar output and consistency across multiple shots. True espresso requires 9+ bars; we recorded actual pressure generated.
-
-2. **Crema Quality:** Rated crema color (should be brown-gold), thickness (3-5mm ideal), and persistence (should last 60+ seconds).
-
-3. **Extraction Time:** Measured brew time (25-30 seconds ideal). Machines allowing user control scored based on how easily variables could be adjusted.
-
-4. **Consistency Testing:** Brewed 10 consecutive shots without cleaning and measured weight variance, Temperature Consistency, and flavor consistency.
-
-5. **Milk Frothing:** Tested included steam wands or frothers with whole milk, measuring foam quality and microfoam texture.
-
-6. **Real-World Workflow:** Timed complete workflow from water fill to ready-to-drink espresso, including heat-up, grinding, tamping, extraction, and cleaning.
-
-**Key Findings:** Pod systems (Nespresso Vertuo) achieved highest consistency (±2% variance across 10 shots) but lowest pressure measurement (9.5 bars, minimum for true espresso). Manual lever machines (Gaggia Classic Pro) achieved highest pressure (9-11 bars) and best crema when properly dialed, but required significant skill. Semi-automatic machines (Breville Barista Express) balanced ease and control, requiring moderate learning but producing excellent, repeatable espresso.
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 
@@ -291,7 +277,7 @@ Once you've chosen your machine, dial in your technique and beans:
 
 - **[Best Nespresso Machine: Complete Comparison Guide](/posts/best-nespresso-machine/)** – If you're considering pod systems, compare all Nespresso models side-by-side to find your perfect fit.
 
-- **[Best Espresso Machine Under $100: Budget Options Tested](/posts/best-espresso-machine-under-100/)** – Explore additional affordable machines We researched and compared and their real-world performance.
+- **[Best Espresso Machine Under $100: Budget Options Compared](/posts/best-espresso-machine-under-100/)** – Explore additional affordable machines We researched and compared and their real-world performance.
 
 - **[Best Automatic Espresso Machine: Workflow Comparison](/posts/best-automatic-espresso-machine/)** – Discover fully-automatic machines that reduce learning curve while maintaining quality.
 

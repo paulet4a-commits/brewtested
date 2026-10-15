@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee Pour-Over Ratio Calculator: Precision Scales Under $100"
-description: "Master pour-over coffee ratios with our tested calculator & best digital scales for perfect brewing accuracy every time."
+description: "Master pour-over coffee ratios with our ratio calculator & best digital scales for perfect brewing accuracy every time."
 pubDate: 2026-05-18
 draft: false
 category: pour-over
@@ -169,16 +169,11 @@ This combination eliminates variables: precise grind consistency + accurate meas
 
 **Pro tip:** Start with 1:16, then adjust up or down based on taste. Too bitter? Lower ratio (more water). Too weak? Higher ratio (less water).
 
-## How We Researched
+## Editorial Comparison Method
 
-We evaluated each scale on:
-1. **Accuracy** - Evaluated with calibration weights (100g, 500g, 1000g)
-2. **Consistency** - 20+ brewers per scale, same coffee, same ratio
-3. **User experience** - Setup time, interface clarity, durability
-4. **Value** - Cost per year of expected use
-5. **Integration** - How well scales work with popular drippers (Hario, Chemex, Kalita Wave)
+This is an editorial buying guide. The comparison criteria are resolution, weighing capacity, timer controls, display readability, size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
-All testing was done in our kitchen lab over 6 weeks with single-origin beans from local roasters.
+---
 
 ## Frequently Asked Questions
 

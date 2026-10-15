@@ -8,7 +8,7 @@
 // @ts-check
 import { products } from '../src/data/products.ts';
 
-const all = Object.entries(products).filter(([, p]) => p.status === 'active');
+const all = Object.entries(products).filter(([, p]) => p.status !== 'discontinued');
 
 const amazonOnly = [];       // no merchants array at all
 const stagingPending = [];   // has merchants but all approved:false
@@ -64,7 +64,8 @@ const pctPending = ((stagingPending.length / totalActive) * 100).toFixed(1);
 const pctAmazon = ((amazonOnly.length / totalActive) * 100).toFixed(1);
 
 console.log(`\n--- SUMMARY ---`);
-console.log(`Total active products: ${totalActive}`);
+console.log(`Tracked non-discontinued products: ${totalActive}`);
+console.log(`Unverified products requiring review: ${all.filter(([, product]) => product.status === 'unverified').length}`);
 console.log(`Direct active: ${directActive.length} (${pctDirect}%)`);
 console.log(`Pending approval: ${stagingPending.length} (${pctPending}%)`);
 console.log(`Amazon-only: ${amazonOnly.length} (${pctAmazon}%)`);

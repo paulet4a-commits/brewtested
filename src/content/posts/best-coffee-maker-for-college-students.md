@@ -141,15 +141,11 @@ College life demands caffeine, but dorm rooms demand space efficiency and tight 
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We evaluated each coffee maker on:
-- **Footprint:** Actual dimensions measured for typical dorm desk
-- **Setup Time:** From box to first cup
-- **Brew Quality:** Taste, consistency, and temperature
-- **Reliability:** No clogging, leaking, or overheating issues over 30+ brews
-- **Noise Level:** Consideration for early morning or late-night roommates
-- **Durability:** How well it handled typical student use (moving, occasional bumps)
+This is an editorial buying guide. The comparison criteria are intended use, capacity, workflow, cleaning, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
+
+---
 
 ## Frequently Asked Questions
 

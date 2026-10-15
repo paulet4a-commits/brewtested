@@ -4,7 +4,10 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "tsx scripts/audit-product-keys.mjs && tsx scripts/audit-stale-products.mjs && tsx scripts/audit-affiliate-routing.mjs && astro build",
+    "build": "node scripts/affiliate-content-gate.mjs && tsx scripts/audit-product-keys.mjs && tsx scripts/audit-stale-products.mjs && tsx scripts/audit-affiliate-routing.mjs && astro build",
+    "test:affiliate": "node --test scripts/affiliate-*.test.mjs",
+    "audit:operations": "node scripts/affiliate-ops.mjs",
+    "audit:programs": "node scripts/affiliate-program-watch.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "audit:products": "tsx scripts/audit-stale-products.mjs",

@@ -132,14 +132,9 @@ For Vertuo machine owners, the Double Espresso Chiaro is the best pod — a medi
 
 ---
 
-## How We Researched
+## Editorial Comparison Method
 
-We pulled 3 shots per pod on a Nespresso Essenza Mini (Original) and Nespresso Vertuo Next (Vertuo), evaluating:
-
-- **Crema** — thickness, persistence, color
-- **Flavor** — balance, body, finish
-- **Consistency** — shot-to-shot repeatability
-- **Value** — cost per pod vs. café espresso ($4-6)
+This is an editorial buying guide. The comparison criteria are coffee format, roast preference, brewing-system compatibility, pack size, and budget. This guide does not provide original hands-on test data or a documented count of reviewed customer reports. Product specifications, availability, and current pricing should be checked with the manufacturer or retailer before buying.
 
 ---
 
