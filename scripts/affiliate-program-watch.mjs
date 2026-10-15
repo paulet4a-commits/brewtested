@@ -87,7 +87,7 @@ export function inspectBody(body) {
   if (text.length < 100) return failure('insufficient-public-evidence');
   const sentences = text.match(/[^.!?]+[.!?]+(?:\s|$)|[^.!?]+$/g) ?? [text];
   const relevant = sentences.filter(value => /affiliate|partner|commission|cookie|payout|payment|collaborat/i.test(value));
-  const excerpt = (relevant.length ? relevant : sentences).slice(0, 2).join(' ').trim().slice(0, 280);
+  const excerpt = (relevant.length ? relevant : sentences).slice(0, 2).join(' ').trim().split(/\s+/).slice(0, 20).join(' ').slice(0, 280);
   return { status: 'observed', error: null, bodyDigest: digest(body), meaningfulDigest: digest(text), evidenceExcerpt: excerpt };
 }
 
