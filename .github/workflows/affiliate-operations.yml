@@ -6,6 +6,13 @@ on:
     paths:
       - 'src/content/**'
       - 'src/data/**'
+      - 'src/pages/**'
+      - 'src/components/**'
+      - 'src/layouts/**'
+      - 'src/styles/**'
+      - 'public/**'
+      - 'astro.config.*'
+      - 'tailwind.config.*'
       - 'scripts/affiliate-*'
       - '.github/workflows/affiliate-operations.yml'
       - 'package.json'

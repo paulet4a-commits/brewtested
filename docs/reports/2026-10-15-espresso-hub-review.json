@@ -1,0 +1,150 @@
+{
+  "schema": "espresso-hub-review/v1",
+  "auditDate": "2026-10-15",
+  "observedAt": "2026-10-15T11:55:44.581Z",
+  "scope": {
+    "mode": "read_only_source_review",
+    "reviewedFiles": [
+      "src/pages/espresso.astro",
+      "src/components/EmailCapture.astro",
+      "src/components/ProductCard.astro",
+      "src/components/AffiliateButton.astro",
+      ".github/workflows/affiliate-operations.yml"
+    ],
+    "codeModified": false,
+    "heavyBuilds": 0,
+    "browserSessionsOpened": 0,
+    "externalRequests": 0,
+    "privateGscMetricsIncluded": false
+  },
+  "firstReview": {
+    "stage": "before_hub_rewrite",
+    "sourceEvidence": "Initial source read and local target existence checks in this session.",
+    "uniquePostTargets": 24,
+    "missingLocalPostTargets": [],
+    "findings": [
+      {
+        "id": "EH-01",
+        "risk": "Unsupported budget bands, spending ratios and most-recommended/no-compromise rankings.",
+        "zeroSpendRecommendation": "Replace fixed setup totals with workflow, compatibility and complete-cost questions; preserve product dates."
+      },
+      {
+        "id": "EH-02",
+        "risk": "Unsupported lifespan, retention, seasoning, performance and learning-time claims.",
+        "examples": [
+          "10–15 year lifespan",
+          "<0.2g retention",
+          "~1kg to season",
+          "fastest in class",
+          "2–4 weeks"
+        ],
+        "zeroSpendRecommendation": "Remove or support with explicitly scoped official evidence; avoid presenting an independent test."
+      },
+      {
+        "id": "EH-03",
+        "risk": "ProductCard unverified warning does not suppress caller-supplied budget badges or pros/cons.",
+        "zeroSpendRecommendation": "Use neutral caller content or simple product links until facts are checked."
+      },
+      {
+        "id": "EH-04",
+        "risk": "EmailCapture promised checklist delivery while defaulting to a Buttondown subscription endpoint; account and delivery not verified. Input had placeholder-only labeling.",
+        "zeroSpendRecommendation": "Provide the checklist directly on the hub; do not collect email or assert delivery without an authorized working integration."
+      },
+      {
+        "id": "EH-05",
+        "risk": "Existing local targets did not ensure link-label accuracy; Pixie-reviewed label pointed to the updated Essenza Mini guide, and Pod & Auto label mixed separate anchor destinations.",
+        "zeroSpendRecommendation": "Match labels to the destination content and separate pod from bean-to-cup navigation."
+      }
+    ]
+  },
+  "secondReview": {
+    "stage": "rewritten_hub",
+    "criticalSourceBlockers": [],
+    "uniquePostTargets": 5,
+    "missingLocalPostTargets": [],
+    "uniqueFragmentTargets": 4,
+    "missingFragmentTargets": [],
+    "methodologySourceExists": true,
+    "headlineAndFlow": "Consistent: workflow, full budget, first-shot preparation, care/support.",
+    "emailCapture": "Removed from this hub; checklist is provided on-page.",
+    "productPresentation": "Two neutral AffiliateButton links; regional seller/model uncertainty remains explicit. Manufacturer examples distinguish BES500, Encore ESP, and Gaggia E24 from older Classic Pro listings.",
+    "accessibility": "AffiliateButton accessible name includes the product name; section navigation is labeled; budget table has caption and header scopes.",
+    "workflowCoverage": "Push paths include pages, components, layouts, styles, public assets, and Astro/Tailwind config.",
+    "optionalImprovements": [
+      {
+        "id": "EH-N1",
+        "severity": "low",
+        "source": "src/pages/espresso.astro first-shot step 5",
+        "suggestion": "Make milk preparation conditional for people drinking milk beverages; keep cleanup applicable to everyone."
+      },
+      {
+        "id": "EH-N2",
+        "severity": "low",
+        "source": "src/pages/espresso.astro equipment section heading",
+        "suggestion": "Machine workflow and grinder control would clarify that the cards discuss two equipment decisions, not two alternative complete setups."
+      },
+      {
+        "id": "EH-N3",
+        "severity": "low",
+        "source": "src/pages/espresso.astro checklist source note",
+        "suggestion": "The extra no-universal-shot-time/learning-deadline disclaimer can be removed; existing manufacturer review and model-matching notes already establish the limits."
+      }
+    ],
+    "factualSourceBoundary": "Root reports viewing official Breville BES500, Gaggia E24, Encore ESP manual and dialing guide sources. This reviewer checked source wording and scope; it did not independently request those external sources."
+  },
+  "limitations": [
+    "Source existence does not prove live HTTP status or final rendered layout.",
+    "No local or hosted build was run by this reviewer.",
+    "No third-party email submission, account access or event delivery was tested.",
+    "No sales, traffic, conversion or private Search Console metrics are included."
+  ],
+  "rootVerifiedPrimarySources": [
+    {
+      "url": "https://www.breville.com/en-us/product/bes500",
+      "checkedOn": "2026-10-15",
+      "scope": "BES500 milk controls/PID/54mm; no retailer stock/ASIN or comparative taste validation"
+    },
+    {
+      "url": "https://www.breville.com/content/dam/breville/us/en/assets/miscellaneous/instruction-manual/espresso/BES500-instruction-manual.pdf",
+      "checkedOn": "2026-10-15",
+      "scope": "Basket choice/preparation/cleaning; exact matching manual takes precedence"
+    },
+    {
+      "url": "https://assets.breville.com/ZCG495/manual-encoreesp-v1-0-en-010923.pdf",
+      "checkedOn": "2026-10-15",
+      "scope": "Encore ESP stepped settings1–20 espresso/21–40filter; not other Encore variants"
+    },
+    {
+      "url": "https://www.baratza.com/en-au/blog/product-guides/dialing-in-espresso",
+      "checkedOn": "2026-10-15",
+      "scope": "Encore ESP dialing-in guidance; model-specific range not universal recipe"
+    },
+    {
+      "url": "https://www.gaggia.com/manual-machines/new-classic-e24/",
+      "checkedOn": "2026-10-15",
+      "scope": "E24 brass boiler/58mm; not assigned to stored older ClassicPro ASIN"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/title-link",
+      "checkedOn": "2026-10-15",
+      "scope": "Descriptive title aligned with page; Google may choose its own title; no ranking/CTR guarantee"
+    }
+  ],
+  "rootFinalPass": {
+    "acceptedSuggestions": [
+      "milk step conditional",
+      "machine-vs-grinder heading clarified",
+      "repeated last caveat shortened"
+    ],
+    "sourceChecks": {
+      "postTargets": 5,
+      "jumpLinks": 5,
+      "uniqueJumpTargets": 4,
+      "affiliateCTAs": 2,
+      "missingTargets": 0
+    },
+    "sharedProductRegistry": "unchanged;246unverified",
+    "privateGSCMetrics": "not copied into public repository",
+    "fullBuild": "pending hosted CI at time of this report"
+  }
+}
