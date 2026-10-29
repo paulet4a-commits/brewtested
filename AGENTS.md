@@ -2,7 +2,7 @@
 
 Hasan, 15 October 2026: improve the owned affiliate business and automate bounded background checks. Existing zero-spend rule remains.
 
-- Read this safe entry point. Do not open the parent `CLAUDE.md`, historical `site/CLAUDE.md`, environment, credential, browser profile, key, or token files. Those instruction files are known secret boundaries.
+- Read this safe entry point. This file is the only active contract for the site. The parent `../CLAUDE.md` is a short redirect since 30 October 2026; its old credential-bearing version was moved to the protected vault and only a redacted historical copy remains (`../docs/legacy/CLAUDE.legacy-redacted.md`, not active guidance). Do not open environment, credential, browser profile, key, or token files.
 - Use Hasan's existing Chrome through ChatGPT in Chrome for account work. Never create a separate browser profile or copy credentials.
 - Keep coffee purchase intent on BrewTested. Beehiiv and Apify belong in relevant creator/developer content; do not insert unrelated links into coffee articles.
 - Keep program account approval separate from public program terms and from code routing. A merchant's ordinary product URL is not proof of an affiliate tracking link.
